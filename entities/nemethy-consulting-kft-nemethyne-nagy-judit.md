@@ -14,7 +14,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 legacy_domain: "https://www.nemethynenagyjudit.hu/"
 wordpress_post_id: 59
-last_updated: "2026-09-17T10:37:27+02:00"
+last_updated: "2026-09-17T16:02:22+02:00"
 location:
   country: "HU"
 identifiers:
