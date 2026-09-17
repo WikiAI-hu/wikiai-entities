@@ -17,7 +17,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://gyemantingatlan.net/"
 legacy_domain: "https://hevesnogradingatlanok.hu/"
 wordpress_post_id: 73
-last_updated: "2026-09-17T16:03:40+02:00"
+last_updated: "2026-09-17T16:11:33+02:00"
 location:
   address: "3100 Salgótarján, Klapka György tér 3. I/1."
   country: "HU"
