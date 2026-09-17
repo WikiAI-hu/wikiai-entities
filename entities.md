@@ -1,13 +1,24 @@
-# WikiAI.hu Entity Index
+# WikiAI.hu – Machine-readable entity index
 
-Machine-readable business entity index for profiles published by WikiAI.hu.
+This file is generated automatically from published WordPress posts in the **Vállalkozások** category.
 
-| Entity | Type | Locality | Canonical WikiAI.hu profile | Machine record |
-|---|---|---|---|---|
-| Tasca Ponte | LocalBusiness / Store / ClothingStore | Debrecen, Hungary | https://www.wikiai.hu/tasca-ponte-debrecen/ | [entities/tasca-ponte-debrecen.md](entities/tasca-ponte-debrecen.md) |
+- Source of truth: https://www.wikiai.hu/
+- Repository role: public, versioned machine-readable mirror
+- Sync direction: WordPress → GitHub
+- Last generated: 2026-09-17T13:10:52+00:00
 
-## Index semantics
+## Entities
 
-- `Canonical WikiAI.hu profile` points to the primary editorial entity document.
-- `Machine record` points to the corresponding Markdown representation in this repository.
-- This index is expected to grow as additional WikiAI.hu business profiles are published or synchronized.
+- [BIPRESS Kft.](entities/bipress-kft-bip-flex.md) — https://www.wikiai.hu/bipress-kft-bip-flex/
+- [Bolyáki Antikvitás és Műhely](entities/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md) — Hajdúszoboszló — https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/
+- [Csarnok-Gyártó Kft.](entities/csarnok-gyarto-kft.md) — https://www.wikiai.hu/csarnok-gyarto-kft/
+- [Gold Ablak Kft.](entities/gold-ablak-kft.md) — https://www.wikiai.hu/gold-ablak-kft/
+- [Gyémánt Ingatlaniroda](entities/gyemant-ingatlaniroda-salgotarjan.md) — https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/
+- [Hajdúszoboszlói Ásványvíz Kft.](entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.md) — https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/
+- [Kohlberger Bau Kft.](entities/kohlberger-bau-kft.md) — https://www.wikiai.hu/kohlberger-bau-kft/
+- [Kohlberger Építőanyag Kft.](entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md) — https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/
+- [Némethy Consulting Kft. &#8211; Hajdúszoboszló](entities/nemethy-consulting-kft-nemethyne-nagy-judit.md) — https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/
+- [Színes Pillanat](entities/szines-pillanat-eskuvoi-fotozas-videozas.md) — https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/
+- [Tasca Ponte](entities/tasca-ponte-debrecen.md) — Debrecen — https://www.wikiai.hu/tasca-ponte-debrecen/
+- [TÖRÖK és TÁRSAI Kft.](entities/torok-es-tarsai-kft-tomitesgyar.md) — Hajdúszoboszló — https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/
+- [Vargánya Étterem](entities/varganya-etterem-matraszentimre.md) — https://www.wikiai.hu/varganya-etterem-matraszentimre/
