@@ -1,8 +1,8 @@
 ---
 schema_version: "1.0"
 record_type: "business_entity_profile"
-generator: "WikiAI GitHub Entity Sync 0.1.0"
-entity_name: "Némethy Consulting Kft. &#8211; Hajdúszoboszló"
+generator: "WikiAI GitHub Entity Sync 0.1.1"
+entity_name: "Némethy Consulting Kft. – Hajdúszoboszló"
 entity_type:
   - "Organization"
   - "LocalBusiness"
