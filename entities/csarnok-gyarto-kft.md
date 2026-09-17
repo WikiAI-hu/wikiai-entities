@@ -16,7 +16,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.csarnokgyartasdebrecen.hu/"
 legacy_domain: "none"
 wordpress_post_id: 63
-last_updated: "2026-09-17T10:37:08+02:00"
+last_updated: "2026-09-17T16:12:48+02:00"
 location:
   address: "4200 Hajdúszoboszló, Debreceni út 10."
   country: "HU"
