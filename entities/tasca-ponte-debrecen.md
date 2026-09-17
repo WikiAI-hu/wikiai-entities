@@ -17,7 +17,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.tascaponte.hu/"
 legacy_domain: "https://www.boraruboltdebrecen.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-17T16:02:03+02:00"
+last_updated: "2026-09-17T16:02:12+02:00"
 location:
   address: "4034 Debrecen, Faraktár utca 71."
   locality: "Debrecen"
