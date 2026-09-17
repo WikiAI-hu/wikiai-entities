@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "publisher": {
+    "name": "WikiAI.hu",
+    "url": "https://www.wikiai.hu/"
+  },
+  "source_of_truth": "https://www.wikiai.hu/",
+  "sync_direction": "wordpress-to-github",
+  "language_default": "hu-HU",
+  "last_updated": "2026-09-17",
+  "entities": [
+    {
+      "entity_name": "Tasca Ponte",
+      "entity_type": ["Organization", "LocalBusiness", "Store", "ClothingStore"],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/tasca-ponte-debrecen/",
+      "machine_record": "entities/tasca-ponte-debrecen.md",
+      "wordpress_post_id": 76,
+      "locality": "Debrecen",
+      "country": "HU",
+      "google_cid": "1934336177019265112",
+      "google_kgmid": "/g/11f9v6tm6v",
+      "google_place_id": "ChIJX7TdEX8OR0cRWKBrI4Ek2Bo"
+    }
+  ]
+}
