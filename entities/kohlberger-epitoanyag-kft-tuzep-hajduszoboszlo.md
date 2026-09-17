@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 67
-last_updated: "2026-09-17T16:04:54+02:00"
+last_updated: "2026-09-17T16:12:24+02:00"
 location:
   country: "HU"
   latitude: 47.445
