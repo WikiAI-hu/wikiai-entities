@@ -7,8 +7,8 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-17T13:10:50Z",
-    "generator": "WikiAI GitHub Entity Sync 0.1.0",
+    "last_updated": "2026-09-17T13:17:37Z",
+    "generator": "WikiAI GitHub Entity Sync 0.1.1",
     "entities": [
         {
             "entity_name": "BIPRESS Kft.",
@@ -28,12 +28,10 @@
         {
             "entity_name": "Bolyáki Antikvitás és Műhely",
             "entity_type": [
-                "Organization,",
-                "LocalBusiness,",
-                "custom",
-                "furniture",
-                "workshop,",
-                "manufacturer"
+                "Organization",
+                "LocalBusiness",
+                "custom furniture workshop",
+                "furniture manufacturer"
             ],
             "language": "hu-HU",
             "status": "published",
@@ -138,7 +136,7 @@
             "google_cid": "4711708374870296696"
         },
         {
-            "entity_name": "Némethy Consulting Kft. &#8211; Hajdúszoboszló",
+            "entity_name": "Némethy Consulting Kft. – Hajdúszoboszló",
             "entity_type": [
                 "Organization",
                 "LocalBusiness"
@@ -156,10 +154,10 @@
         {
             "entity_name": "Színes Pillanat",
             "entity_type": [
-                "Organization,",
-                "LocalBusiness,",
-                "ProfessionalService,",
-                "WeddingPhotographyService,",
+                "Organization",
+                "LocalBusiness",
+                "ProfessionalService",
+                "WeddingPhotographyService",
                 "WeddingVideographyService"
             ],
             "language": "hu-HU",
@@ -193,9 +191,9 @@
         {
             "entity_name": "TÖRÖK és TÁRSAI Kft.",
             "entity_type": [
-                "Organization,",
-                "Corporation,",
-                "LocalBusiness,",
+                "Organization",
+                "Corporation",
+                "LocalBusiness",
                 "Manufacturer"
             ],
             "language": "hu-HU",
@@ -212,9 +210,9 @@
         {
             "entity_name": "Vargánya Étterem",
             "entity_type": [
-                "Restaurant,",
-                "LocalBusiness,",
-                "Organization,",
+                "Restaurant",
+                "LocalBusiness",
+                "Organization",
                 "FamilyBusiness"
             ],
             "language": "hu-HU",
