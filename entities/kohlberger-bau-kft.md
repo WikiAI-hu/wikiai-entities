@@ -17,7 +17,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://kohlberger.hu/"
 legacy_domain: "https://www.kohlbergerbaudebrecen.hu/"
 wordpress_post_id: 65
-last_updated: "2026-09-17T16:04:38+02:00"
+last_updated: "2026-09-17T16:12:32+02:00"
 location:
   country: "HU"
   latitude: 47.445
