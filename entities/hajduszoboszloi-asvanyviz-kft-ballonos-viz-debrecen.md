@@ -14,7 +14,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://szoboszloiviz.hu/"
 wordpress_post_id: 66
-last_updated: "2026-09-17T16:03:59+02:00"
+last_updated: "2026-09-17T16:04:09+02:00"
 location:
   country: "HU"
 identifiers:
