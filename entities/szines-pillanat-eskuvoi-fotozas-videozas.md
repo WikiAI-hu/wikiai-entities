@@ -17,7 +17,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.szinespillanat.hu/"
 wordpress_post_id: 72
-last_updated: "2026-09-17T15:54:20+02:00"
+last_updated: "2026-09-17T16:06:28+02:00"
 location:
   country: "HU"
 identifiers:
