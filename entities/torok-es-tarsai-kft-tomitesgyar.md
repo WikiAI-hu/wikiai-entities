@@ -1,12 +1,12 @@
 ---
 schema_version: "1.0"
 record_type: "business_entity_profile"
-generator: "WikiAI GitHub Entity Sync 0.1.0"
+generator: "WikiAI GitHub Entity Sync 0.1.1"
 entity_name: "TÖRÖK és TÁRSAI Kft."
 entity_type:
-  - "Organization,"
-  - "Corporation,"
-  - "LocalBusiness,"
+  - "Organization"
+  - "Corporation"
+  - "LocalBusiness"
   - "Manufacturer"
 language: "hu-HU"
 status: "published"
