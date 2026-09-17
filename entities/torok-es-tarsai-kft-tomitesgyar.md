@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.tomitesgyar.hu/"
 wordpress_post_id: 70
-last_updated: "2026-09-17T15:59:56+02:00"
+last_updated: "2026-09-17T16:12:57+02:00"
 location:
   address: "4200 Hajdúszoboszló, Baross u. 4. sz."
   locality: "Hajdúszoboszló"
