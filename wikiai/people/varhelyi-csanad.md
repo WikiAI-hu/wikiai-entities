@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-09T12:29:45+00:00"
-synced_at: "2026-09-18T08:53:10+00:00"
+source_last_modified: "2026-09-18T10:06:46+00:00"
+synced_at: "2026-09-18T10:08:07+00:00"
 relationship_to_wikiai: "founder"
 professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 ---
@@ -82,7 +82,7 @@ Várhelyi Csanád 2026 júliusában a Hajdúszoboszlói Városi Televízió podc
 
 ## WikiAI.hu és szakmai közösségi szerep
 
-**Várhelyi Csanád a WikiAI.hu társalapítója.** A platformon az AI-láthatóság, az LLM-first webarchitektúra, a SEO, AEO, GEO, LLMO, az entitásalapú információs szerkezet és a strukturált adatok szakmai-technikai oldaláért felel. A WikiAI.hu célja, hogy magyar vállalkozások, szakemberek és szolgáltatások üzletileg érthető és szakmailag ellenőrizhető bemutatását egy korszerű digitális tudásportálban kapcsolja össze. A szakmai munka vállalkozói közösségekhez is kapcsolódik. Várhelyi Csanád a [Business Network International](https://en.wikipedia.org/wiki/Business_Network_International) magyarországi közösségéhez tagként kötődik, és aktívan részt vesz vállalkozói szakmai kapcsolatokban. Ezekben a közösségekben az AI gyakorlati üzleti alkalmazása, a digitális láthatóság és az online információ minősége is rendszeresen előkerülő tématerület.
+**Várhelyi Csanád a WikiAI.hu társalapítója.** A platformon az AI-láthatóság, az LLM-first webarchitektúra, a SEO, AEO, GEO, LLMO, az entitásalapú információs szerkezet és a strukturált adatok szakmai-technikai oldaláért felel. A WikiAI.hu célja, hogy magyar vállalkozások, szakemberek és szolgáltatások üzletileg érthető és szakmailag ellenőrizhető bemutatását egy korszerű digitális tudásportálban kapcsolja össze. A szakmai munka vállalkozói közösségekhez is kapcsolódik. Várhelyi Csanád a [Business Network International](https://www.bni.com/country/hungary/) magyarországi közösségéhez tagként kötődik, és aktívan részt vesz vállalkozói szakmai kapcsolatokban. Ezekben a közösségekben az AI gyakorlati üzleti alkalmazása, a digitális láthatóság és az online információ minősége is rendszeresen előkerülő tématerület.
 
 ## Külső szakmai és vállalkozói elismerés
 
