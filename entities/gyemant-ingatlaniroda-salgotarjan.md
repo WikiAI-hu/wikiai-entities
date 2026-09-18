@@ -17,7 +17,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://gyemantingatlan.net/"
 legacy_domain: "https://hevesnogradingatlanok.hu/"
 wordpress_post_id: 73
-last_updated: "2026-09-18T12:06:07+02:00"
+last_updated: "2026-09-18T12:06:16+02:00"
 location:
   address: "3100 Salgótarján, Klapka György tér 3. I/1."
   country: "HU"
@@ -346,7 +346,7 @@ Az eredeti tudásoldal külön angol nyelvű Wikipédia-hivatkozási réteget ta
 
 **Technical property professionals:** [Surveying](https://en.wikipedia.org/wiki/Surveying), [Surveyor](https://en.wikipedia.org/wiki/Surveyor), [Structural engineering](https://en.wikipedia.org/wiki/Structural_engineering), [Structural engineer](https://en.wikipedia.org/wiki/Structural_engineer), [Architect](https://en.wikipedia.org/wiki/Architect), [Interior design](https://en.wikipedia.org/wiki/Interior_design), [Interior designer](https://en.wikipedia.org/wiki/Interior_designer), [Building inspection](https://en.wikipedia.org/wiki/Building_inspection), [Electrical safety](https://en.wikipedia.org/wiki/Electrical_safety), [Energy performance certificate](https://en.wikipedia.org/wiki/Energy_performance_certificate).
 
-**Customer service, trust and compliance:** [Customer service](https://en.wikipedia.org/wiki/Customer_service), [Professional ethics](https://en.wikipedia.org/wiki/Professional_ethics), [Transparency](https://en.wikipedia.org/wiki/Transparency_(behavior%29), [Confidentiality](https://en.wikipedia.org/wiki/Confidentiality), [Data protection](https://en.wikipedia.org/wiki/Data_protection), [Privacy law](https://en.wikipedia.org/wiki/Privacy_law), [Customer identification program](https://en.wikipedia.org/wiki/Customer_identification_program), [Money laundering](https://en.wikipedia.org/wiki/Money_laundering), [Counter-terrorist financing](https://en.wikipedia.org/wiki/Terrorism_financing).
+**Customer service, trust and compliance:** [Customer service](https://en.wikipedia.org/wiki/Customer_service), [Professional ethics](https://en.wikipedia.org/wiki/Professional_ethics), [Transparency](https://en.wikipedia.org/wiki/Transparency_(behavior%29), [Confidentiality](https://en.wikipedia.org/wiki/Confidentiality), [Data protection](https://en.wikipedia.org/wiki/Data_protection), [Privacy law](https://en.wikipedia.org/wiki/Privacy_law), [Customer identification program](https://en.wikipedia.org/wiki/Customer_Identification_Program), [Money laundering](https://en.wikipedia.org/wiki/Money_laundering), [Counter-terrorist financing](https://en.wikipedia.org/wiki/Terrorism_financing).
 
 **Franchise and national network development:** [Franchising](https://en.wikipedia.org/wiki/Franchising), [Franchise agreement](https://en.wikipedia.org/wiki/Franchise_agreement), [Business networking](https://en.wikipedia.org/wiki/Business_networking), [Professional network](https://en.wikipedia.org/wiki/Professional_network), [Business development](https://en.wikipedia.org/wiki/Business_development), [Mentorship](https://en.wikipedia.org/wiki/Mentorship), [Training](https://en.wikipedia.org/wiki/Training), [Marketing](https://en.wikipedia.org/wiki/Marketing), [Digital marketing](https://en.wikipedia.org/wiki/Digital_marketing), [Customer relationship management](https://en.wikipedia.org/wiki/Customer_relationship_management).
 
