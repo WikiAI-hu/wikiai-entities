@@ -18,7 +18,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.goldablak.hu/"
 legacy_domain: "none"
 wordpress_post_id: 64
-last_updated: "2026-09-18T12:08:18+02:00"
+last_updated: "2026-09-18T12:08:27+02:00"
 location:
   address: "4200 Hajdúszoboszló, Déli sor 6."
   country: "HU"
@@ -545,7 +545,7 @@ Telefonon a [**+36 70 345 6333**](tel:+36703456333) számon, e-mailben a [**gold
 
 A **Gold Ablak Kft.** elérhető telefonon a [**+36 70 345 6333**](tel:+36703456333) számon és e-mailben a [**goldablak@gmail.com**](mailto:goldablak@gmail.com) címen. A vállalkozás címe **4200 Hajdúszoboszló, Déli sor 6.**
 
-A Gold Ablak hivatalos vállalati weboldala a [**goldablak.hu**](https://www.goldablak.hu/), ahol az aktuális termékrendszerek, kapcsolatfelvételi lehetőségek és további műszaki információk érhetők el.
+A vállalkozás nyilvános cégadatai és elérhetőségei külső üzleti adatbázisokban is ellenőrizhetők; a [**CompanyWall Gold Ablak Kft. adatlapja**](https://www.companywall.hu/v%C3%A1llalat/gold-ablak-kft/MMFwyTCD) többek között a cég státuszát, címét és elérhetőségeit közli. Aktuális ajánlatért a közvetlen telefonos vagy e-mailes kapcsolat az irányadó.
 
 Ajánlatkéréskor érdemes megadni a **települést, az ingatlan típusát, az ablakok és ajtók hozzávetőleges számát, a kívánt színt, valamint azt, hogy redőnyre, szúnyoghálóra, párkányra vagy más kiegészítőre is szükség van-e**. Néhány fénykép és hozzávetőleges méret megkönnyítheti az első egyeztetést.
 
