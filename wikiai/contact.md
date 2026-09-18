@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/kapcsolat/"
 source_post_id: 23
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-16T12:53:08+00:00"
-synced_at: "2026-09-18T08:53:09+00:00"
+source_last_modified: "2026-09-18T10:06:04+00:00"
+synced_at: "2026-09-18T10:08:02+00:00"
 ---
 
 # Kapcsolat
@@ -105,7 +105,7 @@ A bejelentések, helyesbítési és frissítési kérelmek, valamint a platform 
 
 ## Adatkezelés és hivatalos tájékoztatás
 
-A kapcsolatfelvétel során megadott adatokat a megkeresés kezeléséhez, megválaszolásához és az esetleges szakmai együttműködés előkészítéséhez használjuk. A részletes adatkezelési és szolgáltatói tájékoztatás az [Adatvédelmi tájékoztatóban](https://www.wikiai.hu/adatvedelmi/) és az [ÁSZF-ben](https://www.wikiai.hu/aszf/) érhető el.
+A kapcsolatfelvétel során megadott adatokat a megkeresés kezeléséhez, megválaszolásához és az esetleges szakmai együttműködés előkészítéséhez használjuk. A részletes adatkezelési és szolgáltatói tájékoztatás az [Adatvédelmi tájékoztatóban](https://www.wikiai.hu/adatvedelmi/) és az [ÁSZF-ben](https://www.wikiai.hu/altalanos-szerzodesi-feltetelek/) érhető el.
 
 ## Gyakori kérdések
 
