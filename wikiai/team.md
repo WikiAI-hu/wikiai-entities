@@ -8,7 +8,7 @@ source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-10T14:40:16+00:00"
-synced_at: "2026-09-18T08:43:35+00:00"
+synced_at: "2026-09-18T08:44:52+00:00"
 ---
 
 # Munkatársaink
