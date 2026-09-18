@@ -1,38 +1,38 @@
 ---
-document_type: knowledge_hub
-entity_name: WikiAI.hu
-language: hu-HU
-status: published
-canonical_url: https://www.wikiai.hu/
-source_of_truth: wordpress
-sync_direction: wordpress-to-github
-source_last_checked: 2026-09-18
+document_type: "knowledge_hub"
+entity_name: "WikiAI.hu"
+language: "hu-HU"
+status: "published"
+canonical_url: "https://www.wikiai.hu/"
+source_of_truth: "wordpress"
+sync_direction: "wordpress-to-github"
+synced_at: "2026-09-18T08:43:41+00:00"
 ---
 
 # WikiAI.hu – public knowledge mirror
 
-Ez a könyvtár a WikiAI.hu saját szervezeti, szolgáltatási, kereskedelmi, szakértői és kapcsolati információinak publikus, verziózott, géppel olvasható Markdown-rétege.
+Ez a konyvtar a WikiAI.hu sajat szervezeti, szolgaltatasi, kereskedelmi, szakertoi es kapcsolati informacioinak publikus, verziozott, gepileg olvashato Markdown-retege.
 
-A WikiAI.hu weboldala és WordPress-tartalma az elsődleges forrás. A GitHub-réteg másodlagos, gépi feldolgozást, RAG-felhasználást, LLM-értelmezést, agent-alapú feldolgozást és verziókövetést támogató publikációs réteg.
+A WikiAI.hu / WordPress az elsodleges forras. A GitHub masodlagos publikacios es verziokoveto reteg.
 
-## Fő dokumentumok
+## Fo dokumentumok
 
-- [Szolgáltatások](services.md)
-- [Árak és csomagok](pricing.md)
-- [Rólunk](about.md)
-- [Munkatársaink és szakmai partnereink](team.md)
+- [Szolgaltatasok](services.md)
+- [Arak es csomagok](pricing.md)
+- [Rolunk](about.md)
+- [Munkatarsaink es szakmai partnereink](team.md)
 - [Kapcsolat](contact.md)
 
-## Személyek
+## Szemelyek
 
-- [Várhelyi Csanád](people/varhelyi-csanad.md)
-- [Várhelyi Viktória](people/varhelyi-viktoria.md)
-- [Molnár András](people/molnar-andras.md)
+- [Varhelyi Csanad](people/varhelyi-csanad.md)
+- [Varhelyi Viktoria](people/varhelyi-viktoria.md)
+- [Molnar Andras](people/molnar-andras.md)
 
-## Gépi index
+## Gepi index
 
 - [WikiAI manifest](manifest.json)
 
-## Értelmezési határ
+## Entitashatar
 
-A wikiai/ könyvtár a WikiAI.hu saját szervezetét és szolgáltatásait írja le. A külső, WikiAI.hu-n bemutatott vállalkozások külön az entities/ könyvtárban találhatók.
+A wikiai/ konyvtar a WikiAI.hu sajat szervezetet es szolgaltatasait irja le. A kulso, WikiAI.hu-n bemutatott vallalkozasok kulon az entities/ konyvtarban talalhatok.
