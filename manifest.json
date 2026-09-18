@@ -1,226 +1,287 @@
 {
-    "schema_version": "1.0",
-    "publisher": {
-        "name": "WikiAI.hu",
-        "url": "https://www.wikiai.hu/"
+  "schema_version": "1.0",
+  "publisher": {
+    "name": "WikiAI.hu",
+    "url": "https://www.wikiai.hu/"
+  },
+  "source_of_truth": "https://www.wikiai.hu/",
+  "sync_direction": "wordpress-to-github",
+  "language_default": "hu-HU",
+  "last_updated": "2026-09-18T10:30:00+02:00",
+  "generator": "WikiAI GitHub Entity Sync 0.1.1",
+  "entities": [
+    {
+      "entity_name": "BIPRESS Kft.",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/bipress-kft-bip-flex/",
+      "machine_record": "entities/bipress-kft-bip-flex.md",
+      "wordpress_post_id": 69,
+      "country": "HU",
+      "google_cid": "1986537177653491448",
+      "google_kgmid": "/g/1wrtbn04"
     },
+    {
+      "entity_name": "Bolyáki Antikvitás és Műhely",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness",
+        "custom furniture workshop",
+        "furniture manufacturer"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/",
+      "machine_record": "entities/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md",
+      "wordpress_post_id": 71,
+      "locality": "Hajdúszoboszló",
+      "country": "HU",
+      "google_cid": "10936159661846136743",
+      "google_kgmid": "/g/11b6ztqscl"
+    },
+    {
+      "entity_name": "Csarnok-Gyártó Kft.",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness",
+        "ProfessionalService"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/csarnok-gyarto-kft/",
+      "machine_record": "entities/csarnok-gyarto-kft.md",
+      "wordpress_post_id": 63,
+      "country": "HU"
+    },
+    {
+      "entity_name": "Gold Ablak Kft.",
+      "entity_type": [
+        "HomeAndConstructionBusiness",
+        "LocalBusiness",
+        "Organization",
+        "InstallationContractor",
+        "Distributor"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/gold-ablak-kft/",
+      "machine_record": "entities/gold-ablak-kft.md",
+      "wordpress_post_id": 64,
+      "country": "HU"
+    },
+    {
+      "entity_name": "Gyémánt Ingatlaniroda",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness",
+        "RealEstateAgent",
+        "ProfessionalService"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/",
+      "machine_record": "entities/gyemant-ingatlaniroda-salgotarjan.md",
+      "wordpress_post_id": 73,
+      "country": "HU",
+      "google_cid": "14037451729918334845",
+      "google_kgmid": "/g/11l329b6sf",
+      "google_place_id": "ChIJyzSgMjITQEcRfZd5ifkLz8I"
+    },
+    {
+      "entity_name": "Hajdúszoboszlói Ásványvíz Kft.",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/",
+      "machine_record": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.md",
+      "wordpress_post_id": 66,
+      "country": "HU",
+      "google_cid": "6706916637082778628"
+    },
+    {
+      "entity_name": "Kohlberger Bau Kft.",
+      "entity_type": [
+        "GeneralContractor",
+        "HomeAndConstructionBusiness",
+        "LocalBusiness",
+        "Organization"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/kohlberger-bau-kft/",
+      "machine_record": "entities/kohlberger-bau-kft.md",
+      "wordpress_post_id": 65,
+      "country": "HU",
+      "google_cid": "9653346048547174198"
+    },
+    {
+      "entity_name": "Kohlberger Építőanyag Kft.",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
+      "machine_record": "entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md",
+      "wordpress_post_id": 67,
+      "country": "HU",
+      "google_cid": "4711708374870296696"
+    },
+    {
+      "entity_name": "Némethy Consulting Kft. – Hajdúszoboszló",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
+      "machine_record": "entities/nemethy-consulting-kft-nemethyne-nagy-judit.md",
+      "wordpress_post_id": 59,
+      "country": "HU",
+      "google_cid": "12807312395296193309",
+      "google_kgmid": "/g/11z8rpfmj2",
+      "google_place_id": "ChIJkb0XcSYZR0cRHTsWecS2vLE"
+    },
+    {
+      "entity_name": "Színes Pillanat",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness",
+        "ProfessionalService",
+        "WeddingPhotographyService",
+        "WeddingVideographyService"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/",
+      "machine_record": "entities/szines-pillanat-eskuvoi-fotozas-videozas.md",
+      "wordpress_post_id": 72,
+      "country": "HU",
+      "google_cid": "9575396495972956002",
+      "google_kgmid": "/g/11zwm_0nwr"
+    },
+    {
+      "entity_name": "Tasca Ponte",
+      "entity_type": [
+        "Organization",
+        "LocalBusiness",
+        "Store",
+        "ClothingStore"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/tasca-ponte-debrecen/",
+      "machine_record": "entities/tasca-ponte-debrecen.md",
+      "wordpress_post_id": 76,
+      "locality": "Debrecen",
+      "country": "HU",
+      "google_cid": "1934336177019265112",
+      "google_kgmid": "/g/11f9v6tm6v",
+      "google_place_id": "ChIJX7TdEX8OR0cRWKBrI4Ek2Bo"
+    },
+    {
+      "entity_name": "TÖRÖK és TÁRSAI Kft.",
+      "entity_type": [
+        "Organization",
+        "Corporation",
+        "LocalBusiness",
+        "Manufacturer"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/",
+      "machine_record": "entities/torok-es-tarsai-kft-tomitesgyar.md",
+      "wordpress_post_id": 70,
+      "locality": "Hajdúszoboszló",
+      "country": "HU",
+      "google_cid": "4108516188606827803",
+      "google_kgmid": "/g/1tcxylwk",
+      "google_place_id": "ChIJu1oybt8bR0cRGw3ap7RhBDk"
+    },
+    {
+      "entity_name": "Vargánya Étterem",
+      "entity_type": [
+        "Restaurant",
+        "LocalBusiness",
+        "Organization",
+        "FamilyBusiness"
+      ],
+      "language": "hu-HU",
+      "status": "published",
+      "canonical_url": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+      "machine_record": "entities/varganya-etterem-matraszentimre.md",
+      "wordpress_post_id": 75,
+      "country": "HU"
+    }
+  ],
+  "wikiai_knowledge": {
+    "index": "wikiai/index.md",
+    "manifest": "wikiai/manifest.json",
     "source_of_truth": "https://www.wikiai.hu/",
-    "sync_direction": "wordpress-to-github",
-    "language_default": "hu-HU",
-    "last_updated": "2026-09-17T14:13:57Z",
-    "generator": "WikiAI GitHub Entity Sync 0.1.1",
-    "entities": [
-        {
-            "entity_name": "BIPRESS Kft.",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/bipress-kft-bip-flex/",
-            "machine_record": "entities/bipress-kft-bip-flex.md",
-            "wordpress_post_id": 69,
-            "country": "HU",
-            "google_cid": "1986537177653491448",
-            "google_kgmid": "/g/1wrtbn04"
-        },
-        {
-            "entity_name": "Bolyáki Antikvitás és Műhely",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness",
-                "custom furniture workshop",
-                "furniture manufacturer"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/",
-            "machine_record": "entities/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md",
-            "wordpress_post_id": 71,
-            "locality": "Hajdúszoboszló",
-            "country": "HU",
-            "google_cid": "10936159661846136743",
-            "google_kgmid": "/g/11b6ztqscl"
-        },
-        {
-            "entity_name": "Csarnok-Gyártó Kft.",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness",
-                "ProfessionalService"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/csarnok-gyarto-kft/",
-            "machine_record": "entities/csarnok-gyarto-kft.md",
-            "wordpress_post_id": 63,
-            "country": "HU"
-        },
-        {
-            "entity_name": "Gold Ablak Kft.",
-            "entity_type": [
-                "HomeAndConstructionBusiness",
-                "LocalBusiness",
-                "Organization",
-                "InstallationContractor",
-                "Distributor"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/gold-ablak-kft/",
-            "machine_record": "entities/gold-ablak-kft.md",
-            "wordpress_post_id": 64,
-            "country": "HU"
-        },
-        {
-            "entity_name": "Gyémánt Ingatlaniroda",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness",
-                "RealEstateAgent",
-                "ProfessionalService"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/",
-            "machine_record": "entities/gyemant-ingatlaniroda-salgotarjan.md",
-            "wordpress_post_id": 73,
-            "country": "HU",
-            "google_cid": "14037451729918334845",
-            "google_kgmid": "/g/11l329b6sf",
-            "google_place_id": "ChIJyzSgMjITQEcRfZd5ifkLz8I"
-        },
-        {
-            "entity_name": "Hajdúszoboszlói Ásványvíz Kft.",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/",
-            "machine_record": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.md",
-            "wordpress_post_id": 66,
-            "country": "HU",
-            "google_cid": "6706916637082778628"
-        },
-        {
-            "entity_name": "Kohlberger Bau Kft.",
-            "entity_type": [
-                "GeneralContractor",
-                "HomeAndConstructionBusiness",
-                "LocalBusiness",
-                "Organization"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/kohlberger-bau-kft/",
-            "machine_record": "entities/kohlberger-bau-kft.md",
-            "wordpress_post_id": 65,
-            "country": "HU",
-            "google_cid": "9653346048547174198"
-        },
-        {
-            "entity_name": "Kohlberger Építőanyag Kft.",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
-            "machine_record": "entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md",
-            "wordpress_post_id": 67,
-            "country": "HU",
-            "google_cid": "4711708374870296696"
-        },
-        {
-            "entity_name": "Némethy Consulting Kft. – Hajdúszoboszló",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
-            "machine_record": "entities/nemethy-consulting-kft-nemethyne-nagy-judit.md",
-            "wordpress_post_id": 59,
-            "country": "HU",
-            "google_cid": "12807312395296193309",
-            "google_kgmid": "/g/11z8rpfmj2",
-            "google_place_id": "ChIJkb0XcSYZR0cRHTsWecS2vLE"
-        },
-        {
-            "entity_name": "Színes Pillanat",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness",
-                "ProfessionalService",
-                "WeddingPhotographyService",
-                "WeddingVideographyService"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/",
-            "machine_record": "entities/szines-pillanat-eskuvoi-fotozas-videozas.md",
-            "wordpress_post_id": 72,
-            "country": "HU",
-            "google_cid": "9575396495972956002",
-            "google_kgmid": "/g/11zwm_0nwr"
-        },
-        {
-            "entity_name": "Tasca Ponte",
-            "entity_type": [
-                "Organization",
-                "LocalBusiness",
-                "Store",
-                "ClothingStore"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/tasca-ponte-debrecen/",
-            "machine_record": "entities/tasca-ponte-debrecen.md",
-            "wordpress_post_id": 76,
-            "locality": "Debrecen",
-            "country": "HU",
-            "google_cid": "1934336177019265112",
-            "google_kgmid": "/g/11f9v6tm6v",
-            "google_place_id": "ChIJX7TdEX8OR0cRWKBrI4Ek2Bo"
-        },
-        {
-            "entity_name": "TÖRÖK és TÁRSAI Kft.",
-            "entity_type": [
-                "Organization",
-                "Corporation",
-                "LocalBusiness",
-                "Manufacturer"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/",
-            "machine_record": "entities/torok-es-tarsai-kft-tomitesgyar.md",
-            "wordpress_post_id": 70,
-            "locality": "Hajdúszoboszló",
-            "country": "HU",
-            "google_cid": "4108516188606827803",
-            "google_kgmid": "/g/1tcxylwk",
-            "google_place_id": "ChIJu1oybt8bR0cRGw3ap7RhBDk"
-        },
-        {
-            "entity_name": "Vargánya Étterem",
-            "entity_type": [
-                "Restaurant",
-                "LocalBusiness",
-                "Organization",
-                "FamilyBusiness"
-            ],
-            "language": "hu-HU",
-            "status": "published",
-            "canonical_url": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
-            "machine_record": "entities/varganya-etterem-matraszentimre.md",
-            "wordpress_post_id": 75,
-            "country": "HU"
-        }
+    "documents": [
+      {
+        "type": "service_catalog",
+        "path": "wikiai/services.md",
+        "canonical_url": "https://www.wikiai.hu/szolgaltatasok/",
+        "wordpress_post_id": 101
+      },
+      {
+        "type": "pricing",
+        "path": "wikiai/pricing.md",
+        "canonical_url": "https://www.wikiai.hu/arak/",
+        "wordpress_post_id": 202,
+        "valid_as_of": "2026-09-18"
+      },
+      {
+        "type": "about",
+        "path": "wikiai/about.md",
+        "canonical_url": "https://www.wikiai.hu/rolunk/",
+        "wordpress_post_id": 21
+      },
+      {
+        "type": "team_directory",
+        "path": "wikiai/team.md",
+        "canonical_url": "https://www.wikiai.hu/szakertok/",
+        "wordpress_post_id": 22
+      },
+      {
+        "type": "contact",
+        "path": "wikiai/contact.md",
+        "canonical_url": "https://www.wikiai.hu/kapcsolat/",
+        "wordpress_post_id": 23
+      }
+    ],
+    "people": [
+      {
+        "name": "Várhelyi Csanád",
+        "path": "wikiai/people/varhelyi-csanad.md",
+        "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "wordpress_post_id": 143,
+        "relationship": "founder"
+      },
+      {
+        "name": "Várhelyi Viktória",
+        "path": "wikiai/people/varhelyi-viktoria.md",
+        "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
+        "wordpress_post_id": 144,
+        "relationship": "cofounder"
+      },
+      {
+        "name": "Molnár András",
+        "path": "wikiai/people/molnar-andras.md",
+        "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
+        "wordpress_post_id": 145,
+        "relationship": "external_professional_partner"
+      }
     ]
+  }
 }
