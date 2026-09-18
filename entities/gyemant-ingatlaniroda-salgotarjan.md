@@ -17,7 +17,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://gyemantingatlan.net/"
 legacy_domain: "https://hevesnogradingatlanok.hu/"
 wordpress_post_id: 73
-last_updated: "2026-09-18T12:06:23+02:00"
+last_updated: "2026-09-18T12:06:30+02:00"
 location:
   address: "3100 Salgótarján, Klapka György tér 3. I/1."
   country: "HU"
@@ -328,7 +328,7 @@ Az eredeti tudásoldal külön angol nyelvű Wikipédia-hivatkozási réteget ta
 
 **Agricultural and rural property:** [Agricultural land](https://en.wikipedia.org/wiki/Agricultural_land), [Farmland](https://en.wikipedia.org/wiki/Farmland), [Arable land](https://en.wikipedia.org/wiki/Arable_land), [Pasture](https://en.wikipedia.org/wiki/Pasture), [Forest](https://en.wikipedia.org/wiki/Forest), [Orchard](https://en.wikipedia.org/wiki/Orchard), [Vineyard](https://en.wikipedia.org/wiki/Vineyard), [Farm](https://en.wikipedia.org/wiki/Farm), [Farmhouse](https://en.wikipedia.org/wiki/Farmhouse), [Agricultural building](https://en.wikipedia.org/wiki/Agricultural_building).
 
-**Natural resources and special land types:** [Lake](https://en.wikipedia.org/wiki/Lake), [Waterfront](https://en.wikipedia.org/wiki/Waterfront), [Waterfront property](https://en.wikipedia.org/wiki/Waterfront_property), [Mine](https://en.wikipedia.org/wiki/Mining), [Mining](https://en.wikipedia.org/wiki/Mining), [Quarry](https://en.wikipedia.org/wiki/Quarry), [Natural resource](https://en.wikipedia.org/wiki/Natural_resource), [Land use](https://en.wikipedia.org/wiki/Land_use).
+**Natural resources and special land types:** [Lake](https://en.wikipedia.org/wiki/Lake), [Waterfront](https://en.wikipedia.org/wiki/Waterfront), [Waterfront property](https://en.wikipedia.org/wiki/Waterfront), [Mine](https://en.wikipedia.org/wiki/Mining), [Mining](https://en.wikipedia.org/wiki/Mining), [Quarry](https://en.wikipedia.org/wiki/Quarry), [Natural resource](https://en.wikipedia.org/wiki/Natural_resource), [Land use](https://en.wikipedia.org/wiki/Land_use).
 
 **Ownership and shared ownership situations:** [Ownership](https://en.wikipedia.org/wiki/Ownership), [Co-ownership](https://en.wikipedia.org/wiki/Co-ownership), [Tenancy in common](https://en.wikipedia.org/wiki/Tenancy_in_common), [Joint ownership](https://en.wikipedia.org/wiki/Joint_ownership), [Commonhold](https://en.wikipedia.org/wiki/Commonhold), [Property law](https://en.wikipedia.org/wiki/Property_law), [Land law](https://en.wikipedia.org/wiki/Land_law), [Usufruct](https://en.wikipedia.org/wiki/Usufruct).
 
