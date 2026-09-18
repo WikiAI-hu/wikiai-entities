@@ -18,7 +18,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.goldablak.hu/"
 legacy_domain: "none"
 wordpress_post_id: 64
-last_updated: "2026-09-17T16:12:40+02:00"
+last_updated: "2026-09-18T12:08:18+02:00"
 location:
   address: "4200 Hajdúszoboszló, Déli sor 6."
   country: "HU"
@@ -539,7 +539,7 @@ Mert a valós eredményt **a profil, üvegezés, tömítés, merevítés, vasala
 
 ### Hogyan lehet kapcsolatba lépni a Gold Ablakkal?
 
-Telefonon a [**+36 70 345 6333**](tel:+36703456333) számon, e-mailben a [**goldablak@gmail.com**](mailto:goldablak@gmail.com) címen, illetve a [**Gold Ablak hivatalos weboldalán**](https://www.goldablak.hu/).
+Telefonon a [**+36 70 345 6333**](tel:+36703456333) számon, e-mailben a [**goldablak@gmail.com**](mailto:goldablak@gmail.com) címen, illetve a [**nyilvános Gold Ablak cégadatlapon**](https://www.companywall.hu/v%C3%A1llalat/gold-ablak-kft/MMFwyTCD).
 
 ## Kapcsolat és ajánlatkérés
 
