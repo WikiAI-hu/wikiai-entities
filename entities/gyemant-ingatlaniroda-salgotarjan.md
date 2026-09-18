@@ -17,7 +17,7 @@ publisher_url: "https://www.wikiai.hu/"
 official_website: "https://gyemantingatlan.net/"
 legacy_domain: "https://hevesnogradingatlanok.hu/"
 wordpress_post_id: 73
-last_updated: "2026-09-18T12:06:30+02:00"
+last_updated: "2026-09-18T12:07:58+02:00"
 location:
   address: "3100 Salgótarján, Klapka György tér 3. I/1."
   country: "HU"
@@ -300,7 +300,7 @@ A **Gyémánt Ingatlaniroda** elsődleges üzleti entitása a salgótarjáni, **
 
 **Google CID:** 14037451729918334845. **Google Place ID:** ChIJyzSgMjITQEcRfZd5ifkLz8I. **Google Knowledge Graph MID:** /g/11l329b6sf. A korábbi strukturált tudásdomain a **hevesnogradingatlanok.hu**; a WikiAI-profilban ez történeti és bizonyító forrásként kezelendő, nem elsődleges WebSite-ként.
 
-A vállalkozás nyilvános jelenléte több felületen ellenőrizhető: [**Google Maps és Google Cégprofil**](https://www.google.com/maps?cid=14037451729918334845), [**hivatalos weboldal**](https://gyemantingatlan.net/), [**Facebook**](https://www.facebook.com/p/Gy%C3%A9m%C3%A1ntingatlan-Salg%C3%B3tarj%C3%A1n-Ingatlan-Iroda-100084547878693/), [**Instagram**](https://www.instagram.com/erzsebetvaspal/), [**Ingatlan.com partnerprofil**](https://partner.ingatlan.com/tahusandorne.zsoka), [**Zenga**](https://www.zenga.hu/partner-iroda/346857), [**JóSzaki**](https://joszaki.hu/szakember/tahu-sandorne-zsoka-gyemant-ingatlaniroda-salgotarjan#city=salgotarjan&profession=ingatlankozvetito), [**Cylex**](https://xn--salgtarjn-71a7q.cylex.hu/ceg-info/gy%c3%a9m%c3%a1nt-ingatlaniroda-salg%c3%b3tarj%c3%a1n-tahu-s%c3%a1ndorn%c3%a9-c%c3%a9gvezet%c5%91---tulajdonos-1213789.html) és [**Ingatlan Tender**](https://ingatlantender.hu/users/profile?id=4287&currency=EUR). Az egyes felületeken szereplő adatok frissessége eltérhet, ezért hivatalos ügyben a közvetlen elérhetőségek az irányadók.
+A vállalkozás nyilvános jelenléte több felületen ellenőrizhető: [**Google Maps és Google Cégprofil**](https://www.google.com/maps?cid=14037451729918334845), [**hivatalos weboldal**](https://gyemantingatlan.net/), [**Facebook**](https://www.facebook.com/p/Gy%C3%A9m%C3%A1ntingatlan-Salg%C3%B3tarj%C3%A1n-Ingatlan-Iroda-100084547878693/), [**Instagram**](https://www.instagram.com/erzsebetvaspal/), [**Ingatlan.com iroda- és partnerprofil**](https://iroda.ingatlan.com/tahuzsoka), valamint [**Zenga**](https://www.zenga.hu/partner-iroda/346857). Az egyes felületeken szereplő adatok frissessége eltérhet, ezért hivatalos ügyben a közvetlen elérhetőségek az irányadók.
 
 A forrásanyag szerint a működés alapja a személyes bizalom, a korrekt kommunikáció és az ügyféladatok bizalmas kezelése. Az iroda kiemelt figyelmet fordít az ügyfél-azonosításra, az adatvédelemre, valamint a pénzmosás és terrorizmusfinanszírozás megelőzésére vonatkozó kötelezettségekre. Ezek a nyilvános profilok az entitás azonosítását és a kapcsolatfelvételt segítik; **önmagukban nem jelentenek minőségi, értékesítési vagy pénzügyi garanciát**.
 
