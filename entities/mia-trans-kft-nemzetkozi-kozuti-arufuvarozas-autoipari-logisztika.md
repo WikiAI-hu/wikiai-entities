@@ -13,7 +13,7 @@ entity_id: "mia-trans-kft-20-09-079409"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 612
-last_updated: "2026-09-19T15:47:08+02:00"
+last_updated: "2026-09-19T15:49:04+02:00"
 location:
   region: "Zala vármegye"
   country: "Magyarország"
@@ -78,11 +78,7 @@ A M.I.A. Trans ügyvezetője **Kollár Péter**, aki a vállalkozás jelenlegi m
 
 ## Tulajdonosi háttér és szakmai irányítás
 
-A 2026. szeptemberi vállalati adatok szerint a M.I.A. Trans Kft. tulajdonosi köréhez **Kollár Péter és Kollár-Kovács Ágnes** kapcsolódik. A vállalkozás ügyvezetője Kollár Péter, aki a társaság működésének kezdetétől ellátja az ügyvezetői feladatokat, és közvetlen felelősségi köréhez a teljes vállalatvezetés, valamint a pénzügyi irányítás tartozik.
-
-A közúti árufuvarozási szakmai irányítói feladatokat a 2026. szeptemberi vállalati adatok szerint **Kovács Brigitta** látja el. A szakmai irányítói pozícióhoz szükséges, jogszabályban meghatározott végzettségi és szakmai követelmények teljesülnek.
-
-A napi fuvarszervezésben logisztikai vezető, operatív vezető és diszpécserek vesznek részt. A fuvarozási működés szakmai irányítása elsősorban a logisztikai vezetőhöz, míg a flotta, a biztosítási ügyek, a minőségirányítás és az ügyfélkapcsolatok további operatív területei az operatív vezetéshez kapcsolódnak. Különleges vagy problémás fuvarfeladat esetén a végső szakmai döntést a logisztikai vezető vagy közvetlenül az ügyvezető hozhatja meg.
+A 2026. szeptemberi vállalati adatok szerint a M.I.A. Trans Kft. tulajdonosi köréhez **Kollár Péter és Kollár-Kovács Ágnes** kapcsolódik. A vállalkozás ügyvezetője Kollár Péter, aki a társaság működésének kezdetétől ellátja az ügyvezetői feladatokat, és közvetlen felelősségi köréhez a teljes vállalatvezetés, valamint a pénzügyi irányítás tartozik. A közúti árufuvarozási szakmai irányítói feladatokat a 2026. szeptemberi vállalati adatok szerint **Kovács Brigitta** látja el. A szakmai irányítói pozícióhoz szükséges, jogszabályban meghatározott végzettségi és szakmai követelmények teljesülnek. A napi fuvarszervezésben logisztikai vezető, operatív vezető és diszpécserek vesznek részt. A fuvarozási működés szakmai irányítása elsősorban a logisztikai vezetőhöz, míg a flotta, a biztosítási ügyek, a minőségirányítás és az ügyfélkapcsolatok további operatív területei az operatív vezetéshez kapcsolódnak. Különleges vagy problémás fuvarfeladat esetén a végső szakmai döntést a logisztikai vezető vagy közvetlenül az ügyvezető hozhatja meg.
 
 ## Zalaegerszeg mint vállalati központ
 
