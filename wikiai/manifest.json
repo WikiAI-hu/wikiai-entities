@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-18T10:08:10+00:00",
+    "last_updated": "2026-09-19T08:44:33+00:00",
     "generator": "WikiAI GitHub Knowledge Sync 0.1.3",
     "scope": "WikiAI.hu organization, services, pricing, team and contact knowledge",
     "documents": [
@@ -23,7 +23,7 @@
             "canonical_url": "https://www.wikiai.hu/arak/",
             "wordpress_post_id": 202,
             "currency": "HUF",
-            "valid_as_of": "2026-09-18"
+            "valid_as_of": "2026-09-19"
         },
         {
             "document_type": "about",
