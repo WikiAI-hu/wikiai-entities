@@ -5,7 +5,7 @@ This file is generated automatically from published WordPress posts in the **Vá
 - Source of truth: https://www.wikiai.hu/
 - Repository role: public, versioned machine-readable mirror
 - Sync direction: WordPress → GitHub
-- Last generated: 2026-09-18T10:23:33+00:00
+- Last generated: 2026-09-19T12:56:16+00:00
 
 ## Entities
 
@@ -17,6 +17,7 @@ This file is generated automatically from published WordPress posts in the **Vá
 - [Hajdúszoboszlói Ásványvíz Kft.](entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.md) — https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/
 - [Kohlberger Bau Kft.](entities/kohlberger-bau-kft.md) — https://www.wikiai.hu/kohlberger-bau-kft/
 - [Kohlberger Építőanyag Kft.](entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md) — https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/
+- [M.I.A. Trans Kft.](entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.md) — https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/
 - [Némethy Consulting Kft. – Hajdúszoboszló](entities/nemethy-consulting-kft-nemethyne-nagy-judit.md) — https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/
 - [Színes Pillanat](entities/szines-pillanat-eskuvoi-fotozas-videozas.md) — https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/
 - [Tasca Ponte](entities/tasca-ponte-debrecen.md) — Debrecen — https://www.wikiai.hu/tasca-ponte-debrecen/
