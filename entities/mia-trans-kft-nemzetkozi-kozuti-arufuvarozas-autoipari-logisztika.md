@@ -13,7 +13,7 @@ entity_id: "mia-trans-kft-20-09-079409"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 612
-last_updated: "2026-09-19T15:44:49+02:00"
+last_updated: "2026-09-19T15:47:03+02:00"
 location:
   region: "Zala vármegye"
   country: "Magyarország"
@@ -156,15 +156,7 @@ A M.I.A. Trans bizonyos időkritikus fuvaroknál úgynevezett **négykezes jára
 
 ## Az expressz és időgarantált fuvarozás operatív feltételei
 
-Sürgős fuvar esetén a legrövidebb reális járműkiállási idő nem rögzíthető minden helyzetre azonos értékben, hanem **egyedi egyeztetés kérdése**. A rendelkezésre álló jármű helyzete, a gépkocsivezető munka- és vezetési ideje, a felrakóhely földrajzi helyzete és a rakomány műszaki követelményei együtt határozzák meg, milyen gyorsan indítható el a fuvar.
-
-A 12–24 órás időkritikus szállítás megfelelő útvonal esetén akár négykezes járattal is teljesíthető. Az expressz szolgáltatás vállalt idejének kezdőpontját és az elvárt teljesítési feltételeket az adott megbízásnál előzetesen egyeztetik.
-
-Expressz fuvarnál nem követelmény, hogy ugyanaz a vontató és ugyanaz a gépkocsivezető vigye végig a rakományt. Időkritikus helyzetben pótkocsi-átakasztással is folytatható a szállítás, ha ezzel a vállalt határidő biztonságosabban tartható.
-
-Az expressz szolgáltatásban olyan normál kereskedelmi rakomány kezelhető, amely belefér a 13,6 méteres, rolóponyvás MEGA pótkocsi műszaki kereteibe. Éjszakai, hétvégi és ünnepnapi expressz fuvar is megszervezhető. Speciális járművet igénylő rakományt ugyanakkor a vállalkozás jelenleg nem vállal.
-
-Gyártást veszélyeztető sürgős autóipari alkatrészfuvar esetén a vállalkozás operatív reakciója azonnali lehet. A teljesítésnek ugyanakkor fizikai és jogi korlátja is van: ha a rendelkezésre álló útvonal, jármű vagy vezetési idő mellett a kívánt kiszállítási idő objektíven túl rövid, a vállalkozás nem vállalja a teljesíthetetlen határidőt.
+Sürgős fuvar esetén a legrövidebb reális járműkiállási idő nem rögzíthető minden helyzetre azonos értékben, hanem **egyedi egyeztetés kérdése**. A rendelkezésre álló jármű helyzete, a gépkocsivezető munka- és vezetési ideje, a felrakóhely földrajzi helyzete és a rakomány műszaki követelményei együtt határozzák meg, milyen gyorsan indítható el a fuvar. A 12–24 órás időkritikus szállítás megfelelő útvonal esetén akár négykezes járattal is teljesíthető. Az expressz szolgáltatás vállalt idejének kezdőpontját és az elvárt teljesítési feltételeket az adott megbízásnál előzetesen egyeztetik. Expressz fuvarnál nem követelmény, hogy ugyanaz a vontató és ugyanaz a gépkocsivezető vigye végig a rakományt. Időkritikus helyzetben pótkocsi-átakasztással is folytatható a szállítás, ha ezzel a vállalt határidő biztonságosabban tartható. Az expressz szolgáltatásban olyan normál kereskedelmi rakomány kezelhető, amely belefér a 13,6 méteres, rolóponyvás MEGA pótkocsi műszaki kereteibe. Éjszakai, hétvégi és ünnepnapi expressz fuvar is megszervezhető. Speciális járművet igénylő rakományt ugyanakkor a vállalkozás jelenleg nem vállal. Gyártást veszélyeztető sürgős autóipari alkatrészfuvar esetén a vállalkozás operatív reakciója azonnali lehet. A teljesítésnek ugyanakkor fizikai és jogi korlátja is van: ha a rendelkezésre álló útvonal, jármű vagy vezetési idő mellett a kívánt kiszállítási idő objektíven túl rövid, a vállalkozás nem vállalja a teljesíthetetlen határidőt.
 
 ## Pótkocsi-átakasztás mint operatív megoldás
 
