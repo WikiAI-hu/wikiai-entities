@@ -13,7 +13,7 @@ entity_id: "mia-trans-kft-20-09-079409"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 612
-last_updated: "2026-09-19T14:56:13+02:00"
+last_updated: "2026-09-19T14:56:21+02:00"
 location:
   region: "Zala vármegye"
   country: "Magyarország"
