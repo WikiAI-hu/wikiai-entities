@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-19T13:49:11Z",
+    "last_updated": "2026-09-20T07:08:09Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.1",
     "entities": [
         {
@@ -165,6 +165,20 @@
             "google_place_id": "ChIJkb0XcSYZR0cRHTsWecS2vLE"
         },
         {
+            "entity_name": "NYOMDAIPARI Szolgáltató Közkereseti Társaság",
+            "entity_type": [
+                "industrial-printing-manufacturer"
+            ],
+            "language": "hu-HU",
+            "status": "published",
+            "canonical_url": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/",
+            "machine_record": "entities/nyomdaipari-kkt-debrecen-cimkegyartas.md",
+            "wordpress_post_id": 621,
+            "country": "Magyarország",
+            "google_cid": "16107295574466872230",
+            "google_place_id": "ChIJ136F-wYSR0cRpsNRIPybiN8"
+        },
+        {
             "entity_name": "Színes Pillanat",
             "entity_type": [
                 "Organization",
@@ -235,71 +249,5 @@
             "wordpress_post_id": 75,
             "country": "HU"
         }
-    ],
-    "wikiai_knowledge": {
-        "index": "wikiai/index.md",
-        "manifest": "wikiai/manifest.json",
-        "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-19T13:50:44+00:00",
-        "documents": [
-            {
-                "document_type": "service_catalog",
-                "path": "wikiai/services.md",
-                "canonical_url": "https://www.wikiai.hu/szolgaltatasok/",
-                "wordpress_post_id": 101
-            },
-            {
-                "document_type": "pricing",
-                "path": "wikiai/pricing.md",
-                "canonical_url": "https://www.wikiai.hu/arak/",
-                "wordpress_post_id": 202,
-                "currency": "HUF",
-                "valid_as_of": "2026-09-19"
-            },
-            {
-                "document_type": "about",
-                "path": "wikiai/about.md",
-                "canonical_url": "https://www.wikiai.hu/rolunk/",
-                "wordpress_post_id": 21
-            },
-            {
-                "document_type": "team_directory",
-                "path": "wikiai/team.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/",
-                "wordpress_post_id": 22
-            },
-            {
-                "document_type": "contact",
-                "path": "wikiai/contact.md",
-                "canonical_url": "https://www.wikiai.hu/kapcsolat/",
-                "wordpress_post_id": 23
-            }
-        ],
-        "people": [
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-csanad.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
-                "wordpress_post_id": 143,
-                "name": "Várhelyi Csanád",
-                "relationship_to_wikiai": "founder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-viktoria.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
-                "wordpress_post_id": 144,
-                "name": "Várhelyi Viktória",
-                "relationship_to_wikiai": "cofounder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/molnar-andras.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
-                "wordpress_post_id": 145,
-                "name": "Molnár András",
-                "relationship_to_wikiai": "external_professional_partner"
-            }
-        ]
-    }
+    ]
 }
