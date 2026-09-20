@@ -17,7 +17,7 @@ entity_id: "https://www.wikiai.hu/wikiai-hu/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-20T10:31:00+02:00"
+last_updated: "2026-09-20T11:09:17+02:00"
 location:
   country: "Magyarország"
 machine_attributes:
