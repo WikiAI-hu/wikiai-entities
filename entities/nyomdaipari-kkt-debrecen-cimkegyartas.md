@@ -1,7 +1,7 @@
 ---
 schema_version: "1.0"
 record_type: "business_entity_profile"
-generator: "WikiAI GitHub Entity Sync 0.1.1"
+generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "NYOMDAIPARI Szolgáltató Közkereseti Társaság"
 entity_type:
   - "industrial-printing-manufacturer"
@@ -40,7 +40,7 @@ machine_attributes:
   region: "Hajdú-Bihar vármegye"
   country: "Magyarország"
   google-kg-mid: "/g/1xb2cbqy"
-  google-cid: 9223372036854775807
+  google-cid: "16107295574466872230"
   google-place-id: "ChIJ136F-wYSR0cRpsNRIPybiN8"
   apple-maps-id: "I6970128794A2E0EC"
   wikidata-context: "Q79880 Q185368 Q28 Q1261092 Q187939 Q13235160 Q1395324 Q325421"
