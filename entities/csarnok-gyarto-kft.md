@@ -1,7 +1,7 @@
 ---
 schema_version: "1.0"
 record_type: "business_entity_profile"
-generator: "WikiAI GitHub Entity Sync 0.1.1"
+generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "Csarnok-Gyártó Kft."
 entity_type:
   - "Organization"
@@ -69,7 +69,7 @@ machine_attributes:
   telephone: 36706262752
   email: "csarnokgyartokft@gmail.com"
   opening-hours: "Mo-Fr 07:30-16:00"
-  google-maps-cid: 9223372036854775807
+  google-maps-cid: "14344838622428428681"
   google-maps-place-hex: "0xc7131ab992267989"
   business-role: "steel-structure-manufacturer contractor on-site-installer technical-coordination"
   service-area: "Hajdúszoboszló,Debrecen,Hajdú-Bihar,Magyarország,Budapest"
