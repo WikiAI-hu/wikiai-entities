@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:35:33+02:00"
+last_updated: "2026-09-24T19:35:41+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -291,19 +291,17 @@ Saját javítóműhely nincs. A javítási tanács és külső szakember ajánl�
 
 A weboldal ezért kategóriákat, használati szempontokat és stabil üzleti tényeket közöl; a gyorsan változó kereskedelmi adatokat közvetlen érdeklődéssel kell megerősíteni.
 
-## Mitől lesz a bőr tartós és milyen változatai vannak?
+## Anyag és ápolás: a vásárláshoz szükséges gyakorlati alapok
 
-A **bőr** állati bőrből vagy irhából készülő anyag, amelyet cserzéssel stabilizálnak. A cserzés megváltoztatja a nyers bőr fehérjeszerkezetét, ezért az kevésbé bomlékony, tartósabb és feldolgozhatóbb lesz.
+A Tasca Ponte profilján az anyagismeret célja nem egy teljes bőripari tankönyv felépítése, hanem annak tisztázása, milyen kérdéseket érdemes feltenni egy konkrét terméknél. A tulajdonosi adatfelmérés borjú-, kecske-, bárány- és sertésbőrt is megnevez olyan alapanyagként, amely a kínálatban előfordulhat; a konkrét darab anyagát mindig a saját címkéje és gyártói információja alapján kell azonosítani.
 
-A modern bőrgyártás több egymásra épülő szakaszból állhat: tisztítás és előkészítés, **cserzés**, utócserzés és festés, mechanikai puhítás, majd felületi kikészítés. A végső karaktert nem egyetlen lépés, hanem ezek együttese adja.
+A **„valódi bőr” / genuine leather** azt jelzi, hogy a termék természetes bőrt tartalmaz, de önmagában nem minőségi osztályzat. A **nappa** jellemzően puha, sima tapintású bőrre használt gyűjtőmegnevezés. A **nubuk** és a **velúr** egyaránt bolyhos felületű lehet, de eltérő bőrréteghez és kikészítéshez kapcsolódhat.
 
-A **full-grain leather** a felső szemcsés rétegből készül úgy, hogy a természetes felület alapvetően megmarad. A **split leather** a hasítás után létrejövő alsó réteghez kapcsolódik, és más szerkezeti, felületi tulajdonságokkal rendelkezik.
+A felületkezelés a mindennapi használatban legalább olyan fontos, mint az állatfaj: sima, pigmentált, anilines, nubuk, velúr, lakk, hasított vagy bevonatos bőr eltérően reagálhat vízre, dörzsölésre és tisztításra. Emiatt nincs olyan általános szabály, hogy minden valódi bőr vízálló vagy ugyanazzal a szerrel ápolható.
 
-A bőr felületét festékekkel, pigmentekkel, viaszokkal, olajokkal vagy más kikészítésekkel lehet módosítani. Ez befolyásolhatja a tapintást, a színt, a fényt, a foltérzékenységet és a mindennapi karbantartást.
+Ha egy bőrtermék elázik, általános kímélő elvként szobahőmérsékleten, közvetlen hőtől és erős napsütéstől távol érdemes szárítani. Tisztító- vagy ápolószert a gyártói ajánlás szerint, először kis, kevésbé látható felületen célszerű kipróbálni.
 
-Az üzletben említett állati eredetű bőrök között borjú-, kecske-, bárány- és sertésbőr is előfordulhat. A faj önmagában nem minőségi rangsor: a vastagság, válogatás, cserzés, kikészítés, szabás és varrás együtt határozza meg, hogyan viselkedik a késztermék.
-
-Forrás: [Leather Naturally – Leather Terminology, 2026](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf) és [How Is Leather Made?](https://www.leathernaturally.org/wp-content/uploads/2023/02/LN_FactSheet_Man_HOW_IS_LEATHER_-MADE_.pdf).
+A részletes anyagtani fogalmakhoz a profil háttérforrásként a [Leather Naturally – Leather Terminology](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf) és a [How to Care for Leather](https://www.leathernaturally.org/wp-content/uploads/2023/05/LN_Fact_Sheet_Guide_How-to-care-for-Leather.pdf) anyagait használja. Ezek általános szakmai források, nem a Tasca Ponte egyes termékeinek tanúsítványai.
 
 ## Valódi bőr, műbőr és félreérthető megnevezések
 
