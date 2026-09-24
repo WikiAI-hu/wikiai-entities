@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-24T12:47:58+02:00"
+last_updated: "2026-09-24T12:55:56+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -264,4 +264,4 @@ A profil a stabil identitásadatokat és a változó vendéginformációkat kül
 
 **Utolsó WikiAI szerkesztői feldolgozás:** 2026. szeptember 24. A forrásanyagban szereplő dinamikus tények változhatnak; ezeknél a közvetlen, friss ellenőrzés elsőbbséget élvez.
 
-**Kiadó:** WikiAI.hu · **Szerző és szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/) · **Publikációs kapcsolat:** fizetett partneri vállalkozási profil.
+**Kiadó:** WikiAI.hu · **Szerző és szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/weblapfejlesztes.html) · **Publikációs kapcsolat:** fizetett partneri vállalkozási profil.
