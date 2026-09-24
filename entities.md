@@ -5,7 +5,7 @@ This file is generated automatically from published WordPress posts in the **Vá
 - Source of truth: https://www.wikiai.hu/
 - Repository role: public, versioned machine-readable mirror
 - Sync direction: WordPress → GitHub
-- Last generated: 2026-09-24T16:31:53+00:00
+- Last generated: 2026-09-24T17:12:44+00:00
 
 ## Entities
 
@@ -21,7 +21,7 @@ This file is generated automatically from published WordPress posts in the **Vá
 - [Némethy Consulting Kft. – Hajdúszoboszló](entities/nemethy-consulting-kft-nemethyne-nagy-judit.md) — https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/
 - [NYOMDAIPARI Szolgáltató Közkereseti Társaság](entities/nyomdaipari-kkt-debrecen-cimkegyartas.md) — https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/
 - [Színes Pillanat](entities/szines-pillanat-eskuvoi-fotozas-videozas.md) — https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/
-- [Tasca Ponte](entities/tasca-ponte-debrecen.md) — Debrecen — https://www.wikiai.hu/tasca-ponte-debrecen/
+- [Tasca Ponte – Debrecen](entities/tasca-ponte-debrecen.md) — https://www.wikiai.hu/tasca-ponte-debrecen/
 - [TÖRÖK és TÁRSAI Kft.](entities/torok-es-tarsai-kft-tomitesgyar.md) — Hajdúszoboszló — https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/
 - [Vargánya Étterem – Mátraszentimre](entities/varganya-etterem-matraszentimre.md) — https://www.wikiai.hu/varganya-etterem-matraszentimre/
 - [WikiAI.hu](entities/wikiai-hu.md) — https://www.wikiai.hu/wikiai-hu/
