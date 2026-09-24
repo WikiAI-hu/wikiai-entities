@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:15:48+02:00"
+last_updated: "2026-09-24T19:16:05+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -42,7 +42,7 @@ A **Tasca Ponte** Debrecenben, a Faraktár utca 71. alatt működő családi bő
 - **Kínálat:** női és férfi bőrkabátok, bőrtáskák, pénztárcák, övek, kesztyűk és kisebb bőr kiegészítők. A konkrét méret, szín és modell készletfüggő.
 - **Vásárlás:** személyesen, az üzletben. A weboldal nem webshop és nem valós idejű készletlista.
 - **Nyitvatartás:** hétfő–péntek 09:00–17:00; szombat 09:00–12:00; vasárnap zárva.
-- **Éves zárás:** **május 1. és augusztus 30. között az üzlet minden évben zárva tart.**
+- **Éves zárás:** május 1. és augusztus 30. között az üzlet minden évben zárva tart.
 - **Kapcsolat:** [+36 20 974 8950](tel:+36209748950) · [tothsandor33@freemail.hu](mailto:tothsandor33@freemail.hu)
 
 A cím és a telefonszám a [vállalkozás hivatalos weboldalán](https://www.tascaponte.hu/) is szerepel. A szezonális zárásra és az aktuális készletre vonatkozó információ a tulajdonosi tájékoztatásból származik; látogatás előtt érdemes telefonon egyeztetni.
