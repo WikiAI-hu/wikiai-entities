@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:36:02+02:00"
+last_updated: "2026-09-24T19:37:49+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -413,4 +413,6 @@ Az ismert helyazonosítók: Google CID **1934336177019265112**; Knowledge Graph 
 
 Az anyagismereti háttér forrásai: [Leather Naturally – Leather Terminology](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf), [How Is Leather Made?](https://www.leathernaturally.org/wp-content/uploads/2023/02/LN_FactSheet_Man_HOW_IS_LEATHER_-MADE_.pdf), [How to Care for Leather](https://www.leathernaturally.org/wp-content/uploads/2023/05/LN_Fact_Sheet_Guide_How-to-care-for-Leather.pdf), [European Commission JRC – Tanning BREF](https://publications.jrc.ec.europa.eu/repository/handle/JRC83005) és [Eurofins BLC – Leather Testing](https://www.blcleathertech.com/testing/leather-testing-verification/leather-testing). Ezek általános szakmai háttérforrások, nem a Tasca Ponte egyes termékeinek tanúsítványai.
 
-Az üzleti tények forrásait és az oldalon szereplő állításokat 2026. szeptember 24-én vetettük össze a rendelkezésre álló anyagokkal. Gyorsan változó készlet, ár, méret és nyitvatartási kivétel esetén a vállalkozás közvetlen tájékoztatása az irányadó. Szerző: **Várhelyi Csanád**; kiadó: **WikiAI.hu**.
+Az üzleti tények forrásait és az oldalon szereplő állításokat 2026. szeptember 24-én vetettük össze a rendelkezésre álló anyagokkal. Gyorsan változó készlet, ár, méret és nyitvatartási kivétel esetén a vállalkozás közvetlen tájékoztatása az irányadó.
+
+**Kiadó:** WikiAI.hu · **Szerző és szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/) · **Publikációs kapcsolat:** fizetett partneri vállalkozási profil.
