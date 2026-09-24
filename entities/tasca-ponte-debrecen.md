@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:35:24+02:00"
+last_updated: "2026-09-24T19:35:33+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -61,6 +61,8 @@ A korábbi működés egyik debreceni helyszíne a **Kálvin tér** volt, akkor 
 A **Tasca Ponte** név 2013-ban jelent meg, amikor a család megnyitotta saját üzletét a Faraktár utcai ingatlanban. Ugyanettől az évtől számítható a jelenlegi üzlethely folyamatos működése.
 
 A napi működésben a család ma is személyesen vesz részt: a termékek kiválasztása közösen történik, a beszállítói kapcsolattartásban mindketten jelen vannak, a beérkező áru ellenőrzése pedig tulajdonosi feladat.
+
+A tulajdonosi adatfelmérés több, legalább **öt–tíz éve fennálló beszállítói kapcsolatot** is jelez, konkrét partnernevek publikálása nélkül. Ez üzleti folytonosságot dokumentáló vállalkozói közlés; önmagában nem minőségi tanúsítvány. A forrásanyag a beérkező áru tulajdonosi ellenőrzését rögzíti, részletes, függetlenül auditált minőségbiztosítási protokollt azonban nem.
 
 A helyi kereskedelmi jelenlétnek hosszabb vásári előzménye is van: a vállalkozói háttér a tulajdonosi adatfelmérés szerint **1997 óta kapcsolódik a debreceni karácsonyi vásárhoz**. Ezt történeti vállalkozási adatként kezeljük, nem minőségi díjként vagy rangsorolási állításként.
 
