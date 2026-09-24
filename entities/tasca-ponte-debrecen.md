@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:35:55+02:00"
+last_updated: "2026-09-24T19:36:02+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -302,44 +302,6 @@ A felületkezelés a mindennapi használatban legalább olyan fontos, mint az á
 Ha egy bőrtermék elázik, általános kímélő elvként szobahőmérsékleten, közvetlen hőtől és erős napsütéstől távol érdemes szárítani. Tisztító- vagy ápolószert a gyártói ajánlás szerint, először kis, kevésbé látható felületen célszerű kipróbálni.
 
 A részletes anyagtani fogalmakhoz a profil háttérforrásként a [Leather Naturally – Leather Terminology](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf) és a [How to Care for Leather](https://www.leathernaturally.org/wp-content/uploads/2023/05/LN_Fact_Sheet_Guide_How-to-care-for-Leather.pdf) anyagait használja. Ezek általános szakmai források, nem a Tasca Ponte egyes termékeinek tanúsítványai.
-
-## Cserzés, ápolás és a bőrkabát háttere
-
-A következő nyolc rövid blokk külső szakmai és enciklopédikus forrásokból szintetizálja azt a háttértudást, amely egy bőrtermék megértéséhez valóban hasznos. Ezek **általános szakmai ismeretek**, nem aktuális készletállítások.
-
-A külső források célja a fogalmi pontosság. A Tasca Ponte aktuális termékeire csak olyan tulajdonságot szabad rávetíteni, amelyet az adott darab címkéje vagy gyártói információja ténylegesen alátámaszt.
-
-### Hogyan lesz az irhából bőr?
-
-A gyártás előkészítéssel indul, majd a **cserzés** stabilizálja a fehérjeszerkezetet. Ezt utócserzés, festés, puhítás és felületi kikészítés követheti. [Forrás: Leather Naturally – How Is Leather Made?](https://www.leathernaturally.org/wp-content/uploads/2023/02/LN_FactSheet_Man_HOW_IS_LEATHER_-MADE_.pdf)
-
-### Növényi és krómcserzés
-
-A növényi cserzés növényi tanninokra, a krómcserzés krómsókra épül. A két technológia eltérő tulajdonságú bőrt eredményezhet; a környezeti értékeléshez a víz-, vegyszer- és hulladékkezelés teljes rendszerét is nézni kell. [Forrás: European Commission JRC – Tanning BREF](https://publications.jrc.ec.europa.eu/repository/handle/JRC83005)
-
-### Full-grain és split
-
-A full-grain a felső szemcsés réteghez kapcsolódik; a split az alsó, hasításkor leválasztott réteg. A kettő szerkezete és lehetséges felületkezelése eltér. [Forrás: Leather Terminology 2026](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf)
-
-### Nubuk és velúr
-
-A **nubuk** a külső szemcsés oldal csiszolásával, a **velúr / suede** jellemzően a húsoldalból vagy hasított rétegből kap bolyhos felületet. Mindkettő érzékenyebb lehet nedvességre és foltra.
-
-### Mit jelent a nappa?
-
-A **nappa / napa leather** általában puha, sima tapintású bőrt jelöl. A szó ma tágabb kereskedelmi fogalom, ezért önmagában nem mondja meg a pontos állatfajt, cserzést vagy felületi rendszert.
-
-### A bőrkabát kulturális útja
-
-A modern **bőrkabát** történetéhez katonai és repülős dzsekik, majd a motoros és zenei szubkultúrák is hozzátartoznak. A Smithsonian egy 1940-es évekbeli A-2 repülődzsekit is őriz, amely jól mutatja a ruhadarab gyakorlati katonai eredetét. [Forrás: Smithsonian National Air and Space Museum](https://www.smithsonianmag.com/blogs/air-space-museum/2026/04/16/resurrection-of-a-rare-world-war-ii-flight-jacket/)
-
-### Mit tegyünk, ha vizes lett?
-
-A bőrt hagyjuk **szobahőmérsékleten, természetesen megszáradni**; radiátor, hajszárító és közvetlen napsütés kerülendő. Nubuknál és velúrnál különösen fontos a kíméletes kezelés. [Forrás: How to Care for Leather](https://www.leathernaturally.org/wp-content/uploads/2023/05/LN_Fact_Sheet_Guide_How-to-care-for-Leather.pdf)
-
-### Fenntarthatóság – óvatosan az egyszerű válaszokkal
-
-Sok bőr nyersanyaga az élelmiszeripar mellékterméke, ugyanakkor a cserzés víz-, energia- és vegyszerhasználattal jár. A felelős értékeléshez ezért a nyersanyag eredetét, a gyártási technológiát, a kibocsátáskezelést, a tartósságot és a javíthatóságot együtt kell nézni. [Forrás: European Commission JRC](https://publications.jrc.ec.europa.eu/repository/handle/JRC83005)
 
 ## Hol található az üzlet és honnan érkeznek a vásárlók?
 
