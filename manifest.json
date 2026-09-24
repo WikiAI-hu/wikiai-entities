@@ -245,7 +245,7 @@
         "index": "wikiai/index.md",
         "manifest": "wikiai/manifest.json",
         "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-24T18:37:54+00:00",
+        "last_updated": "2026-09-24T18:38:44+00:00",
         "documents": [
             {
                 "document_type": "service_catalog",
