@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:35:41+02:00"
+last_updated: "2026-09-24T19:35:48+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -302,18 +302,6 @@ A felületkezelés a mindennapi használatban legalább olyan fontos, mint az á
 Ha egy bőrtermék elázik, általános kímélő elvként szobahőmérsékleten, közvetlen hőtől és erős napsütéstől távol érdemes szárítani. Tisztító- vagy ápolószert a gyártói ajánlás szerint, először kis, kevésbé látható felületen célszerű kipróbálni.
 
 A részletes anyagtani fogalmakhoz a profil háttérforrásként a [Leather Naturally – Leather Terminology](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf) és a [How to Care for Leather](https://www.leathernaturally.org/wp-content/uploads/2023/05/LN_Fact_Sheet_Guide_How-to-care-for-Leather.pdf) anyagait használja. Ezek általános szakmai források, nem a Tasca Ponte egyes termékeinek tanúsítványai.
-
-## Valódi bőr, műbőr és félreérthető megnevezések
-
-A **„valódi bőr”** vagy *genuine leather* megnevezés alapvetően azt jelzi, hogy az anyag természetes bőr, nem pedig szintetikus utánzat. Önmagában azonban **nem minőségi osztályzat**, és nem mondja meg a bőr rétegét, felületkezelését vagy cserzési módját.
-
-Az „öko bőr”, „eco leather” vagy hasonló kereskedelmi kifejezések több piacon eltérő jelentéssel használhatók. Ezért ezekből önmagukban nem szabad arra következtetni, hogy az anyag valódi bőr, műbőr, újrahasznosított anyag vagy meghatározott környezeti tanúsítványú termék.
-
-A **műbőr** bőrszerű megjelenésű, de más alapanyagból készülő anyag. A pontos összetételt a címke és a gyártói dokumentáció alapján érdemes értelmezni; tapintás vagy szag alapján biztos következtetés nem mindig vonható le.
-
-A **nappa / napa leather** ma általában puha, sima tapintású bőrre használt gyűjtőmegnevezés. Nem állatfaj és nem egységesen szabványosított minőségi fokozat, ezért a „nappa” szó mellett mindig érdemes megnézni az alapanyagot és a kikészítést is.
-
-Vásárláskor a legbiztosabb kérdések: **miből készült, milyen a felülete, mire tervezték, hogyan kell ápolni és milyen használatra ajánlott**. Ez több hasznos információt ad, mint egyetlen hangzatos anyagnév.
 
 ## Bőripari fogalmak közérthetően
 
