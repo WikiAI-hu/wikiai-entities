@@ -2,7 +2,7 @@
 schema_version: "1.0"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
-entity_name: "Tasca Ponte – Debrecen"
+entity_name: "Bőrkabát Debrecenben – Tasca Ponte bőráruüzlet"
 entity_type:
   - "Organization"
   - "LocalBusiness"
@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:12:40+02:00"
+last_updated: "2026-09-24T19:13:05+02:00"
 location:
   country: "HU"
 machine_attributes:
