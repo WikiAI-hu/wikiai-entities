@@ -1,7 +1,7 @@
 ---
 schema_version: "1.0"
 record_type: "business_entity_profile"
-generator: "WikiAI GitHub Entity Sync 0.1.1"
+generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "Vargánya Étterem"
 entity_type:
   - "Restaurant"
@@ -15,7 +15,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-18T12:08:08+02:00"
+last_updated: "2026-09-24T11:42:54+02:00"
 location:
   region: "Felső-Mátra"
   country: "HU"
@@ -65,7 +65,7 @@ machine_attributes:
   meta-geo-placename: "3235 Mátraszentimre, Arany János utca 12."
   meta-geo-position: "47.90728;19.88127"
   meta-geo-region: "HU-HE"
-  meta-google-cid: 9223372036854775807
+  meta-google-cid: "18292804774410997775"
   meta-google-kgmid: "/g/11f3v1b_c5"
   meta-google-place-id: "ChIJzVhScOBCQEcRD1BW3AUZ3f0"
   meta-icbm: "47.90728, 19.88127"
