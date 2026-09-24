@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:35:48+02:00"
+last_updated: "2026-09-24T19:35:55+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -302,23 +302,6 @@ A felületkezelés a mindennapi használatban legalább olyan fontos, mint az á
 Ha egy bőrtermék elázik, általános kímélő elvként szobahőmérsékleten, közvetlen hőtől és erős napsütéstől távol érdemes szárítani. Tisztító- vagy ápolószert a gyártói ajánlás szerint, először kis, kevésbé látható felületen célszerű kipróbálni.
 
 A részletes anyagtani fogalmakhoz a profil háttérforrásként a [Leather Naturally – Leather Terminology](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf) és a [How to Care for Leather](https://www.leathernaturally.org/wp-content/uploads/2023/05/LN_Fact_Sheet_Guide_How-to-care-for-Leather.pdf) anyagait használja. Ezek általános szakmai források, nem a Tasca Ponte egyes termékeinek tanúsítványai.
-
-## Bőripari fogalmak közérthetően
-
-A bőráruk világában sok olyan angol kifejezés él, amelyet a címkéken, gyártói leírásokban és nemzetközi szakirodalomban is használnak. Az alábbi fogalmak segítenek különválasztani az **anyag rétegét**, a **felületi kikészítést** és a **tapintási karaktert**.
-
-- **Leather / bőr:** A leather cserzéssel tartósított állati bőr vagy irha. A végső tulajdonságokat a nyersanyag és a teljes feldolgozás együtt alakítja.
-- **Full-grain leather / teljes szemcsés bőr:** A bőr felső, természetes szemcsés rétegéhez kapcsolódó megnevezés. A felület természetes rajzolata és kisebb egyenetlenségei láthatók maradhatnak.
-- **Aniline leather:** Minimális fedőréteggel készülő bőr, amelyen a természetes szemcsés felület jól látható. Szép, természetes hatású, ugyanakkor érzékenyebb lehet a szennyeződésre.
-- **Semi-aniline leather:** Enyhe pigmentes védelmet kaphat, miközben a természetes felület még felismerhető. Általában könnyebben kezelhető, mint a teljesen anilines bőr.
-- **Nappa / Napa leather:** A nappa ma puha, sima, rugalmas bőrre használt általános megnevezés; nem önálló állatfaj és nem egységes minőségi osztály.
-- **Nubuck / nubuk:** A nubuk a szemcsés külső oldal finom csiszolásával kap bársonyos, rövid szálú felületet.
-- **Suede / velúr:** A suede bolyhos felületű bőr, amely gyakran a húsoldalhoz vagy hasított réteghez kapcsolódik; karaktere általában puhább és nyitottabb.
-- **Split leather / hasított bőr:** A vastagabb bőr hasításakor létrejövő alsó réteg. Felülete tovább feldolgozható, például velúrosítható vagy bevonattal látható el.
-- **Patent leather / lakkbőr:** Erősen fényes, bevonatos felületű bőr. A karakterét jelentős részben a felső kikészítőréteg adja.
-- **Pigmented leather / pigmentált bőr:** Pigmentes felületi réteggel védett bőr. A bevonat növelheti a mindennapi ellenállóságot és egységesebb színt adhat, miközben a természetes szemcsézettség kevésbé látható.
-
-A terminológia forrása elsődlegesen a [Leather Naturally 2026-os fogalomtára](https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf). A fogalmak tájékoztató jellegűek; a konkrét termék anyagát mindig a saját jelölése alapján kell azonosítani.
 
 ## Cserzés, ápolás és a bőrkabát háttere
 
