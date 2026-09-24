@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:23:37+02:00"
+last_updated: "2026-09-24T19:35:24+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -39,8 +39,12 @@ A **Tasca Ponte** Debrecenben, a Faraktár utca 71. alatt működő családi bő
 ## A legfontosabb tudnivalók
 
 - **Üzlet:** 4034 Debrecen, Faraktár utca 71., a 48-as főút közelében.
+- **Profil:** családi, fizikai bőráruüzlet és bőrkabát-szaküzlet; klasszikus webshopos értékesítés nincs.
+- **Tulajdonosi háttér:** Tóth Sándor; a családi működésben és termékválasztásban Tóthné Marianna is közreműködik.
+- **Szakmai idővonal:** bőráru-kereskedelem 1995 óta; Tasca Ponte név és jelenlegi Faraktár utcai üzlet 2013 óta.
 - **Fő termékek:** női és férfi bőrkabát, női és férfi táska, aktatáska, pénztárca, öv, kesztyű és kisebb bőr kiegészítők.
-- **Vásárlás:** személyesen az üzletben; a konkrét modell, méret, szín és márka készletfüggő.
+- **Vásárlási segítség:** készletérdeklődés, fényképkérés, előzetes félretétel, bizonyos bőrkabátoknál egyedi beszerzés, ajándékcsomagolás és bőrápolási tanács.
+- **Vásárlás:** személyesen az üzletben; a konkrét modell, méret, szín, márka és származás készlet- és beszállítófüggő.
 - **Nyitvatartás:** hétfő–péntek 09:00–17:00; szombat 09:00–12:00; vasárnap zárva.
 - **Éves zárás:** minden évben május 1. és augusztus 30. között az üzlet zárva tart.
 - **Telefon:** [+36 20 974 8950](tel:+36209748950).
