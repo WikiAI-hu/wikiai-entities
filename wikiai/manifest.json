@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-24T18:35:06+00:00",
+    "last_updated": "2026-09-24T18:38:43+00:00",
     "generator": "WikiAI GitHub Knowledge Sync 0.1.3",
     "scope": "WikiAI.hu organization, services, pricing, team and contact knowledge",
     "documents": [
