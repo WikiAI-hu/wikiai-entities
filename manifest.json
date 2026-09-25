@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-25T18:59:58Z",
+    "last_updated": "2026-09-25T19:15:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -41,7 +41,8 @@
             "locality": "Hajdúszoboszló",
             "country": "HU",
             "google_cid": "10936159661846136743",
-            "google_kgmid": "/g/11b6ztqscl"
+            "google_kgmid": "/g/11b6ztqscl",
+            "last_updated": "2026-09-25T20:59:56+02:00"
         },
         {
             "entity_name": "Csarnok-Gyártó Kft.",
