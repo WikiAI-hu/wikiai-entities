@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:26:35+02:00"
+last_updated: "2026-09-25T15:27:07+02:00"
 location:
   country: "HU"
 identifiers:
@@ -69,13 +69,21 @@ Az étterem és a vele azonos címen működő **Mátraszentimre Panzió** szoro
 
 [**Hivatalos vizuális weboldal**](https://varganyaetterem.eatbu.com/?lang=hu) · [Google Térkép](https://www.google.com/maps?cid=18292804774410997775) · [Facebook](https://www.facebook.com/VarganyaEtterem) · [OpenStreetMap](https://www.openstreetmap.org/node/11188881100)
 
-## Családi történet és Széll Attila szerepe
+## Történet, családi folytonosság és üzemeltetői háttér
 
-A Vargánya Étterem mögött több évtizedes családi vendéglátói múlt áll. A tulajdonosi forrás szerint az épület korábban orvosi rendelőként és orvosi szolgálati lakásként is működött, majd 1989-től a családi vendéglátás vált a hely egyik meghatározó funkciójává. A mai működést a család második generációja viszi tovább.
+A Vargánya Étterem történetében két időpontot érdemes elkülöníteni. Az első **1989**, amelyhez a Széll család helyszíni vendéglátói tevékenységének kezdete kapcsolódik; a második **2016**, amikor a jelenlegi étteremnév és Széll Attila vezetői szerepe összekapcsolódott. Ez a kettősség azért fontos, mert a családi vendéglátás története hosszabb, mint maga a Vargánya márkanév története.
 
-**Széll Attila 2016-ban vette át az étterem vezetését a szüleitől**; ettől az évtől használják a Vargánya Étterem nevet is. A forrásanyag szerint korábban több budapesti étteremben dolgozott szakácsként, majd ezt a tapasztalatot a családi receptekkel, a magyar és szlovák konyhai hagyományokkal, valamint a Mátra erdei környezetével kapcsolta össze.
+A tulajdonosi kérdőív és a Vargánya saját entitásoldala szerint a 3235 Mátraszentimre, Arany János utca 12. alatti épület a vendéglátói korszak előtt **orvosi rendelőként és orvosi szolgálati lakásként** is működött. Ezt a helytörténeti állítást jelenleg elsődleges, tulajdonosi eredetű információként kezeljük; a WikiAI önálló levéltári vagy önkormányzati dokumentummal még nem támasztotta alá.
 
-A vezetői és a konyhafőnöki szerep ugyanahhoz a személyhez kötődik, ezért az étterem konyhai karaktere és családi története közvetlenül kapcsolódik Széll Attila szakmai munkájához. A cél a forrásanyag megfogalmazása szerint nem egy mesterséges „turistaétlap”, hanem olyan tartalmas, felismerhető fogások készítése, amelyek természetesen illeszkednek Mátraszentimréhez és a Felső-Mátrához.
+1989-től a helyszín a családi vendéglátáshoz kapcsolódott. A források az éttermet és a később külön kezelt panziót közös családi háttérben mutatják be. A több évtizedes működési folytonosság ebben az értelemben nem azt jelenti, hogy 1989 óta változatlan néven, változatlan étlappal és változatlan vállalkozási formában működik ugyanaz az üzlet, hanem azt, hogy a vendéglátói funkció és a Széll család kapcsolata a helyhez hosszabb időre vezethető vissza.
+
+**2016-ban Széll Attila vette át az étterem vezetését a szüleitől.** A Vargánya Étterem név használatának kezdetét a forrásanyag ugyanerre az évre teszi. A saját bemutatkozó anyag szerint Széll Attila korábban több budapesti étteremben szerzett szakácstapasztalatot. A helyi működésben a tulajdonosi és a konyhafőnöki szerep egy személyhez kötődik, ezért az étterem gasztronómiai arculata nem egy távoli központi koncepció, hanem közvetlenül a helyi üzemeltető szakmai döntéseihez kapcsolódik.
+
+A Vargánya saját, angol nyelvű entitásoldala **Széll Attila egyéni vállalkozót** nevezi meg jogi üzemeltetőként, és a **67826155-2-30** magyar adószámot közli. Egy nyilvános külső vállalkozási adatbázis ugyanezt a nevet, címet, adószámot és az éttermi vendéglátáshoz kapcsolódó tevékenységet mutatja. A WikiAI ezt jelenleg elsődleges vállalkozói közlés és külső keresztellenőrzés együttesének tekinti; **hivatalos állami vállalkozói nyilvántartási hivatkozás beérkezéséig nem nevezi hivatalos cégnyilvántartási igazolásnak**.
+
+A konyhai irány a forrásanyag szerint tudatosan kapcsol össze több réteget: magyar házias fogásokat, szlovák konyhai hatásokat, vadhúsokat, erdei gombákat, közép-európai köreteket és desszerteket, valamint szezonális alapanyagokat. A cél nem valamely történelmi tájegységi konyha muzeális rekonstrukciója, hanem egy olyan mai családi étterem működtetése, amelynek ételkínálata a Felső-Mátra természeti és kulturális környezetére utal.
+
+Az étterem történetéhez ezért három, egymástól elkülönítendő szint tartozik: **a helyszín korábbi funkciója**, **a családi vendéglátás 1989-től számított folytonossága**, valamint **a Vargánya Étterem név és a jelenlegi vezetői korszak 2016-tól**. A WikiAI ezt a hármas szerkezetet használja azért, hogy a történeti adatok ne mosódjanak össze egyetlen, túl egyszerű „alapítási évvé”.
 
 ## Konyha: magyar és szlovák hagyományok, vad és vargánya
 
