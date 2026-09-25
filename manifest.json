@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-25T19:12:00Z",
+    "last_updated": "2026-09-25T19:20:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -39,7 +39,16 @@
             "country": "HU",
             "google_cid": "10936159661846136743",
             "google_kgmid": "/g/11b6ztqscl",
-            "last_updated": "2026-09-25T21:08:55+02:00"
+            "last_updated": "2026-09-25T21:08:55+02:00",
+            "hfcm_script_id": 19,
+            "production_jsonld_layer": "HFCM",
+            "production_jsonld_location": "header",
+            "production_jsonld_status": "active",
+            "production_jsonld_graph_nodes": 57,
+            "production_jsonld_sha256": "e196dc9af006a2746b212fe86306859de775f5cedd6f28d8293b9a2d7f9399ef",
+            "production_body_jsonld": false,
+            "yoast_schema_disabled": true,
+            "last_verified_at": "2026-09-25T21:20:00+02:00"
         },
         {
             "entity_name": "Csarnok-Gyártó Kft.",
