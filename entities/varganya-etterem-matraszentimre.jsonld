@@ -55,7 +55,7 @@
         "@id": "https://www.wikiai.hu/#website"
       },
       "mainEntity": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "primaryImageOfPage": {
         "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#primary-image"
@@ -77,15 +77,13 @@
         }
       ],
       "about": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "editor": {
         "@id": "https://www.varhelyicsanad.hu/#person"
       },
       "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
       "isBasedOn": [
-        "https://www.matraietterem.hu/",
-        "https://www.matraietterem.hu/varganya-etterem.html",
         "https://varganyaetterem.eatbu.com/?lang=hu"
       ]
     },
@@ -102,11 +100,11 @@
       "datePublished": "2026-09-07T17:04:23+02:00",
       "dateModified": "2026-09-25T15:45:56+02:00",
       "mainEntity": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "about": [
         {
-          "@id": "https://www.matraietterem.hu/#restaurant"
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
         },
         {
           "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#hungarian-cuisine"
@@ -169,8 +167,6 @@
         "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#primary-image"
       },
       "citation": [
-        "https://www.matraietterem.hu/",
-        "https://www.matraietterem.hu/varganya-etterem.html",
         "https://varganyaetterem.eatbu.com/?lang=hu",
         "https://www.facebook.com/VarganyaEtterem",
         "https://www.panzio.hu/",
@@ -195,21 +191,19 @@
       },
       "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
       "isBasedOn": [
-        "https://www.matraietterem.hu/",
-        "https://www.matraietterem.hu/varganya-etterem.html",
         "https://varganyaetterem.eatbu.com/?lang=hu",
         "https://www.panzio.hu/kep/etlapjavitva.pdf"
       ]
     },
     {
       "@type": "Restaurant",
-      "@id": "https://www.matraietterem.hu/#restaurant",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant",
       "name": "Vargánya Étterem",
       "alternateName": [
         "Vargánya Étterem Mátraszentimre",
         "Vargánya Restaurant Mátraszentimre"
       ],
-      "url": "https://www.matraietterem.hu/",
+      "url": "https://varganyaetterem.eatbu.com/?lang=hu",
       "description": "Második generációs családi étterem Mátraszentimrén. Konyhája magyar és szlovák hagyományokat kapcsol össze a Mátra regionális, szezonális, vad- és vargányás fogásaival.",
       "image": {
         "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#primary-image"
@@ -442,10 +436,10 @@
       "name": "Széll Attila",
       "jobTitle": "tulajdonos és konyhafőnök",
       "worksFor": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "owns": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "taxID": "67826155-2-30",
       "description": "A Vargánya Étterem tulajdonosa és konyhafőnöke; 2016-ban vette át az étterem vezetését a szüleitől."
@@ -473,7 +467,7 @@
       "datePublished": "2025-08-23",
       "inLanguage": "hu-HU",
       "about": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "description": "Dátumozott étlap, amely a Vargánya Étterem dokumentált fogásait és allergénjelöléseit mutatja; nem valós idejű készlet- vagy árlista."
     },
@@ -688,7 +682,7 @@
         }
       ],
       "about": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       }
     },
     {
@@ -699,7 +693,7 @@
       "encodingFormat": "text/markdown",
       "inLanguage": "hu-HU",
       "about": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "isBasedOn": {
         "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#article"
@@ -723,7 +717,7 @@
       "encodingFormat": "application/ld+json",
       "inLanguage": "hu-HU",
       "about": {
-        "@id": "https://www.matraietterem.hu/#restaurant"
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
       },
       "isBasedOn": {
         "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#article"
