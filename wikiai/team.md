@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:26:32+00:00"
-synced_at: "2026-09-25T07:26:34+00:00"
+source_last_modified: "2026-09-25T07:26:39+00:00"
+synced_at: "2026-09-25T07:27:00+00:00"
 ---
 
 # Munkatársaink
@@ -95,19 +95,19 @@ A WikiAI.hu belső működését Várhelyi Viktória alapítói és üzleti szer
 
 ### Mivel foglalkozik a WikiAI.hu?
 
-A WikiAI.hu Magyarországon működő vállalkozások, cégek, szolgáltatók és szakemberek digitális, Google- és AI-láthatóságát támogató üzleti AI-tudásplatform és szakmai szolgáltatási felület. Emellett üzleti és mesterséges intelligenciával kapcsolatos szakmai tudásanyagokat is közzétesz.
+A WikiAI.hu országos magyar, szerkesztett üzleti tudásplatform. Magyar vállalkozásokról, szakemberekről és üzleti témákról közöl szerkesztett tartalmakat, emellett elkülönített szakmai szolgáltatásokat is kínál a digitális és AI-láthatóság fejlesztéséhez.
 
 ### Hogyan segíti a WikiAI.hu egy vállalkozás Google- és AI-láthatóságát?
 
 A WikiAI.hu rendezett vállalkozási bemutatással, következetes szakmai információkkal, webes és tartalmi jelenléttel, valamint kapcsolódó láthatósági munkával segíti, hogy a vállalkozásról egyértelműbb digitális forráskörnyezet alakuljon ki. Ez javíthatja a kereső- és AI-rendszerek értelmezési feltételeit, de nem jelent garantált helyezést vagy AI-ajánlást.
 
-### Miben tudnak segíteni a WikiAI.hu munkatársai és szakmai partnerei?
+### Miben tud segíteni a WikiAI.hu szakmai csapata?
 
-A szakmai területek közé tartozik a weboldalfejlesztés, keresőoptimalizálás, AI-láthatóság, szakmai tartalomkészítés, online reputáció, közösségi kommunikáció és a vállalati AI gyakorlati alkalmazása.
+A fő területek közé tartozik a weboldalfejlesztés, keresési és AI-láthatóság, vállalkozási adatok rendezése, szakmai tartalomkészítés, online reputáció, partneri kommunikáció és folyamatos tartalomgondozás. Meghatározott projektekben külső szakmai partner is bevonható.
 
 ### Hol találhatók a vállalkozások számára elérhető szolgáltatások?
 
-A vállalkozási megjelenésről, AI-láthatóságról, weboldalfejlesztésről, tartalmi támogatásról és további együttműködési lehetőségekről a [Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/) oldalon található részletes tájékoztatás.
+Az AI-láthatóságról, weboldalfejlesztésről, keresési jelenlétről, tartalmi támogatásról, sponsored Posztokról és további fizetett együttműködési lehetőségekről a [Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/) oldalon található részletes tájékoztatás. A Vállalkozások rovat szerkesztőségi megjelenése nem megvásárolható szolgáltatás.
 
 ### Miért dolgozik több különböző szakmai terület együtt?
 
