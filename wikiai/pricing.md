@@ -7,17 +7,19 @@ canonical_url: "https://www.wikiai.hu/arak/"
 source_post_id: 202
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T09:06:14+00:00"
-synced_at: "2026-09-25T09:07:15+00:00"
+source_last_modified: "2026-09-25T09:14:08+00:00"
 currency: "HUF"
 valid_as_of: "2026-09-25"
 commercial_contact: "Várhelyi Viktória"
 commercial_contact_email: "info@wikiai.hu"
+tax_display: "alanyi adómentes"
 ---
 
-# Árak és fizetett együttműködések
+# Árak és megjelenési lehetőségek
 
-A WikiAI.hu fizetett együttműködéseit egyszerű és átlátható rendszerben kezeli. Egyetlen nyilvános fix ár a képes hirdetési megjelenésre vonatkozik. A szponzorált Posztok és a szakmai szolgáltatások díja minden esetben az egyeztetett feladat alapján, egyedi ajánlatban kerül meghatározásra.
+A WikiAI.hu fizetett együttműködéseit egyszerű és átlátható rendszerben kezeli. Két hirdetési forma rendelkezik nyilvános fix árral. A Sponsored Posztok és a szakmai szolgáltatások díja előzetes egyeztetés és egyedi ajánlat alapján kerül meghatározásra.
+
+**A feltüntetett árak alanyi adómentes, fizetendő végösszegek.**
 
 ## A szerkesztőségi megjelenés nem vásárolható meg
 
@@ -25,23 +27,29 @@ A **Vállalkozások, Cikkek, Hírek és Tudástár** rovatok tartalmi döntései
 
 **Fizetett tartalom kizárólag a Posztok rovatban jelenhet meg, egyértelmű kereskedelmi vagy sponsored jelöléssel.**
 
-## Fizetett lehetőségek
+## Fizetett megjelenések és szolgáltatások
 
-### Bronz képes hirdetés
+### Bronz AI-érthető képes hirdetés
 
 **15 000 Ft / hó**
 
-Képes hirdetési megjelenés a WikiAI.hu kijelölt hirdetési felületein, a hirdető saját weboldalára vagy kijelölt céloldalára mutató hivatkozással.
+Nem egyszerű feltöltött bannerkép. A képi megjelenéshez a vállalkozás neve, fő tevékenysége és a kapcsolódó céloldal értelmezhető üzleti kontextusban kapcsolódik, hogy a megjelenés az emberek mellett a webet feldolgozó AI-rendszerek számára is egyértelműbb legyen.
 
-A megjelenés kereskedelmi hirdetés, és nem kapcsolódik automatikusan szerkesztőségi vállalkozás-profilhoz vagy más editorial tartalomhoz.
+A Bronz kereskedelmi hirdetés, és nem biztosít szerkesztőségi vállalkozás-profilt vagy editorial megjelenést.
+
+### AI-érthető képi + szöveges hirdetés
+
+**25 000 Ft / 1 db hirdetés**
+
+Egy önálló hirdetési megjelenés, amelyben a képi kreatív mellett rövid, olvasható szöveges bemutatás is segít egyértelművé tenni, hogy ki a hirdető, mivel foglalkozik és hová vezet a megjelenés.
+
+Az ár 1 db képi és szöveges hirdetésre vonatkozik. A megjelenés kereskedelmi tartalom, nem szerkesztőségi vállalkozás-profil.
 
 ### Sponsored Poszt
 
 **Egyedi árajánlat alapján**
 
-Fizetett üzleti vagy szakmai tartalom megjelenése a WikiAI.hu **Posztok** rovatában, egyértelmű sponsored vagy kereskedelmi jelöléssel.
-
-A díj minden esetben előzetes egyeztetés és egyedi ajánlat alapján kerül meghatározásra. Nincs nyilvános fix tarifa.
+Fizetett üzleti vagy szakmai tartalom a **Posztok** rovatban, egyértelmű sponsored vagy kereskedelmi jelöléssel.
 
 ### Szakmai szolgáltatások
 
@@ -49,26 +57,26 @@ A díj minden esetben előzetes egyeztetés és egyedi ajánlat alapján kerül 
 
 AI-láthatóság, weboldalfejlesztés, keresési jelenlét, digitális jelenlét rendezése, szakmai tartalom, online reputáció és folyamatos tartalomgondozás esetén a díj az adott projekt céljához és terjedelméhez igazodik.
 
-Részletek: https://www.wikiai.hu/szolgaltatasok/
+## Pro bono megjelenés
+
+### Független, ellenszolgáltatás nélküli megjelenés
+
+**0 Ft · nem megrendelhető**
+
+A WikiAI.hu bizonyos esetekben pro bono tartalmat vagy bemutatást készíthet. Ez ellenszolgáltatás nélküli megjelenés: nem sponsored, nem fizetett és nem jár automatikusan más kereskedelmi szolgáltatáshoz.
+
+A pro bono megjelenésről a WikiAI.hu szerkesztőségi szempontok alapján dönt. Nem vásárolható meg és nem igényelhető fizetett csomag részeként.
 
 ## Mit nem lehet megvásárolni?
 
 Nem vásárolható meg:
 
 - bekerülés a **Vállalkozások** rovatba;
-- szerkesztőségi **Cikk**;
-- szerkesztőségi **Hír**;
+- szerkesztőségi **Cikk** vagy **Hír**;
 - **Tudástár**-megjelenés;
+- pro bono megjelenés;
 - pozitív szerkesztőségi értékelés vagy ajánlás;
 - garantált Google-helyezés, AI-ajánlás vagy külső platformon történő megjelenés.
-
-A kereskedelmi együttműködés és a szerkesztőségi döntéshozatal egymástól elkülönül.
-
-## Hogyan készül az egyedi ajánlat?
-
-Az ajánlatkérés után rövid egyeztetés történik a célról és a szükséges feladatról. Ez alapján készül a konkrét szakmai és pénzügyi ajánlat.
-
-Nincsenek kötelező, előre összeállított csomagok: az ajánlat a tényleges feladathoz igazodik.
 
 ## Ajánlatkérés és üzleti kapcsolat
 
@@ -77,28 +85,3 @@ WikiAI.hu alapító · AI-láthatósági specialista · kereskedelmi és partner
 
 E-mail: info@wikiai.hu  
 Telefon: +36 70 778 4012
-
-Szakmai profil: https://www.wikiai.hu/szakertok/varhelyi-viktoria/  
-Kapcsolat: https://www.wikiai.hu/kapcsolat/
-
-## Gyakori kérdések
-
-### Miért csak a Bronz hirdetésnek van fix ára?
-
-Mert ez egy jól körülhatárolható, egységes hirdetési megjelenés. A többi együttműködés terjedelme és szakmai igénye projektenként eltérhet, ezért ezekre egyedi ajánlat készül.
-
-### Mennyibe kerül egy Sponsored Poszt?
-
-A Sponsored Poszt megjelenési díja minden esetben egyedi árajánlat alapján kerül meghatározásra. Nincs nyilvános, tartalomhosszhoz vagy csomaghoz kötött fix tarifa.
-
-### Megvásárolható egy Vállalkozások-profil?
-
-Nem. A Vállalkozások rovat szerkesztőségi tartalom, ezért a bekerülés nem vásárolható meg.
-
-### A fizetett Poszt befolyásolja a szerkesztőségi megjelenést?
-
-Nem. A sponsored vagy egyéb fizetett együttműködés nem biztosít és nem befolyásol szerkesztőségi megjelenést.
-
-### Kihez fordulhatok ajánlatért?
-
-Az ajánlatkérés és a kereskedelmi együttműködések elsődleges kapcsolattartója **Várhelyi Viktória**. E-mail: info@wikiai.hu
