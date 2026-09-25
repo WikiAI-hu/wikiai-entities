@@ -1,0 +1,784 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#primary-image",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/tasca-ponte-borkabat-borarubolt-debrecen-wikiai.png",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/tasca-ponte-borkabat-borarubolt-debrecen-wikiai.png",
+      "width": 1672,
+      "height": 941,
+      "caption": "Tasca Ponte – bőrkabátok és bőráruk Debrecenben"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#webpage",
+      "url": "https://www.wikiai.hu/tasca-ponte-debrecen/",
+      "name": "Tasca Ponte – bőrkabátok és bőráruk Debrecenben",
+      "description": "A WikiAI.hu szerkesztőségi bemutatása a Tasca Ponte debreceni bőráruüzletről, különös tekintettel a női és férfi bőrkabátokra, a személyes próbára, a bőrárukra és a Faraktár utcai fizikai üzletre.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#primary-image"
+      },
+      "datePublished": "2026-09-07T17:04:30+02:00",
+      "dateModified": "2026-09-25",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://www.tascaponte.hu/"
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#faq"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#article",
+      "url": "https://www.wikiai.hu/tasca-ponte-debrecen/",
+      "headline": "Tasca Ponte – bőrkabátok és bőráruk Debrecenben",
+      "description": "Részletes szerkesztőségi bemutatás a Tasca Ponte debreceni bőrkabát- és bőráruüzletről, történetéről, női és férfi bőrkabát-kínálatáról, személyes próbáról, bőranyagokról és vásárlási tudnivalókról.",
+      "inLanguage": "hu-HU",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "datePublished": "2026-09-07T17:04:30+02:00",
+      "dateModified": "2026-09-25",
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-jacket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-shop"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-bag"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#wallet"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#belt"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#glove"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#nubuck"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#suede"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "image": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#primary-image"
+      },
+      "keywords": [
+        "bőrkabát Debrecen",
+        "női bőrkabát Debrecen",
+        "férfi bőrkabát Debrecen",
+        "bőráru bolt Debrecen",
+        "Tasca Ponte",
+        "bőrtáska Debrecen",
+        "bőrpénztárca",
+        "bőröv",
+        "bőrkesztyű"
+      ],
+      "isBasedOn": [
+        "https://www.tascaponte.hu/"
+      ],
+      "citation": [
+        "https://www.tascaponte.hu/",
+        "https://www.google.com/maps?cid=1934336177019265112",
+        "https://maps.apple/p/jC-7x_xrYjryx4",
+        "https://debrecen.cylex.hu/ceg-info/tasca-ponte-1091820.html",
+        "https://www.facebook.com/p/Tasca-Ponte-100054446892478/?locale=hu_HU",
+        "https://www.leathernaturally.org/wp-content/uploads/2026/03/Leather-Terminolgy-Factsheet-%E2%80%94-March-2026.pdf",
+        "https://www.leathernaturally.org/wp-content/uploads/2023/05/LN_Fact_Sheet_Guide_How-to-care-for-Leather.pdf",
+        "https://publications.jrc.ec.europa.eu/repository/handle/JRC83005",
+        "https://www.blcleathertech.com/testing/leather-testing-verification/leather-testing"
+      ]
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness",
+        "Store",
+        "ClothingStore"
+      ],
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business",
+      "name": "Tasca Ponte",
+      "alternateName": [
+        "Tasca Ponte Debrecen",
+        "Tasca Ponte bőrkabátbolt"
+      ],
+      "url": "https://www.tascaponte.hu/",
+      "description": "Családi működésű debreceni fizikai bőráruüzlet és bőrkabát-szaküzlet női és férfi bőrkabátokkal, táskákkal, pénztárcákkal, övekkel és kesztyűkkel.",
+      "image": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#primary-image"
+      },
+      "telephone": "+36 20 974 8950",
+      "email": "tothsandor33@freemail.hu",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Faraktár utca 71.",
+        "postalCode": "4034",
+        "addressLocality": "Debrecen",
+        "addressRegion": "Hajdú-Bihar vármegye",
+        "addressCountry": "HU"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.52866,
+        "longitude": 21.65021
+      },
+      "hasMap": [
+        "https://www.google.com/maps?cid=1934336177019265112",
+        "https://maps.apple/p/jC-7x_xrYjryx4"
+      ],
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#hungary"
+        }
+      ],
+      "additionalType": [
+        "https://www.wikidata.org/wiki/Q47508066",
+        "https://www.wikidata.org/wiki/Q57262261",
+        "https://www.wikidata.org/wiki/Q126793"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "1934336177019265112"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Knowledge Graph MID",
+          "value": "/g/11f9v6tm6v"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJX7TdEX8OR0cRWKBrI4Ek2Bo"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Apple Maps Place ID",
+          "value": "I9DEF945DE27059AC"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/maps?cid=1934336177019265112",
+        "https://www.google.hu/search?kgmid=/g/11f9v6tm6v&hl=hu-HU&q=Tasca+Ponte",
+        "https://maps.apple/p/jC-7x_xrYjryx4",
+        "https://debrecen.cylex.hu/ceg-info/tasca-ponte-1091820.html",
+        "https://www.facebook.com/p/Tasca-Ponte-100054446892478/?locale=hu_HU"
+      ],
+      "employee": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#toth-sandor"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#tothne-marianna"
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service and product availability",
+        "telephone": "+36 20 974 8950",
+        "email": "tothsandor33@freemail.hu",
+        "areaServed": "HU",
+        "availableLanguage": "hu"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "17:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "09:00",
+          "closes": "12:00"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#offer-catalog"
+      },
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-shop"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods-trade"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#retail"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-jacket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-bag"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#wallet"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#belt"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#glove"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#nubuck"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#suede"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#patent-leather"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#split-leather"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#calfskin"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#goatskin"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#pigskin"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#github-jsonld-mirror"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Jogi üzemeltető",
+          "value": "Tóth Sándor egyéni vállalkozó"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Adószám",
+          "value": "63882830-1-29"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Családi bőráru-kereskedelmi tapasztalat kezdete",
+          "value": "1995"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tasca Ponte név és jelenlegi Faraktár utcai üzlet kezdete",
+          "value": "2013"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Éves szezonális zárás",
+          "value": "Minden év május 1. és augusztus 30. között"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Értékesítési modell",
+          "value": "Személyes vásárlás fizikai üzletben; klasszikus webshop és online checkout nincs"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#toth-sandor",
+      "name": "Tóth Sándor",
+      "jobTitle": "tulajdonos-üzemeltető és bőráru-kiskereskedő",
+      "taxID": "63882830-1-29",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods-trade"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-jacket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#tothne-marianna",
+      "name": "Tóthné Marianna",
+      "jobTitle": "családi vállalkozás közreműködője",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-jacket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods"
+        }
+      ]
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#hajdu-bihar"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#hungary"
+      }
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-shop",
+      "name": "Leather shop",
+      "alternateName": "Bőráruüzlet",
+      "sameAs": "https://www.wikidata.org/wiki/Q47508066"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods-trade",
+      "name": "Leather goods trade",
+      "alternateName": "Bőráru-kereskedelem",
+      "sameAs": "https://www.wikidata.org/wiki/Q57262261"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#retail",
+      "name": "Retail",
+      "alternateName": "Kiskereskedelem",
+      "sameAs": "https://www.wikidata.org/wiki/Q126793"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather",
+      "name": "Leather",
+      "alternateName": "Bőr",
+      "sameAs": "https://www.wikidata.org/wiki/Q286"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-goods",
+      "name": "Leather goods",
+      "alternateName": "Bőráru",
+      "sameAs": "https://www.wikidata.org/wiki/Q96141153"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-jacket",
+      "name": "Leather jacket",
+      "alternateName": "Bőrkabát",
+      "sameAs": "https://www.wikidata.org/wiki/Q1619986"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-bag",
+      "name": "Leather bag",
+      "alternateName": "Bőrtáska",
+      "sameAs": "https://www.wikidata.org/wiki/Q114056202"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#wallet",
+      "name": "Wallet",
+      "alternateName": "Pénztárca",
+      "sameAs": "https://www.wikidata.org/wiki/Q131740"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#belt",
+      "name": "Belt",
+      "alternateName": "Öv",
+      "sameAs": "https://www.wikidata.org/wiki/Q134560"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#glove",
+      "name": "Glove",
+      "alternateName": "Kesztyű",
+      "sameAs": "https://www.wikidata.org/wiki/Q169031"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#nubuck",
+      "name": "Nubuck",
+      "alternateName": "Nubuk",
+      "sameAs": "https://www.wikidata.org/wiki/Q28864"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#suede",
+      "name": "Suede",
+      "alternateName": "Velúr / suede",
+      "sameAs": "https://www.wikidata.org/wiki/Q1071417"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#patent-leather",
+      "name": "Patent leather",
+      "alternateName": "Lakkbőr",
+      "sameAs": "https://www.wikidata.org/wiki/Q7144505"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#split-leather",
+      "name": "Split leather",
+      "alternateName": "Hasított bőr",
+      "sameAs": "https://www.wikidata.org/wiki/Q9213189"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#calfskin",
+      "name": "Calfskin",
+      "alternateName": "Borjúbőr",
+      "sameAs": "https://www.wikidata.org/wiki/Q2507067"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#goatskin",
+      "name": "Goatskin",
+      "alternateName": "Kecskebőr",
+      "sameAs": "https://www.wikidata.org/wiki/Q198779"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#pigskin",
+      "name": "Pigskin",
+      "alternateName": "Sertésbőr",
+      "sameAs": "https://www.wikidata.org/wiki/Q29559945"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#offer-catalog",
+      "name": "Tasca Ponte fő termékkategóriái",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Női és férfi bőrkabátok",
+            "category": {
+              "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-jacket"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Táskák és aktatáskák",
+            "category": {
+              "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#leather-bag"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Pénztárcák",
+            "category": {
+              "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#wallet"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Övek",
+            "category": {
+              "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#belt"
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "Kesztyűk",
+            "category": {
+              "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#glove"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#faq",
+      "url": "https://www.wikiai.hu/tasca-ponte-debrecen/#tasca-ponte-gyik",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol található a Tasca Ponte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fizikai üzlet címe 4034 Debrecen, Faraktár utca 71."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet Debrecenben személyesen bőrkabátot próbálni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A Tasca Ponte fizikai üzletében női és férfi bőrkabátokat lehet személyesen megtekinteni és az aktuális készlet szerint felpróbálni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van női és férfi bőrkabát is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, mindkét kategória része a stabil termékkörnek; a konkrét fazon, szín és méret készletfüggő."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kérhető készleten nem lévő bőrkabát beszerzése?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bizonyos modelleknél egyedi beszerzési igény egyeztethető, de a teljesíthetőség, határidő és ár a beszállítói lehetőségektől függ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Működik webshop?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem klasszikus webshop működik; a vásárlás fő formája a személyes üzleti vásárlás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi a nyitvatartás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hétfőtől péntekig 09:00–17:00, szombaton 09:00–12:00, vasárnap zárva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor van az éves zárvatartás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az üzlet minden évben május 1. és augusztus 30. között zárva tart."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen bőrárukat kínál a Tasca Ponte?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A stabil kategóriák közé bőrkabátok, táskák, pénztárcák, övek és kesztyűk tartoznak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mit jelent a valódi bőr?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A megnevezés természetes bőr jelenlétére utalhat, de önmagában nem határozza meg az állatfajt, a kikészítést, a származást vagy az általános minőségi szintet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Végeznek bőrjavítást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Saját javítóműhely nincs; javíthatósági tanács és külső szakember ajánlása szóba jöhet."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#github-markdown-mirror",
+      "name": "WikiAI GitHub Markdown mirror – Tasca Ponte",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/tasca-ponte-debrecen.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Tasca Ponte-ról szóló szerkesztőségi cikkének Markdown tükre. A WordPress-publikáció a kanonikus forrás."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#github-jsonld-mirror",
+      "name": "WikiAI GitHub JSON-LD mirror – Tasca Ponte",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/tasca-ponte-debrecen.jsonld",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/tasca-ponte-debrecen/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Tasca Ponte-ról szóló szerkesztőségi cikkének gépi JSON-LD tükre; nem sameAs kapcsolat."
+    }
+  ]
+}
