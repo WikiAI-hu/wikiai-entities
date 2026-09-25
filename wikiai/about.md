@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/rolunk/"
 source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:32:34+00:00"
-synced_at: "2026-09-25T06:32:52+00:00"
+source_last_modified: "2026-09-25T06:33:08+00:00"
+synced_at: "2026-09-25T06:33:16+00:00"
 ---
 
 # Rólunk
@@ -49,11 +49,11 @@ A WikiAI.hu szakmai munkájában mesterséges intelligencia támogathat elemzés
 
 ## Várhelyi Csanád és Várhelyi Viktória
 
-A WikiAI.hu **2026. szeptember 8-án** **Várhelyi Csanád és Várhelyi Viktória** közös szakmai projektjeként született meg. A két alapító **házaspár, és a munkában is több éve közösen dolgoznak**; a platformban két egymást kiegészítő szakmai nézőpont találkozik. **[Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)** AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő. A WikiAI.hu webes, keresési és AI-láthatósági szakmai irányát képviseli, több mint tíz év weboldalfejlesztési és keresőoptimalizálási tapasztalatára építve. **[Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)** AI-láthatósági specialista. A szakmai tartalom, az üzleti kommunikáció, az online reputáció és a vállalkozások hosszú távú digitális jelenlétének oldalát képviseli. A közös szemlélet lényege, hogy **a technológia és a tartalom nem különálló feladat, hanem ugyanannak a digitális jelenlétnek két oldala**, amely akkor működik jól, ha ugyanazt a vállalkozást ugyanazzal a pontossággal és szakmai hitelességgel mutatja be.
+A WikiAI.hu **2026. szeptember 8-án** indult el. **Alapítója Várhelyi Viktória**, míg **Várhelyi Csanád a platform felelős szerkesztője és vezető szerkesztőségi szerzője**. Házaspárként és szakmai partnerekként több éve együtt dolgoznak; a platformban két egymást kiegészítő nézőpont találkozik. A WikiAI név a rendezett tudás és a mesterséges intelligencia találkozására utal, és egyben személyes kapcsolatot is őriz az alapító, Viktória nevével. **[Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)** a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértőként a szerkesztőségi kutatás, a forrásellenőrzés, az entitásértelmezés és a szakmai pontosság oldalát képviseli, több mint tíz év weboldalfejlesztési és keresőoptimalizálási tapasztalatára építve. **[Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)** a WikiAI.hu alapítója és AI-láthatósági specialista. A partnerkapcsolatok, az üzleti kommunikáció, az online reputáció, a sponsored tartalmak és a platform kereskedelmi együttműködéseinek oldalát képviseli. A közös szemlélet lényege, hogy **a technológia és a tartalom nem különálló feladat, hanem ugyanannak a digitális jelenlétnek két oldala**, amely akkor működik jól, ha ugyanazt a vállalkozást ugyanazzal a pontossággal és szakmai hitelességgel mutatja be.
 
 ## Küldetésünk
 
-**A WikiAI.hu elsődleges küldetése, hogy a magyar vállalkozások, cégek, szolgáltatók és szakemberek digitális, Google- és AI-láthatóságát pontosabb és következetesebb információs környezettel támogassa.** A cél az, hogy egy vállalkozásról az emberek, a keresőrendszerek és az AI-alapú információs rendszerek számára is világosabban értelmezhető szakmai kép álljon rendelkezésre. Ehhez vállalkozásokat és szakembereket mutatunk be, digitális jelenlétet fejlesztünk, és a fő küldetést kiegészítő AI-, üzleti és technológiai tudásanyagokat készítünk. **A WikiAI.hu nem helyettesíti a Google, az AI-szolgáltatók vagy más külső rendszerek döntéseit, és azok eredményeire nem vállal garanciát.**
+**A WikiAI.hu elsődleges küldetése, hogy magyar vállalkozásokról, szakemberekről és üzleti témákról pontos, ellenőrizhető és következetesen szerkesztett tudásforrást építsen.** A cél az, hogy egy vállalkozásról az emberek, a keresőrendszerek és az AI-alapú információs rendszerek számára is világosabban értelmezhető szakmai kép álljon rendelkezésre. Ehhez vállalkozásokat és szakembereket mutatunk be, digitális jelenlétet fejlesztünk, és a fő küldetést kiegészítő AI-, üzleti és technológiai tudásanyagokat készítünk. **A WikiAI.hu nem helyettesíti a Google, az AI-szolgáltatók vagy más külső rendszerek döntéseit, és azok eredményeire nem vállal garanciát.**
 
 > **Nem az a célunk, hogy több marketingtartalom készüljön egy vállalkozásról. Az a célunk, hogy jobb, rendezettebb és könnyebben értelmezhető információ legyen róla.**
 
@@ -63,15 +63,15 @@ A WikiAI.hu **2026. szeptember 8-án** **Várhelyi Csanád és Várhelyi Viktór
 
 ### Mi a WikiAI.hu?
 
-**A WikiAI.hu magyar vállalkozások, cégek, szolgáltatók és szakemberek digitális, Google- és AI-láthatóságát támogató üzleti AI-tudásplatform és szakmai szolgáltatási felület.** A vállalkozási megjelenéseket a fő küldetést kiegészítő AI-, üzleti és technológiai tudásanyagokkal kapcsolja össze.
+**A WikiAI.hu országos magyar, szerkesztett üzleti tudásplatform.** Vállalkozásokat, szakembereket és üzleti témákat kapcsol össze szerkesztőségi adatlapokkal, cikkekkel, hírekkel és tudástári anyagokkal.
 
 ### Mi a WikiAI.hu legfontosabb üzleti célja?
 
-**Elsődleges célja az itt bemutatott magyar vállalkozások digitális, Google- és AI-láthatóságának támogatása.** A WikiAI.hu ehhez rendezett vállalkozási bemutatást, következetes szakmai információt és kapcsolódó digitális jelenléti támogatást biztosít, anélkül hogy Google-helyezést vagy AI-ajánlást garantálna.
+**Elsődleges célja erős, független szerkesztett másodlagos forrás építése magyar vállalkozásokról és üzleti témákról.** A WikiAI.hu ehhez ellenőrizhető forrásokra, önálló szerkesztésre és következetes szakmai információra támaszkodik, anélkül hogy Google-helyezést vagy AI-ajánlást garantálna.
 
 ### Megjelenhet egy vállalkozás a WikiAI.hu-n?
 
-Igen. A WikiAI.hu várja magyar vállalkozások, cégek, szolgáltatók és szakemberek érdeklődését. A megjelenés és az AI-láthatósági együttműködés részletei a **[Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/)** oldalon találhatók.
+Igen, szerkesztőségi kiválasztás és feldolgozás alapján. A Vállalkozások rovatban történő megjelenés nem vásárolható meg. Fizetett tartalmi együttműködés kizárólag a Posztok rovatban jelenhet meg, egyértelmű kereskedelmi jelöléssel.
 
 ### A WikiAI.hu garantál AI-ajánlást vagy Google-helyezést?
 
@@ -81,6 +81,6 @@ Igen. A WikiAI.hu várja magyar vállalkozások, cégek, szolgáltatók és szak
 
 Igen. Az AI támogathat elemzési, szerkesztési és javaslatkészítési feladatokat, de **minden végleges szakmai döntés és publikáció emberi kontroll alatt marad.** Az MI segítségével létrehozott vagy érdemben módosított vizuális tartalmak mesterséges eredetét a WikiAI.hu a tartalom jellegéhez és az alkalmazandó átláthatósági követelményekhez igazodva jelöli.
 
-### Kik alapították a WikiAI.hu-t?
+### Ki alapította a WikiAI.hu-t, és ki felel a szerkesztőségi munkáért?
 
-A WikiAI.hu 2026. szeptember 8-án Várhelyi Csanád és Várhelyi Viktória közös szakmai projektjeként jött létre. Házaspárként és szakmai partnerekként több éve együtt dolgoznak.
+A WikiAI.hu 2026. szeptember 8-án indult el. Alapítója Várhelyi Viktória, a platform felelős szerkesztője és vezető szerkesztőségi szerzője Várhelyi Csanád.
