@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/kapcsolat/"
 source_post_id: 23
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-18T10:06:04+00:00"
-synced_at: "2026-09-24T10:41:20+00:00"
+source_last_modified: "2026-09-25T06:09:49+00:00"
+synced_at: "2026-09-25T06:10:12+00:00"
 ---
 
 # Kapcsolat
@@ -27,45 +27,38 @@ Az alábbi űrlapon közvetlenül felveheti a kapcsolatot a WikiAI.hu-val. Váll
 
 Az űrlap elküldésével megadott adatokat kizárólag a megkeresés kezeléséhez használjuk. Részletek az [Adatvédelmi tájékoztatóban](https://www.wikiai.hu/adatvedelmi-tajekoztato/).
 
-## Központi kapcsolattartás és platformfelügyelet
+## Központi kapcsolattartás
 
-### [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) – alapító, platformvezető és központi kapcsolattartó
+### [Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/) – alapító és üzleti kapcsolattartó
 
-A WikiAI.hu működésével kapcsolatos **általános, üzleti, intézményi, technikai és tartalmi megkeresések központi kezelése és felügyelete** ehhez a kapcsolattartási ponthoz tartozik. Ide érkezhet együttműködési vagy partneri megkeresés, vállalkozási megjelenési igény, kapcsolatfelvételi kérés, hibajelzés, technikai probléma, tartalmi észrevétel, adatpontosítás, helyesbítési vagy frissítési kérelem, valamint bármely, a platform működését érintő ügy.
+A WikiAI.hu **általános, üzleti, partneri és szolgáltatási megkereséseinek** elsődleges kapcsolattartója Várhelyi Viktória. Ide tartoznak a Posztok rovat fizetett együttműködései, a hirdetési és partneri lehetőségek, valamint a WikiAI.hu működésével kapcsolatos általános üzleti kérdések.
 
-Szakterületi kérdés esetén a központi kapcsolattartás gondoskodik arról, hogy a megkeresés a megfelelő szakmai területhez kerüljön. A kapcsolattartás célja az átlátható, egységes és követhető ügykezelés vállalkozási, szakmai és intézményi megkeresések esetén egyaránt.
-
-**Szakterület:** AI Weblapfejlesztés, SEO, AEO, GEO, LLMO, AI-láthatóság, LLM-first webarchitektúra, strukturált adatok, Entity Engineering és vállalkozások digitális jelenléte.
+Szerkesztőségi tartalommal, helyesbítéssel vagy forráskérdéssel kapcsolatos megkeresés esetén az ügy a WikiAI.hu felelős szerkesztőjéhez kerül.
 
 **Hivatalos e-mail:** info@wikiai.hu
-**Mobil:** +36 70 226 4545
-**Elérhetőség:** telefon, WhatsApp, Viber, iMessage és SMS
+**Mobil:** +36 70 778 4012
 **Működési terület:** Magyarország – országos együttműködés
 
-[Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
+[Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
-## Kapcsolati cím és ügyfélfogadás
+## Kapcsolattartás és egyeztetés
 
-**Kapcsolati cím:**
-4200 Hajdúszoboszló
-Déryné utca 3.
-Magyarország
+A WikiAI.hu országos fókuszú platform, ezért Magyarország teljes területéről fogadunk megkereséseket. A kapcsolattartás elsődlegesen online és telefonon történik.
 
-**Ügyfélfogadás előre egyeztetett időpontban lehetséges.** Személyes találkozó vagy szakmai egyeztetés előtt kérjük, vegye fel velünk a kapcsolatot az info@wikiai.hu e-mail-címen vagy a központi telefonszámon.
+**Személyes egyeztetés kizárólag előzetes megbeszélés alapján lehetséges.** Időpont-egyeztetéshez írjon az info@wikiai.hu e-mail-címre.
 
 ## Szakmai kapcsolattartók
 
 A központi kapcsolattartás mellett a WikiAI.hu szakmai kapcsolattartói saját szakterületükön közvetlenül is elérhetők. A részletes szakmai hátterük a kapcsolódó profiloldalakon ismerhető meg.
 
-### [Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/) – társalapító, AI-láthatósági specialista
+### [Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/) – alapító, AI-láthatósági specialista
 
-**Szakterület:** szakmai tartalom, üzleti kommunikáció, online reputáció, digitális identitás, márkakonzisztencia, vállalkozási bemutatások, **közösségimédia-tartalomtervezés, valamint Short és Reel videós tartalmak tervezése**.
+**Szakterület:** partnerkapcsolatok, sponsored tartalmak, üzleti kommunikáció, online reputáció, digitális jelenlét és a WikiAI.hu kereskedelmi együttműködései.
 
-Tartalmi és kommunikációs kérdésekben, vállalkozások szakmai bemutatásában, márkamegjelenésben, online reputációban, közösségi média tartalmi irányának kialakításában, valamint rövid videós kommunikációs tartalmak tervezésében kereshető.
+Viktória a WikiAI.hu alapítója és a Posztok rovat fizetett tartalmi együttműködéseinek elsődleges kapcsolattartója. A WikiAI.hu új működési modelljében a kereskedelmi és partneri oldal különválik a szerkesztőségi tartalmaktól.
 
 **E-mail:** info@wikiai.hu
 **Mobil / üzenet:** +36 70 778 4012
-**Elérhetőség:** SMS és iMessage
 
 [Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
@@ -83,25 +76,26 @@ Vállalati AI, Context Engineering, SAP-támogatás, üzleti adatfolyamatok és 
 
 ## Milyen ügyben kereshet minket?
 
-- **vállalkozás, cég, szolgáltatás vagy szakértő bemutatása** a WikiAI.hu felületén;
+- **Posztok rovatban megjelenő fizetett tartalmi együttműködés** vagy hirdetési lehetőség;
+- vállalkozás vagy szakértő javaslata későbbi szerkesztőségi feldolgozásra;
 - **AI-láthatóság, webes és keresési jelenlét** fejlesztése;
 - szakmai, vállalati vagy intézményi együttműködés;
-- tartalomstratégia, üzleti kommunikáció, közösségi média és rövid videós tartalmak;
+- tartalomstratégia és üzleti kommunikáció;
 - vállalati AI, Context Engineering, SAP Support és kapcsolódó üzleti technológiai kérdések;
 - a WikiAI.hu-n megjelent tartalommal vagy adattal kapcsolatos észrevétel, helyesbítés vagy frissítés;
 - technikai hibajelzés vagy a platform működésével kapcsolatos észrevétel.
 
 ## Vállalkozási, szakmai és intézményi együttműködés
 
-A WikiAI.hu olyan vállalkozások, cégek, szolgáltatók, szakemberek, szakmai szervezetek és intézmények megkeresését várja, amelyek mögött **valós szakmai teljesítmény, szolgáltatás és ellenőrizhető működés** áll, és digitális jelenlétüket az AI korszakának megfelelően szeretnék továbbfejleszteni.
+A WikiAI.hu olyan vállalkozások, cégek, szolgáltatók, szakemberek, szakmai szervezetek és intézmények megkeresését várja, amelyek mögött **valós szakmai teljesítmény, szolgáltatás és ellenőrizhető működés** áll.
 
-A vállalkozási megjelenéshez, AI-láthatósághoz és kapcsolódó szakmai szolgáltatásokhoz tartozó információk a **[Szolgáltatások oldalon](https://www.wikiai.hu/szolgaltatasok/)** érhetők el. Egyedi, vállalati vagy intézményi megkeresés esetén a központi e-mail-cím használata javasolt.
+**A WikiAI.hu szerkesztőségi rovataiba történő bekerülés nem vásárolható meg.** Fizetett tartalmi együttműködés kizárólag a Posztok rovatban jelenhet meg, egyértelmű kereskedelmi jelöléssel. Egyedi üzleti vagy intézményi megkeresés esetén az info@wikiai.hu központi e-mail-cím használata javasolt.
 
 ## Hibajelzés, pontosítás és tartalmi észrevétel
 
 A WikiAI.hu fontosnak tartja a közzétett információk pontosságát, következetességét és aktualitását. Ha egy megjelent vállalkozási, szakmai, kapcsolati vagy egyéb adat hibás, hiányos vagy időközben megváltozott, kérjük, jelezze a **info@wikiai.hu** címen.
 
-A bejelentések, helyesbítési és frissítési kérelmek, valamint a platform működésével kapcsolatos technikai észrevételek központi felügyelet mellett kerülnek feldolgozásra.
+A szerkesztőségi helyesbítések és tartalmi észrevételek Várhelyi Csanád, a WikiAI.hu felelős szerkesztőjének szakmai felügyelete mellett kerülnek feldolgozásra.
 
 ## Adatkezelés és hivatalos tájékoztatás
 
@@ -117,9 +111,9 @@ A WikiAI.hu vállalkozási, szakmai, intézményi, tartalmi és technikai megker
 
 A WikiAI.hu-n megjelent tartalommal, adattal vagy technikai működéssel kapcsolatos észrevétel az info@wikiai.hu címen jelezhető. A helyesbítési és frissítési kérelmek központi felügyelet mellett kerülnek kezelésre.
 
-### Van lehetőség személyes ügyfélfogadásra?
+### Van lehetőség személyes egyeztetésre?
 
-Igen. Személyes ügyfélfogadás a 4200 Hajdúszoboszló, Déryné utca 3. alatti kapcsolati címen, előre egyeztetett időpontban lehetséges.
+Igen, előzetes megbeszélés alapján. A WikiAI.hu országosan működik, ezért a kapcsolattartás elsődlegesen online és telefonon történik; személyes egyeztetéshez írjon az info@wikiai.hu címre.
 
 ### Közvetlenül is kereshetők a szakmai kapcsolattartók?
 
@@ -129,4 +123,4 @@ Igen. A szakmai kapcsolattartók saját szakterületükön közvetlenül is kere
 
 A WikiAI.hu országos szemlélettel működik, ezért Magyarország teljes területéről fogad vállalkozási, szakmai és intézményi megkereséseket.
 
-**Központi kapcsolat:** info@wikiai.hu · +36 70 226 4545
+**Központi kapcsolat:** info@wikiai.hu · +36 70 778 4012
