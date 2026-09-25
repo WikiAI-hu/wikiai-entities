@@ -509,6 +509,9 @@
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#webpage"
         },
         {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md"
+        },
+        {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#github-markdown-mirror"
         },
         {
@@ -1753,6 +1756,30 @@
           "value": "diófa X-láb"
         }
       ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md",
+      "url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Bolyáki Antikvitás és Műhely",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Bolyáki Antikvitás és Műhelyről szóló szerkesztőségi profiljának saját domainen elérhető Markdown reprezentációja."
     }
   ]
 }
