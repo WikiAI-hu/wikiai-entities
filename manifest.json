@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-25T16:30:30Z",
+    "last_updated": "2026-09-25T16:39:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -104,14 +104,7 @@
             "wordpress_post_id": 66,
             "country": "HU",
             "google_cid": "6706916637082778628",
-            "google_place_id": "ChIJZ3ZaUBobR0cRBPx5iyXBE10",
-            "jsonld_mirror": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld",
-            "entity_id": "https://www.ballonosvizdebrecen.hu/#organization",
-            "wikiai_article_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#article",
-            "wikiai_webpage_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#webpage",
-            "editorial_author": "Várhelyi Csanád",
-            "publication_relation": "editorial",
-            "source_role": "independent-secondary-source"
+            "google_place_id": "ChIJZ3ZaUBobR0cRBPx5iyXBE10"
         },
         {
             "entity_name": "Kohlberger Bau Kft.",
