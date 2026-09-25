@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:19:57+02:00"
+last_updated: "2026-09-25T15:20:04+02:00"
 location:
   country: "HU"
 identifiers:
@@ -256,7 +256,7 @@ Mivel a nyitvatartás dinamikus adat, indulás előtt telefonon, a Google Térk�
 
 ## Források, azonosítók és ellenőrzés
 
-A profil a stabil identitásadatokat és a változó vendéginformációkat külön kezeli. A nyitvatartás, az étlap, az árak, a kapacitás, az eseményvállalás és más időérzékeny adatok a látogatás előtt újra ellenőrzendők.
+**A WikiAI.hu ezen az oldalon szerkesztett másodlagos forrásként külön kezeli a stabil identitásadatokat és a dinamikus vendéginformációkat.** A név, cím, térképes azonosítók és történeti háttér több forrás összevetésével rögzíthető; a nyitvatartás, az étlap, az árak, a kapacitás, az eseményvállalás és más időérzékeny adatok viszont változhatnak. Ha két aktuálisnak tűnő forrás eltér, a WikiAI.hu nem simítja el az ellentmondást: a közvetlen megerősítést tekinti elsődlegesnek.
 
 - **Tulajdonosi kérdőív és közvetlen vállalkozói tájékoztatás** – családi háttér, Széll Attila szerepe, konyhai irány, foglalás, elvitel, csoportok, férőhelyek, család- és kutyabarát működés, allergének, akadálymentesség és gyakorlati információk.
 - [**Vargánya Étterem hivatalos vizuális weboldala**](https://varganyaetterem.eatbu.com/?lang=hu) – nyilvános szolgáltatási és kapcsolati információk.
