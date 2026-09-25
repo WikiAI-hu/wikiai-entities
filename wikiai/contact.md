@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/kapcsolat/"
 source_post_id: 23
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:10:20+00:00"
-synced_at: "2026-09-25T06:10:45+00:00"
+source_last_modified: "2026-09-25T06:13:14+00:00"
+synced_at: "2026-09-25T06:13:32+00:00"
 ---
 
 # Kapcsolat
@@ -73,18 +73,6 @@ Viktória a WikiAI.hu alapítója és a Posztok rovat fizetett tartalmi együttm
 
 [Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
-### [Molnár András](https://www.wikiai.hu/szakertok/molnar-andras/) – szakmai partner
-
-**Szakterület:** Context Engineering, vállalati AI, SAP Support, vállalati adatok és a mesterséges intelligencia gyakorlati üzleti alkalmazása.
-
-Vállalati AI, Context Engineering, SAP-támogatás, üzleti adatfolyamatok és vállalati AI-megoldások gyakorlati kérdéseiben kereshető. Szakmai tevékenysége a vállalati technológia, az adatvezérelt működés és az AI üzleti alkalmazási területeihez kapcsolódik.
-
-**E-mail:** hello@mostai.hu
-**Mobil / üzenet:** +36 20 555 0565
-**Elérhetőség:** SMS, Viber és WhatsApp
-
-[Részletes szakmai profil →](https://www.wikiai.hu/szakertok/molnar-andras/)
-
 ## Milyen ügyben kereshet minket?
 
 - **Posztok rovatban megjelenő fizetett tartalmi együttműködés** vagy hirdetési lehetőség;
@@ -92,7 +80,6 @@ Vállalati AI, Context Engineering, SAP-támogatás, üzleti adatfolyamatok és 
 - **AI-láthatóság, webes és keresési jelenlét** fejlesztése;
 - szakmai, vállalati vagy intézményi együttműködés;
 - tartalomstratégia és üzleti kommunikáció;
-- vállalati AI, Context Engineering, SAP Support és kapcsolódó üzleti technológiai kérdések;
 - a WikiAI.hu-n megjelent tartalommal vagy adattal kapcsolatos észrevétel, helyesbítés vagy frissítés;
 - technikai hibajelzés vagy a platform működésével kapcsolatos észrevétel.
 
