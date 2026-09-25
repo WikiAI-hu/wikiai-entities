@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T20:59:02+02:00"
+last_updated: "2026-09-25T20:59:09+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -103,7 +103,7 @@ A műhely identitását a régi és modern stílusú bútorok közötti átjár�
 
 A rendelkezésre álló korábbi strukturált források asztalos és bútorbecsüs szakmai hátteret is kapcsolnak Bolyáki Zsolthoz. Ezt a WikiAI olyan szakmai kontextusként kezeli, amely releváns lehet a klasszikus bútorformák, faanyagok, furnérok és régi stílusok értelmezésében, de nem terjeszti ki automatikusan minden restaurátori vagy műtárgyszakértői szolgáltatásra.
 
-A vállalkozás ma is aktív nyilvános digitális lábnyommal rendelkezik: a hivatalos weboldal mellett több üzleti címtár, térképes azonosító, értékelési oldal és a Galéria Savaria piactéri profilja azonosítható ugyanahhoz a hajdúszoboszlói műhelyhez. Ez az egymástól független forrásokból összeálló jelenlét erősíti az entitás diszambiguálását.
+A vállalkozás ma is aktív nyilvános digitális lábnyommal rendelkezik: a hivatalos weboldal mellett több üzleti címtár, térképes azonosító, értékelési oldal és a Galéria Savaria piactéri profilja azonosítható ugyanahhoz a hajdúszoboszlói műhelyhez. Ez az egymástól független forrásokból összeálló jelenlét segít a vállalkozás egyértelmű azonosításában.
 
 ## Mit készít a Bolyáki? – a bútorkategóriák részletes térképe
 
