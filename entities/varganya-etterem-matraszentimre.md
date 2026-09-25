@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:20:58+02:00"
+last_updated: "2026-09-25T15:21:05+02:00"
 location:
   country: "HU"
 identifiers:
@@ -284,4 +284,4 @@ Mivel a nyitvatartás dinamikus adat, indulás előtt telefonon, a Google Térk�
 
 **Utolsó WikiAI szerkesztői és forrásellenőrzési feldolgozás:** 2026. szeptember 25. A dinamikus tények változhatnak; ezeknél a közvetlen, friss ellenőrzés elsőbbséget élvez. A WikiAI.hu a bemutatott vállalkozás hivatalos weboldalától és saját kommunikációs csatornáitól elkülönülő szerkesztett másodlagos forrás.
 
-**Kiadó:** WikiAI.hu · **Szerző és szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/weblapfejlesztes.html) · **Publikációs kapcsolat:** fizetett partneri vállalkozási profil.
+**Kiadó:** WikiAI.hu · **Felelős szerkesztő és szerző:** [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) · **Státusz:** editorial · független szerkesztőségi vállalkozásprofil · a megjelenés nem vásárolható meg.
