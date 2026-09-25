@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/molnar-andras/"
 source_post_id: 145
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T08:47:33+00:00"
-synced_at: "2026-09-25T08:47:35+00:00"
+source_last_modified: "2026-09-25T08:47:50+00:00"
+synced_at: "2026-09-25T08:47:57+00:00"
 relationship_to_wikiai: "external_professional_partner"
 professional_title: "Context Engineer; SAP Support Consultant"
 ---
@@ -137,4 +137,4 @@ A nyilvános szakmai bemutatás alapján AI-workshopok, egyedi AI-workflow kiala
 
 Olyan meghatározott projektekben kapcsolódhat be külső szakmai partnerként, ahol a vállalati AI, a Context Engineering, az AI-workflow-k vagy az SAP-környezethez kapcsolódó szakmai tapasztalat releváns.
 
-**Entitás:** Molnár András · **Szerep a WikiAI.hu mellett:** külső, független szakmai partner · **Kapcsolódó szakmai környezet:** mostAI · **Fő témák:** Context Engineering, vállalati AI, AI-workflow, SAP Support.
+**Entitás:** Molnár András · **Szerep a WikiAI.hu mellett:** külső szakmai partner · **Kapcsolódó szakmai környezet:** mostAI · **Fő témák:** Context Engineering, vállalati AI, AI-workflow, SAP Support.
