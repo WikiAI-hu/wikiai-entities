@@ -55,10 +55,10 @@
         "@id": "https://www.wikiai.hu/#website"
       },
       "mainEntity": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "about": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "primaryImageOfPage": {
         "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#primary-image"
@@ -76,10 +76,7 @@
       },
       "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
       "isBasedOn": [
-        "https://szoboszloiviz.hu/",
-        "https://www.ballonosvizdebrecen.hu/",
-        "https://www.ballonosvizdebrecen.hu/llms-full.txt",
-        "https://www.ballonosvizdebrecen.hu/sugo.txt"
+        "https://szoboszloiviz.hu/"
       ],
       "hasPart": [
         {
@@ -103,11 +100,11 @@
       "datePublished": "2026-09-07T17:03:26+02:00",
       "dateModified": "2026-09-25T18:30:28+02:00",
       "mainEntity": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "about": [
         {
-          "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+          "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
         },
         {
           "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#ballonos-ivoviz"
@@ -158,14 +155,10 @@
         "Hajdú-Bihar"
       ],
       "isBasedOn": [
-        "https://szoboszloiviz.hu/",
-        "https://www.ballonosvizdebrecen.hu/",
-        "https://www.ballonosvizdebrecen.hu/llms-full.txt",
-        "https://www.ballonosvizdebrecen.hu/sugo.txt"
+        "https://szoboszloiviz.hu/"
       ],
       "citation": [
         "https://szoboszloiviz.hu/",
-        "https://www.ballonosvizdebrecen.hu/",
         "https://www.facebook.com/szoboszloviz/",
         "https://www.google.com/maps?cid=6706916637082778628",
         "https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036334/Hajduszoboszloi-Asvanyviz-Korlatolt-Felelossegu-Tarsasag"
@@ -176,10 +169,9 @@
         "Organization",
         "LocalBusiness"
       ],
-      "@id": "https://www.ballonosvizdebrecen.hu/#organization",
+      "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business",
       "name": "Hajdúszoboszlói Ásványvíz Kft.",
       "legalName": "Hajdúszoboszlói Ásványvíz Kft.",
-      "url": "https://www.ballonosvizdebrecen.hu/",
       "description": "Hajdúszoboszlói központú ballonos ivóvíz-szolgáltató vállalkozás, amely 19 literes szűrt és tisztított ivóvizet forgalmaz és szállít ki, balloncsere-rendszert működtet, valamint vízadagolókat ad bérbe és értékesít.",
       "foundingDate": "2024-09-03",
       "image": {
@@ -317,7 +309,8 @@
           "name": "Lakossági házhozszállítás standard minimuma",
           "value": "4 ballon"
         }
-      ]
+      ],
+      "url": "https://szoboszloiviz.hu/"
     },
     {
       "@type": "Person",
@@ -325,7 +318,7 @@
       "name": "Kohlberger Zoltán",
       "jobTitle": "ügyvezető",
       "worksFor": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       }
     },
     {
@@ -334,7 +327,7 @@
       "name": "Kohlberger Erika",
       "jobTitle": "kapcsolattartó",
       "worksFor": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       }
     },
     {
@@ -392,10 +385,10 @@
       "name": "19 literes ballonos ivóvíz",
       "category": "Ivóvíz",
       "brand": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "manufacturer": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "description": "19 literes, szénsavmentes, szűrt és tisztított ivóvíz újrahasználható polikarbonát ballonban. A terméket a vállalkozás nem ásványvízként és nem forrásvízként határozza meg.",
       "size": "19 liter",
@@ -434,10 +427,10 @@
       "name": "5 literes ivóvíz",
       "category": "Ivóvíz",
       "brand": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "manufacturer": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "description": "A Hajdúszoboszlói Ásványvíz Kft. kínálatában szereplő 5 literes ivóvíz-kiszerelés.",
       "size": "5 liter"
@@ -478,7 +471,7 @@
       "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#ivoviz-kiszallitas",
       "name": "Ballonos ivóvíz kiszállítás",
       "provider": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "serviceType": "19 literes ballonos ivóvíz kiszállítás",
       "areaServed": [
@@ -499,7 +492,7 @@
       "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#balloncsere",
       "name": "Balloncsere",
       "provider": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "serviceType": "Üres ballonok visszagyűjtése és tele ballonok átadása",
       "description": "A későbbi rendelések egy az egyben balloncsere-rendszerben működhetnek."
@@ -509,7 +502,7 @@
       "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#vizadagolo-szolgaltatas",
       "name": "Vízadagoló szolgáltatás",
       "provider": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "serviceType": "Vízadagoló bérlés, értékesítés és karbantartás"
     },
@@ -518,7 +511,7 @@
       "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#vizadagolo-berles",
       "name": "Vízadagoló bérlés",
       "provider": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "serviceType": "Havi díjas vízadagoló-bérlés",
       "description": "Vízadagolók havi díjas bérbeadása karbantartási háttérrel; javítás idejére szükség esetén cseregép biztosítható."
@@ -528,7 +521,7 @@
       "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#vizadagolo-ertekesites",
       "name": "Vízadagoló értékesítés",
       "provider": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "serviceType": "Vízadagoló berendezések értékesítése",
       "description": "Kézi és elektromos pumpák, asztali és álló, hideg-meleg és más vízadagoló megoldások értékesítése."
@@ -542,7 +535,7 @@
         "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#webpage"
       },
       "about": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "mainEntity": [
         {
@@ -635,7 +628,7 @@
       "encodingFormat": "text/markdown",
       "inLanguage": "hu-HU",
       "about": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "isBasedOn": {
         "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#article"
@@ -659,7 +652,7 @@
       "encodingFormat": "application/ld+json",
       "inLanguage": "hu-HU",
       "about": {
-        "@id": "https://www.ballonosvizdebrecen.hu/#organization"
+        "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
       },
       "isBasedOn": {
         "@id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#article"
