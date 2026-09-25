@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-25T19:35:00Z",
+    "last_updated": "2026-09-25T19:44:32Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -38,21 +38,7 @@
             "wordpress_post_id": 71,
             "country": "HU",
             "google_cid": "10936159661846136743",
-            "google_kgmid": "/g/11b6ztqscl",
-            "last_updated": "2026-09-25T21:08:55+02:00",
-            "hfcm_script_id": 19,
-            "production_jsonld_layer": "HFCM",
-            "production_jsonld_location": "header",
-            "production_jsonld_status": "active",
-            "production_jsonld_graph_nodes": 58,
-            "production_jsonld_sha256": "d658a1e356dd4e242a80a64b7a627477cad1ae469dd25a5724ae58d657045ded",
-            "production_body_jsonld": false,
-            "yoast_schema_disabled": true,
-            "last_verified_at": "2026-09-25T21:35:00+02:00",
-            "product_example_schema_type": "Thing",
-            "local_markdown_url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md",
-            "local_markdown_content_type": "text/markdown",
-            "local_markdown_status": "active"
+            "google_kgmid": "/g/11b6ztqscl"
         },
         {
             "entity_name": "Csarnok-Gyártó Kft.",
@@ -278,71 +264,5 @@
             "wordpress_post_id": 637,
             "country": "Magyarország"
         }
-    ],
-    "wikiai_knowledge": {
-        "index": "wikiai/index.md",
-        "manifest": "wikiai/manifest.json",
-        "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-25T19:14:09+00:00",
-        "documents": [
-            {
-                "document_type": "service_catalog",
-                "path": "wikiai/services.md",
-                "canonical_url": "https://www.wikiai.hu/szolgaltatasok/",
-                "wordpress_post_id": 101
-            },
-            {
-                "document_type": "pricing",
-                "path": "wikiai/pricing.md",
-                "canonical_url": "https://www.wikiai.hu/arak/",
-                "wordpress_post_id": 202,
-                "currency": "HUF",
-                "valid_as_of": "2026-09-25"
-            },
-            {
-                "document_type": "about",
-                "path": "wikiai/about.md",
-                "canonical_url": "https://www.wikiai.hu/rolunk/",
-                "wordpress_post_id": 21
-            },
-            {
-                "document_type": "team_directory",
-                "path": "wikiai/team.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/",
-                "wordpress_post_id": 22
-            },
-            {
-                "document_type": "contact",
-                "path": "wikiai/contact.md",
-                "canonical_url": "https://www.wikiai.hu/kapcsolat/",
-                "wordpress_post_id": 23
-            }
-        ],
-        "people": [
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-csanad.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
-                "wordpress_post_id": 143,
-                "name": "Várhelyi Csanád",
-                "relationship_to_wikiai": "founder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-viktoria.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
-                "wordpress_post_id": 144,
-                "name": "Várhelyi Viktória",
-                "relationship_to_wikiai": "cofounder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/molnar-andras.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
-                "wordpress_post_id": 145,
-                "name": "Molnár András",
-                "relationship_to_wikiai": "external_professional_partner"
-            }
-        ]
-    }
+    ]
 }
