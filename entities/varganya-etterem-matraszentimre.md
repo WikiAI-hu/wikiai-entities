@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:45:42+02:00"
+last_updated: "2026-09-25T15:45:49+02:00"
 location:
   country: "HU"
 identifiers:
@@ -187,7 +187,7 @@ Téli időszakban a hegyvidéki útviszonyokra érdemes külön figyelni.
 
 ## A Felső-Mátra részeként
 
-A Vargánya Étterem elhelyezkedése miatt természetesen kapcsolódik a Felső-Mátra kiránduló- és téli turizmusához. Mátraszentimréről könnyen elérhető többek között **Galyatető, Mátraszentistván, Mátraszentlászló, Fallóskút, Bagolyirtás, az Országos Kéktúra mátrai szakasza és a Mátraszentistváni Sípark**.
+A Vargánya Étterem elhelyezkedése miatt természetesen kapcsolódik a Felső-Mátra kiránduló- és téli turizmusához. Mátraszentimréről könnyen elérhető többek között **Galyatető, Kékestető, Mátraszentistván, Mátraszentlászló, Mátraháza, Mátrakeresztes, Fallóskút, Bagolyirtás, Ágasvár, az Országos Kéktúra mátrai szakasza és a Mátraszentistváni Sípark**.
 
 A hely ezért nemcsak önmagában éttermi célpont, hanem egy túra, kirándulás, síelés vagy többnapos mátrai pihenés természetes megállója is lehet.
 
