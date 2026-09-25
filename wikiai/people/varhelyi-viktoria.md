@@ -7,9 +7,9 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-viktoria/"
 source_post_id: 144
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:54:38+00:00"
-synced_at: "2026-09-25T07:55:06+00:00"
-relationship_to_wikiai: "founder"
+source_last_modified: "2026-09-25T07:58:58+00:00"
+synced_at: "2026-09-25T07:59:52+00:00"
+relationship_to_wikiai: "cofounder"
 professional_title: "AI-láthatósági specialista"
 ---
 
