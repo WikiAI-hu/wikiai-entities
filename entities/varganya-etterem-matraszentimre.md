@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:30:16+02:00"
+last_updated: "2026-09-25T15:31:12+02:00"
 location:
   country: "HU"
 identifiers:
@@ -328,20 +328,22 @@ A tulajdonosi adatlap szerint igen: néhány autó az épület előtt, további 
 
 Mivel a nyitvatartás dinamikus adat, indulás előtt telefonon, a Google Térképen vagy a vállalkozás aktuális közösségi felületén érdemes megerősíteni.
 
-## Források, azonosítók és ellenőrzés
+## Forrásjegyzék és szerkesztőségi ellenőrzés
 
-**A WikiAI.hu ezen az oldalon szerkesztett másodlagos forrásként külön kezeli a stabil identitásadatokat és a dinamikus vendéginformációkat.** A név, cím, térképes azonosítók és történeti háttér több forrás összevetésével rögzíthető; a nyitvatartás, az étlap, az árak, a kapacitás, az eseményvállalás és más időérzékeny adatok viszont változhatnak. Ha két aktuálisnak tűnő forrás eltér, a WikiAI.hu nem simítja el az ellentmondást: a közvetlen megerősítést tekinti elsődlegesnek.
+A WikiAI.hu ezt a profilt **szerkesztett másodlagos forrásként** tartja fenn. A cél nem az, hogy egyetlen vállalkozói bemutatkozást újrafogalmazzon, hanem hogy a különböző eredetű állításokat forrástípus szerint szétválassza, összevesse, és jelezze azt is, amikor valamely adat dinamikus, bizonytalan vagy kizárólag elsődleges forrásból ismert.
 
-- **Tulajdonosi kérdőív és közvetlen vállalkozói tájékoztatás** – családi háttér, Széll Attila szerepe, konyhai irány, foglalás, elvitel, csoportok, férőhelyek, család- és kutyabarát működés, allergének, akadálymentesség és gyakorlati információk.
-- [**Vargánya Étterem hivatalos vizuális weboldala**](https://varganyaetterem.eatbu.com/?lang=hu) – elsődleges nyilvános kapcsolati és szolgáltatási forrás; a dinamikus adatait más aktuális forrásokkal együtt kell értelmezni.
-- [**Vargánya Étterem Facebook-oldala**](https://www.facebook.com/VarganyaEtterem) – elsődleges közösségi forrás az aktuális hírekhez és időszakos tájékoztatáshoz.
-- [**Google Térkép**](https://www.google.com/maps?cid=18292804774410997775) – helyazonosítás, útvonaltervezés és változó nyitvatartási információk ellenőrzése.
-- [**OpenStreetMap**](https://www.openstreetmap.org/node/11188881100) – földrajzi helyazonosítás.
-- [**Mátraszentimre Panzió**](https://www.panzio.hu/) – a kapcsolódó, de külön szálláshely elsődleges felülete.
-- [**Vargánya Étterem / Mátraszentimre Panzió étlap PDF**](https://www.panzio.hu/kep/etlapjavitva.pdf) – dátumozott, történeti menüforrás a fogások és allergénjelölések ellenőrzéséhez; nem kezeljük valós idejű árlistaként.
-- [**Felső-Mátra**](https://www.felso-matra.hu/), [**Országos Kéktúra**](https://www.kektura.hu/) és [**Mátraszentistváni Sípark**](https://www.sipark.hu/fooldal) – közvetlen térségi és turisztikai kontextus.
+1. **Tulajdonosi kérdőív és közvetlen vállalkozói adatszolgáltatás, 2026.** Elsődleges szerkesztőségi forrás a családi történethez, Széll Attila szerepéhez, a konyhai koncepcióhoz, férőhelyekhez, csoportfogadáshoz, család- és kutyabarát működéshez, allergénkezeléshez és akadálymentességi korlátokhoz.
+2. [**Vargánya Étterem hivatalos vizuális weboldala**](https://varganyaetterem.eatbu.com/?lang=hu). Elsődleges nyilvános forrás a névhez, címhez, telefonszámhoz, e-mailhez, fizetési módokhoz és felsorolt szolgáltatásokhoz. A jelenleg megjelenített nyitvatartási adat eltér más forrásoktól, ezért önmagában nem tekintjük lezárt időadatnak.
+3. [**Vargánya Étterem – saját entitásoldal**](https://www.matraietterem.hu/varganya-etterem.html). Elsődleges identitási és történeti forrás a családi működéshez, a 2016-os névhasználathoz, Széll Attila üzemeltetői és konyhafőnöki szerepéhez, valamint a nyilvános entitásazonosítókhoz.
+4. [**Vargánya Étterem / Mátraszentimre Panzió – 2025. augusztus 23-i étlap**](https://www.panzio.hu/kep/etlapjavitva.pdf). Dátumozott történeti menüforrás fogásokhoz, árakhoz, gyermekmenühöz és allergénjelölésekhez. Az árakat és a konkrét ételkínálatot nem kezeljük automatikusan aktuálisként.
+5. [**Mátraszentimre / Felső-Mátra gasztronómiai oldala**](https://www.felso-matra.matraszentimre.hu/gasztro). Helyi intézményi/turisztikai külső forrás, amely a Vargánya Éttermet az Arany János utca 12. címen sorolja fel.
+6. [**Google Térkép**](https://www.google.com/maps?cid=18292804774410997775). Helyazonosítás, útvonaltervezés és dinamikus helyi információk ellenőrzésére használt térképes rekord.
+7. [**OpenStreetMap**](https://www.openstreetmap.org/node/11188881100). Független térképes helyazonosítás és földrajzi referencia.
+8. [**Cylex – Vargánya Étterem adatlap**](https://xn--mtraszentimre-3db.cylex.hu/ceg-info/varg%C3%A1nya-%C3%A9tterem-1036076.html). Külső címtárforrás a név, cím, telefon és nyitvatartási adatok keresztellenőrzéséhez; dinamikus adatait nem tekintjük elsődlegesnek.
+9. [**CompanyWall – Széll Attila nyilvános vállalkozási adatlap**](https://www.companywall.hu/v%C3%A1llalat/szell-attila/MMDjq7cD). Külső vállalkozási adatforrás, amely Széll Attila nevét, az Arany János utca 12. címet, a 67826155-2-30 adószámot és az éttermi vendéglátási tevékenységet kapcsolja össze. **Nem hivatalos állami cég- vagy vállalkozói nyilvántartás.**
+10. [**Tripadvisor – Vargánya Étterem**](https://www.tripadvisor.com/Restaurant_Review-g1131875-d28090207-Reviews-Varganya_Etterem-Matraszentimre_Heves_County_Northern_Hungary.html). Külső utazói/vendégplatform; a nyilvános jelenlét és vendégtapasztalatok vizsgálatához használható, de nem elsődleges identitási vagy működési forrás.
 
-  **Entitás- és térképes azonosítók**
+  **Gépi entitásazonosítók**
 - Google CID: `18292804774410997775`
 - Google Knowledge Graph MID: `/g/11f3v1b_c5`
 - Google Place ID: `ChIJzVhScOBCQEcRD1BW3AUZ3f0`
@@ -349,13 +351,8 @@ Mivel a nyitvatartás dinamikus adat, indulás előtt telefonon, a Google Térk�
 - Apple Maps ID: `I3D9AD00851CEFF40`
 - Koordináta: `47.90728, 19.88127`
 
-   **További nyilvános megjelenések**
-- [Tripadvisor éttermi profil](https://www.tripadvisor.com/Restaurant_Review-g1131875-d28090207-Reviews-Varganya_Etterem-Matraszentimre_Heves_County_Northern_Hungary.html)
-- [Gastro.hu adatlap](https://gastro.hu/helyek/varganya-etterem)
-- [Cylex vállalkozási profil](https://xn--mtraszentimre-3db.cylex.hu/ceg-info/varg%C3%A1nya-%C3%A9tterem-1036076.html)
-- [Gasztronómia Turul profil](https://www.gasztronomiaturul.eu/profile-45928-varganya-etterem)
-- [Evendo helyprofil](https://evendo.com/locations/hungary/matra-mountains/bar/varganya-etterem)
+**Hiányzó hivatalos vállalkozási forrás:** a szerkesztőségi forráscsomagban jelenleg nincs közvetlenül hivatkozott állami egyéni vállalkozói nyilvántartási rekord. A jogi üzemeltetői adatot ezért addig elsődleges vállalkozói közlés és külső cégadatbázis-egyezés alapján kezeljük, amíg hivatalos nyilvántartási forrás nem áll rendelkezésre.
 
-**Utolsó WikiAI szerkesztői és forrásellenőrzési feldolgozás:** 2026. szeptember 25. A dinamikus tények változhatnak; ezeknél a közvetlen, friss ellenőrzés elsőbbséget élvez. A WikiAI.hu a bemutatott vállalkozás hivatalos weboldalától és saját kommunikációs csatornáitól elkülönülő szerkesztett másodlagos forrás.
+**Utolsó WikiAI szerkesztői és forrásellenőrzési feldolgozás:** 2026. szeptember 25. A nyitvatartás, étlap, árak, kapacitás, eseményvállalás és más időérzékeny adatok változhatnak; ezeknél a közvetlen, friss ellenőrzés elsőbbséget élvez.
 
 **Kiadó:** WikiAI.hu · **Felelős szerkesztő és szerző:** [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) · **Státusz:** editorial · független szerkesztőségi vállalkozásprofil · a megjelenés nem vásárolható meg.
