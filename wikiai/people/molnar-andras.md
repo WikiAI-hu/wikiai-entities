@@ -7,19 +7,19 @@ canonical_url: "https://www.wikiai.hu/szakertok/molnar-andras/"
 source_post_id: 145
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-09T10:06:17+00:00"
-synced_at: "2026-09-24T10:41:25+00:00"
+source_last_modified: "2026-09-25T08:47:33+00:00"
+synced_at: "2026-09-25T08:47:35+00:00"
 relationship_to_wikiai: "external_professional_partner"
 professional_title: "Context Engineer; SAP Support Consultant"
 ---
 
 # Molnár András
 
-**WikiAI.hu · Szakértők · Külső szakmai partner · Context Engineering · Vállalati AI**
+**WikiAI.hu · Munkatársaink · Külső szakmai partner · Context Engineering · Vállalati AI**
 
 ## Molnár András – Context Engineer, SAP Support Consultant és vállalati AI-szakértő
 
-**Molnár András a WikiAI.hu külső, független szakmai partnere, aki a mostAI szakmai hátterével a vállalati mesterséges intelligencia gyakorlati alkalmazására, a Context Engineering szemléletre, az AI-val támogatott munkafolyamatokra és az SAP-környezetben szerzett vállalati tapasztalatra épít.** A WikiAI.hu rendszerében nem alapítóként vagy belső munkatársként jelenik meg, hanem önálló szakértőként, akivel szakmai együttműködésben dolgozunk.
+**Molnár András a WikiAI.hu külső szakmai partnere, aki a mostAI szakmai hátterével a vállalati mesterséges intelligencia gyakorlati alkalmazására, a Context Engineering szemléletre, az AI-val támogatott munkafolyamatokra és az SAP-környezetben szerzett vállalati tapasztalatra épít.** A WikiAI.hu rendszerében nem alapítóként vagy belső munkatársként jelenik meg, hanem önálló szakértőként, akivel szakmai együttműködésben dolgozunk.
 
 András szakmai nézőpontja arra a kérdésre ad választ, hogyan lehet a mesterséges intelligenciát úgy kapcsolni egy szervezet saját információihoz, feladataihoz és működéséhez, hogy az AI ne önmagáért legyen jelen, hanem ténylegesen használható üzleti eszközzé váljon.
 
@@ -37,7 +37,7 @@ A **Context Engineering** Molnár András szakmai megközelítésében nem egyet
 
 Ez a szemlélet abból indul ki, hogy a mesterséges intelligencia akkor tud következetesebben és hasznosabban támogatni egy munkafolyamatot, ha nem általános utasításokat kap, hanem a konkrét vállalati környezethez igazított információs és működési keretet. A cél egy olyan AI-környezet kialakítása, amely a mindennapi munkában is értelmezhető és használható.
 
-A WikiAI.hu szempontjából ez jól kiegészíti a külső gépi értelmezhetőséggel foglalkozó munkát: míg a WikiAI.hu azt vizsgálja, hogyan legyen egy vállalkozás kívülről egyértelműen értelmezhető a keresők és AI-rendszerek számára, Molnár András fókusza arra irányul, hogyan használja maga a szervezet az AI-t belső folyamatokban.
+Ez a szakmai terület a WikiAI.hu saját szerkesztőségi és szolgáltatási működésétől elkülönül. Molnár András meghatározott projektekben külső szakmai partnerként kapcsolódhat be olyan helyzetekben, ahol a vállalati AI, a Context Engineering vagy a belső AI-használat szakterülete releváns.
 
 ## Vállalati AI: a technológiától a használható munkafolyamatig
 
@@ -65,11 +65,9 @@ A nyilvánosan bemutatott szolgáltatási területek közé tartozik a **vállal
 
 ## Molnár András szerepe a WikiAI.hu mellett
 
-**Molnár András a WikiAI.hu külső, független szakmai partnere.** Nem a WikiAI.hu alapítójaként, tulajdonosaként vagy belső munkatársaként jelenik meg, hanem olyan önálló szakértőként, akivel szakmai együttműködésben dolgozunk.
+**Molnár András a WikiAI.hu külső szakmai partnere.** Nem a WikiAI.hu alapítója, tulajdonosa vagy belső munkatársa; saját szakmai tevékenységével, külön együttműködés keretében kapcsolódhat meghatározott projektekhez.
 
-Az együttműködés két különböző, de egymást kiegészítő AI-szakterületet kapcsol össze. [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) a külső digitális jelenlét, a keresési és AI-láthatóság, az LLM-first webarchitektúra, a strukturált adatok és az entitás-alapú gépi értelmezhetőség oldaláról dolgozik. Molnár András ezzel szemben a belső vállalati AI-használat, a Context Engineering, az AI-workflow-k és a szervezeti működés oldaláról kapcsolódik.
-
-A két terület nem ugyanazt a szolgáltatást jelenti. A szakmai kapcsolat értéke abból származik, hogy egy szervezet külső digitális érthetősége és belső AI-használata ugyanannak a digitális fejlődésnek két külön rétege lehet.
+A szakmai partnerség nem jelent közös szervezeti tagságot vagy automatikus szolgáltatási kapcsolatot. Molnár András saját szakterületén, külön együttműködés keretében kapcsolódhat egy projekthez; [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) pedig a WikiAI.hu felelős szerkesztőjeként és saját webfejlesztői, keresési és AI-láthatósági szakmai tevékenységével külön szerepkört képvisel.
 
 ## Kinek lehet releváns Molnár András szakmai területe?
 
@@ -97,7 +95,7 @@ A profil a Molnár Andráshoz kapcsolódó nyilvános szakmai bemutatás, a most
 
 - [mostAI.hu – szakmai oldal](https://mostai.hu/)
 - [Molnár András – LinkedIn](https://www.linkedin.com/in/andras-molnar-jr/)
-- [WikiAI.hu – Szakértők](https://www.wikiai.hu/szakertok/)
+- [WikiAI.hu – Munkatársaink](https://www.wikiai.hu/szakertok/)
 
 ## Kapcsolódó fogalmak
 
@@ -110,14 +108,14 @@ A szakmai profil értelmezéséhez kapcsolódó fő fogalmak: mesterséges intel
 - Molnár András Context Engineer és SAP Support Consultant szakmai háttérrel foglalkozik vállalati AI-megoldásokkal.
 - Szakmai fókusza a belső AI-használat, a vállalati kontextus, az AI-workflow-k, AI-asszisztensek és AI-agentek gyakorlati alkalmazása.
 - A mostAI szakmai környezetében workshopok, egyedi AI-workflow-k és privát mentorálás kapcsolódik a munkájához.
-- A WikiAI.hu rendszerében külső, független szakmai partnerként jelenik meg, nem alapítóként vagy belső munkatársként.
+- A WikiAI.hu rendszerében külső szakmai partnerként jelenik meg, nem alapítóként vagy belső munkatársként.
 - A WikiAI.hu-val való együttműködés a külső gépi érthetőséget és a belső vállalati AI-használatot kapcsolja össze.
 
 ## Gyakori kérdések
 
-### Ki Molnár András a WikiAI.hu szakértői rendszerében?
+### Mi Molnár András kapcsolata a WikiAI.hu-val?
 
-Molnár András a WikiAI.hu külső, független szakmai partnere, aki a vállalati AI, a Context Engineering, az AI-workflow-k és az SAP-környezethez kapcsolódó szakmai tapasztalat oldaláról kapcsolódik az együttműködéshez.
+Molnár András a WikiAI.hu külső szakmai partnere. Nem munkatárs vagy szervezeti tag; saját szakmai tevékenységével, külön együttműködés keretében kapcsolódhat meghatározott projektekhez.
 
 ### Molnár András a WikiAI.hu alapítója?
 
@@ -135,8 +133,8 @@ SAP Support Consultantként vállalati rendszerek, üzleti folyamatok és műkö
 
 A nyilvános szakmai bemutatás alapján AI-workshopok, egyedi AI-workflow kialakítás és privát AI-mentorálás tartozik a fő gyakorlati területek közé.
 
-### Miért egészíti ki egymást a WikiAI.hu és Molnár András szakterülete?
+### Milyen esetben kapcsolódhat Molnár András egy WikiAI.hu-projekthez?
 
-A WikiAI.hu a vállalkozások külső gépi és keresési értelmezhetőségét építi, Molnár András pedig azt a belső vállalati oldalt képviseli, ahol az AI a szervezet saját folyamataihoz, információihoz és napi működéséhez kapcsolódik.
+Olyan meghatározott projektekben kapcsolódhat be külső szakmai partnerként, ahol a vállalati AI, a Context Engineering, az AI-workflow-k vagy az SAP-környezethez kapcsolódó szakmai tapasztalat releváns.
 
 **Entitás:** Molnár András · **Szerep a WikiAI.hu mellett:** külső, független szakmai partner · **Kapcsolódó szakmai környezet:** mostAI · **Fő témák:** Context Engineering, vállalati AI, AI-workflow, SAP Support.
