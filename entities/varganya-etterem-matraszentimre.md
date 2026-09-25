@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:45:35+02:00"
+last_updated: "2026-09-25T15:45:42+02:00"
 location:
   country: "HU"
 identifiers:
@@ -169,6 +169,9 @@ Az étterem azonban **külsős vendégek számára is nyitott**: nem kell a panz
 - **Kutyával utazóknak**, akik olyan helyet keresnek, ahol négylábú társukkal is beülhetnek.
 - **Kisebb társaságoknak és csoportoknak**, akik előre egyeztetett közös étkezést terveznek.
 - **Pároknak és baráti társaságoknak**, akik közvetlen, rusztikus hegyvidéki hangulatot keresnek.
+- **Kerékpárosoknak**, akik a Mátrában túrázva keresnek egy nyugodt étkezési megállót.
+- **Kulináris turistáknak**, akik a helyi és regionális ízeket, a vadételeket vagy a vargányás fogásokat keresik.
+- **Kisebb üzleti ebédekhez**, ahol fontos a nyugodtabb, személyesebb környezet.
 
 ## Megközelítés és parkolás
 
