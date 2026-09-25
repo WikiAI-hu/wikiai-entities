@@ -9,7 +9,7 @@ source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T08:11:22+00:00"
 synced_at: "2026-09-25T08:11:50+00:00"
-relationship_to_wikiai: "founder"
+relationship_to_wikiai: "responsible_editor"
 professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 ---
 
@@ -160,4 +160,3 @@ Nem. A Google és az AI-rendszerek döntése nem garantálható. A szakmai munka
 
 **Embernek érthető. Google számára rendezett. AI-rendszereknek értelmezhető.**
 
---- 📄 End of content (characters 48,000–54,428 of 54,428).
