@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:32:37+00:00"
-synced_at: "2026-09-25T07:33:14+00:00"
+source_last_modified: "2026-09-25T07:40:10+00:00"
+synced_at: "2026-09-25T07:40:44+00:00"
 ---
 
 # Munkatársaink
@@ -58,8 +58,6 @@ A WikiAI.hu alapítójaként a partneri és üzleti kapcsolatok, az online reput
 ## Külső szakmai partner
 
 A WikiAI.hu meghatározott szakterületeken külső szakmai partnerrel is együttműködhet. A külső partner nem a WikiAI.hu munkatársa; saját szakmai tevékenységével, külön együttműködés keretében kapcsolódhat egy adott projekthez.
-
-[![Molnár András Context Engineer és SAP Support Consultant, a WikiAI.hu külső szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/09/molnar-andras-mostai.png)](https://www.wikiai.hu/szakertok/molnar-andras/)
 
 ## [Molnár András](https://www.wikiai.hu/szakertok/molnar-andras/)
 
