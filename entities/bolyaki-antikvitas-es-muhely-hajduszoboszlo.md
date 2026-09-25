@@ -14,7 +14,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T21:08:55+02:00"
+last_updated: "2026-09-25T21:44:30+02:00"
 location:
   country: "HU"
 identifiers:
