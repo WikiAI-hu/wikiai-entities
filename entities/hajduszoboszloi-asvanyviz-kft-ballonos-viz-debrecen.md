@@ -9,11 +9,11 @@ entity_type:
 language: "hu-HU"
 status: "published"
 canonical_url: "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/"
-entity_id: "https://www.ballonosvizdebrecen.hu/#organization"
+entity_id: "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 66
-last_updated: "2026-09-25T18:39:59+02:00"
+last_updated: "2026-09-25T18:47:09+02:00"
 location:
   country: "HU"
 identifiers:
@@ -25,7 +25,7 @@ machine_attributes:
   wikiai-profile: "business-entity"
   entity: "Hajdúszoboszlói Ásványvíz Kft."
   entity-type: "Organization LocalBusiness"
-  entity-id: "https://www.ballonosvizdebrecen.hu/#organization"
+  entity-id: "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business"
   publication-relation: "editorial"
   source-role: "independent-secondary-source"
   publisher: "WikiAI.hu"
