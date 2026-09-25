@@ -7,21 +7,21 @@ canonical_url: "https://www.wikiai.hu/kapcsolat/"
 source_post_id: 23
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:09:49+00:00"
-synced_at: "2026-09-25T06:10:12+00:00"
+source_last_modified: "2026-09-25T06:10:20+00:00"
+synced_at: "2026-09-25T06:10:45+00:00"
 ---
 
 # Kapcsolat
 
 ## Kapcsolat a WikiAI.hu-val
 
-**A WikiAI.hu országos szemléletű magyar AI-, üzleti és vállalkozási tudásplatform és digitális szakmai portál.** Vállalkozások, cégek, szakemberek, intézmények és szakmai partnerek megkereséseit Magyarország teljes területéről fogadjuk.
+**A WikiAI.hu országos magyar, szerkesztett üzleti tudásplatform.** Vállalkozások, cégek, szakemberek, intézmények és szakmai partnerek megkereséseit Magyarország teljes területéről fogadjuk.
 
 Általános, üzleti, intézményi, technikai vagy tartalmi ügyben a WikiAI.hu központi kapcsolattartási csatornája az **info@wikiai.hu**. A beérkező megkeresések koordináltan, a témához illeszkedő szakmai terület bevonásával kerülnek kezelésre.
 
 ## Írjon nekünk
 
-Az alábbi űrlapon közvetlenül felveheti a kapcsolatot a WikiAI.hu-val. Vállalkozási megjelenéssel, AI-láthatósággal, szakmai együttműködéssel, tartalmi kérdéssel, adatpontosítással vagy technikai észrevétellel kapcsolatban is várjuk megkeresését.
+Az alábbi űrlapon közvetlenül felveheti a kapcsolatot a WikiAI.hu-val. Üzleti vagy sponsored együttműködéssel, AI-láthatósággal, szakmai kérdéssel, szerkesztőségi észrevétellel, adatpontosítással vagy technikai hibával kapcsolatban is várjuk megkeresését.
 
 \n\nKapcsolati urlap: https://www.wikiai.hu/kapcsolat/\n\n
 
@@ -50,6 +50,17 @@ A WikiAI.hu országos fókuszú platform, ezért Magyarország teljes területé
 ## Szakmai kapcsolattartók
 
 A központi kapcsolattartás mellett a WikiAI.hu szakmai kapcsolattartói saját szakterületükön közvetlenül is elérhetők. A részletes szakmai hátterük a kapcsolódó profiloldalakon ismerhető meg.
+
+### [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/) – felelős szerkesztő
+
+**Szakterület:** szerkesztőségi vállalkozás-adatlapok, Cikkek, Hírek, Tudástár, forrásellenőrzés, AI-láthatóság, SEO, AEO, GEO, LLMO és Entity Engineering.
+
+Szerkesztőségi tartalommal, forrásokkal, helyesbítéssel, szakmai pontossággal vagy a WikiAI.hu editorial működésével kapcsolatos kérdésekben kereshető.
+
+**E-mail:** varhelyicsanad@gmail.com
+**Mobil:** +36 70 226 4545
+
+[Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
 ### [Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/) – alapító, AI-láthatósági specialista
 
@@ -99,7 +110,7 @@ A szerkesztőségi helyesbítések és tartalmi észrevételek Várhelyi Csanád
 
 ## Adatkezelés és hivatalos tájékoztatás
 
-A kapcsolatfelvétel során megadott adatokat a megkeresés kezeléséhez, megválaszolásához és az esetleges szakmai együttműködés előkészítéséhez használjuk. A részletes adatkezelési és szolgáltatói tájékoztatás az [Adatvédelmi tájékoztatóban](https://www.wikiai.hu/adatvedelmi/) és az [ÁSZF-ben](https://www.wikiai.hu/altalanos-szerzodesi-feltetelek/) érhető el.
+A kapcsolatfelvétel során megadott adatokat a megkeresés kezeléséhez, megválaszolásához és az esetleges szakmai együttműködés előkészítéséhez használjuk. A részletes adatkezelési és szolgáltatói tájékoztatás az [Adatvédelmi tájékoztatóban](https://www.wikiai.hu/adatvedelmi-tajekoztato/) és az [ÁSZF-ben](https://www.wikiai.hu/altalanos-szerzodesi-feltetelek/) érhető el.
 
 ## Gyakori kérdések
 
