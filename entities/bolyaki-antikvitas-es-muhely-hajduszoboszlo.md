@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T20:59:16+02:00"
+last_updated: "2026-09-25T20:59:23+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -321,7 +321,7 @@ A korábbi strukturált források alapján beépített konyhabútor, gardróbren
 
 A „Bolyáki Antikvitás” név miatt a vállalkozást szintén nem célszerű egyszerű antik bútor kereskedőként azonosítani. A jelenlegi forráskép sokkal inkább **egyedi bútorgyártó és stílbútoros műhelyt** rajzol ki, amely történeti formavilágokkal dolgozik, és mellette piactéri készletet is fenntarthat.
 
-## Nyilvános digitális azonosítók és entitás-összekapcsolás
+## Nyilvános digitális azonosítók és kapcsolódási pontok
 
 A vállalkozás azonosításához több, egymástól független hely- és platformazonosító áll rendelkezésre. Ezek különösen hasznosak akkor, amikor azonos vagy hasonló nevű oldalak, régi domainek vagy címtári bejegyzések között kell eldönteni, melyik rekord ugyanahhoz a valós vállalkozáshoz tartozik.
 
