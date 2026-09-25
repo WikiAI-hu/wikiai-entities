@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:26:39+00:00"
-synced_at: "2026-09-25T07:27:00+00:00"
+source_last_modified: "2026-09-25T07:27:09+00:00"
+synced_at: "2026-09-25T07:27:42+00:00"
 ---
 
 # Munkatársaink
@@ -85,7 +85,7 @@ Nem minden projektben van szükség minden területre. A cél az, hogy mindig az
 
 **A részletes szolgáltatási lehetőségek és az együttműködés formái a [Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/) oldalon olvashatók.**
 
-## Munkatársak és szakmai partnerek
+## Belső csapat és külső szakmai partner
 
 A WikiAI.hu belső működését Várhelyi Viktória alapítói és üzleti szerepe, valamint Várhelyi Csanád felelős szerkesztői és szakmai szerepe adja. Meghatározott projektekhez ettől elkülönülten külső szakmai partnerek is kapcsolódhatnak.
 
@@ -111,4 +111,4 @@ Az AI-láthatóságról, weboldalfejlesztésről, keresési jelenlétről, tarta
 
 ### Miért dolgozik több különböző szakmai terület együtt?
 
-Mert egy vállalkozás digitális jelenléte nem kizárólag technikai kérdés. A jó weboldal, a hiteles és következetes tartalom, az online reputáció, a keresési jelenlét és a megfelelő AI-használat együtt adhat stabilabb digitális alapot.
+Mert egy vállalkozás digitális jelenléte nem kizárólag technikai kérdés. A jó weboldal, a pontos és következetes információ, a hiteles szakmai tartalom, az online reputáció és a keresési jelenlét együtt adhat stabilabb digitális alapot.
