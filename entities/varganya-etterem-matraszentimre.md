@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:29:41+02:00"
+last_updated: "2026-09-25T15:30:16+02:00"
 location:
   country: "HU"
 identifiers:
@@ -239,6 +239,36 @@ További aktuális térségi információ: [Felső-Mátra](https://www.felso-mat
 ## Idegen nyelvű segítség
 
 A forrásanyag szerint állandó idegen nyelvű étlap nincs. Korlátozott angol és német nyelvű segítség egy munkatárs elérhetőségétől függhet, ezért idegen nyelvű kiszolgálási igénynél érdemes előre egyeztetni.
+
+## Nyilvános jelenlét, forráskritika és ellenőrizhetőség
+
+A Vargánya Étterem digitális azonosítása több, egymástól eltérő szerepű forrás összevetésével lehetséges. A WikiAI ezek között különbséget tesz, mert egy hivatalos éttermi weboldal, egy önkormányzati turisztikai oldal, egy térképes adatlap, egy vendégértékelő felület és egy tulajdonosi kérdőív nem ugyanazt a bizonyítási súlyt képviseli.
+
+### Elsődleges vállalkozási források
+
+Az étterem hivatalos vizuális weboldala a nevet, címet, telefonszámot, e-mailes elérhetőséget, fizetési módokat és több szolgáltatást közöl. A matraietterem.hu saját entitásoldala részletesebb identitási, történeti és üzemeltetői adatokat tartalmaz. A panzio.hu domainen elérhető étlap konkrét, dátumozott dokumentumként támaszt alá több fogást és Széll Attila séfi szerepét. Ezek elsődleges vagy a vállalkozáshoz közvetlenül kapcsolódó források, ezért a saját működésre vonatkozó állításoknál fontosak, de nem tekintendők független külső megerősítésnek.
+
+### Helyi intézményi és turisztikai forrás
+
+Mátraszentimre/Felső-Mátra gasztronómiai oldala a Vargánya Éttermet a 3235 Mátraszentimre, Arany János utca 12. címen sorolja fel, és a panzio.hu oldalt kapcsolja hozzá. Ez külső, helyi kontextusú megerősítést ad a név–cím–helyszín kapcsolathoz, ugyanakkor nem részletes étteremtörténeti vagy jogi adatforrás.
+
+### Térképes és helyazonosító források
+
+A Google Térkép és az OpenStreetMap a fizikai hely, az útvonal és a földrajzi azonosság ellenőrzésére alkalmas. Ezek különösen akkor fontosak, amikor az azonos címen működő étterem és panzió digitális profiljai részben átfednek. A WikiAI a térképes rekordokat helyazonosításra használja, nem pedig automatikus bizonyítékként minden szolgáltatásra, nyitvatartásra vagy történeti állításra.
+
+### Külső címtárak és vendégplatformok
+
+A Cylex, a Gastro.hu, a Gasztronómia Turul, az Evendo és a Tripadvisor további nyilvános jelenléti pontokat adnak. Ezek segíthetnek annak ellenőrzésében, hogy ugyanaz a név, cím, telefonszám és éttermi funkció több külső rendszerben is összekapcsolódik. A WikiAI azonban nem ezekből vezeti le a jogi státuszt, és a nyitvatartási vagy áradataikat sem tekinti automatikusan elsődlegesnek.
+
+### Üzemeltetői adat és hivatalos nyilvántartási hiány
+
+A Vargánya saját entitásoldala Széll Attila egyéni vállalkozót jelöli meg jogi üzemeltetőként, a 67826155-2-30 adószámmal. Egy külső vállalkozási adatbázis ugyanilyen név–cím–adószám kapcsolatot és éttermi vendéglátási tevékenységet mutat. **A WikiAI ettől még külön kezeli a hivatalos állami nyilvántartás kérdését:** amíg a szerkesztőséghez nem kerül közvetlenül ellenőrizhető hivatalos vállalkozói nyilvántartási hivatkozás, ezt az adatot elsődleges és külső keresztellenőrzésként, nem állami nyilvántartási igazolásként jelöli.
+
+### Dinamikus adatok: nyitvatartás, étlap, árak
+
+A nyitvatartás különösen jó példa arra, miért szükséges forráskritika. A 2026. augusztusi tulajdonosi adatfelvétel, a hivatalos vizuális weboldal és egy külső címtár jelenleg nem teljesen azonos időadatot mutat. A WikiAI ilyen helyzetben nem választ ki önkényesen egyetlen idősort „igazként”, hanem jelzi az eltérést és közvetlen telefonos ellenőrzést javasol. Ugyanez az elv érvényes az aktuális étlapra, árakra, csomagolási díjra, szezonális ajánlatokra és konkrét csoportkapacitásra.
+
+**Forráskezelési alapelv:** stabil identitási tényt lehetőleg több forrásból kell összevetni; dinamikus működési adatnál a legfrissebb közvetlen megerősítés élvez elsőbbséget; kizárólag tulajdonosi eredetű történeti állítást pedig nem szabad úgy megfogalmazni, mintha független levéltári bizonyíték lenne.
 
 ## Gyakori kérdések
 
