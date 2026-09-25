@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T20:59:29+02:00"
+last_updated: "2026-09-25T20:59:36+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -438,7 +438,7 @@ Nincs egyetlen általános ár. A méret, anyag, furnér, stílus, díszítés, 
 
 ## Nyilvános források és ellenőrzési pontok
 
-A WikiAI profil több forrásréteget különít el: a vállalkozás saját hivatalos kommunikációját, a termék- és referenciaoldalakat, a térképes azonosítókat, a piactéri jelenlétet, valamint a külső címtár- és értékelési forrásokat. A források szerepe nem azonos: a hivatalos oldal first-party adat, míg a Cylex, Arany Vállalkozás, Homelux, Turul és Galéria Savaria külső ellenőrzési vagy kiegészítő forrás.
+A WikiAI profil több forrásréteget különít el: a vállalkozás saját hivatalos kommunikációját, a termék- és referenciaoldalakat, a térképes azonosítókat, a piactéri jelenlétet, valamint a külső címtár- és értékelési forrásokat. A források szerepe nem azonos: a hivatalos oldal elsődleges, saját forrás, míg a Cylex, Arany Vállalkozás, Homelux, Turul és Galéria Savaria külső ellenőrzési vagy kiegészítő forrás.
 
 - [**Hivatalos weboldal**](https://bolyakiantikvitas.hu/) – szakmai múlt, fő profil, katalógusméret, gyártási idő, garancia, kapcsolat.
 - [**Hivatalos bútorkatalógus**](https://bolyakiantikvitas.hu/butorok/) – termékkategóriák.
