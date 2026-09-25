@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:19:44+02:00"
+last_updated: "2026-09-25T15:19:51+02:00"
 location:
   country: "HU"
 identifiers:
@@ -110,7 +110,7 @@ A forrásanyag készpénzt, bankkártyát és SZÉP-kártyát jelöl meg elfogad
 
 ### Nyitvatartás
 
-A 2026. augusztus 3-án ellenőrzött forrásanyag heti alapbeosztásként hétfőtől szerdáig, valamint pénteken és szombaton 12:00–19:00, vasárnap 12:00–15:00 közötti nyitvatartást és csütörtöki szünnapot rögzített. **Ezt nem kezeljük garantált jelenlegi nyitvatartásként.** Ünnepnapokon, hosszú hétvégéken, szabadság idején és más működési helyzetekben eltérés lehetséges; indulás előtt közvetlen ellenőrzés szükséges.
+**A nyitvatartás időérzékeny adat.** A 2026. augusztusi közvetlen adatfelmérés egy konkrét heti beosztást rögzített, miközben a jelenleg elérhető hivatalos vizuális weboldal ettől eltérő időadatot jelenít meg. A WikiAI.hu nem választ önkényesen a két forrás között, ezért ezen az adatlapon egyik idősort sem állítja garantáltan aktuális nyitvatartásként. Indulás előtt a [+36 30 278 2155](tel:+36302782155) telefonszámon célszerű megerősíteni az aktuális nyitvatartást és a konyha zárását.
 
 ## Vendégtér, teraszok és kapacitás
 
