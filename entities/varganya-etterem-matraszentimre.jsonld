@@ -101,9 +101,6 @@
       "isAccessibleForFree": true,
       "datePublished": "2026-09-07T17:04:23+02:00",
       "dateModified": "2026-09-25T15:45:56+02:00",
-      "mainEntityOfPage": {
-        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage"
-      },
       "mainEntity": {
         "@id": "https://www.matraietterem.hu/#restaurant"
       },
@@ -432,6 +429,9 @@
           "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#historical-menu"
         },
         {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#github-markdown-mirror"
+        },
+        {
           "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#github-jsonld-mirror"
         }
       ]
@@ -690,6 +690,30 @@
       "about": {
         "@id": "https://www.matraietterem.hu/#restaurant"
       }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#github-markdown-mirror",
+      "name": "WikiAI GitHub Markdown mirror – Vargánya Étterem",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/varganya-etterem-matraszentimre.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.matraietterem.hu/#restaurant"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Vargánya Étteremről szóló szerkesztőségi cikkének Markdown tükre. A WordPress-publikáció a kanonikus forrás; a Markdown-fájl gépi és szöveges reprezentáció."
     },
     {
       "@type": "DigitalDocument",
