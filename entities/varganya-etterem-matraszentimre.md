@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:42:50+02:00"
+last_updated: "2026-09-25T15:42:57+02:00"
 location:
   country: "HU"
 identifiers:
@@ -184,7 +184,7 @@ A Vargánya Étterem elhelyezkedése miatt természetesen kapcsolódik a Felső-
 
 A hely ezért nemcsak önmagában éttermi célpont, hanem egy túra, kirándulás, síelés vagy többnapos mátrai pihenés természetes megállója is lehet.
 
-  [Felső-Mátra](https://www.felso-matra.matraszentimre.hu/gasztro) [Országos Kéktúra](https://www.kektura.hu/) [Mátraszentistváni Sípark](https://www.sipark.hu/fooldal)
+További információ: [Felső-Mátra](https://www.felso-matra.matraszentimre.hu/gasztro) · [Országos Kéktúra](https://www.kektura.hu/) · [Mátraszentistváni Sípark](https://www.sipark.hu/fooldal)
 
 ## Gyakori kérdések
 
