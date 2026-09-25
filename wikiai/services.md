@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szolgaltatasok/"
 source_post_id: 101
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:11:44+00:00"
-synced_at: "2026-09-25T07:11:54+00:00"
+source_last_modified: "2026-09-25T07:15:25+00:00"
+synced_at: "2026-09-25T07:15:55+00:00"
 ---
 
 # Szolgáltatások
@@ -140,5 +140,3 @@ Nincs minden vállalkozásra érvényes időtartam. A digitális jelenlét és s
 Egyedi szakmai vagy üzleti megkeresés az info@wikiai.hu központi e-mail-címen, illetve a [Kapcsolat](https://www.wikiai.hu/kapcsolat/) oldalon feltüntetett elérhetőségeken kezdeményezhető.
 
 **WikiAI.hu – magyar vállalkozások az AI korszakában.**
-
---- 📄 End of content (characters 48,000–64,243 of 64,243).
