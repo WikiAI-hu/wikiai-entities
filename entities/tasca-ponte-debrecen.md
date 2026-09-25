@@ -15,7 +15,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-25T19:05:48+02:00"
+last_updated: "2026-09-25T19:05:55+02:00"
 location:
   country: "HU"
 identifiers:
@@ -447,4 +447,6 @@ Az anyagismereti háttér forrásai: [Leather Naturally – Leather Terminology]
 
 Az üzleti tények forrásait és az oldalon szereplő állításokat 2026. szeptember 24-én vetettük össze a rendelkezésre álló anyagokkal. Gyorsan változó készlet, ár, méret és nyitvatartási kivétel esetén a vállalkozás közvetlen tájékoztatása az irányadó.
 
-**Kiadó:** WikiAI.hu · **Szerző és szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/) · **Publikációs kapcsolat:** fizetett partneri vállalkozási profil.
+**Bemutató:** WikiAI.hu · **Szerző és felelős szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/)
+
+A WikiAI.hu Vállalkozások rovatának bemutatói szerkesztői döntés alapján készülnek; a rovatban való megjelenés nem vásárolható meg.
