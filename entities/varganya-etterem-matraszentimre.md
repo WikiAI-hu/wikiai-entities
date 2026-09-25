@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:45:49+02:00"
+last_updated: "2026-09-25T15:45:56+02:00"
 location:
   country: "HU"
 identifiers:
@@ -178,6 +178,7 @@ Az étterem azonban **külsős vendégek számára is nyitott**: nem kell a panz
  **Vargánya Étterem**
 3235 Mátraszentimre, Arany János utca 12.
 Telefon: [**+36 30 278 2155**](tel:+36302782155)
+E-mail: [szellatti@gmail.com](mailto:szellatti@gmail.com)
 
 Az étterem Mátraszentimre egyik csendes mellékutcájában található. A hely a Google Térképen és az OpenStreetMapen is könnyen megtalálható.
 
