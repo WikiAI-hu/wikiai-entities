@@ -262,7 +262,7 @@
         "index": "wikiai/index.md",
         "manifest": "wikiai/manifest.json",
         "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-25T08:11:55+00:00",
+        "last_updated": "2026-09-25T08:21:34+00:00",
         "documents": [
             {
                 "document_type": "service_catalog",
@@ -304,7 +304,7 @@
                 "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
                 "wordpress_post_id": 143,
                 "name": "Várhelyi Csanád",
-                "relationship_to_wikiai": "responsible_editor"
+                "relationship_to_wikiai": "founder"
             },
             {
                 "document_type": "person_profile",
