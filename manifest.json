@@ -104,7 +104,14 @@
             "wordpress_post_id": 66,
             "country": "HU",
             "google_cid": "6706916637082778628",
-            "google_place_id": "ChIJZ3ZaUBobR0cRBPx5iyXBE10"
+            "google_place_id": "ChIJZ3ZaUBobR0cRBPx5iyXBE10",
+            "jsonld_mirror": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld",
+            "entity_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business",
+            "wikiai_article_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#webpage",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source"
         },
         {
             "entity_name": "Kohlberger Bau Kft.",
