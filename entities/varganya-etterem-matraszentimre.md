@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:42:35+02:00"
+last_updated: "2026-09-25T15:42:44+02:00"
 location:
   country: "HU"
 identifiers:
@@ -120,7 +120,7 @@ Fizetni **készpénzzel, bankkártyával és SZÉP-kártyával** lehet. A hivata
 
 A Vargánya alapvetően **rusztikus, családias étterem**. A faburkolatok, fabútorok és természetes részletek jól illenek a Felső-Mátra környezetéhez. Nem formális éttermi hangulatot keres, hanem közvetlen, barátságos teret családi ebédekhez, baráti találkozókhoz és egy aktív hegyi nap utáni pihenéshez.
 
-  **Beltéri vendégtér**Kényelmesen körülbelül 25 fő. **Zárt terasz**Körülbelül 20 fő számára. **Nyitott terasz**Körülbelül 25 fő számára. **Nyári csoportok**Előzetes egyeztetéssel egyes esetekben akár 40 fő.
+A beltéri vendégtér kényelmesen körülbelül **25 fő** számára alkalmas. A zárt terasz körülbelül **20 főt**, a nyitott terasz körülbelül **25 főt** tud fogadni. Nyári időszakban, előzetes egyeztetéssel egyes esetekben akár **40 fős csoport** is elférhet.
 
 A hivatalos weboldal **légkondicionálást, kerthelyiséget, fűtött teraszt, saját parkolást és ingyenes wifit** is felsorol. A teraszok használata természetesen évszak- és időjárásfüggő.
 
