@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-deb
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 66
-last_updated: "2026-09-25T18:47:09+02:00"
+last_updated: "2026-09-25T18:47:16+02:00"
 location:
   country: "HU"
 identifiers:
@@ -465,10 +465,6 @@ Telefonon a [+36 30 974 3662](tel:+36309743662) számon, illetve e-mailben a vá
 ## További információk és hivatkozások
 
 - [**Hajdúszoboszlói ballonos víz – hivatalos weboldal**](https://szoboszloiviz.hu/)
-- [**Ballonos víz Debrecen – részletes szolgáltatási oldal**](https://www.ballonosvizdebrecen.hu/)
-- [Ballonos víz kiszállítás Debrecen](https://www.ballonosvizdebrecen.hu/ballonos-viz-kiszallitas-debrecen.html)
-- [Balloncsere Debrecen](https://www.ballonosvizdebrecen.hu/balloncsere-debrecen.html)
-- [Vízadagoló bérlés és vásárlás](https://www.ballonosvizdebrecen.hu/vizadagolo-berles-es-vasarlas-debrecen.html)
 - [Hajdúszoboszlói ballonos víz – Facebook](https://www.facebook.com/szoboszloviz/)
 - [Google Térkép / üzleti adatlap](https://www.google.com/maps?cid=6706916637082778628)
 - [Nemzeti Cégtár – cégadatlap](https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036334/Hajduszoboszloi-Asvanyviz-Korlatolt-Felelossegu-Tarsasag)
