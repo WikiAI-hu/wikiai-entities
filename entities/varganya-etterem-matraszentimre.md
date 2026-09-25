@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:42:44+02:00"
+last_updated: "2026-09-25T15:42:50+02:00"
 location:
   country: "HU"
 identifiers:
@@ -134,7 +134,7 @@ A Vargánya családias jellege a szolgáltatásokban is megjelenik. **Gyermekmen
 
 Az étlapon allergénjelölések segítik a választást, és a személyzet is tud tájékoztatást adni. A kínálatban **gluténmentes, laktózmentes, vegetáriánus és vegán lehetőség** is előfordulhat.
 
- **Fontos:** a konyha közös munkatér, ezért keresztszennyeződés előfordulhat. Súlyos ételallergia esetén mindenképpen érdemes előre telefonon egyeztetni.
+**Fontos:** a konyha közös munkatér, ezért keresztszennyeződés előfordulhat. Súlyos ételallergia esetén mindenképpen érdemes előre telefonon egyeztetni.
 
 ## Akadálymentesség
 
