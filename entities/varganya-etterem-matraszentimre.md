@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:20:51+02:00"
+last_updated: "2026-09-25T15:20:58+02:00"
 location:
   country: "HU"
 identifiers:
@@ -282,6 +282,6 @@ Mivel a nyitvatartás dinamikus adat, indulás előtt telefonon, a Google Térk�
 - [Gasztronómia Turul profil](https://www.gasztronomiaturul.eu/profile-45928-varganya-etterem)
 - [Evendo helyprofil](https://evendo.com/locations/hungary/matra-mountains/bar/varganya-etterem)
 
-**Utolsó WikiAI szerkesztői feldolgozás:** 2026. szeptember 24. A forrásanyagban szereplő dinamikus tények változhatnak; ezeknél a közvetlen, friss ellenőrzés elsőbbséget élvez.
+**Utolsó WikiAI szerkesztői és forrásellenőrzési feldolgozás:** 2026. szeptember 25. A dinamikus tények változhatnak; ezeknél a közvetlen, friss ellenőrzés elsőbbséget élvez. A WikiAI.hu a bemutatott vállalkozás hivatalos weboldalától és saját kommunikációs csatornáitól elkülönülő szerkesztett másodlagos forrás.
 
 **Kiadó:** WikiAI.hu · **Szerző és szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/weblapfejlesztes.html) · **Publikációs kapcsolat:** fizetett partneri vállalkozási profil.
