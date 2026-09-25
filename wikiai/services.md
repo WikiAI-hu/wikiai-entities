@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szolgaltatasok/"
 source_post_id: 101
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:52:23+00:00"
-synced_at: "2026-09-25T06:52:45+00:00"
+source_last_modified: "2026-09-25T06:53:11+00:00"
+synced_at: "2026-09-25T06:53:40+00:00"
 ---
 
 # Szolgáltatások
