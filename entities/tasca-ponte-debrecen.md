@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/tasca-ponte-debrecen/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 76
-last_updated: "2026-09-24T19:37:49+02:00"
+last_updated: "2026-09-25T19:05:11+02:00"
 location:
   country: "HU"
 machine_attributes:
