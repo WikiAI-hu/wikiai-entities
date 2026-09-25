@@ -241,7 +241,15 @@
             "country": "HU",
             "google_cid": "18292804774410997775",
             "google_kgmid": "/g/11f3v1b_c5",
-            "google_place_id": "ChIJzVhScOBCQEcRD1BW3AUZ3f0"
+            "google_place_id": "ChIJzVhScOBCQEcRD1BW3AUZ3f0",
+            "entity_id": "https://www.matraietterem.hu/#restaurant",
+            "wikiai_article_id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage",
+            "jsonld_mirror": "entities/varganya-etterem-matraszentimre.jsonld",
+            "source_of_truth": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source"
         },
         {
             "entity_name": "WikiAI.hu",
