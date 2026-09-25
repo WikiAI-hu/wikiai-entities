@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:29:33+02:00"
+last_updated: "2026-09-25T15:29:41+02:00"
 location:
   country: "HU"
 identifiers:
@@ -204,7 +204,9 @@ A Vargánya Étterem és a Mátraszentimre Panzió ugyanazon a címen – 3235 M
 
 Az étterem külsős vendégek számára is nyitott: az étkezéshez nem szükséges panziófoglalás. A panzió szobáinak elérhetősége, ára és érkezési feltételei külön ellenőrzendők. **Az éttermi asztalfoglalás és a szállásfoglalás két külön folyamat**; egyik visszaigazolása sem jelenti automatikusan a másik szolgáltatás lefoglalását.
 
-A közös helyszín kisebb családi alkalmaknál, több településről érkező vendégeknél vagy kis létszámú céges programnál kényelmes lehet, mert az étkezés és a szállás egy címen kapcsolható össze – de a két szolgáltatást külön kell visszaigazolni.
+A közös helyszín gyakorlati előnye leginkább olyan esetekben jelentkezik, amikor az étkezés és a szállás ugyanahhoz az utazáshoz kapcsolódik. Ilyen lehet többnapos mátrai tartózkodás, kisebb családi ünnepség, több településről érkező vendégek találkozója vagy kis létszámú céges program. A két szolgáltatás térbeli közelsége ilyenkor kényelmes, de az éttermi és szálláshelyi kapacitást külön szükséges megerősíteni.
+
+A panzio.hu domainen elérhető, 2025. augusztus 23-i étlap jól mutatja a két szolgáltatás történeti digitális összekapcsolódását: a dokumentum egyszerre viseli a Mátraszentimre Panzió és a Vargánya Étterem megnevezést, miközben Széll Attilát séfként tünteti fel. A WikiAI ezt nem a két entitás azonosságának bizonyítékaként, hanem a közös családi és helyszíni működési környezet dokumentumaként értelmezi.
 
 [**Mátraszentimre Panzió hivatalos weboldala**](https://www.panzio.hu/) · [Szállásfoglalási felület](https://live.roomsoft.hu/rs_ota.php?_cID=36&_uID=1)
 
