@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szolgaltatasok/"
 source_post_id: 101
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:11:19+00:00"
-synced_at: "2026-09-25T07:11:33+00:00"
+source_last_modified: "2026-09-25T07:11:44+00:00"
+synced_at: "2026-09-25T07:11:54+00:00"
 ---
 
 # Szolgáltatások
@@ -55,17 +55,17 @@ Az AI-láthatósági szolgáltatás célja annak áttekintése és fejlesztése,
 
 Olyan weboldalakat készítünk és alakítunk át, amelyekből **az ember gyorsan megérti, mivel foglalkozik a vállalkozás, és a keresők vagy AI-rendszerek számára is egyértelműbb, hogyan tartoznak össze a fontos információk.** Nemcsak a külső megjelenést nézzük, hanem azt is, hogy a szolgáltatások, cégadatok, szakmai bemutatkozások és fontos oldalak logikusan épüljenek egymásra. Meglévő weboldalnál ez jelenthet rendbetételt és korszerűsítést, új weboldalnál pedig eleve olyan felépítést, amely hosszú távon is jól bővíthető és karbantartható.
 
-### Keresési láthatóság: SEO, Local SEO, AEO, GEO és LLMO
+### Jobb megtalálhatóság a Google-ben és az AI-alapú keresésben
 
-A keresési jelenlét fejlesztése nem egyetlen csatornára korlátozódik. A WikiAI.hu szemléletében a klasszikus [keresőoptimalizálás](https://en.wikipedia.org/wiki/Search_engine_optimization), a helyi keresési láthatóság, a Google Business Profile és más üzleti profilok adatainak következetessége, a közvetlen válaszokra optimalizált tartalom és a generatív keresési környezetekhez igazodó információs minőség egymást kiegészítő területek. A szolgáltatás érintheti a technikai és tartalmi SEO-t, a Local SEO-t, a válaszorientált tartalmi struktúrát, valamint az AEO, GEO és LLMO szempontjából fontos információs és entitáskapcsolatok rendezését. A cél, hogy a vállalkozás digitális jelenléte **pontosabb, jobban értelmezhető és következetesebb legyen a releváns keresési helyzetekben**, miközben nem épít garantált helyezésekre vagy garantált AI-ajánlások ígéretére.
+A keresési jelenlét fejlesztésénél azt nézzük, hogy a vállalkozás **mennyire könnyen található meg, mennyire pontos információ jelenik meg róla, és mennyire egyértelmű, hogy milyen szolgáltatást, hol és kinek nyújt.** Ide tartozhat a hagyományos SEO, a helyi keresési jelenlét, a Google Business Profile és más üzleti profilok rendbetétele, valamint a weboldal tartalmi fejlesztése is. A cél nem egyetlen kulcsszó vagy rövid távú helyezés hajszolása, hanem egy következetesebb online jelenlét kialakítása, amely a klasszikus és az AI-alapú keresési környezetben is jobban értelmezhető.
 
 ### Szakmai tartalom, online reputáció és folyamatos tartalomgondozás
 
 A digitális jelenlét minőségét nemcsak a weboldal, hanem a vállalkozás körül kialakuló tartalmi környezet is meghatározza. A WikiAI.hu ehhez kapcsolódóan **szakmai cikkek, üzleti kommunikáció, reputációs tartalmak, közösségimédia-tartalomtervezés, sponsored Posztok, valamint Short és Reel videós tartalmak tervezésében** nyújt támogatást. Az együttműködés kiterjedhet Facebook- és LinkedIn-tartalmakra, saját weboldalra készülő szakmai anyagokra, angol nyelvű nemzetközi publikációkra, rövid videós kommunikációra, vállalkozási információk és profilok rendszeres frissítésére, valamint a különböző digitális felületeken megjelenő adatok és márkaüzenetek következetes gondozására. A cél nem önmagában a tartalomgyártás, hanem egy hosszabb távon hiteles, friss és egymással összhangban lévő digitális jelenlét fenntartása.
 
-### Entity Engineering, strukturált adatok és gépi olvashatóság
+### Rendezett cégadatok és egyértelmű digitális identitás
 
-A WikiAI.hu külön szolgáltatási területként kezeli a vállalkozás digitális entitásának rendezését. Ez magában foglalhatja a személyek, vállalkozások, márkák, szolgáltatások, helyek és kapcsolódó források egyértelmű szétválasztását és összekapcsolását, a név- és adatkonzisztencia vizsgálatát, valamint a webes információs réteg gépi értelmezhetőségének fejlesztését. A megvalósítás része lehet **Schema.org, JSON-LD, szemantikus HTML, canonical azonosítók, machine-readable Markdown réteg és kapcsolódó entitásdokumentáció** kialakítása vagy felülvizsgálata. A cél, hogy ugyanarról a vállalkozásról az emberi és gépi olvasásra szánt információk ugyanazt a valós, következetes entitásképet közvetítsék.
+Sok vállalkozásról több weboldalon, közösségi profilon, térképes szolgáltatásban és szakmai felületen található információ. Ha ezek eltérnek egymástól, az könnyen zavart okozhat. A WikiAI.hu ezen a területen abban segít, hogy **a vállalkozás neve, szolgáltatásai, kapcsolati adatai, szakemberei és fontos online forrásai következetesebben kapcsolódjanak egymáshoz.** A cél egy olyan rendezett digitális háttér kialakítása, amelyből ember és gépi rendszer is könnyebben megérti, hogy pontosan melyik vállalkozásról van szó és mi tartozik hozzá.
 
 ### Digitális és AI-fejlesztésekhez kapcsolódó pályázati szakmai támogatás
 
@@ -107,7 +107,7 @@ A WikiAI.hu szolgáltatásai a digitális jelenlét minőségének, egyértelmű
 
 ## Szakmai háttér
 
-A WikiAI.hu szolgáltatási háttere a **webfejlesztés, SEO, Local SEO, AEO, GEO, LLMO, AI-láthatóság, LLM-first webarchitektúra, Entity Engineering, strukturált adatok, üzleti kommunikáció, online reputáció és tartalomgondozás** egymást kiegészítő területeire épül. Ez teszi lehetővé, hogy egy vállalkozás technikai webes struktúráját, keresési és AI-érthetőségét, szakmai tartalmait, nyilvános profiljait és kommunikációját ne különálló elemekként, hanem összefüggő digitális jelenlétként kezeljük. A részletes szakmai bemutatkozások a [Munkatársaink](https://www.wikiai.hu/szakertok/) oldalon ismerhetők meg.
+A WikiAI.hu szolgáltatási háttere a **weboldalak fejlesztésére, a Google- és AI-láthatóságra, a vállalkozási adatok rendezésére, a szakmai tartalomra, az online reputációra és a folyamatos tartalomgondozásra** épül. Ez teszi lehetővé, hogy egy vállalkozás weboldalát, keresési jelenlétét, nyilvános profiljait és kommunikációját ne különálló feladatokként, hanem egymást erősítő digitális jelenlétként kezeljük. A részletes szakmai bemutatkozások a [Munkatársaink](https://www.wikiai.hu/szakertok/) oldalon ismerhetők meg.
 
 ## Miért a WikiAI.hu?
 
@@ -117,7 +117,7 @@ Azért, mert a WikiAI.hu nem egyetlen weboldalt, posztot vagy technikai beavatko
 
 ### Mit kaphat egy vállalkozás fizetett együttműködésben?
 
-A fizetett együttműködés kiterjedhet sponsored Posztra, AI-láthatósági felmérésre és fejlesztésre, LLM-first weboldalra vagy meglévő weboldal átalakítására, SEO/Local SEO/AEO/GEO/LLMO munkára, Entity Engineeringre, structured data és JSON-LD kialakítására, saját csatornákra készülő szakmai tartalmakra, reputáció- és profilgondozásra, rövid videós anyagokra, közösségimédia-megjelenésekre és angol nyelvű szakmai publikációkra. A Vállalkozások rovat szerkesztőségi megjelenése ettől különálló és nem vásárolható meg.
+A fizetett együttműködés kiterjedhet sponsored Posztra, AI-láthatósági felmérésre és fejlesztésre, új vagy meglévő weboldal korszerűsítésére, Google- és keresési jelenlét fejlesztésére, a vállalkozás online adatainak rendezésére, saját csatornákra készülő szakmai tartalmakra, reputáció- és profilgondozásra, rövid videós anyagokra, közösségimédia-megjelenésekre és angol nyelvű szakmai publikációkra. A Vállalkozások rovat szerkesztőségi megjelenése ettől különálló és nem vásárolható meg.
 
 ### Mit jelent az AI-láthatóság?
 
@@ -125,7 +125,7 @@ Az AI-láthatóság annak fejlesztését jelenti, hogy egy vállalkozásról a n
 
 ### Miért több a WikiAI.hu szolgáltatási megközelítése egyszerű szövegfeltöltésnél?
 
-**Mert nemcsak a látható szöveggel foglalkozunk, hanem a vállalkozásról szóló információ webes szerkezetét és kapcsolódásait is tudatosan rendezzük.** A cél, hogy a lényegi adatok és összefüggések ember, keresőrendszer és AI-alapú információs rendszer számára is következetesebben értelmezhetők legyenek. A részletes technikai módszertan a WikiAI.hu saját szakmai know-how-jának része.
+**Mert nemcsak egy szöveget készítünk el, hanem azt is figyelembe vesszük, hogyan illeszkedik a vállalkozás teljes online jelenlétéhez.** A cél, hogy a fontos cégadatok, szolgáltatások, szakmai információk és online profilok egymással összhangban legyenek, és a vállalkozásról könnyebb legyen pontos képet alkotni.
 
 ### Tud segíteni a WikiAI.hu digitális vagy AI-fejlesztési pályázatoknál?
 
