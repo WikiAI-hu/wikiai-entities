@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:20:44+02:00"
+last_updated: "2026-09-25T15:20:51+02:00"
 location:
   country: "HU"
 identifiers:
@@ -264,6 +264,7 @@ Mivel a nyitvatartás dinamikus adat, indulás előtt telefonon, a Google Térk�
 - [**Google Térkép**](https://www.google.com/maps?cid=18292804774410997775) – helyazonosítás, útvonaltervezés és változó nyitvatartási információk ellenőrzése.
 - [**OpenStreetMap**](https://www.openstreetmap.org/node/11188881100) – földrajzi helyazonosítás.
 - [**Mátraszentimre Panzió**](https://www.panzio.hu/) – a kapcsolódó, de külön szálláshely elsődleges felülete.
+- [**Vargánya Étterem / Mátraszentimre Panzió étlap PDF**](https://www.panzio.hu/kep/etlapjavitva.pdf) – dátumozott, történeti menüforrás a fogások és allergénjelölések ellenőrzéséhez; nem kezeljük valós idejű árlistaként.
 - [**Felső-Mátra**](https://www.felso-matra.hu/), [**Országos Kéktúra**](https://www.kektura.hu/) és [**Mátraszentistváni Sípark**](https://www.sipark.hu/fooldal) – közvetlen térségi és turisztikai kontextus.
 
   **Entitás- és térképes azonosítók**
