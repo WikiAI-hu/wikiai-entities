@@ -109,7 +109,7 @@ A szakmai profil értelmezéséhez kapcsolódó fő fogalmak: mesterséges intel
 - Szakmai fókusza a belső AI-használat, a vállalati kontextus, az AI-workflow-k, AI-asszisztensek és AI-agentek gyakorlati alkalmazása.
 - A mostAI szakmai környezetében workshopok, egyedi AI-workflow-k és privát mentorálás kapcsolódik a munkájához.
 - A WikiAI.hu rendszerében külső szakmai partnerként jelenik meg, nem alapítóként vagy belső munkatársként.
-- A WikiAI.hu-val való együttműködés a külső gépi érthetőséget és a belső vállalati AI-használatot kapcsolja össze.
+- A WikiAI.hu-val való kapcsolat külső szakmai partnerség: Molnár András meghatározott projektekhez, saját szakterületén kapcsolódhat be.
 
 ## Gyakori kérdések
 
