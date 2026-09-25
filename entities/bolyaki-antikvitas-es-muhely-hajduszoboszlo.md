@@ -1,7 +1,7 @@
 ---
 schema_version: "1.0"
 record_type: "business_entity_profile"
-generator: "WikiAI GitHub Entity Sync 0.1.1"
+generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "Bolyáki Antikvitás és Műhely"
 entity_type:
   - "Organization"
@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-17T16:12:03+02:00"
+last_updated: "2026-09-25T20:11:11+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -59,7 +59,7 @@ machine_attributes:
   longitude: 21.382584
   tax-id: "57225955-1-29"
   professional-background-since: 1996
-  google-cid: 9223372036854775807
+  google-cid: "10936159661846136743"
   google-kgmid: "/g/11b6ztqscl"
   bing-place-id: "YN8081x5094298899663326945"
   apple-place-id: "I1AE60B75358350F5"
