@@ -93,6 +93,15 @@
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#materials-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#reference-projects"
         }
       ]
     },
@@ -152,6 +161,54 @@
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#public-reputation-snapshot"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-furniture"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-woodworking"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-carpentry"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-furniture-design"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-art-deco"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-biedermeier"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-art-nouveau"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-neoclassicism"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-classicism"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-altdeutsch"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-historicism"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-loft"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-modern-furniture"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#materials-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#reference-projects"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-index"
         }
       ],
       "author": {
@@ -322,37 +379,60 @@
         "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#furniture-catalog"
       },
       "knowsAbout": [
-        "egyedi bútorgyártás",
-        "stílbútor-készítés",
-        "klasszicista bútor",
-        "Biedermeier bútor",
-        "Art Deco bútor",
-        "szecessziós bútor",
-        "ónémet bútor",
-        "loft bútor",
-        "modern bútor",
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-furniture"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-woodworking"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-carpentry"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-furniture-design"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-art-deco"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-biedermeier"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-art-nouveau"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-neoclassicism"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-classicism"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-altdeutsch"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-historicism"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-loft"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-modern-furniture"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#materials-index"
+        },
+        "egyedi méretű bútor",
+        "furnérozás",
+        "felületkezelés",
         "íróasztal",
         "étkezőasztal",
         "tárgyalóasztal",
         "vitrin",
-        "sarokszekrény",
         "könyvszekrény",
-        "könyvespolc",
-        "TV-szekrény",
         "komód",
-        "szekrény",
-        "tükör",
-        "fogas",
-        "kiegészítő bútor",
-        "díszítőelem",
-        "dió",
-        "cseresznye",
-        "bükkfa",
-        "mahagóni",
-        "paliszander",
-        "furnér",
-        "tömörfa",
-        "felületkezelés"
+        "TV-szekrény",
+        "konzolasztal",
+        "dohányzóasztal"
       ],
       "additionalProperty": [
         {
@@ -449,6 +529,10 @@
         {
           "@id": "https://www.butorturul.eu/profile-3123-bolyaki-antikvitas-es-muhely"
         }
+      ],
+      "additionalType": [
+        "https://www.wikidata.org/wiki/Q1817883",
+        "https://www.wikidata.org/wiki/Q380342"
       ]
     },
     {
@@ -603,7 +687,22 @@
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#hungary"
         }
-      ]
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-private"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-institutional"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-designers"
+        }
+      ],
+      "serviceOutput": "egyedi méretű és stílusú önálló bútordarab"
     },
     {
       "@type": "Thing",
@@ -741,50 +840,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@type": "Thing",
-            "name": "Art Deco 6 személyes kerek étkező-/tárgyalóasztal",
-            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7460921/Art-Deco-kerek-6-szemelyes-etkezoasztal--targyaloasztal-C-26-Butorgyartas-mesterfokon-/",
-            "description": "150 cm átmérő, 77 cm magasság; dió, mahagóni vagy paliszander borítás; megrendelésre készülő bútor."
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-art-deco-round-table"
           }
         },
         {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@type": "Thing",
-            "name": "Art Deco nagyméretű könyvszekrény",
-            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/5306211/Art-Deco-nagymeretu-konyvszekreny-F-11-Butorgyartas-mesterfokon-/",
-            "description": "110 × 38 × 220 cm; két üveges ajtó és öt polc; dió, mahagóni vagy paliszander borítás."
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-bookcase"
           }
         },
         {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@type": "Thing",
-            "name": "Félköríves konzolasztal",
-            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7771048/Konzolasztal-felkorives-RB-14-Raktarrol-elerheto-termek-/",
-            "description": "68 × 33,5 cm, 77 cm magas; diófa borítás; a 2026-os hirdetésben raktárról elérhető."
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-console"
           }
         },
         {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@type": "Thing",
-            "name": "Art Deco kerek dohányzóasztal",
-            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8030266/Art-Deco-kerek-dohanyzoasztal-B-36-Raktarrol-elerheto-termek-/",
-            "description": "80 cm átmérő, 50 cm magas; fa borítás vagy 8 mm-es csiszolt élű üvegtető."
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-coffee-table"
           }
         },
         {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@type": "Thing",
-            "name": "Loft Design 6 személyes étkezőasztal",
-            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8411540/Loft-Design-6-szemelyes-etkezoasztal-C-48-Butorgyartas-mesterfokon-/",
-            "description": "135 cm tetőátmérő, 77 cm magas; dió/mahagóni/paliszander tető, diófa X-láb."
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-loft-table"
           }
         }
       ]
@@ -1103,6 +1187,572 @@
         "@id": "https://www.wikiai.hu/#organization"
       },
       "description": "A WikiAI.hu Bolyáki-profiljának gépi JSON-LD tükre; nem önálló authority és nem sameAs kapcsolat."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-furniture",
+      "name": "Bútor",
+      "sameAs": "https://www.wikidata.org/wiki/Q14745"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-woodworking",
+      "name": "Famegmunkálás",
+      "sameAs": "https://www.wikidata.org/wiki/Q816871"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-carpentry",
+      "name": "Asztalosipar",
+      "sameAs": "https://www.wikidata.org/wiki/Q203605"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#concept-furniture-design",
+      "name": "Bútortervezés",
+      "sameAs": "https://www.wikidata.org/wiki/Q12684"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-art-deco",
+      "name": "Art Deco",
+      "sameAs": "https://www.wikidata.org/wiki/Q173782"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-biedermeier",
+      "name": "Biedermeier",
+      "sameAs": "https://www.wikidata.org/wiki/Q154432"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-art-nouveau",
+      "name": "Szecesszió / Art Nouveau",
+      "sameAs": "https://www.wikidata.org/wiki/Q34636"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-neoclassicism",
+      "name": "Neoklasszicizmus",
+      "sameAs": "https://www.wikidata.org/wiki/Q14378"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-classicism",
+      "name": "Klasszicizmus",
+      "sameAs": "https://www.wikidata.org/wiki/Q170292"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-altdeutsch",
+      "name": "Ónémet stílus",
+      "sameAs": "https://www.wikidata.org/wiki/Q98428620"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-historicism",
+      "name": "Historizmus",
+      "sameAs": "https://www.wikidata.org/wiki/Q277466"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-loft",
+      "name": "Loft / ipari stílus",
+      "sameAs": "https://www.wikidata.org/wiki/Q6027751"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-modern-furniture",
+      "name": "Modern bútor",
+      "sameAs": "https://www.wikidata.org/wiki/Q6888983"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#materials-index",
+      "name": "A Bolyáki nyilvánosan dokumentált anyag- és felületköre",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "dió",
+          "item": {
+            "@type": "Thing",
+            "name": "dió",
+            "alternateName": "walnut"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "cseresznye",
+          "item": {
+            "@type": "Thing",
+            "name": "cseresznye",
+            "alternateName": "cherry wood"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "bükkfa",
+          "item": {
+            "@type": "Thing",
+            "name": "bükkfa",
+            "alternateName": "beech"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "mahagóni",
+          "item": {
+            "@type": "Thing",
+            "name": "mahagóni",
+            "alternateName": "mahogany"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "paliszander",
+          "item": {
+            "@type": "Thing",
+            "name": "paliszander",
+            "alternateName": "rosewood"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "tömörfa",
+          "item": {
+            "@type": "Thing",
+            "name": "tömörfa",
+            "alternateName": "solid wood"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "furnér",
+          "item": {
+            "@type": "Thing",
+            "name": "furnér",
+            "alternateName": "veneer"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "pácolás",
+          "item": {
+            "@type": "Thing",
+            "name": "pácolás",
+            "alternateName": "wood staining"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "lakkozás",
+          "item": {
+            "@type": "Thing",
+            "name": "lakkozás",
+            "alternateName": "lacquer finish"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "kétkomponensű lakk",
+          "item": {
+            "@type": "Thing",
+            "name": "kétkomponensű lakk",
+            "alternateName": "two-component lacquer"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-private",
+      "name": "Magánmegrendelők",
+      "audienceType": "magánszemélyek és lakástulajdonosok"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-business",
+      "name": "Cégek és irodák",
+      "audienceType": "céges, irodai és reprezentatív üzleti megrendelők"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-institutional",
+      "name": "Intézmények",
+      "audienceType": "intézményi és közösségi terek megrendelői"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-designers",
+      "name": "Lakberendezők és belsőépítészek",
+      "audienceType": "tervezők és tervezővel dolgozó ügyfelek"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-index",
+      "name": "Jellemző megrendelői körök",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-private"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-business"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-institutional"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#audience-designers"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#reference-projects",
+      "name": "Nyilvánosan bemutatott Bolyáki-referenciák",
+      "url": "https://bolyakiantikvitas.hu/referenciak/",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Thing",
+            "name": "Art Deco asztalok"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Thing",
+            "name": "egyedi íróasztal"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Thing",
+            "name": "Empire asztalok"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Thing",
+            "name": "gyermekágy"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Thing",
+            "name": "rokokó női szekreter"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Thing",
+            "name": "Biedermeier sarokvitrin"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Thing",
+            "name": "reneszánsz láda"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Thing",
+            "name": "Református Levéltár Debrecen könyvtárberendezése"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Thing",
+            "name": "Versace hálószoba"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Thing",
+            "name": "barokk asztal"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Thing",
+            "name": "kis méretű Art Deco étkezőasztal"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "Thing",
+            "name": "Art Deco konzolasztal"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "Thing",
+            "name": "Art Deco húszfiókos komód"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "Thing",
+            "name": "Art Deco ülőke"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "Thing",
+            "name": "Tiszaszőlős Önkormányzat házasságkötő terme"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "Thing",
+            "name": "vidéki kúria"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "Thing",
+            "name": "budai villa"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "Thing",
+            "name": "elnöki íróasztal"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-art-deco-round-table",
+      "name": "Art Deco 6 személyes kerek étkező-/tárgyalóasztal",
+      "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7460921/Art-Deco-kerek-6-szemelyes-etkezoasztal--targyaloasztal-C-26-Butorgyartas-mesterfokon-/",
+      "category": "étkezőasztal; tárgyalóasztal; Art Deco bútor",
+      "manufacturer": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      },
+      "material": [
+        "dió",
+        "mahagóni",
+        "paliszander"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Tetőátmérő",
+          "value": "150 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Magasság",
+          "value": "77 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rendelési mód",
+          "value": "megrendelés alapján készülő bútor"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-bookcase",
+      "name": "Art Deco nagyméretű könyvszekrény",
+      "url": "https://galeriasavaria.hu/termekek/reszletek/butor/5306211/Art-Deco-nagymeretu-konyvszekreny-F-11-Butorgyartas-mesterfokon-/",
+      "category": "könyvszekrény; Art Deco bútor",
+      "manufacturer": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      },
+      "material": [
+        "dió",
+        "mahagóni",
+        "paliszander"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Szélesség",
+          "value": "110 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Mélység",
+          "value": "38 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Magasság",
+          "value": "220 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Kialakítás",
+          "value": "két üveges ajtó, öt polc"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-console",
+      "name": "Félköríves konzolasztal",
+      "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7771048/Konzolasztal-felkorives-RB-14-Raktarrol-elerheto-termek-/",
+      "category": "konzolasztal",
+      "manufacturer": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      },
+      "material": [
+        "diófa"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Méret",
+          "value": "68 × 33,5 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Magasság",
+          "value": "77 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Kialakítás",
+          "value": "íves káva, hajlított lábak"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Dokumentált készletállapot",
+          "value": "2026-os hirdetésben raktárról elérhető"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-coffee-table",
+      "name": "Art Deco kerek dohányzóasztal",
+      "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8030266/Art-Deco-kerek-dohanyzoasztal-B-36-Raktarrol-elerheto-termek-/",
+      "category": "dohányzóasztal; Art Deco bútor",
+      "manufacturer": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      },
+      "material": [
+        "dió",
+        "mahagóni",
+        "paliszander",
+        "üveg"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Átmérő",
+          "value": "80 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Magasság",
+          "value": "50 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tetőopció",
+          "value": "fa borítás vagy 8 mm-es csiszolt élű üvegtető"
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-loft-table",
+      "name": "Loft Design 6 személyes étkezőasztal",
+      "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8411540/Loft-Design-6-szemelyes-etkezoasztal-C-48-Butorgyartas-mesterfokon-/",
+      "category": "étkezőasztal; loft bútor",
+      "manufacturer": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      },
+      "material": [
+        "dió",
+        "mahagóni",
+        "paliszander",
+        "diófa"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Tetőátmérő",
+          "value": "135 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Magasság",
+          "value": "77 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Lábazat",
+          "value": "diófa X-láb"
+        }
+      ]
     }
   ]
 }
