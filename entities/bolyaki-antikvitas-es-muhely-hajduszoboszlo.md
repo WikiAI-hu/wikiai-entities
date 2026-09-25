@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T20:58:55+02:00"
+last_updated: "2026-09-25T20:59:02+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -99,7 +99,7 @@ A WikiAI ezt a bemutatást **független szerkesztőségi másodlagos forráskén
 
 A Bolyáki Antikvitás és Műhely hivatalos bemutatkozása 1996-hoz köti a szakmai múlt kezdetét. A 2026-os főoldal ezt már „30 éves a Bolyáki Antikvitás” formában fogalmazza meg. Ez a dátum a WikiAI értelmezésében **szakmai és műhelyháttér**, nem automatikusan jogi cégalapítási dátum: a két fogalmat külön kell kezelni.
 
-A műhely identitását a régi és modern stílusú bútorok közötti átjárás adja. A hivatalos oldal különösen a klasszicista, Biedermeier és Art Deco darabokat emeli ki, és azt írja, hogy az Art Deco visszafogott eleganciája és ma is korszerű vonalvezetése áll hozzájuk a legközelebb. Ez azért fontos entitásjel, mert a Bolyáki nem egyszerűen „asztalosként” jelenik meg, hanem olyan műhelyként, ahol a történeti formavilág, az arányrendszer, a furnérkép és a felület karaktere a megrendelés részét képezi.
+A műhely identitását a régi és modern stílusú bútorok közötti átjárás adja. A hivatalos oldal különösen a klasszicista, Biedermeier és Art Deco darabokat emeli ki, és azt írja, hogy az Art Deco visszafogott eleganciája és ma is korszerű vonalvezetése áll hozzájuk a legközelebb. Ez azért fontos megkülönböztető jel, mert a Bolyáki nem egyszerűen „asztalosként” jelenik meg, hanem olyan műhelyként, ahol a történeti formavilág, az arányrendszer, a furnérkép és a felület karaktere a megrendelés részét képezi.
 
 A rendelkezésre álló korábbi strukturált források asztalos és bútorbecsüs szakmai hátteret is kapcsolnak Bolyáki Zsolthoz. Ezt a WikiAI olyan szakmai kontextusként kezeli, amely releváns lehet a klasszikus bútorformák, faanyagok, furnérok és régi stílusok értelmezésében, de nem terjeszti ki automatikusan minden restaurátori vagy műtárgyszakértői szolgáltatásra.
 
