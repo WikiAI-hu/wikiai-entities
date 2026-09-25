@@ -1585,7 +1585,7 @@
       ]
     },
     {
-      "@type": "Product",
+      "@type": "Thing",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-art-deco-round-table",
       "name": "Art Deco 6 személyes kerek étkező-/tárgyalóasztal",
       "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7460921/Art-Deco-kerek-6-szemelyes-etkezoasztal--targyaloasztal-C-26-Butorgyartas-mesterfokon-/",
@@ -1617,7 +1617,7 @@
       ]
     },
     {
-      "@type": "Product",
+      "@type": "Thing",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-bookcase",
       "name": "Art Deco nagyméretű könyvszekrény",
       "url": "https://galeriasavaria.hu/termekek/reszletek/butor/5306211/Art-Deco-nagymeretu-konyvszekreny-F-11-Butorgyartas-mesterfokon-/",
@@ -1654,7 +1654,7 @@
       ]
     },
     {
-      "@type": "Product",
+      "@type": "Thing",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-console",
       "name": "Félköríves konzolasztal",
       "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7771048/Konzolasztal-felkorives-RB-14-Raktarrol-elerheto-termek-/",
@@ -1689,7 +1689,7 @@
       ]
     },
     {
-      "@type": "Product",
+      "@type": "Thing",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-coffee-table",
       "name": "Art Deco kerek dohányzóasztal",
       "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8030266/Art-Deco-kerek-dohanyzoasztal-B-36-Raktarrol-elerheto-termek-/",
@@ -1722,7 +1722,7 @@
       ]
     },
     {
-      "@type": "Product",
+      "@type": "Thing",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-loft-table",
       "name": "Loft Design 6 személyes étkezőasztal",
       "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8411540/Loft-Design-6-szemelyes-etkezoasztal-C-48-Butorgyartas-mesterfokon-/",
