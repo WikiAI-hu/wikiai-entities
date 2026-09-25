@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:27:09+00:00"
-synced_at: "2026-09-25T07:27:42+00:00"
+source_last_modified: "2026-09-25T07:32:37+00:00"
+synced_at: "2026-09-25T07:33:14+00:00"
 ---
 
 # Munkatársaink
@@ -33,19 +33,25 @@ Ehhez a vállalkozási bemutatást, a webes struktúrát, a szakmai tartalmat, a
 
 Az AI-láthatóságról, weboldalfejlesztésről, keresési jelenlétről, szakmai tartalmakról, sponsored Posztokról és további fizetett együttműködési lehetőségekről részletes információ a **[Szolgáltatások oldalon](https://www.wikiai.hu/szolgaltatasok/)** található. A Vállalkozások rovat szerkesztőségi megjelenése ettől elkülönül és nem vásárolható meg.
 
+## A WikiAI.hu belső szakmai csapata
+
 [![Várhelyi Csanád portréja, a WikiAI.hu felelős szerkesztője és AI Weblapfejlesztő](https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-csanad-ai-weblapfejleszto-wikiaihu.png)](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
+
+## [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
 Felelős szerkesztő · AI Weblapfejlesztő · SEO, AEO, GEO, LLMO és AI-láthatósági szakember
 
-## [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
+Több mint tíz éve foglalkozik weboldalakkal, keresőoptimalizálással és vállalkozások digitális jelenlétével. A WikiAI.hu-n a szerkesztőségi kutatásért, a forrásellenőrzésért és a szakmai pontosságért felel, emellett weboldalfejlesztési, keresési és AI-láthatósági szakmai munkát végez.
 
 [Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
 [![Várhelyi Viktória AI-láthatósági specialista és a WikiAI.hu alapítója](https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-viktoria-ai-lathatosagi-specalista-wikiaihu.png)](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
+## [Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
+
 WikiAI.hu alapító · AI-láthatósági specialista · üzleti és partneri kapcsolatok
 
-## [Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
+A WikiAI.hu alapítójaként a partneri és üzleti kapcsolatok, az online reputáció, a sponsored tartalmak és a vállalkozások következetes digitális kommunikációjának területét képviseli.
 
 [Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
@@ -55,9 +61,11 @@ A WikiAI.hu meghatározott szakterületeken külső szakmai partnerrel is együt
 
 [![Molnár András Context Engineer és SAP Support Consultant, a WikiAI.hu külső szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/09/molnar-andras-mostai.png)](https://www.wikiai.hu/szakertok/molnar-andras/)
 
+## [Molnár András](https://www.wikiai.hu/szakertok/molnar-andras/)
+
 Context Engineer · SAP Support Consultant · Vállalati AI · külső szakmai partner
 
-## [Molnár András](https://www.wikiai.hu/szakertok/molnar-andras/)
+A WikiAI.hu-hoz nem munkatársként, hanem önálló külső szakmai partnerként kapcsolódik, meghatározott projektekben és a saját szakterületéhez illeszkedő feladatoknál.
 
 [Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/molnar-andras/)
 
