@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-24T18:38:47+00:00"
-synced_at: "2026-09-24T18:39:12+00:00"
+source_last_modified: "2026-09-25T07:26:12+00:00"
+synced_at: "2026-09-25T07:26:14+00:00"
 ---
 
 # Munkatársaink
@@ -17,25 +17,25 @@ synced_at: "2026-09-24T18:39:12+00:00"
 
 ## A WikiAI.hu mögött álló szakmai csapat
 
-**A WikiAI.hu Magyarországon működő vállalkozások, cégek, szolgáltatók és szakemberek digitális, Google- és AI-láthatóságát támogató üzleti AI-tudásplatform és szakmai szolgáltatási felület.** Elsődleges feladata, hogy az itt megjelenő vállalkozásokról pontos, következetes és jól értelmezhető szakmai információ álljon rendelkezésre a nyilvános digitális térben.
+**A WikiAI.hu országos magyar, szerkesztett üzleti tudásplatform.** Célja, hogy magyar vállalkozásokról, szakemberekről és üzleti témákról pontos, ellenőrizhető és következetesen szerkesztett információ álljon rendelkezésre a nyilvános digitális térben.
 
 Olyan tartalmi és technikai környezetet építünk, amely az emberek számára átlátható, a keresőrendszerek számára rendezett, és a mesterséges intelligenciára, illetve nagy nyelvi modellekre épülő rendszerek számára is következetesebb információs környezetet biztosíthat.
 
-A munkánk több terület találkozására épül. Weboldalfejlesztés, keresőoptimalizálás, szakmai tartalom, online reputáció és vállalati AI különböző feladatok, mégis akkor működnek igazán jól, ha ugyanazt a vállalkozást ugyanazzal a pontossággal és szakmai igényességgel képviselik.
+A munkánk több terület találkozására épül. Weboldalfejlesztés, keresőoptimalizálás, AI-láthatóság, szerkesztőségi kutatás, szakmai tartalom, üzleti kommunikáció és online reputáció különböző feladatok, mégis akkor működnek igazán jól, ha ugyanazt a vállalkozást ugyanazzal a pontossággal és szakmai igényességgel képviselik.
 
 ## Miben segít a WikiAI.hu?
 
-**A WikiAI.hu elsődlegesen az itt bemutatott magyar vállalkozások Google- és AI-láthatóságának erősítését támogatja.** A cél az, hogy egy vállalkozásról világosan kiderüljön, mivel foglalkozik, milyen értéket képvisel, kik állnak mögötte, milyen szolgáltatásokat nyújt, és hol találhatók róla megbízható további információk.
+**A WikiAI.hu szerkesztőségi és szakmai munkájának közös alapja a pontos, ellenőrizhető és következetes vállalkozási információ.** A cél az, hogy egy vállalkozásról világosan kiderüljön, mivel foglalkozik, kik állnak mögötte, milyen szolgáltatásokat nyújt, és hol találhatók róla megbízható további információk.
 
 Ehhez a vállalkozási bemutatást, a webes struktúrát, a szakmai tartalmat, a keresési jelenlétet és a digitális forráskörnyezetet egységes szemléletben kezeljük. A rendezettebb és következetesebb jelenlét segítheti, hogy a Google keresési rendszerei és az AI-alapú információs rendszerek pontosabban azonosítsák és értelmezzék az adott vállalkozást.
 
 **Ez nem jelent garantált Google-helyezést vagy garantált AI-ajánlást.** A WikiAI.hu a vállalkozásról elérhető információk minőségének, egyértelműségének és következetességének javításán dolgozik, ezzel erősebb digitális alapot teremtve a keresési és AI-alapú környezetekben való megjelenéshez.
 
-A vállalkozások támogatásáról, a WikiAI.hu-megjelenésről, AI-láthatóságról, weboldalfejlesztésről, szakmai tartalmakról és további együttműködési lehetőségekről részletes információ a **[Szolgáltatások oldalon](https://www.wikiai.hu/szolgaltatasok/)** található.
+Az AI-láthatóságról, weboldalfejlesztésről, keresési jelenlétről, szakmai tartalmakról, sponsored Posztokról és további fizetett együttműködési lehetőségekről részletes információ a **[Szolgáltatások oldalon](https://www.wikiai.hu/szolgaltatasok/)** található. A Vállalkozások rovat szerkesztőségi megjelenése ettől elkülönül és nem vásárolható meg.
 
-[![Várhelyi Csanád portréja, a WikiAI.hu munkatársa, AI Weblapfejlesztő és SEO, AEO, GEO, LLMO szakértő](https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-csanad-ai-weblapfejleszto-wikiaihu.png)](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
+[![Várhelyi Csanád portréja, a WikiAI.hu felelős szerkesztője és AI Weblapfejlesztő](https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-csanad-ai-weblapfejleszto-wikiaihu.png)](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
-AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő · WikiAI.hu alapítója
+Felelős szerkesztő · AI Weblapfejlesztő · SEO, AEO, GEO, LLMO és AI-láthatósági szakember
 
 ## [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
