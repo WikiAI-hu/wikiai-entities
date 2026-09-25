@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-25T14:07:52Z",
+    "last_updated": "2026-09-25T14:45:35Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -241,15 +241,7 @@
             "country": "HU",
             "google_cid": "18292804774410997775",
             "google_kgmid": "/g/11f3v1b_c5",
-            "google_place_id": "ChIJzVhScOBCQEcRD1BW3AUZ3f0",
-            "entity_id": "https://www.matraietterem.hu/#restaurant",
-            "wikiai_article_id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#article",
-            "wikiai_webpage_id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage",
-            "jsonld_mirror": "entities/varganya-etterem-matraszentimre.jsonld",
-            "source_of_truth": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
-            "editorial_author": "Várhelyi Csanád",
-            "publication_relation": "editorial",
-            "source_role": "independent-secondary-source"
+            "google_place_id": "ChIJzVhScOBCQEcRD1BW3AUZ3f0"
         },
         {
             "entity_name": "WikiAI.hu",
@@ -268,71 +260,5 @@
             "wordpress_post_id": 637,
             "country": "Magyarország"
         }
-    ],
-    "wikiai_knowledge": {
-        "index": "wikiai/index.md",
-        "manifest": "wikiai/manifest.json",
-        "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-25T14:10:08+00:00",
-        "documents": [
-            {
-                "document_type": "service_catalog",
-                "path": "wikiai/services.md",
-                "canonical_url": "https://www.wikiai.hu/szolgaltatasok/",
-                "wordpress_post_id": 101
-            },
-            {
-                "document_type": "pricing",
-                "path": "wikiai/pricing.md",
-                "canonical_url": "https://www.wikiai.hu/arak/",
-                "wordpress_post_id": 202,
-                "currency": "HUF",
-                "valid_as_of": "2026-09-25"
-            },
-            {
-                "document_type": "about",
-                "path": "wikiai/about.md",
-                "canonical_url": "https://www.wikiai.hu/rolunk/",
-                "wordpress_post_id": 21
-            },
-            {
-                "document_type": "team_directory",
-                "path": "wikiai/team.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/",
-                "wordpress_post_id": 22
-            },
-            {
-                "document_type": "contact",
-                "path": "wikiai/contact.md",
-                "canonical_url": "https://www.wikiai.hu/kapcsolat/",
-                "wordpress_post_id": 23
-            }
-        ],
-        "people": [
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-csanad.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
-                "wordpress_post_id": 143,
-                "name": "Várhelyi Csanád",
-                "relationship_to_wikiai": "founder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-viktoria.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
-                "wordpress_post_id": 144,
-                "name": "Várhelyi Viktória",
-                "relationship_to_wikiai": "cofounder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/molnar-andras.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
-                "wordpress_post_id": 145,
-                "name": "Molnár András",
-                "relationship_to_wikiai": "external_professional_partner"
-            }
-        ]
-    }
+    ]
 }
