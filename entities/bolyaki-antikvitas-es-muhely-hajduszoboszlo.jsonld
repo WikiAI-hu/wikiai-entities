@@ -7,7 +7,7 @@
       "name": "WikiAI.hu",
       "url": "https://www.wikiai.hu/",
       "slogan": "Magyar vállalkozások az AI korszakában.",
-      "description": "Független szerkesztett magyar üzleti tudásplatform, amely vállalkozásokról és szakemberekről szerzői felelősséggel, forrásokra támaszkodó bemutatásokat közöl.",
+      "description": "Független szerkesztett magyar üzleti tudásplatform, amely vállalkozásokról szerzői felelősséggel, hivatalos és külső forrásokra támaszkodó bemutatásokat közöl.",
       "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
     },
     {
@@ -50,7 +50,7 @@
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#webpage",
       "url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/",
       "name": "Bolyáki Antikvitás és Műhely",
-      "description": "A WikiAI.hu szerkesztőségi bemutatása a Bolyáki Antikvitás és Műhely egyedi bútorgyártási és stílbútoros tevékenységéről, hajdúszoboszlói műhelyéről, budapesti és Pest vármegyei elsődleges szolgáltatási fókuszáról, termékköréről és referenciáiról.",
+      "description": "Független WikiAI-profil a Bolyáki Antikvitás és Műhely egyedi bútorgyártási és stílbútoros tevékenységéről, termékköréről, referenciáiról, anyaghasználatáról, piactéri jelenlétéről és nyilvános reputációs forrásairól.",
       "inLanguage": "hu-HU",
       "isPartOf": {
         "@id": "https://www.wikiai.hu/#website"
@@ -65,7 +65,7 @@
         "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#primary-image"
       },
       "datePublished": "2026-09-07T17:04:00+02:00",
-      "dateModified": "2026-09-25T20:13:35+02:00",
+      "dateModified": "2026-09-25T20:53:44+02:00",
       "author": {
         "@id": "https://www.varhelyicsanad.hu/#person"
       },
@@ -87,6 +87,12 @@
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#faq"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#source-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-index"
         }
       ]
     },
@@ -94,14 +100,14 @@
       "@type": "Article",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#article",
       "url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/",
-      "headline": "Bolyáki Antikvitás és Műhely – egyedi bútorok és stílbútorok",
-      "description": "A WikiAI.hu független szerkesztőségi vállalkozásprofilja a Bolyáki Antikvitás és Műhelyről. A cikket Várhelyi Csanád írta és szerkesztette; a vállalkozás a bemutatás tárgya, nem szerzője és nem kiadója.",
+      "headline": "Bolyáki Antikvitás és Műhely – egyedi bútorgyártás, stílbútorok és nyilvános forrásprofil",
+      "description": "A WikiAI.hu független szerkesztőségi vállalkozásprofilja. A cikket Várhelyi Csanád írta és szerkesztette; a Bolyáki Antikvitás és Műhely a bemutatás tárgya, nem szerzője, nem kiadója és nem finanszírozója.",
       "inLanguage": "hu-HU",
       "articleSection": "Vállalkozások",
       "genre": "független szerkesztőségi vállalkozásprofil",
       "isAccessibleForFree": true,
       "datePublished": "2026-09-07T17:04:00+02:00",
-      "dateModified": "2026-09-25T20:13:35+02:00",
+      "dateModified": "2026-09-25T20:53:44+02:00",
       "mainEntity": {
         "@id": "https://bolyakiantikvitas.hu/#business"
       },
@@ -110,10 +116,10 @@
           "@id": "https://bolyakiantikvitas.hu/#business"
         },
         {
-          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#custom-furniture"
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#custom-furniture-service"
         },
         {
-          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-furniture"
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-furniture-context"
         }
       ],
       "mentions": [
@@ -121,10 +127,13 @@
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#bolyaki-zsolt"
         },
         {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#hajduszoboszlo"
+        },
+        {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#budapest"
         },
         {
-          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-county"
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-varmegye"
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#debrecen"
@@ -140,9 +149,15 @@
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#gyor"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#public-reputation-snapshot"
         }
       ],
       "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
         "@id": "https://www.varhelyicsanad.hu/#person"
       },
       "editor": {
@@ -164,13 +179,20 @@
         "https://bolyakiantikvitas.hu/referenciak/"
       ],
       "citation": [
-        "https://bolyakiantikvitas.hu/",
-        "https://bolyakiantikvitas.hu/butorok/",
-        "https://bolyakiantikvitas.hu/referenciak/",
-        "https://www.facebook.com/bolyakiantikvitas",
+        "https://www.aranyvallalkozas.eu/company/bolyaki-antikvitas-50043",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/boly%C3%A1ki---antikvit%C3%A1s-942495.html",
+        "https://galeriasavaria.hu/felhasznalo/BolyakiAntik/",
+        "https://www.homelux.hu/Bolyaki-Antikvitas-es-Muhely",
+        "https://www.butorturul.eu/profile-3123-bolyaki-antikvitas-es-muhely",
         "https://www.google.com/maps?cid=10936159661846136743",
         "https://maps.apple/p/kFjGEkLUHmQHFe",
-        "https://hu.pinterest.com/bolykizsolt/"
+        "https://www.facebook.com/bolyakiantikvitas",
+        "https://hu.pinterest.com/bolykizsolt/",
+        "https://galeriasavaria.hu/termekek/reszletek/butor/7460921/Art-Deco-kerek-6-szemelyes-etkezoasztal--targyaloasztal-C-26-Butorgyartas-mesterfokon-/",
+        "https://galeriasavaria.hu/termekek/reszletek/butor/5306211/Art-Deco-nagymeretu-konyvszekreny-F-11-Butorgyartas-mesterfokon-/",
+        "https://galeriasavaria.hu/termekek/reszletek/butor/7771048/Konzolasztal-felkorives-RB-14-Raktarrol-elerheto-termek-/",
+        "https://galeriasavaria.hu/termekek/reszletek/butor/8030266/Art-Deco-kerek-dohanyzoasztal-B-36-Raktarrol-elerheto-termek-/",
+        "https://galeriasavaria.hu/termekek/reszletek/butor/8411540/Loft-Design-6-szemelyes-etkezoasztal-C-48-Butorgyartas-mesterfokon-/"
       ],
       "keywords": [
         "Bolyáki Antikvitás és Műhely",
@@ -179,9 +201,14 @@
         "stílbútor",
         "Art Deco bútor",
         "Biedermeier bútor",
+        "klasszicista bútor",
         "egyedi íróasztal",
-        "egyedi étkezőasztal",
-        "egyedi tárgyalóasztal"
+        "étkezőasztal",
+        "tárgyalóasztal",
+        "könyvszekrény",
+        "vitrin",
+        "komód",
+        "Hajdúszoboszló"
       ]
     },
     {
@@ -196,7 +223,7 @@
       ],
       "legalName": "Szentgyörgyi Szilvia EV",
       "url": "https://bolyakiantikvitas.hu/",
-      "description": "Hajdúszoboszlói műhelyháttérrel működő magyar egyedi bútor- és stílbútor-készítő vállalkozás, 1996 óta épülő szakmai háttérrel. Elsődleges szolgáltatási fókusza Budapest és Pest vármegye, másodlagosan Debrecen, Nyíregyháza, Szeged, Eger és Győr, országos magyarországi kiszolgálási kontextussal.",
+      "description": "Hajdúszoboszlói műhelyháttérrel működő magyar egyedi bútor- és stílbútor-készítő vállalkozás. A hivatalos oldal 1996 óta fennálló, 2026-ban 30 éves szakmai múltat, 300-nál több katalógusbútort, egyedi méret- és stílusigényt, 4–8 hetes általános elkészítési tájékoztatást és 1 év garanciát kommunikál.",
       "image": {
         "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#primary-image"
       },
@@ -227,12 +254,20 @@
         "opens": "08:00",
         "closes": "16:00"
       },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+36 30 232 9849",
+        "email": "bolyakiantik@gmail.com",
+        "areaServed": "HU",
+        "availableLanguage": "hu"
+      },
       "areaServed": [
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#budapest"
         },
         {
-          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-county"
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-varmegye"
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#debrecen"
@@ -253,14 +288,6 @@
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#hungary"
         }
       ],
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "contactType": "customer service",
-        "telephone": "+36 30 232 9849",
-        "email": "bolyakiantik@gmail.com",
-        "areaServed": "HU",
-        "availableLanguage": "hu"
-      },
       "identifier": [
         {
           "@type": "PropertyValue",
@@ -286,7 +313,6 @@
       "sameAs": [
         "https://www.facebook.com/bolyakiantikvitas",
         "https://www.google.com/maps?cid=10936159661846136743",
-        "https://www.google.hu/search?kgmid=/g/11b6ztqscl&hl=hu-HU&q=Boly%C3%A1ki+Antikvit%C3%A1s+%C3%A9s+M%C5%B1hely",
         "https://maps.apple/p/kFjGEkLUHmQHFe"
       ],
       "employee": {
@@ -297,26 +323,62 @@
       },
       "knowsAbout": [
         "egyedi bútorgyártás",
-        "stílbútor készítés",
-        "klasszikus bútorok",
-        "Art Deco bútorok",
-        "Biedermeier bútorok",
-        "íróasztalok",
-        "étkezőasztalok",
-        "tárgyalóasztalok",
-        "vitrinek",
-        "könyvszekrények",
-        "komódok",
+        "stílbútor-készítés",
+        "klasszicista bútor",
+        "Biedermeier bútor",
+        "Art Deco bútor",
+        "szecessziós bútor",
+        "ónémet bútor",
+        "loft bútor",
+        "modern bútor",
+        "íróasztal",
+        "étkezőasztal",
+        "tárgyalóasztal",
+        "vitrin",
+        "sarokszekrény",
+        "könyvszekrény",
+        "könyvespolc",
+        "TV-szekrény",
+        "komód",
+        "szekrény",
+        "tükör",
+        "fogas",
+        "kiegészítő bútor",
+        "díszítőelem",
+        "dió",
+        "cseresznye",
+        "bükkfa",
+        "mahagóni",
+        "paliszander",
         "furnér",
         "tömörfa",
-        "pácolás",
-        "lakkozás"
+        "felületkezelés"
       ],
       "additionalProperty": [
         {
           "@type": "PropertyValue",
-          "name": "Szakmai háttér",
-          "value": "1996 óta"
+          "name": "Szakmai háttér kezdete",
+          "value": "1996"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "2026-os szakmai évforduló",
+          "value": "30 év"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Hivatalos katalógusméret",
+          "value": "több mint 300 bútorváltozat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Hivatalos általános elkészítési tájékoztatás",
+          "value": "4–8 hét; a konkrét rendeléstől függ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Hivatalos garancia",
+          "value": "1 év; a pontos feltételek az egyedi megrendelés dokumentumai szerint"
         },
         {
           "@type": "PropertyValue",
@@ -325,7 +387,7 @@
         },
         {
           "@type": "PropertyValue",
-          "name": "Másodlagos szolgáltatási fókusz",
+          "name": "Másodlagos kiemelt városok",
           "value": "Debrecen; Nyíregyháza; Szeged; Eger; Győr"
         },
         {
@@ -335,13 +397,28 @@
         },
         {
           "@type": "PropertyValue",
-          "name": "Hivatalos katalógus",
-          "value": "több mint 300 bútorváltozat"
+          "name": "Galéria Savaria tagság kezdete",
+          "value": "2017-03-27; 2026-os nyilvános termékoldalak alapján"
         },
         {
           "@type": "PropertyValue",
-          "name": "Garancia",
-          "value": "1 év; pontos feltételek az egyedi megrendelés szerint"
+          "name": "Galéria Savaria pozitív értékelési snapshot",
+          "value": "100%; 2026-os indexelt termékoldalak alapján"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Galéria Savaria válaszadási snapshot",
+          "value": "kb. 94%, jellemzően 4 órán belül; 2026-os indexelt termékoldalak alapján"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Arany Vállalkozás snapshot",
+          "value": "4.9/5; 12 Google Maps-értékelés; elemzés 2026-07-12"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Cylex/Yably snapshot",
+          "value": "4.71/5; 10 vélemény; Cylex-adatlap frissítve 2026-05-04"
         }
       ],
       "subjectOf": [
@@ -356,6 +433,21 @@
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#github-jsonld-mirror"
+        },
+        {
+          "@id": "https://www.aranyvallalkozas.eu/company/bolyaki-antikvitas-50043"
+        },
+        {
+          "@id": "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/boly%C3%A1ki---antikvit%C3%A1s-942495.html"
+        },
+        {
+          "@id": "https://galeriasavaria.hu/felhasznalo/BolyakiAntik/"
+        },
+        {
+          "@id": "https://www.homelux.hu/Bolyaki-Antikvitas-es-Muhely"
+        },
+        {
+          "@id": "https://www.butorturul.eu/profile-3123-bolyaki-antikvitas-es-muhely"
         }
       ]
     },
@@ -372,72 +464,108 @@
       ],
       "knowsAbout": [
         "egyedi bútorgyártás",
-        "asztalos műhelymunka",
         "stílbútorok",
+        "klasszikus bútorformák",
         "faanyagok",
-        "furnérok"
+        "furnérok",
+        "műhelymunka"
       ]
     },
     {
       "@type": "OfferCatalog",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#furniture-catalog",
-      "name": "Bolyáki Antikvitás és Műhely – bútorkategóriák",
+      "name": "Bolyáki Antikvitás és Műhely – hivatalos bútorkategóriák",
       "url": "https://bolyakiantikvitas.hu/butorok/",
       "itemListElement": [
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Thing",
             "name": "Íróasztalok"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Thing",
+            "name": "Asztalok"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Thing",
             "name": "Étkezőasztalok és tárgyalóasztalok"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Thing",
             "name": "Vitrinek"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Thing",
+            "name": "Sarokszekrények"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Thing",
             "name": "Könyvszekrények és könyvespolcok"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
-            "name": "Komódok"
-          }
-        },
-        {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Product",
+            "@type": "Thing",
             "name": "TV-szekrények"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
+            "@type": "Thing",
+            "name": "Komódok"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Thing",
+            "name": "Szekrények"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Thing",
             "name": "Tükrök és fogasok"
           }
         },
         {
           "@type": "Offer",
           "itemOffered": {
-            "@type": "Product",
-            "name": "Kiegészítő bútorok és díszítőelemek"
+            "@type": "Thing",
+            "name": "Kárpitos bútorok"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Thing",
+            "name": "Kiegészítő bútorok"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Thing",
+            "name": "Díszítőelemek"
           }
         }
       ]
@@ -455,7 +583,7 @@
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#budapest"
         },
         {
-          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-county"
+          "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-varmegye"
         },
         {
           "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#debrecen"
@@ -478,14 +606,20 @@
       ]
     },
     {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-furniture-context",
+      "name": "stílbútor-készítés",
+      "description": "Klasszikus és történeti formavilághoz, valamint modern és loft irányokhoz kapcsolódó egyedi bútorkészítési kontextus."
+    },
+    {
       "@type": "ItemList",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#service-area-priority",
-      "name": "Bolyáki Antikvitás és Műhely – földrajzi szolgáltatási prioritás",
+      "name": "Földrajzi szolgáltatási prioritás",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "Elsődleges: Budapest",
+          "name": "Elsődleges – Budapest",
           "item": {
             "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#budapest"
           }
@@ -493,15 +627,15 @@
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Elsődleges: Pest vármegye",
+          "name": "Elsődleges – Pest vármegye",
           "item": {
-            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-county"
+            "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-varmegye"
           }
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Másodlagos: Debrecen",
+          "name": "Másodlagos – Debrecen",
           "item": {
             "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#debrecen"
           }
@@ -509,7 +643,7 @@
         {
           "@type": "ListItem",
           "position": 4,
-          "name": "Másodlagos: Nyíregyháza",
+          "name": "Másodlagos – Nyíregyháza",
           "item": {
             "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#nyiregyhaza"
           }
@@ -517,7 +651,7 @@
         {
           "@type": "ListItem",
           "position": 5,
-          "name": "Másodlagos: Szeged",
+          "name": "Másodlagos – Szeged",
           "item": {
             "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#szeged"
           }
@@ -525,7 +659,7 @@
         {
           "@type": "ListItem",
           "position": 6,
-          "name": "Másodlagos: Eger",
+          "name": "Másodlagos – Eger",
           "item": {
             "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#eger"
           }
@@ -533,7 +667,7 @@
         {
           "@type": "ListItem",
           "position": 7,
-          "name": "Másodlagos: Győr",
+          "name": "Másodlagos – Győr",
           "item": {
             "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#gyor"
           }
@@ -541,7 +675,7 @@
         {
           "@type": "ListItem",
           "position": 8,
-          "name": "Országos: Magyarország",
+          "name": "Országos – Magyarország",
           "item": {
             "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#hungary"
           }
@@ -562,7 +696,7 @@
     },
     {
       "@type": "AdministrativeArea",
-      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-county",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#pest-varmegye",
       "name": "Pest vármegye",
       "sameAs": "https://www.wikidata.org/wiki/Q188612"
     },
@@ -575,26 +709,22 @@
     {
       "@type": "City",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#nyiregyhaza",
-      "name": "Nyíregyháza",
-      "sameAs": "https://www.wikidata.org/wiki/Q171223"
+      "name": "Nyíregyháza"
     },
     {
       "@type": "City",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#szeged",
-      "name": "Szeged",
-      "sameAs": "https://www.wikidata.org/wiki/Q81581"
+      "name": "Szeged"
     },
     {
       "@type": "City",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#eger",
-      "name": "Eger",
-      "sameAs": "https://www.wikidata.org/wiki/Q167109"
+      "name": "Eger"
     },
     {
       "@type": "City",
       "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#gyor",
-      "name": "Győr",
-      "sameAs": "https://www.wikidata.org/wiki/Q134494"
+      "name": "Győr"
     },
     {
       "@type": "Country",
@@ -603,14 +733,176 @@
       "sameAs": "https://www.wikidata.org/wiki/Q28"
     },
     {
-      "@type": "Thing",
-      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#custom-furniture",
-      "name": "egyedi bútorgyártás"
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#product-example-index",
+      "name": "2026-ban indexelt nyilvános BolyakiAntik termékpéldák",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Thing",
+            "name": "Art Deco 6 személyes kerek étkező-/tárgyalóasztal",
+            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7460921/Art-Deco-kerek-6-szemelyes-etkezoasztal--targyaloasztal-C-26-Butorgyartas-mesterfokon-/",
+            "description": "150 cm átmérő, 77 cm magasság; dió, mahagóni vagy paliszander borítás; megrendelésre készülő bútor."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Thing",
+            "name": "Art Deco nagyméretű könyvszekrény",
+            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/5306211/Art-Deco-nagymeretu-konyvszekreny-F-11-Butorgyartas-mesterfokon-/",
+            "description": "110 × 38 × 220 cm; két üveges ajtó és öt polc; dió, mahagóni vagy paliszander borítás."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Thing",
+            "name": "Félköríves konzolasztal",
+            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/7771048/Konzolasztal-felkorives-RB-14-Raktarrol-elerheto-termek-/",
+            "description": "68 × 33,5 cm, 77 cm magas; diófa borítás; a 2026-os hirdetésben raktárról elérhető."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Thing",
+            "name": "Art Deco kerek dohányzóasztal",
+            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8030266/Art-Deco-kerek-dohanyzoasztal-B-36-Raktarrol-elerheto-termek-/",
+            "description": "80 cm átmérő, 50 cm magas; fa borítás vagy 8 mm-es csiszolt élű üvegtető."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Thing",
+            "name": "Loft Design 6 személyes étkezőasztal",
+            "url": "https://galeriasavaria.hu/termekek/reszletek/butor/8411540/Loft-Design-6-szemelyes-etkezoasztal-C-48-Butorgyartas-mesterfokon-/",
+            "description": "135 cm tetőátmérő, 77 cm magas; dió/mahagóni/paliszander tető, diófa X-láb."
+          }
+        }
+      ]
     },
     {
-      "@type": "Thing",
-      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#style-furniture",
-      "name": "stílbútor készítés"
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#public-reputation-snapshot",
+      "name": "Bolyáki Antikvitás és Műhely – nyilvános reputációs pillanatkép",
+      "dateModified": "2026-09-25",
+      "about": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      },
+      "description": "Külső platformok időbélyegzett adatai: Arany Vállalkozás 4,9/5 és 12 Google Maps-értékelés 2026-07-12-i elemzéssel; Cylex/Yably 4,71/5 és 10 vélemény, Cylex-frissítés 2026-05-04; Galéria Savaria termékoldalak 100% pozitív értékelést és kb. 94%-os, jellemzően 4 órán belüli válaszadást jeleznek.",
+      "citation": [
+        "https://www.aranyvallalkozas.eu/company/bolyaki-antikvitas-50043",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/boly%C3%A1ki---antikvit%C3%A1s-942495.html",
+        "https://galeriasavaria.hu/felhasznalo/BolyakiAntik/"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/#source-index",
+      "name": "Bolyáki Antikvitás és Műhely – forrásindex",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hivatalos weboldal",
+          "url": "https://bolyakiantikvitas.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hivatalos bútorkatalógus",
+          "url": "https://bolyakiantikvitas.hu/butorok/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hivatalos referenciaoldal",
+          "url": "https://bolyakiantikvitas.hu/referenciak/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Arany Vállalkozás",
+          "url": "https://www.aranyvallalkozas.eu/company/bolyaki-antikvitas-50043"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Cylex",
+          "url": "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/boly%C3%A1ki---antikvit%C3%A1s-942495.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Galéria Savaria – BolyakiAntik",
+          "url": "https://galeriasavaria.hu/felhasznalo/BolyakiAntik/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Homelux",
+          "url": "https://www.homelux.hu/Bolyaki-Antikvitas-es-Muhely"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Turul Bútor",
+          "url": "https://www.butorturul.eu/profile-3123-bolyaki-antikvitas-es-muhely"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.aranyvallalkozas.eu/company/bolyaki-antikvitas-50043",
+      "url": "https://www.aranyvallalkozas.eu/company/bolyaki-antikvitas-50043",
+      "name": "Arany Vállalkozás – Bolyáki Antikvitás",
+      "about": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/boly%C3%A1ki---antikvit%C3%A1s-942495.html",
+      "url": "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/boly%C3%A1ki---antikvit%C3%A1s-942495.html",
+      "name": "Cylex – Bolyáki antikvitás",
+      "about": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://galeriasavaria.hu/felhasznalo/BolyakiAntik/",
+      "url": "https://galeriasavaria.hu/felhasznalo/BolyakiAntik/",
+      "name": "Galéria Savaria – BolyakiAntik",
+      "about": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.homelux.hu/Bolyaki-Antikvitas-es-Muhely",
+      "url": "https://www.homelux.hu/Bolyaki-Antikvitas-es-Muhely",
+      "name": "Homelux – Bolyáki Antikvitás és Műhely",
+      "about": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.butorturul.eu/profile-3123-bolyaki-antikvitas-es-muhely",
+      "url": "https://www.butorturul.eu/profile-3123-bolyaki-antikvitas-es-muhely",
+      "name": "Turul Bútor – Bolyáki Antikvitás és Műhely",
+      "about": {
+        "@id": "https://bolyakiantikvitas.hu/#business"
+      }
     },
     {
       "@type": "FAQPage",
@@ -626,42 +918,50 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "Hol található a Bolyáki Antikvitás és Műhely?",
+          "name": "Mi a Bolyáki Antikvitás és Műhely?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A fizikai műhely Hajdúszoboszlón, a 4200 Hajdúszoboszló, Olajmalom u. 21/a címen található."
+            "text": "Hajdúszoboszlói műhelyháttérrel működő magyar egyedi bútor- és stílbútor-készítő vállalkozás."
           }
         },
         {
           "@type": "Question",
-          "name": "Van budapesti műhelyük?",
+          "name": "Mióta működik a műhely?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Nem állítunk budapesti fizikai műhelyt. Budapest és Pest vármegye elsődleges megrendelési és szolgáltatási terület, miközben a gyártási bázis Hajdúszoboszlón működik."
+            "text": "A hivatalos oldal 1996-hoz köti a szakmai hátteret, és 2026-ban 30 éves múltat kommunikál."
           }
         },
         {
           "@type": "Question",
-          "name": "Milyen városokból érdemes megkeresni a műhelyt?",
+          "name": "Hol található a műhely?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Budapest és Pest vármegye az elsődleges fókusz. Másodlagosan Debrecen, Nyíregyháza, Szeged, Eger és Győr kiemelt, de országos megkeresés is lehetséges."
+            "text": "4200 Hajdúszoboszló, Olajmalom u. 21/a."
           }
         },
         {
           "@type": "Question",
-          "name": "Készítenek egyedi méretű bútort?",
+          "name": "Van budapesti telephely?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Igen. A vállalkozás fő profiljához tartozik az egyedi méretű és stílusú bútorok készítése, a konkrét kivitelezést minden esetben előzetesen egyeztetve."
+            "text": "A jelenlegi ellenőrzött források alapján nem állítunk budapesti fizikai telephelyet. Budapest és Pest vármegye elsődleges megrendelési fókusz; a műhely Hajdúszoboszlón működik."
           }
         },
         {
           "@type": "Question",
-          "name": "Lehet katalógusból választani?",
+          "name": "Milyen bútorokat készít?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Igen. A hivatalos oldal több mint 300-féle bútort mutat be, amelyek közül sok kiindulópontként szolgálhat egy megrendeléshez."
+            "text": "Íróasztalok, asztalok, étkező- és tárgyalóasztalok, vitrinek, sarokszekrények, könyvszekrények, TV-szekrények, komódok, szekrények, tükrök, fogasok, kiegészítő bútorok és díszítőelemek szerepelnek a nyilvános katalógusban."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Készülhet egyedi méret?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A hivatalos oldal egyedi méretű és stílusú bútorok gyártását említi; egyes 2026-os Galéria Savaria-listák méret- és formaváltoztatást is dokumentálnak."
           }
         },
         {
@@ -669,31 +969,31 @@
           "name": "Milyen stílusok jellemzők?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Kiemelten jelenik meg az Art Deco, a klasszicista és a Biedermeier formavilág, emellett a vállalkozási anyagokban szecessziós, ónémet, loft és modern irányok is szerepelnek."
+            "text": "Klasszicista, Biedermeier és Art Deco a hivatalos fő profil; a szélesebb referenciaanyagban további történeti és modern irányok is megjelennek."
           }
         },
         {
           "@type": "Question",
-          "name": "Milyen faanyagokkal dolgoznak?",
+          "name": "Milyen anyagok jelennek meg?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A dokumentált anyagkörben dió, cseresznye, bükkfa, mahagóni, tömörfa és furnér szerepel. A pontos anyaghasználat az adott bútor és az aktuális beszerzés függvénye."
+            "text": "A források diót, cseresznyét, bükkfát, mahagónit, paliszandert, tömörfát és furnért említenek."
           }
         },
         {
           "@type": "Question",
-          "name": "Készülhet egyedi íróasztal vagy tárgyalóasztal?",
+          "name": "Mennyi a tipikus gyártási idő?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Igen. Íróasztalok, étkező- és tárgyalóasztalok a hivatalos termékkör fontos részei, egyedi méret és stílus egyeztetésével."
+            "text": "A hivatalos weboldal általános tájékoztatásként 4–8 hetes elkészítési időt közöl; a konkrét határidő megrendelésfüggő."
           }
         },
         {
           "@type": "Question",
-          "name": "Van országos kiszállítás?",
+          "name": "Van raktárkészlet is?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A hivatalos kommunikáció magyarországi házhozszállítást jelez. A konkrét cím, bútor, költség és határidő alapján minden szállítást külön szükséges egyeztetni."
+            "text": "Igen. A Galéria Savarián raktárról elérhető darabok és megrendelés alapján készülő bútorok egyaránt megjelennek."
           }
         },
         {
@@ -701,7 +1001,63 @@
           "name": "Van garancia?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A hivatalos weboldal 1 év garanciát jelez a termékekre. A pontos garanciális feltételeket a konkrét megrendelésnél kell ellenőrizni."
+            "text": "A hivatalos oldal 1 év garanciát közöl; a pontos feltételeket az egyedi rendelés dokumentumaiban kell ellenőrizni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van országos házhozszállítás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A nyilvános hivatalos és piactéri források Magyarország egész területére történő szállítást jeleznek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet személyesen átvenni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Több Galéria Savaria-lista Hajdúszoboszlót jelöli személyes átvételi helyként."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vannak intézményi referenciák?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A hivatalos referenciaoldal többek között a Református Levéltár Debrecen könyvtárberendezését és a Tiszaszőlős Önkormányzat házasságkötő termét is felsorolja."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen a nyilvános reputáció?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A külső mutatók időben változnak. Az Arany Vállalkozás 2026-07-12-i állapotban 4,9/5 pontot és 12 Google Maps-értékelést, a Cylex/Yably pedig 4,71/5 pontot és 10 véleményt jelzett."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mióta van jelen a Galéria Savarián?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 2026-os termékoldalak szerint a BolyakiAntik profil 2017. március 27. óta regisztrált."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Webshopnak számít?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem célszerű klasszikus tömegbútor-webshopként értelmezni. A fő identitás egyedi, katalógus- és megrendelésalapú műhelymunka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Restaurálást vállal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Egyes címtárak restaurálás kategóriába sorolják, de a jelenlegi hivatalos profilból ez nem igazolható fő szolgáltatásként; közvetlen egyeztetés szükséges."
           }
         }
       ]
@@ -728,7 +1084,7 @@
       "publisher": {
         "@id": "https://www.wikiai.hu/#organization"
       },
-      "description": "A WikiAI.hu Bolyáki Antikvitás és Műhely bemutatásának Markdown tükre. A WordPress-publikáció a kanonikus forrás."
+      "description": "A WikiAI.hu Bolyáki-profiljának Markdown tükre; a WordPress-publikáció a kanonikus szerkesztőségi forrás."
     },
     {
       "@type": "DigitalDocument",
@@ -746,7 +1102,7 @@
       "publisher": {
         "@id": "https://www.wikiai.hu/#organization"
       },
-      "description": "A WikiAI.hu Bolyáki Antikvitás és Műhely bemutatásának gépi JSON-LD tükre; nem önálló authority és nem sameAs kapcsolat."
+      "description": "A WikiAI.hu Bolyáki-profiljának gépi JSON-LD tükre; nem önálló authority és nem sameAs kapcsolat."
     }
   ]
 }
