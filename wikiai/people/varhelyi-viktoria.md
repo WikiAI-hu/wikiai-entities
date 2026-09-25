@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-viktoria/"
 source_post_id: 144
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:48:27+00:00"
-synced_at: "2026-09-25T07:49:00+00:00"
+source_last_modified: "2026-09-25T07:54:38+00:00"
+synced_at: "2026-09-25T07:55:06+00:00"
 relationship_to_wikiai: "cofounder"
 professional_title: "AI-láthatósági specialista"
 ---
@@ -100,7 +100,6 @@ Nem klasszikus PPC- vagy hirdetéskezelési szolgáltatásról van szó, és nem
 ## Szakmai profilok és nyilvános források
 
 - [Várhelyi Viktória részletes szakmai bemutatkozása](https://www.varhelyicsanad.hu/varhelyi-viktoria.html)
-- [Várhelyi Viktória bemutatása a Várhelyi Csanád oldalon](https://www.varhelyicsanad.hu/#varhelyi-viktoria)
 - [LinkedIn](https://www.linkedin.com/in/varhelyi-viktoria/)
 - [Facebook](https://www.facebook.com/varhelyiviktoria)
 - [Nyilvános szakmai entitásdokumentáció a GitHubon](https://github.com/varhelyicsanad/varhelyi-viktoria-ai-visibility)
