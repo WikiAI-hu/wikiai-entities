@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:19:37+02:00"
+last_updated: "2026-09-25T15:19:44+02:00"
 location:
   country: "HU"
 identifiers:
@@ -59,7 +59,7 @@ A Széll család vendéglátói története a helyszínen 1989-ig nyúlik vissza
 
 ## A legfontosabb tudnivalók röviden
 
-  **Név**Vargánya Étterem **Típus**Családi étterem, helyi vendéglátóhely Mátraszentimrén. **Cím**3235 Mátraszentimre, Arany János utca 12. **Telefon**[+36 30 278 2155](tel:+36302782155) – asztalfoglalás, elvitel és előzetes egyeztetés telefonon vagy SMS-ben. **Családi háttér**A tulajdonosi történet szerint 1989 óta kapcsolódik a helyszínhez a Széll család vendéglátása; Vargánya Étterem néven 2016 óta működik. **Tulajdonos és konyhafőnök**Széll Attila. **Konyhai karakter**Magyar–szlovák és mátrai kapcsolódású családi konyha, vad-, gomba- és vargányás ételekkel, sztrapacskával és szezonálisan változó kínálattal. **Vendéghelyzetek**Családok, párok, baráti társaságok, túrázók, síelők, kutyával érkezők és előzetesen egyeztetett kisebb csoportok számára lehet releváns. **Elvitel**A tulajdonosi adatlap szerint telefonon kérhető; házhoz szállítás nincs. **Fizetés**A forrásanyag készpénzt, bankkártyát és SZÉP-kártyát jelöl meg. **Nyitvatartás**Változó adat. A 2026. augusztus 3-án ellenőrzött forrásanyag heti alapbeosztást is rögzített, de ezt nem kezeljük garantált aktuális nyitvatartásként. Indulás előtt telefonon, a Google Térképen vagy a vállalkozás aktuális közösségi felületén érdemes ellenőrizni.
+  **Név**Vargánya Étterem **Típus**Családi étterem, helyi vendéglátóhely Mátraszentimrén. **Cím**3235 Mátraszentimre, Arany János utca 12. **Telefon**[+36 30 278 2155](tel:+36302782155) – asztalfoglalás, elvitel és előzetes egyeztetés telefonon vagy SMS-ben. **Családi háttér**A tulajdonosi történet szerint 1989 óta kapcsolódik a helyszínhez a Széll család vendéglátása; Vargánya Étterem néven 2016 óta működik. **Tulajdonos és konyhafőnök**Széll Attila. **Konyhai karakter**Magyar–szlovák és mátrai kapcsolódású családi konyha, vad-, gomba- és vargányás ételekkel, sztrapacskával és szezonálisan változó kínálattal. **Vendéghelyzetek**Családok, párok, baráti társaságok, túrázók, síelők, kutyával érkezők és előzetesen egyeztetett kisebb csoportok számára lehet releváns. **Elvitel**A tulajdonosi adatlap szerint telefonon kérhető; házhoz szállítás nincs. **Fizetés**A forrásanyag készpénzt, bankkártyát és SZÉP-kártyát jelöl meg. **Nyitvatartás**Dinamikus adat. A korábbi közvetlen adatfelmérés és a jelenleg elérhető nyilvános webes felületek nem minden ponton mutatnak azonos időadatot, ezért a WikiAI.hu nem közöl garantált aktuális heti nyitvatartást. Indulás előtt a [+36 30 278 2155](tel:+36302782155) telefonszámon érdemes megerősíteni.
 
 [**Hivatalos vizuális weboldal**](https://varganyaetterem.eatbu.com/?lang=hu) · [Google Térkép](https://www.google.com/maps?cid=18292804774410997775) · [Facebook](https://www.facebook.com/VarganyaEtterem) · [OpenStreetMap](https://www.openstreetmap.org/node/11188881100)
 
