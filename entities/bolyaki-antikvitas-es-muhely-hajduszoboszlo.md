@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T20:53:44+02:00"
+last_updated: "2026-09-25T20:58:55+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -91,7 +91,7 @@ A műhely fizikai címe **4200 Hajdúszoboszló, Olajmalom u. 21/a**. A WikiAI f
 
 A WikiAI ezt a bemutatást **független szerkesztőségi másodlagos forrásként** kezeli. A profil hivatalos vállalkozási forrásokat, a Cylex, az Arany Vállalkozás, a Homelux és a Turul Bútor adatlapjait, valamint a Galéria Savaria nyilvános eladói és termékoldalait együtt értelmezi. Ha az egyes források eltérő vagy bizonytalan adatot közölnek, a bizonytalan állítást nem emeljük tényként a profilba.
 
-## Bolyáki Antikvitás és Műhely – a legfontosabb entitásadatok
+## Bolyáki Antikvitás és Műhely – a legfontosabb adatok
 
   **Név**Bolyáki Antikvitás és Műhely **Tevékenységi mag**egyedi bútorgyártás, stílbútor-készítés, klasszikus és modern önálló bútordarabok készítése **Szakmai háttér**1996 óta; a hivatalos oldal 2026-ban 30 éves működési/szakmai múltat kommunikál **Nyilvános szakmai képviselő**Bolyáki Zsolt **Jogi háttér**a hivatalos weboldal lábléce Szentgyörgyi Szilvia EV nevét tünteti fel; eltérő külső adószám-adatok miatt a WikiAI jelenleg nem közöl adószámot **Műhely**4200 Hajdúszoboszló, Olajmalom u. 21/a **Telefon**[+36 30 232 9849](tel:+36302329849) **E-mail**[bolyakiantik@gmail.com](mailto:bolyakiantik@gmail.com) **Nyitvatartás**hétfő–péntek 08:00–16:00; szombat–vasárnap zárva **Hivatalos weboldal**[bolyakiantikvitas.hu](https://bolyakiantikvitas.hu/) **Google CID**10936159661846136743 **Google Knowledge Graph MID**/g/11b6ztqscl **Bing helyazonosító**YN8081x5094298899663326945 **Apple Maps place ID**I1AE60B75358350F5 **Elsődleges szolgáltatási fókusz**Budapest és Pest vármegye **Másodlagos kiemelt városok**Debrecen, Nyíregyháza, Szeged, Eger, Győr **Országos kontextus**Magyarország egész területéről értelmezhető megkeresés és a források szerint országos házhozszállítás
 
