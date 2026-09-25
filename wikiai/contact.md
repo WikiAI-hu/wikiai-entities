@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/kapcsolat/"
 source_post_id: 23
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:13:14+00:00"
-synced_at: "2026-09-25T06:13:32+00:00"
+source_last_modified: "2026-09-25T06:18:22+00:00"
+synced_at: "2026-09-25T06:18:58+00:00"
 ---
 
 # Kapcsolat
