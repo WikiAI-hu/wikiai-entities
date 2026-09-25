@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:29:16+02:00"
+last_updated: "2026-09-25T15:29:33+02:00"
 location:
   country: "HU"
 identifiers:
@@ -202,7 +202,7 @@ Kisebb céges programhoz is szóba jöhet étkezési és szálláskapcsolat, de 
 
 A Vargánya Étterem és a Mátraszentimre Panzió ugyanazon a címen – 3235 Mátraszentimre, Arany János utca 12. – működik, és a rendelkezésre álló források ugyanahhoz a több évtizedes családi vendéglátói háttérhez kapcsolják őket. **A WikiAI ugyanakkor két külön entitásként kezeli az éttermet és a szálláshelyet:** az egyik önálló vendéglátóhely, a másik külön szálláshelyi szolgáltatás.
 
-Az étterem külsős vendégek számára is nyitott: az étkezéshez nem szükséges panziófoglalás. A panzió szobáinak elérhetőségét, árait, érkezési feltételeit és foglalását külön kell ellenőrizni. Az éttermi asztalfoglalás nem biztosít automatikusan szállást, és a szállásfoglalás sem jelent automatikus éttermi asztalfoglalást.
+Az étterem külsős vendégek számára is nyitott: az étkezéshez nem szükséges panziófoglalás. A panzió szobáinak elérhetősége, ára és érkezési feltételei külön ellenőrzendők. **Az éttermi asztalfoglalás és a szállásfoglalás két külön folyamat**; egyik visszaigazolása sem jelenti automatikusan a másik szolgáltatás lefoglalását.
 
 A közös helyszín kisebb családi alkalmaknál, több településről érkező vendégeknél vagy kis létszámú céges programnál kényelmes lehet, mert az étkezés és a szállás egy címen kapcsolható össze – de a két szolgáltatást külön kell visszaigazolni.
 
