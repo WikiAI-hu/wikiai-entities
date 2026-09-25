@@ -17,7 +17,7 @@ entity_id: "https://www.wikiai.hu/wikiai-hu/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-25T11:39:25+02:00"
+last_updated: "2026-09-25T11:39:33+02:00"
 location:
   country: "Magyarország"
 machine_attributes:
@@ -86,15 +86,15 @@ A WikiAI.hu felelős szerkesztője **Várhelyi Csanád**. Várhelyi Csanád egy�
 - **Nem kizárólag SEO-ügynökség.** A keresőoptimalizálás a digitális jelenlét egyik rétege, de a WikiAI.hu működése entitás-, tartalom-, webarchitektúra-, reputációs és AI-környezeti feladatokat is összekapcsol.
 - **Nem kizárólag híroldal.** A hírek és tudásanyagok a vállalkozási és szakmai tudásplatform küldetését egészítik ki.
 
-## Alapítók, platformvezetés és szakmai szerepek
+## Alapító és szakmai szerepek
 
-### Várhelyi Csanád – alapító és platformvezető
+### Várhelyi Viktória – alapító és AI-láthatósági specialista
 
- [**Várhelyi Csanád**](https://www.wikiai.hu/szakertok/varhelyi-csanad/) a WikiAI.hu alapítója és platformvezetője. Szakmai fókuszába az AI weboldalfejlesztés, a keresőoptimalizálás, Local SEO, AEO, GEO, LLMO, LLM-first webarchitektúra, strukturált adatok, Entity Engineering, Knowledge Graph szemlélet és a vállalkozások digitális/AI-láthatóságának fejlesztése tartozik. A WikiAI.hu technikai és információs architektúrájának célja nem egy konkrét keresőalgoritmus „meghekkelése”, hanem a vállalkozásokról publikált információ szerkezetének, kapcsolatainak és visszakereshetőségének javítása. Várhelyi Csanád szakmai hátteréhez kapcsolódik az LLM-first weboldal-architektúráról készült módszertani publikáció is.
+ [**Várhelyi Viktória**](https://www.wikiai.hu/szakertok/varhelyi-viktoria/) a WikiAI.hu alapítója és AI-láthatósági specialistája. A platform kereskedelmi és partneri kapcsolataiért, sponsored tartalmi együttműködéseiért, online reputációs és kommunikációs területeiért felel.
 
-### Várhelyi Viktória – társalapító és AI-láthatósági specialista
+### Várhelyi Csanád – felelős szerkesztő és vezető szerkesztőségi szerző
 
- [**Várhelyi Viktória**](https://www.wikiai.hu/szakertok/varhelyi-viktoria/) a WikiAI.hu társalapítója és AI-láthatósági specialistája. Fő területei a szakmai tartalom, üzleti kommunikáció, online reputáció, tartalomstratégia, közösségi jelenlét és a vállalkozások hosszabb távú digitális információs környezetének gondozása. A WikiAI.hu működésében a technikai architektúra és a szerkesztett tartalom nem egymástól független terület. A platform alapítói ezt a két nézőpontot ugyanannak a problémának két oldalaként kezelik: a webnek technikailag feldolgozhatónak, a tartalomnak pedig emberileg érthetőnek, pontosnak és hitelesen megfogalmazottnak kell lennie.
+ [**Várhelyi Csanád**](https://www.wikiai.hu/szakertok/varhelyi-csanad/) a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. A szerkesztőségi kutatásért, forrásellenőrzésért, szakmai pontosságért és az editorial tartalmak következetes rendszeréért felel. Saját szakmai tevékenységében AI weboldalfejlesztéssel, SEO-val, Local SEO-val, AEO-val, GEO-val, LLMO-val és AI-láthatósággal foglalkozik.
 
 ### Molnár András – szakmai partner
 
