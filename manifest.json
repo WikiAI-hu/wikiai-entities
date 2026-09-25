@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-25T19:31:00Z",
+    "last_updated": "2026-09-25T19:35:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -44,12 +44,15 @@
             "production_jsonld_layer": "HFCM",
             "production_jsonld_location": "header",
             "production_jsonld_status": "active",
-            "production_jsonld_graph_nodes": 57,
-            "production_jsonld_sha256": "de8af8db4c0029fa7b1243d30298e40bec9b909466b7bf95bddfa5232271e758",
+            "production_jsonld_graph_nodes": 58,
+            "production_jsonld_sha256": "d658a1e356dd4e242a80a64b7a627477cad1ae469dd25a5724ae58d657045ded",
             "production_body_jsonld": false,
             "yoast_schema_disabled": true,
-            "last_verified_at": "2026-09-25T21:31:00+02:00",
-            "product_example_schema_type": "Thing"
+            "last_verified_at": "2026-09-25T21:35:00+02:00",
+            "product_example_schema_type": "Thing",
+            "local_markdown_url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md",
+            "local_markdown_content_type": "text/markdown",
+            "local_markdown_status": "active"
         },
         {
             "entity_name": "Csarnok-Gyártó Kft.",
