@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:20:11+02:00"
+last_updated: "2026-09-25T15:20:44+02:00"
 location:
   country: "HU"
 identifiers:
@@ -260,7 +260,7 @@ Mivel a nyitvatartás dinamikus adat, indulás előtt telefonon, a Google Térk�
 
 - **Tulajdonosi kérdőív és közvetlen vállalkozói tájékoztatás** – családi háttér, Széll Attila szerepe, konyhai irány, foglalás, elvitel, csoportok, férőhelyek, család- és kutyabarát működés, allergének, akadálymentesség és gyakorlati információk.
 - [**Vargánya Étterem hivatalos vizuális weboldala**](https://varganyaetterem.eatbu.com/?lang=hu) – elsődleges nyilvános kapcsolati és szolgáltatási forrás; a dinamikus adatait más aktuális forrásokkal együtt kell értelmezni.
-- [**Vargánya Étterem Facebook-oldala**](https://www.facebook.com/VarganyaEtterem) – aktuális hírek és időszakos tájékoztatás.
+- [**Vargánya Étterem Facebook-oldala**](https://www.facebook.com/VarganyaEtterem) – elsődleges közösségi forrás az aktuális hírekhez és időszakos tájékoztatáshoz.
 - [**Google Térkép**](https://www.google.com/maps?cid=18292804774410997775) – helyazonosítás, útvonaltervezés és változó nyitvatartási információk ellenőrzése.
 - [**OpenStreetMap**](https://www.openstreetmap.org/node/11188881100) – földrajzi helyazonosítás.
 - [**Mátraszentimre Panzió**](https://www.panzio.hu/) – a kapcsolódó, de külön szálláshely elsődleges felülete.
