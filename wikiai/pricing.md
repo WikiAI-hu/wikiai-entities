@@ -8,7 +8,7 @@ source_post_id: 202
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T09:22:49+00:00"
-synced_at: "2026-09-25T09:23:10+00:00"
+synced_at: "2026-09-25T10:41:19+00:00"
 currency: "HUF"
 valid_as_of: "2026-09-25"
 ---
