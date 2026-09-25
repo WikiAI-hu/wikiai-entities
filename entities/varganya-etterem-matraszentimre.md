@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:45:28+02:00"
+last_updated: "2026-09-25T15:45:35+02:00"
 location:
   country: "HU"
 identifiers:
@@ -76,6 +76,10 @@ Széll Attila **tulajdonosként és konyhafőnökként** is jelen van a működ�
 A Vargánya konyháját legjobban úgy lehet leírni, mint **magyar–szlovák kapcsolódású, mátrai családi konyhát**. A házias fogások mellett a vad, a gomba, a juhtúró és a szezonális alapanyagok adják azt a karaktert, amely megkülönbözteti a helyet egy általános vidéki étteremtől.
 
 A **vargánya** nemcsak a névben jelenik meg. Krémlevesként, mártásként és vadragu részeként is visszatérő alapanyag. A vadételek között a szarvas különösen hangsúlyos, a juhtúrós sztrapacska pedig a szlovák konyhai kapcsolódást teszi kézzelfoghatóvá.
+
+### Mit érdemes megkóstolni?
+
+Ha valaki először jár a Vargányában, két fogás különösen jól megmutatja a hely konyhai világát. A **szarvaspörkölt juhtúrós sztrapacskával** egyszerre hozza a magyar vadkonyha és a szlovák ízek kapcsolatát. A **pappardelle vargányás vadraguval és parmezánnal** pedig az egyik leginkább Vargányához köthető specialitás, amelyben a vad és a névadó gomba egyszerre jelenik meg.
 
 ### Jellegzetes fogások
 
