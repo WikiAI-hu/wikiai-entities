@@ -1,0 +1,669 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "slogan": "Magyar vállalkozások az AI korszakában."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#primary-image",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/varganya-etterem-matraszentimre-wikiai.png",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/varganya-etterem-matraszentimre-wikiai.png",
+      "width": 1672,
+      "height": 941,
+      "caption": "Vargánya Étterem, Mátraszentimre"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage",
+      "url": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+      "name": "Vargánya Étterem – Mátraszentimre",
+      "description": "A Vargánya Étterem részletes szerkesztőségi bemutatása: családi történet, magyar–szlovák és mátrai konyha, vad- és vargányás fogások, foglalás, vendégtér, család- és kutyabarát tudnivalók, megközelítés és Felső-Mátra.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#primary-image"
+      },
+      "datePublished": "2026-09-07T17:04:23+02:00",
+      "dateModified": "2026-09-25T15:45:56+02:00",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#faq"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#article",
+      "url": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+      "headline": "Vargánya Étterem – Mátraszentimre",
+      "description": "Második generációs családi étterem Mátraszentimrén magyar–szlovák, mátrai, vad- és vargányás konyhai karakterrel.",
+      "inLanguage": "hu-HU",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "datePublished": "2026-09-07T17:04:23+02:00",
+      "dateModified": "2026-09-25T15:45:56+02:00",
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#hungarian-cuisine"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#slovak-cuisine"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#regional-cuisine"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#porcini"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#game-meat"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#venison"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#matraszentimre-panzio"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#matraszentimre"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#matra"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#galyateto"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#kekesteto"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#national-blue-trail"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#hiking"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#skiing"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#culinary-tourism"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#primary-image"
+      },
+      "citation": [
+        "https://www.matraietterem.hu/",
+        "https://www.matraietterem.hu/varganya-etterem.html",
+        "https://varganyaetterem.eatbu.com/?lang=hu",
+        "https://www.panzio.hu/kep/etlapjavitva.pdf",
+        "https://www.felso-matra.matraszentimre.hu/gasztro",
+        "https://www.google.com/maps?cid=18292804774410997775",
+        "https://www.openstreetmap.org/node/11188881100"
+      ]
+    },
+    {
+      "@type": "Restaurant",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant",
+      "name": "Vargánya Étterem",
+      "alternateName": [
+        "Vargánya Étterem Mátraszentimre",
+        "Vargánya Restaurant Mátraszentimre"
+      ],
+      "url": "https://www.matraietterem.hu/",
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage"
+      },
+      "description": "Második generációs családi étterem Mátraszentimrén. Konyhája magyar és szlovák hagyományokat kapcsol össze a Mátra regionális, szezonális, vad- és vargányás fogásaival.",
+      "image": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#primary-image"
+      },
+      "telephone": "+36 30 278 2155",
+      "email": "szellatti@gmail.com",
+      "currenciesAccepted": "HUF",
+      "paymentAccepted": "Készpénz, bankkártya, SZÉP-kártya",
+      "acceptsReservations": true,
+      "publicAccess": true,
+      "servesCuisine": [
+        "magyar konyha",
+        "szlovák konyha",
+        "mátrai regionális konyha",
+        "vadételek",
+        "vargányás és gombás fogások",
+        "szezonális konyha"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Arany János utca 12.",
+        "postalCode": "3235",
+        "addressLocality": "Mátraszentimre",
+        "addressRegion": "Heves vármegye",
+        "addressCountry": "HU"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.90728,
+        "longitude": 19.88127
+      },
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#matraszentimre"
+      },
+      "owner": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#szell-attila"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "18292804774410997775"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Knowledge Graph MID",
+          "value": "/g/11f3v1b_c5"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJzVhScOBCQEcRD1BW3AUZ3f0"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "OpenStreetMap node",
+          "value": "11188881100"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Apple Maps place ID",
+          "value": "I3D9AD00851CEFF40"
+        }
+      ],
+      "sameAs": [
+        "https://www.matraietterem.hu/#restaurant",
+        "https://varganyaetterem.eatbu.com/?lang=hu",
+        "https://www.facebook.com/VarganyaEtterem",
+        "https://www.google.com/maps?cid=18292804774410997775",
+        "https://www.openstreetmap.org/node/11188881100"
+      ],
+      "additionalType": [
+        "https://www.wikidata.org/wiki/Q11707",
+        "https://www.wikidata.org/wiki/Q1395324",
+        "https://www.wikidata.org/wiki/Q1495452",
+        "https://www.wikidata.org/wiki/Q27038993",
+        "https://www.wikidata.org/wiki/Q62849941"
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday"
+          ],
+          "opens": "12:00",
+          "closes": "19:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "12:00",
+          "closes": "19:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Sunday",
+          "opens": "12:00",
+          "closes": "15:00"
+        }
+      ],
+      "amenityFeature": [
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Családbarát étkezés",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Gyermekmenü",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Etetőszék",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Pelenkázási lehetőség",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Kutyabarát beltér és terasz",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Zárt terasz",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Nyitott terasz",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Wi-Fi",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Légkondicionálás",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Parkolási lehetőség",
+          "value": true
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Kerekesszékkel akadálymentes bejárat",
+          "value": false
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Akadálymentes mosdó",
+          "value": false
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Házhoz szállítás",
+          "value": false
+        },
+        {
+          "@type": "LocationFeatureSpecification",
+          "name": "Elviteles rendelés személyes átvétellel",
+          "value": true
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Családi vendéglátás a helyszínen",
+          "value": "1989 óta"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Vargánya Étterem név használata",
+          "value": "2016 óta"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Beltéri vendégtér tájékoztató kapacitása",
+          "value": "körülbelül 25 fő"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Zárt terasz tájékoztató kapacitása",
+          "value": "körülbelül 20 fő"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Nyitott terasz tájékoztató kapacitása",
+          "value": "körülbelül 25 fő"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Nyári csoportos kapacitás előzetes egyeztetéssel",
+          "value": "egyes esetekben körülbelül 40 fő"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#historical-menu"
+        },
+        {
+          "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#github-jsonld-mirror"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#szell-attila",
+      "name": "Széll Attila",
+      "jobTitle": "tulajdonos és konyhafőnök",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
+      },
+      "owns": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
+      },
+      "taxID": "67826155-2-30",
+      "description": "A Vargánya Étterem tulajdonosa és konyhafőnöke; 2016-ban vette át az étterem vezetését a szüleitől."
+    },
+    {
+      "@type": "LodgingBusiness",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#matraszentimre-panzio",
+      "name": "Mátraszentimre Panzió",
+      "url": "https://www.panzio.hu/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Arany János utca 12.",
+        "postalCode": "3235",
+        "addressLocality": "Mátraszentimre",
+        "addressRegion": "Heves vármegye",
+        "addressCountry": "HU"
+      },
+      "description": "A Vargánya Étteremmel azonos címen működő, közös családi vendéglátói háttérhez kapcsolódó szálláshely; az éttermi és szállásfoglalás külön folyamat."
+    },
+    {
+      "@type": "Menu",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#historical-menu",
+      "name": "Vargánya Étterem / Mátraszentimre Panzió étlap",
+      "url": "https://www.panzio.hu/kep/etlapjavitva.pdf",
+      "datePublished": "2025-08-23",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
+      },
+      "description": "Dátumozott étlap, amely a Vargánya Étterem dokumentált fogásait és allergénjelöléseit mutatja; nem valós idejű készlet- vagy árlista."
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#matraszentimre",
+      "name": "Mátraszentimre",
+      "sameAs": "https://www.wikidata.org/wiki/Q223501",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#heves-county"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#heves-county",
+      "name": "Heves vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q191604",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#hungary"
+      }
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#matra",
+      "name": "Mátra",
+      "sameAs": "https://www.wikidata.org/wiki/Q756096"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#galyateto",
+      "name": "Galyatető",
+      "sameAs": "https://www.wikidata.org/wiki/Q1007823"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#kekesteto",
+      "name": "Kékestető",
+      "sameAs": "https://www.wikidata.org/wiki/Q1123877"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#national-blue-trail",
+      "name": "Országos Kéktúra",
+      "sameAs": "https://www.wikidata.org/wiki/Q60088"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#hungarian-cuisine",
+      "name": "magyar konyha",
+      "sameAs": "https://www.wikidata.org/wiki/Q264327"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#slovak-cuisine",
+      "name": "szlovák konyha",
+      "sameAs": "https://www.wikidata.org/wiki/Q954489"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#regional-cuisine",
+      "name": "regionális konyha",
+      "sameAs": "https://www.wikidata.org/wiki/Q94951"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#porcini",
+      "name": "vargánya (Boletus edulis)",
+      "sameAs": "https://www.wikidata.org/wiki/Q19740"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#game-meat",
+      "name": "vadhús",
+      "sameAs": "https://www.wikidata.org/wiki/Q19862498"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#venison",
+      "name": "szarvashús",
+      "sameAs": "https://www.wikidata.org/wiki/Q2296872"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#strapacky",
+      "name": "sztrapacska",
+      "sameAs": "https://www.wikidata.org/wiki/Q995299"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#bryndza",
+      "name": "juhtúró / bryndza",
+      "sameAs": "https://www.wikidata.org/wiki/Q698632"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#porkolt",
+      "name": "pörkölt",
+      "sameAs": "https://www.wikidata.org/wiki/Q1058306"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#hiking",
+      "name": "túrázás",
+      "sameAs": "https://www.wikidata.org/wiki/Q12014035"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#skiing",
+      "name": "síelés",
+      "sameAs": "https://www.wikidata.org/wiki/Q130949"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#culinary-tourism",
+      "name": "gasztronómiai turizmus",
+      "sameAs": "https://www.wikidata.org/wiki/Q4134126"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#faq",
+      "url": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#varganya-gyik",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol található a Vargánya Étterem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "3235 Mátraszentimre, Arany János utca 12."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Csak a panzió vendégei étkezhetnek itt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. Az étterem külsős vendégek számára is nyitott."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan lehet asztalt foglalni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Telefonon vagy SMS-ben a +36 30 278 2155 számon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen konyhát képvisel az étterem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Magyar–szlovák, mátrai jellegű családi konyhát, amelyben vad-, gomba- és vargányás fogások is hangsúlyosak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet elvitelre rendelni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, telefonos egyeztetéssel és személyes átvétellel. Házhoz szállítás nincs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet kutyával érkezni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, a beltér és a terasz is szóba jöhet; a kutyás érkezést érdemes előre jelezni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van gyermekmenü?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Két etetőszék és pelenkázási lehetőség is rendelkezésre áll."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Akadálymentes az étterem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem teljesen. A bejárat lépcsős, rámpa és akadálymentes mosdó nincs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fogadnak csoportokat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, előzetes egyeztetéssel kisebb turistacsoportokhoz, családi alkalmakhoz és céges étkezésekhez is használható a hely."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van parkolás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Néhány autó az épület előtt, további járművek pedig a közeli parkolóban férnek el."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#github-jsonld-mirror",
+      "name": "WikiAI GitHub JSON-LD mirror – Vargánya Étterem",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/varganya-etterem-matraszentimre.jsonld",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#webpage"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    }
+  ]
+}
