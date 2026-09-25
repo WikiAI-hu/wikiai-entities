@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:27:59+02:00"
+last_updated: "2026-09-25T15:28:35+02:00"
 location:
   country: "HU"
 identifiers:
@@ -144,17 +144,27 @@ A forrásanyag készpénzt, bankkártyát és SZÉP-kártyát jelöl meg elfogad
 
 **A nyitvatartás időérzékeny adat.** A 2026. augusztusi közvetlen adatfelmérés egy konkrét heti beosztást rögzített, miközben a jelenleg elérhető hivatalos vizuális weboldal ettől eltérő időadatot jelenít meg. A WikiAI.hu nem választ önkényesen a két forrás között, ezért ezen az adatlapon egyik idősort sem állítja garantáltan aktuális nyitvatartásként. Indulás előtt a [+36 30 278 2155](tel:+36302782155) telefonszámon célszerű megerősíteni az aktuális nyitvatartást és a konyha zárását.
 
-## Vendégtér, teraszok és kapacitás
+## Vendégtér, teraszok és a hely fizikai karaktere
 
-A forrásanyag rusztikus, családias vendégteret ír le fa burkolatokkal, fabútorokkal és természetes részletekkel. A hely inkább személyesebb, nyugodtabb étkezésekhez, családi ebédhez, baráti találkozóhoz és kisebb társasági alkalmakhoz illik, mint nagy létszámú rendezvényekhez.
+A Vargánya Étterem megjelenését a forrásanyag következetesen **rusztikus, családias, hegyvidéki vendéglátóhelyként** írja le. A beltérben fa burkolatok, fabútorok és természetes anyaghasználat jelenik meg; az összhatás nem formális éttermi reprezentációra, hanem közvetlenebb, hagyományos vendéglői környezetre épül. Ez a fizikai karakter összhangban áll az étlap házias, vadas és gombás irányával, valamint a túrázó, kiránduló és családi vendégkörrel.
 
-- **Beltéri vendégtér:** a tulajdonosi adatlap szerint kényelmesen körülbelül 25 fő.
-- **Zárt terasz:** körülbelül 20 fő, használhatósága időjárástól és szezontól függ.
-- **Nyitott terasz:** körülbelül 25 fő, jellemzően a kedvezőbb időszakokban használható.
-- **Téli csoportkapacitás:** a korábbi adatlap körülbelül 25 főt jelöl.
-- **Nyári, előre egyeztetett csoport:** a teraszok használatával a korábbi adatlap egyes esetekben körülbelül 40 főig jelölt lehetőséget.
+A tulajdonosi adatfelvétel alapján a beltéri vendégtér **kényelmesen körülbelül 25 fő** befogadására alkalmas. Ehhez két eltérő teraszjellegű tér kapcsolódik: egy zárt, részben időjárástól védettebb terasz és egy nyitott terasz. Az étterem hivatalos vizuális weboldala fűtött teraszt és kerthelyiséget is felsorol, ami azt jelzi, hogy a kültéri vagy átmeneti terek használata nem kizárólag a nyári hónapokra korlátozódhat, de tényleges használhatóságuk mindig az időjárástól és az aktuális üzemeltetéstől függ.
 
-A tényleges férőhely az asztalrendezéstől, az időjárástól, az évszaktól, az aktuális foglaltságtól és az esemény jellegétől függ. Ezért a létszámot és az ülésrendet nagyobb társaságnál mindig közvetlenül meg kell erősíteni.
+A tulajdonosi adatok a zárt terasz tájékoztató kapacitását körülbelül **20 főben**, a nyitott teraszét körülbelül **25 főben** határozzák meg. Ezek a számok nem hivatalos tűzvédelmi befogadóképességi adatok, hanem vendéglátói tervezési értékek; az asztalelrendezés, a társaság összetétele, az időjárás és más foglalások miatt a ténylegesen vállalható létszám eltérhet.
+
+A hely mérete fontos része az étterem pontos értelmezésének. A Vargánya nem több száz fős rendezvényközpont és nem nagy szállodai étterem. A források alapján inkább egy olyan **kis- és közepes léptékű családi vendéglátóhely**, ahol a beltéri és teraszos terek kombinációja családi ebédekhez, baráti találkozókhoz, kisebb turistacsoportokhoz, születésnapokhoz, céges étkezésekhez vagy más előre egyeztetett alkalmakhoz adhat megfelelő keretet.
+
+### Dokumentált kapacitási irányszámok
+
+- **Beltéri vendégtér:** körülbelül 25 fő kényelmes elhelyezése a tulajdonosi adatfelvétel szerint.
+- **Zárt terasz:** körülbelül 20 fő.
+- **Nyitott terasz:** körülbelül 25 fő.
+- **Téli csoportméret:** jellemzően körülbelül 25 főig tervezhető.
+- **Nyári, előre egyeztetett csoport:** a teraszok bevonásával egyes esetekben körülbelül 40 főig tervezhető.
+
+Az étterem hivatalos vizuális weboldala a szolgáltatások között **légkondicionálást, saját parkolást, fűtött teraszt, kerthelyiséget, ingyenes wifit és esküvői fogadásokat** is megnevez. Ezeket a WikiAI a vállalkozás saját szolgáltatásközléseként kezeli. Nagyobb társaság, rendezvény, esküvő vagy külön teremigény esetén ezért nem elegendő pusztán az általános szolgáltatáslistára hagyatkozni: a konkrét dátumra, létszámra, ülésrendre és technikai igényekre külön visszaigazolás szükséges.
+
+A forrásanyag elkülöníthető vendégtéri lehetőséget is említ kisebb társaságok számára. Ezt nem önálló rendezvényteremként vagy garantált kizárólagos helyiségként értelmezzük, hanem olyan rugalmas térhasználatként, amely az aktuális foglaltság és az előzetes egyeztetés függvénye.
 
 ## Családokkal, gyermekkel és kutyával
 
