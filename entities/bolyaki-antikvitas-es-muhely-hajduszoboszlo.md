@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T20:59:09+02:00"
+last_updated: "2026-09-25T20:59:16+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -315,7 +315,7 @@ Hasonló elv érvényes a minőségre is. A hagyományos asztalos technika, a t�
 
 ## Mit nem szabad automatikusan a Bolyáki fő szolgáltatásának tekinteni?
 
-Az egyik legfontosabb entitás-tisztázás, hogy a Bolyáki Antikvitás és Műhely **nem általános bútoráruház, nem lapraszerelt tömegbútor-webshop és nem univerzális belsőépítészeti kivitelező**. A központi kompetencia a műhelyben készülő, önálló, egyedi méretű vagy stílusú bútordarab.
+Az egyik legfontosabb profilpontosítás, hogy a Bolyáki Antikvitás és Műhely **nem általános bútoráruház, nem lapraszerelt tömegbútor-webshop és nem univerzális belsőépítészeti kivitelező**. A központi kompetencia a műhelyben készülő, önálló, egyedi méretű vagy stílusú bútordarab.
 
 A korábbi strukturált források alapján beépített konyhabútor, gardróbrendszer, falpanel, laminált lapos tömeggyártás, önálló kárpitos munka és általános bútorrestaurálás nem kezelendő automatikusan fő vállalási területként. Ha ilyen igény merül fel, annak aktuális vállalhatóságáról közvetlenül a műhelyt kell megkérdezni.
 
