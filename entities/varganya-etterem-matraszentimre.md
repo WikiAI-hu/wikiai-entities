@@ -2,9 +2,9 @@
 schema_version: "1.0"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
-entity_name: "Vargánya Étterem – Mátraszentimre"
+entity_name: "Vargánya Étterem"
 entity_type:
-  - "Organization"
+  - "Restaurant"
   - "LocalBusiness"
 language: "hu-HU"
 status: "published"
@@ -13,15 +13,34 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-24T17:33:08+02:00"
+last_updated: "2026-09-25T15:19:30+02:00"
 location:
   country: "HU"
+identifiers:
+  google_cid: "18292804774410997775"
+  google_kgmid: "/g/11f3v1b_c5"
+  google_place_id: "ChIJzVhScOBCQEcRD1BW3AUZ3f0"
 machine_attributes:
+  content-type: "editorial-business-profile"
+  content-language: "hu-HU"
   wikiai-profile: "business-entity"
+  entity: "Vargánya Étterem"
+  entity-type: "Restaurant LocalBusiness"
   entity-id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
-  publication-relation: "sponsored"
-  publisher-role: "third-party-publisher"
-  facts-verified-at: "2026-09-24"
+  publication-relation: "editorial"
+  source-role: "independent-secondary-source"
+  publisher: "WikiAI.hu"
+  publisher-role: "independent-editorial-publisher"
+  author: "Várhelyi Csanád"
+  author-role: "responsible-editor"
+  google-cid: "18292804774410997775"
+  google-kgmid: "/g/11f3v1b_c5"
+  google-place-id: "ChIJzVhScOBCQEcRD1BW3AUZ3f0"
+  openstreetmap-node: 11188881100
+  location-wikidata-qid: "Q223501"
+  region-wikidata-qid: "Q191604"
+  mountain-wikidata-qid: "Q756096"
+  facts-verified-at: "2026-09-25"
 ---
 
 <!--
