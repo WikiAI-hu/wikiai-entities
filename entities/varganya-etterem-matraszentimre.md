@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T16:45:33+02:00"
+last_updated: "2026-09-25T18:03:30+02:00"
 location:
   country: "HU"
 identifiers:
