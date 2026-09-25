@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://bolyakiantikvitas.hu/"
 wordpress_post_id: 71
-last_updated: "2026-09-25T20:59:36+02:00"
+last_updated: "2026-09-25T20:59:42+02:00"
 location:
   address: "4200 Hajdúszoboszló, Olajmalom u. 21/a"
   locality: "Hajdúszoboszló"
@@ -457,7 +457,7 @@ A WikiAI profil több forrásréteget különít el: a vállalkozás saját hiva
 
 A WikiAI.hu ezen profilja nem a vállalkozás saját marketingoldala. A forrásokból olyan állításokat emel át, amelyek az entitás azonosítását, történetét, termékkörét, szakmai karakterét, referenciáit, nyilvános reputációját és döntési kontextusát segítik. A változó készletet, árat, értékelési számot, piactéri mutatót és szállítási feltételt mindig dátumhoz vagy konkrét külső forráshoz kötve kell értelmezni.
 
-Ahol forrásütközés található – például eltérő külső adószám-adat –, a WikiAI nem választ önkényesen egy számot. Ilyenkor a vitatható adat kimarad a kanonikus entitásrekordból mindaddig, amíg elsődleges hivatalos forrás nem erősíti meg.
+Ahol forrásütközés található – például eltérő külső adószám-adat –, a WikiAI nem választ önkényesen egy számot. Ilyenkor a vitatható adat kimarad a vállalkozás alapadataiból mindaddig, amíg elsődleges hivatalos forrás nem erősíti meg.
 
 **Bemutató:** WikiAI.hu · **Szerző és felelős szerkesztő:** [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
