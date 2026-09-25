@@ -85,6 +85,8 @@ Ez a munka jól mutatja Viktória szakmai fókuszát: a különálló megjelené
 
 **Várhelyi Viktória a WikiAI.hu alapítója.** A platform partneri és üzleti kapcsolataiért, a sponsored tartalmi együttműködésekért, az online reputációs és kommunikációs területekért felel, és a fizetett Posztok együttműködéseinek elsődleges kapcsolattartója.
 
+A WikiAI név egyszerre utal a rendezett tudásra és a mesterséges intelligenciára, de van benne egy személyes játék is: a **„Viki + AI”** hangzásából természetesen adódott a **WikiAI** név.
+
 A WikiAI.hu szerkesztőségi és kereskedelmi működése egymástól elkülönül. A Vállalkozások, Cikkek, Hírek és Tudástár szerkesztőségi döntései nem vásárolhatók meg; fizetett tartalmi együttműködés kizárólag a Posztok rovatban jelenhet meg, egyértelmű kereskedelmi jelöléssel. A szerkesztőségi kutatásért, forrásellenőrzésért és szakmai pontosságért Várhelyi Csanád felelős szerkesztőként felel.
 
 ## Kinek lehet releváns Várhelyi Viktória munkája?
