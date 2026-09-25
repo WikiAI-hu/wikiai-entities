@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-25T16:53:27Z",
+    "last_updated": "2026-09-25T16:56:16Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -104,14 +104,7 @@
             "wordpress_post_id": 66,
             "country": "HU",
             "google_cid": "6706916637082778628",
-            "google_place_id": "ChIJZ3ZaUBobR0cRBPx5iyXBE10",
-            "jsonld_mirror": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld",
-            "entity_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business",
-            "wikiai_article_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#article",
-            "wikiai_webpage_id": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#webpage",
-            "editorial_author": "Várhelyi Csanád",
-            "publication_relation": "editorial",
-            "source_role": "independent-secondary-source"
+            "google_place_id": "ChIJZ3ZaUBobR0cRBPx5iyXBE10"
         },
         {
             "entity_name": "Kohlberger Bau Kft.",
@@ -269,71 +262,5 @@
             "wordpress_post_id": 637,
             "country": "Magyarország"
         }
-    ],
-    "wikiai_knowledge": {
-        "index": "wikiai/index.md",
-        "manifest": "wikiai/manifest.json",
-        "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-25T16:54:55+00:00",
-        "documents": [
-            {
-                "document_type": "service_catalog",
-                "path": "wikiai/services.md",
-                "canonical_url": "https://www.wikiai.hu/szolgaltatasok/",
-                "wordpress_post_id": 101
-            },
-            {
-                "document_type": "pricing",
-                "path": "wikiai/pricing.md",
-                "canonical_url": "https://www.wikiai.hu/arak/",
-                "wordpress_post_id": 202,
-                "currency": "HUF",
-                "valid_as_of": "2026-09-25"
-            },
-            {
-                "document_type": "about",
-                "path": "wikiai/about.md",
-                "canonical_url": "https://www.wikiai.hu/rolunk/",
-                "wordpress_post_id": 21
-            },
-            {
-                "document_type": "team_directory",
-                "path": "wikiai/team.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/",
-                "wordpress_post_id": 22
-            },
-            {
-                "document_type": "contact",
-                "path": "wikiai/contact.md",
-                "canonical_url": "https://www.wikiai.hu/kapcsolat/",
-                "wordpress_post_id": 23
-            }
-        ],
-        "people": [
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-csanad.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
-                "wordpress_post_id": 143,
-                "name": "Várhelyi Csanád",
-                "relationship_to_wikiai": "founder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-viktoria.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
-                "wordpress_post_id": 144,
-                "name": "Várhelyi Viktória",
-                "relationship_to_wikiai": "cofounder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/molnar-andras.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
-                "wordpress_post_id": 145,
-                "name": "Molnár András",
-                "relationship_to_wikiai": "external_professional_partner"
-            }
-        ]
-    }
+    ]
 }
