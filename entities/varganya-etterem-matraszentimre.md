@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T15:42:27+02:00"
+last_updated: "2026-09-25T15:42:35+02:00"
 location:
   country: "HU"
 identifiers:
@@ -100,7 +100,7 @@ A kínálatban **mátrai borok, pásztói pálinkák, sörök, limonádék, szö
 
 ## Nyitvatartás, foglalás, elvitel és fizetés
 
-  **Hétfő–szerda**12:00–19:00 **Csütörtök**Szünnap **Péntek–szombat**12:00–19:00 **Vasárnap**12:00–15:00
+**Nyitvatartás:** hétfőtől szerdáig 12:00–19:00, csütörtökön szünnap, pénteken és szombaton 12:00–19:00, vasárnap 12:00–15:00.
 
 Ünnepnapokon, hosszú hétvégéken és szabadság idején a nyitvatartás változhat, ezért hosszabb utazás előtt érdemes telefonon rákérdezni.
 
