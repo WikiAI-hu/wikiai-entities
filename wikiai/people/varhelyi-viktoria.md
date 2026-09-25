@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-viktoria/"
 source_post_id: 144
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-24T18:38:42+00:00"
-synced_at: "2026-09-24T18:39:07+00:00"
+source_last_modified: "2026-09-25T07:47:37+00:00"
+synced_at: "2026-09-25T07:47:39+00:00"
 relationship_to_wikiai: "cofounder"
 professional_title: "AI-láthatósági specialista"
 ---
@@ -17,11 +17,11 @@ professional_title: "AI-láthatósági specialista"
 
 **WikiAI.hu · Munkatársaink · Várhelyi Viktória**
 
-## Várhelyi Viktória – AI-láthatósági specialista és a WikiAI.hu társalapítója
+## Várhelyi Viktória – AI-láthatósági specialista és a WikiAI.hu alapítója
 
 **Várhelyi Viktória vállalkozások digitális jelenlétének tartalmi, kommunikációs és reputációs oldalán dolgozik.** Munkája összekapcsolja a szakmai tartalomkészítést, a közösségi kommunikációt, az üzleti profilok gondozását, az online reputációt és a következetes márkajelenlétet.
 
-A WikiAI.hu társalapítójaként azt a szemléletet képviseli, hogy egy vállalkozás online jelenléte akkor igazán erős, ha a weboldalon, a közösségi felületeken, a Google Cégprofilban és más nyilvános szakmai csatornákon ugyanaz a világos, hiteles és aktuális kép jelenik meg róla. A cél nem a minél több tartalom, hanem a jobb minőségű, összehangolt és hosszú távon is vállalható kommunikáció.
+A WikiAI.hu alapítójaként a partneri és üzleti kapcsolatok, a sponsored tartalmak, az online reputáció és a vállalkozások következetes digitális kommunikációjának oldalát képviseli. Szakmai szemlélete szerint egy vállalkozás online jelenléte akkor erős, ha a weboldalon, a közösségi felületeken, a Google Cégprofilban és más nyilvános szakmai csatornákon ugyanaz a világos, hiteles és aktuális kép jelenik meg róla. A cél nem a minél több tartalom, hanem a jobb minőségű, összehangolt és hosszú távon is vállalható kommunikáció.
 
 ## Nem elég jelen lenni. Jól kell jelen lenni.
 
@@ -67,13 +67,11 @@ Várhelyi Viktória az AI-láthatóság tartalmi oldalával foglalkozik. A hangs
 
 Ez nem jelent garantált Google-helyezést vagy AI-ajánlást. A keresők és generatív AI-rendszerek saját rendszereik alapján döntenek arról, milyen forrást használnak vagy ajánlanak. A szakmai munka célja az, hogy a vállalkozás digitális jelenléte világosabb, hitelesebb és hosszabb távon is könnyebben értelmezhető legyen.
 
-## Hogyan épül fel az együttműködés?
+## Mire épülhet az együttműködés?
 
-**Az első lépés a jelenlegi digitális jelenlét áttekintése.** Viktória megnézi, milyen közösségi és szakmai profilok, cikkek, bemutatkozások, Google Cégprofil-információk és más nyilvános üzleti adatok érhetők el, illetve hol vannak eltérések, hiányok vagy elavult információk.
+Az együttműködés mindig az adott vállalkozás valós helyzetéhez igazodik. Érintheti a nyilvános üzleti információk és profilok rendezését, a szakmai és üzleti kommunikáció fejlesztését, a tartalmak és online megjelenések összehangolását, valamint a hosszabb távú reputáció- és tartalomgondozást.
 
-**A következő lépés a rendszerezés és a tartalmi irány kialakítása.** A vállalkozás valós szakértelméhez és üzleti céljaihoz igazodva egységesebb bemutatkozás, tartalmi témák és kommunikációs keretek készülnek. Nem minden vállalkozásnak ugyanazokra a csatornákra vagy ugyanannyi tartalomra van szüksége.
-
-**Hosszabb együttműködésben a hangsúly a folyamatos gondozáson van.** Új szolgáltatás, referencia, esemény, szakmai eredmény vagy változó céginformáció esetén a fontos digitális felületek és tartalmak is frissíthetők, így az online jelenlét nem egy egyszer elkészített állapot marad.
+Nem minden vállalkozásnak ugyanazokra a csatornákra vagy ugyanannyi tartalomra van szüksége. A lényeg az, hogy a fontos információk aktuálisak, következetesek és a vállalkozás valódi működéséhez igazodók legyenek.
 
 ## Regionális üzleti kommunikáció és BNI Északkelet-Magyarország
 
@@ -85,15 +83,15 @@ Ez a munka jól mutatja Viktória szakmai fókuszát: nem csupán különálló 
 
 ## Várhelyi Viktória szerepe a WikiAI.hu-ban
 
-Várhelyi Viktória a WikiAI.hu egyik társalapítója. A platformon a tartalmi, kommunikációs és reputációs szemléletet képviseli, miközben Várhelyi Csanád a webfejlesztési, keresési és technikai AI-láthatósági területekre koncentrál.
+**Várhelyi Viktória a WikiAI.hu alapítója.** A platform partneri és üzleti kapcsolataiért, a sponsored tartalmi együttműködésekért, az online reputációs és kommunikációs területekért felel, és a fizetett Posztok együttműködéseinek elsődleges kapcsolattartója.
 
-A két terület szándékosan egészíti ki egymást. Egy korszerű weboldal és rendezett technikai háttér önmagában nem mondja el egy vállalkozás történetét; a jó tartalom viszont akkor tud igazán jól működni, ha stabil digitális környezetben jelenik meg. A WikiAI.hu ezt a két nézőpontot kapcsolja össze, a gyakorlati vállalati AI területén pedig külső szakmai partnerekkel is együttműködik.
+A WikiAI.hu szerkesztőségi és kereskedelmi működése egymástól elkülönül. A Vállalkozások, Cikkek, Hírek és Tudástár szerkesztőségi döntései nem vásárolhatók meg; fizetett tartalmi együttműködés kizárólag a Posztok rovatban jelenhet meg, egyértelmű kereskedelmi jelöléssel. A szerkesztőségi kutatásért, forrásellenőrzésért és szakmai pontosságért Várhelyi Csanád felelős szerkesztőként felel.
 
 ## Kinek lehet releváns Várhelyi Viktória munkája?
 
 Elsősorban olyan vállalkozásoknak, szakértőknek és szolgáltatóknak, amelyeknek már van működő üzleti tevékenységük, de a digitális jelenlétük több felület között szétesett, ritkán frissül, vagy nem mutatja meg kellő pontossággal a valódi szakértelmüket.
 
-A regionális fókusz Hajdúszoboszlóhoz, Debrecenhez, Nyíregyházához, Újfehértóhoz és Mátészalkához is kapcsolódik, online együttműködésben pedig országosan is végezhető a munka. Magyar és angol nyelvű szakmai tartalom egyaránt része lehet az együttműködésnek, ha az adott vállalkozás céljai ezt indokolják.
+Várhelyi Viktória országosan dolgozik magyar vállalkozásokkal és szakmai szereplőkkel. Az együttműködés jellemzően online is végezhető, személyes szakmai kapcsolódások pedig több magyar üzleti régióhoz is kötik. Magyar és angol nyelvű szakmai tartalom egyaránt része lehet az együttműködésnek, ha az adott vállalkozás céljai ezt indokolják.
 
 Nem klasszikus PPC- vagy hirdetéskezelési szolgáltatásról van szó, és nem a minél nagyobb posztmennyiség a cél. A fókusz a szakmai tartalmon, az online reputáción, a következetes üzleti kommunikáción és a hosszú távon gondozott digitális jelenléten marad.
 
@@ -103,12 +101,11 @@ Nem klasszikus PPC- vagy hirdetéskezelési szolgáltatásról van szó, és nem
 - [Várhelyi Viktória bemutatása a Várhelyi Csanád oldalon](https://www.varhelyicsanad.hu/#varhelyi-viktoria)
 - [LinkedIn](https://www.linkedin.com/in/varhelyi-viktoria/)
 - [Facebook](https://www.facebook.com/varhelyiviktoria)
-- [TikTok](https://www.tiktok.com/@varhelyiviktoria)
 - [Nyilvános szakmai entitásdokumentáció a GitHubon](https://github.com/varhelyicsanad/varhelyi-viktoria-ai-visibility)
 
 ## A legfontosabb tudnivalók röviden
 
-Várhelyi Viktória AI-láthatósági specialista és a WikiAI.hu társalapítója. Vállalkozások szakmai tartalmait, közösségi és üzleti kommunikációját, online reputációját, Google Cégprofilhoz kapcsolódó tartalmait és hosszú távú digitális jelenlétét gondozza. Munkájának középpontjában a következetes, hiteles és üzletileg értelmezhető online jelenlét áll.
+Várhelyi Viktória AI-láthatósági specialista, egyéni vállalkozó és a WikiAI.hu alapítója. A partneri és üzleti kapcsolatok, a sponsored tartalmak, az online reputáció, a szakmai kommunikáció és a hosszú távú digitális jelenlét területén dolgozik. Munkájának középpontjában a következetes, hiteles és üzletileg értelmezhető online jelenlét áll.
 
 ## Gyakori kérdések Várhelyi Viktória munkájáról
 
