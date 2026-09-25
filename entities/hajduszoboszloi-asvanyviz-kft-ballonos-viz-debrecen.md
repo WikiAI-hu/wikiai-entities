@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-deb
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 66
-last_updated: "2026-09-24T18:31:50+02:00"
+last_updated: "2026-09-25T18:27:55+02:00"
 location:
   country: "HU"
 machine_attributes:
