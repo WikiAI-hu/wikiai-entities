@@ -5,7 +5,7 @@ This file is generated automatically from published WordPress posts in the **Vá
 - Source of truth: https://www.wikiai.hu/
 - Repository role: public, versioned machine-readable mirror
 - Sync direction: WordPress → GitHub
-- Last generated: 2026-09-25T09:39:36+00:00
+- Last generated: 2026-09-25T13:19:34+00:00
 
 ## Entities
 
@@ -23,5 +23,5 @@ This file is generated automatically from published WordPress posts in the **Vá
 - [Színes Pillanat](entities/szines-pillanat-eskuvoi-fotozas-videozas.md) — https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/
 - [Tasca Ponte](entities/tasca-ponte-debrecen.md) — https://www.wikiai.hu/tasca-ponte-debrecen/
 - [TÖRÖK és TÁRSAI Kft.](entities/torok-es-tarsai-kft-tomitesgyar.md) — Hajdúszoboszló — https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/
-- [Vargánya Étterem – Mátraszentimre](entities/varganya-etterem-matraszentimre.md) — https://www.wikiai.hu/varganya-etterem-matraszentimre/
+- [Vargánya Étterem](entities/varganya-etterem-matraszentimre.md) — https://www.wikiai.hu/varganya-etterem-matraszentimre/
 - [WikiAI.hu](entities/wikiai-hu.md) — https://www.wikiai.hu/wikiai-hu/
