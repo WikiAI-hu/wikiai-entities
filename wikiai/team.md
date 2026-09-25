@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:26:12+00:00"
-synced_at: "2026-09-25T07:26:14+00:00"
+source_last_modified: "2026-09-25T07:26:32+00:00"
+synced_at: "2026-09-25T07:26:34+00:00"
 ---
 
 # Munkatársaink
@@ -41,50 +41,55 @@ Felelős szerkesztő · AI Weblapfejlesztő · SEO, AEO, GEO, LLMO és AI-látha
 
 [Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
-[![Várhelyi Viktória AI-láthatósági specialista és a WikiAI.hu társalapítója](https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-viktoria-ai-lathatosagi-specalista-wikiaihu.png)](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
+[![Várhelyi Viktória AI-láthatósági specialista és a WikiAI.hu alapítója](https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-viktoria-ai-lathatosagi-specalista-wikiaihu.png)](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
-AI-láthatósági specialista · WikiAI.hu társalapító
+WikiAI.hu alapító · AI-láthatósági specialista · üzleti és partneri kapcsolatok
 
 ## [Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
 [Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
-[![Molnár András Context Engineer és SAP Support Consultant, a WikiAI.hu szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/09/molnar-andras-mostai.png)](https://www.wikiai.hu/szakertok/molnar-andras/)
+## Külső szakmai partner
 
-Context Engineer · SAP Support Consultant · Vállalati AI · WikiAI.hu szakmai partner
+A WikiAI.hu meghatározott szakterületeken külső szakmai partnerrel is együttműködhet. A külső partner nem a WikiAI.hu munkatársa; saját szakmai tevékenységével, külön együttműködés keretében kapcsolódhat egy adott projekthez.
+
+[![Molnár András Context Engineer és SAP Support Consultant, a WikiAI.hu külső szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/09/molnar-andras-mostai.png)](https://www.wikiai.hu/szakertok/molnar-andras/)
+
+Context Engineer · SAP Support Consultant · Vállalati AI · külső szakmai partner
 
 ## [Molnár András](https://www.wikiai.hu/szakertok/molnar-andras/)
 
 [Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/molnar-andras/)
 
-## Három terület, amelyek egymást erősítik
+## Két egymást kiegészítő belső szerep
 
-**Várhelyi Csanád** a weboldalak, a Google- és keresési jelenlét, valamint az AI-korszakhoz igazodó online struktúra oldaláról dolgozik. Fókusza az AI Weblapfejlesztés, SEO, AEO, GEO és LLMO, valamint az, hogy a vállalkozás digitális központja átlátható, gyors, kereshető és szakmailag következetes legyen.
+**Várhelyi Csanád** a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. A szerkesztőségi kutatás, forrásellenőrzés és szakmai pontosság mellett a weboldalak, a keresési jelenlét és az AI-láthatóság szakmai oldalát képviseli.
 
-**Várhelyi Viktória** a WikiAI.hu társalapítója, aki a tartalom és a külső online jelenlét területét képviseli. Szakmai és üzleti cikkekkel, bemutatkozó anyagokkal, közösségi kommunikációval, márkakonzisztenciával, online reputációval, valamint rövid videós tartalmak tervezésével segíti, hogy egy vállalkozás üzenete több felületen is felismerhető és hiteles maradjon.
+**Várhelyi Viktória** a WikiAI.hu alapítója és AI-láthatósági specialista. A partnerkapcsolatok, üzleti kommunikáció, online reputáció, sponsored tartalmak és kereskedelmi együttműködések oldalát képviseli.
 
-**Molnár András** a WikiAI.hu szakmai partnere, aki a vállalati AI gyakorlati alkalmazását képviseli. Context Engineering, AI-workflow-k és SAP-környezetben szerzett tapasztalata abban segít, hogy a mesterséges intelligencia konkrét üzleti folyamatokhoz és vállalati működéshez kapcsolódva jelenjen meg.
+A szerkesztőségi és a kereskedelmi működés egymástól elkülönül: a szerkesztőségi rovatok tartalmi döntései nem megvásárolhatók, a fizetett tartalmi együttműködések pedig kizárólag a Posztok rovatban jelenhetnek meg egyértelmű jelöléssel.
 
 ## Miben tudunk segíteni egy vállalkozásnak?
 
-A közös munka mindig a vállalkozás valós helyzetéből indul ki. Van, ahol a weboldal és a Google-megjelenés szorul új alapokra, máshol a szakmai kommunikáció, a reputáció vagy a tartalom következetessége a fő feladat, és olyan szervezet is van, ahol már a belső AI-használat gyakorlati bevezetése kerül előtérbe.
+A közös munka mindig a vállalkozás valós helyzetéből indul ki. Van, ahol a weboldal és a Google-megjelenés szorul új alapokra, máshol a szakmai kommunikáció, a reputáció, a cégadatok rendezettsége vagy a tartalom következetessége a fő feladat.
 
-- vállalkozási vagy szakértői megjelenés a WikiAI.hu felületén;
-- weboldalak és digitális jelenlét fejlesztése;
-- Google-, keresési és AI-láthatóság fejlesztése SEO, AEO, GEO és LLMO szemlélettel;
-- szakmai cikkek, üzleti tartalmak, bemutatkozó anyagok és rendszeres publikációk készítése;
-- márkakonzisztencia, online reputáció, közösségi jelenlét és rövid videós tartalmak támogatása;
-- vállalati AI-workshopok, AI-workflow-k és gyakorlati AI-használati megoldások.
+- AI-láthatóság és digitális jelenlét fejlesztése;
+- új vagy meglévő weboldalak rendezése és korszerűsítése;
+- Google- és keresési jelenlét fejlesztése;
+- vállalkozási adatok és online profilok következetesebbé tétele;
+- saját csatornákra készülő szakmai és üzleti tartalmak;
+- online reputáció, közösségi kommunikáció és tartalomgondozás;
+- sponsored Posztok a WikiAI.hu-n, egyértelmű kereskedelmi jelöléssel.
 
-Nem minden projektben van szükség minden területre. A cél az, hogy mindig az a szakember és az a megoldás kapcsolódjon be, amely az adott üzleti helyzethez valóban releváns.
+Nem minden projektben van szükség minden területre. A cél az, hogy mindig az adott helyzethez valóban releváns szakmai megoldás kerüljön előtérbe.
 
 **A részletes szolgáltatási lehetőségek és az együttműködés formái a [Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/) oldalon olvashatók.**
 
 ## Munkatársak és szakmai partnerek
 
-A WikiAI.hu szakmai munkája saját munkatársak és meghatározott szakterületeken bekapcsolódó szakmai partnerek együttműködésére épül. Az oldalon minden szereplőnél azt a szakmai szerepet tüntetjük fel, amelyben a WikiAI.hu munkájához kapcsolódik.
+A WikiAI.hu belső működését Várhelyi Viktória alapítói és üzleti szerepe, valamint Várhelyi Csanád felelős szerkesztői és szakmai szerepe adja. Meghatározott projektekhez ettől elkülönülten külső szakmai partnerek is kapcsolódhatnak.
 
-**Molnár András a WikiAI.hu szakmai partnere.** A mostAI szakmai hátterével a vállalati AI, Context Engineering, AI-workflow-k és SAP Support területén egészíti ki a WikiAI.hu webes, tartalmi és láthatósági kompetenciáit.
+**Molnár András külső szakmai partner, nem a WikiAI.hu munkatársa.** Saját szakmai tevékenységével, külön együttműködés keretében kapcsolódhat olyan projektekhez, ahol az ő szakterülete releváns. Ez a kapcsolat nem jelent WikiAI.hu-tagságot, munkaviszonyt vagy szervezeti szerepet.
 
 ## Gyakori kérdések
 
