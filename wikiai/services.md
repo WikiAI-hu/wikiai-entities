@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szolgaltatasok/"
 source_post_id: 101
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:52:18+00:00"
-synced_at: "2026-09-25T06:52:20+00:00"
+source_last_modified: "2026-09-25T06:52:23+00:00"
+synced_at: "2026-09-25T06:52:45+00:00"
 ---
 
 # Szolgáltatások
@@ -119,17 +119,17 @@ Azért, mert a WikiAI.hu nem egyetlen weboldalt, posztot vagy technikai beavatko
 
 ## Gyakori kérdések
 
-### Mit kap egy vállalkozás a WikiAI.hu-megjelenéssel?
+### Mit kaphat egy vállalkozás fizetett együttműködésben?
 
-A WikiAI.hu-megjelenés nem feltétlenül csak egy vállalkozói aloldalt jelent. Az együttműködés kiterjedhet részletes vállalkozási bemutatásra, szakmai cikkekre, aktuális vállalkozási információkra, posztokra, rövid videós tartalmakra, közösségimédia-megjelenésekre és angol nyelvű szakmai publikációkra is.
+A fizetett együttműködés kiterjedhet sponsored Posztra, AI-láthatósági és webes fejlesztésre, keresési jelenlétre, saját csatornákra készülő szakmai tartalmakra, rövid videós anyagokra, közösségimédia-megjelenésekre és angol nyelvű szakmai publikációkra. A Vállalkozások rovat szerkesztőségi megjelenése ettől különálló és nem vásárolható meg.
 
 ### Mit jelent az AI-láthatóság?
 
 Az AI-láthatóság annak fejlesztését jelenti, hogy egy vállalkozásról a nyilvános digitális térben pontos, következetes és szakmailag értelmezhető információk álljanak rendelkezésre. Ez segítheti a keresőrendszereket és AI-rendszereket a vállalkozás pontosabb értelmezésében, de nem jelent garantált ajánlást vagy helyezést.
 
-### Miért több a WikiAI.hu-megjelenés egyszerű szövegfeltöltésnél?
+### Miért több a WikiAI.hu szolgáltatási megközelítése egyszerű szövegfeltöltésnél?
 
-**Mert nemcsak a látható szöveg készül el, hanem a vállalkozásról szóló információ webes szerkezetét és kapcsolódásait is tudatosan rendezzük.** A cél, hogy a lényegi adatok és összefüggések ember, keresőrendszer és AI-alapú információs rendszer számára is következetesebben értelmezhetők legyenek. A részletes technikai módszertan a WikiAI.hu saját szakmai know-how-jának része.
+**Mert nemcsak a látható szöveggel foglalkozunk, hanem a vállalkozásról szóló információ webes szerkezetét és kapcsolódásait is tudatosan rendezzük.** A cél, hogy a lényegi adatok és összefüggések ember, keresőrendszer és AI-alapú információs rendszer számára is következetesebben értelmezhetők legyenek. A részletes technikai módszertan a WikiAI.hu saját szakmai know-how-jának része.
 
 ### Tud segíteni a WikiAI.hu digitális vagy AI-fejlesztési pályázatoknál?
 
