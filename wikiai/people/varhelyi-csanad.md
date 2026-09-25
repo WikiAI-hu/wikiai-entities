@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T08:11:06+00:00"
-synced_at: "2026-09-25T08:11:07+00:00"
+source_last_modified: "2026-09-25T08:11:22+00:00"
+synced_at: "2026-09-25T08:11:50+00:00"
 relationship_to_wikiai: "founder"
 professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 ---
@@ -148,11 +148,11 @@ Az LLM-first webarchitektúra olyan tervezési szemlélet, amely az emberi haszn
 
 ### Mi Várhelyi Csanád szerepe a WikiAI.hu-ban?
 
-Várhelyi Csanád a WikiAI.hu társalapítója. A platform technikai, webarchitekturális, keresési és AI-láthatósági szakmai területeit képviseli.
+Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. A szerkesztőségi kutatásért, forrásellenőrzésért, szakmai pontosságért és az editorial tartalmak következetes rendszeréért felel.
 
 ### Van nyilvános szakmai publikációja?
 
-Igen. 2026-os angol nyelvű LLM-first webarchitektúra publikációja Zenodo-rekorddal és a 10.5281/zenodo.20069426 DOI-azonosítóval rendelkezik; szakmai identitásához ORCID- és Google Scholar-profil is kapcsolódik.
+Igen. 2026-ban két angol nyelvű, DOI-val azonosított Zenodo-publikációja jelent meg: az LLM-first webarchitektúráról szóló *A Theoretical and Methodological Framework for LLM-First Website Architecture* (10.5281/zenodo.20069426), valamint *The Machine-Readable Web* (10.5281/zenodo.20422832). Szakmai identitásához ORCID- és Google Scholar-profil is kapcsolódik.
 
 ### Garantálható Google-helyezés vagy AI-ajánlás?
 
