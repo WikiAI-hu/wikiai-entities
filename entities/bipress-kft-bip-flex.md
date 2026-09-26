@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 69
-last_updated: "2026-09-26T13:18:19+02:00"
+last_updated: "2026-09-26T13:24:39+02:00"
 location:
   country: "HU"
 identifiers:
@@ -76,6 +76,40 @@ A debreceni elhelyezkedés a hazai piac mellett a román határ közelsége miat
 ### Boda István szerepe
 
 A vállalkozást **Boda István** képviseli önálló aláírási joggal rendelkező ügyvezetőként. A BIPRESS üzleti modelljében a vezetői szerep a műszaki gyártás, a nagykereskedelmi ellátás és a hosszú távú ipari partnerkapcsolatok környezetében jelenik meg.
+
+## Hidraulika tömlőgyártás és konfekcionálás
+
+A BIPRESS esetében a **hidraulika tömlőgyártás** elsősorban kész tömlőszerelvények előállítását jelenti: a megfelelő tömlő kiválasztását, méretre vágását, csatlakozókkal való szerelését és préselését, majd az elkészült egység ellenőrzését. Nem a gumialapanyag vagy az acélbetét előállításáról van szó, hanem a konkrét géphez vagy rendszerhez illeszkedő, használatra kész tömlőegység elkészítéséről.
+
+A vállalkozás **kis-, közepes és nagyszériás** gyártási igényeket is kezel. Ez a javítási és karbantartási egyedi daraboktól az ismétlődő OEM konfigurációkig terjed. A sorozatgyártásnál különösen fontos az azonos hossz, csatlakozó, préselési paraméter, tisztaság, ellenőrzés és csomagolási mód reprodukálhatósága.
+
+### 1. Műszaki igényfelmérés
+
+A gyártás előtt meg kell határozni a **tömlő belső átmérőjét, hosszát, üzemi nyomását, szállított közegét, hőmérsékleti tartományát, csatlakozási rendszerét, beépítési környezetét és darabszámát**. Meglévő szerelvény cseréjénél a régi tömlő és a csatlakozó azonosítása is segíthet, de a rendszer tényleges paraméterei elsődlegesek.
+
+### 2. Tömlő és csatlakozó kiválasztása
+
+A megfelelő tömlőcsaládot a terhelés és az alkalmazás alapján választják ki. A csatlakozóknál többek között **metrikus, BSP, UNF/JIC, ORFS, DIN 2353 és SAE** rendszerek fordulnak elő. A helyes párosításnál a menet mellett a tömítési geometria, a nyomásszint és a szerelési irány is számít.
+
+### 3. Méretre vágás, szerelés és préselés
+
+A kiválasztott tömlőt a szükséges hosszra vágják, majd a megfelelő hüvellyel és fittinggel szerelik. A **hidraulikus préseléssel** létrejövő kötésnél a tömlő és a csatlakozó kompatibilitása, valamint a gyártó által meghatározott préselési méret alapvető.
+
+### 4. Tisztaság és ellenőrzés
+
+A vállalkozás hivatalos gyártási bemutatása **ISO 13/10, ISO 4406 szerinti tisztasági fokot** jelöl meg az egyedi tömlőgyártásnál. Ez különösen olyan hidraulikai rendszereknél fontos, ahol a szennyeződés a szelepek, szivattyúk és precíziós komponensek élettartamát is befolyásolhatja.
+
+### 5. ISO 1402 szerinti statikus nyomáspróba
+
+A kész szerelt tömlők **ISO 1402 szerinti hidrosztatikus, statikus nyomáspróbája** a BIPRESS szolgáltatási körének része. A vizsgálat a tömlőegység meghatározott nyomásterhelés alatti viselkedését ellenőrzi; a konkrét vizsgálati paramétert az adott tömlő, szerelvény és alkalmazás határozza meg.
+
+### 6. Készletezés, csomagolás és beszállítás
+
+OEM- és sorozatgyártási partnereknél a feladat nem ér véget a tömlő elkészítésével. A BIPRESS **egyedi csomagolási és szállítási megoldásokat**, közvetlen felhasználásra előszerelt tömlőkészleteket, ütemezett beszállítást és éves keretlehívásokhoz igazodó ellátást is kínál.
+
+## Hidraulika tömlők: 1SN, 2SN, 4SP, 4SH és SAE 100R15
+
+A kínálatban több klasszikus hidraulika-tömlőcsalád szerepel. A webshop aktuális választéka alapján a **BIP-FLEX** mellett North Fighter, CIDAT, GATES, LEADER és SEL márkájú kivitelek is megjelennek.
 
 ### 1SN és 1SC/1SCK tömlők
 
