@@ -2,7 +2,7 @@
 schema_version: "1.0"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
-entity_name: "Csarnok-Gyártó Kft. – Hajdúszoboszló"
+entity_name: "Csarnok-Gyártó Kft. – csarnokgyártás és fémszerkezetek | Hajdúszoboszló"
 entity_type:
   - "Organization"
   - "LocalBusiness"
@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/csarnok-gyarto-kft/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 63
-last_updated: "2026-09-26T17:01:18+02:00"
+last_updated: "2026-09-26T17:01:25+02:00"
 location:
   country: "HU"
 machine_attributes:
