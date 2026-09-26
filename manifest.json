@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T06:54:30Z",
+    "last_updated": "2026-09-26T06:59:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -129,10 +129,22 @@
             "language": "hu-HU",
             "status": "published",
             "canonical_url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
+            "local_markdown_url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md",
             "machine_record": "entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md",
+            "jsonld_mirror": "entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.jsonld",
             "wordpress_post_id": 67,
+            "entity_id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business",
             "country": "HU",
-            "google_cid": "4711708374870296696"
+            "city": "Hajdúszoboszló",
+            "google_cid": "4711708374870296696",
+            "wikiai_article_id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#webpage",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source",
+            "production_jsonld_layer": "HFCM #20 / head",
+            "last_verified": "2026-09-26",
+            "legacy_redirect_source": "https://www.epitoanyagdebrecen.hu/"
         },
         {
             "entity_name": "M.I.A. Trans Kft.",
