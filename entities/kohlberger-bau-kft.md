@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://kohlberger.hu/"
 wordpress_post_id: 65
-last_updated: "2026-09-26T14:22:03+02:00"
+last_updated: "2026-09-26T14:22:12+02:00"
 location:
   country: "HU"
 identifiers:
