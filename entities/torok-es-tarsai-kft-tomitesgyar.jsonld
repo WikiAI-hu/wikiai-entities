@@ -1,0 +1,988 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "alternateName": "WikiAI",
+      "url": "https://www.wikiai.hu/",
+      "sameAs": [
+        "https://www.facebook.com/wikiai.hu",
+        "https://www.linkedin.com/company/145186386/",
+        "https://www.instagram.com/wikiai.hu/",
+        "https://www.youtube.com/@wikiai-hu",
+        "https://github.com/WikiAI-hu"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "AI Weblapfejlesztő és AI láthatósági szakértő",
+      "sameAs": [
+        "https://www.wikiai.hu/varhelyi-csanad/",
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://www.linkedin.com/in/varhelyicsanad",
+        "https://github.com/varhelyicsanad"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#primary-image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/torok-es-tarsai-kft-tomitesgyar-magyarorszag-wikiai.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/torok-es-tarsai-kft-tomitesgyar-magyarorszag-wikiai.png",
+      "width": 1672,
+      "height": 941,
+      "caption": "TÖRÖK és TÁRSAI Kft. – Tömítésgyár, Hajdúszoboszló"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#webpage",
+      "url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/",
+      "name": "TÖRÖK és TÁRSAI Kft. / Tömítésgyár – Hajdúszoboszló",
+      "description": "Részletes szerkesztőségi bemutató a hajdúszoboszlói TÖRÖK és TÁRSAI Kft. / Tömítésgyár történetéről, tömítésgyártásáról, anyagairól, műanyag-feldolgozásáról, minőségirányításáról és kiszolgálási modelljéről.",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#primary-image"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "datePublished": "2026-09-07T17:03:54+02:00",
+      "dateModified": "2026-09-26T16:43:37+02:00",
+      "inLanguage": "hu-HU",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#article",
+      "url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/",
+      "headline": "TÖRÖK és TÁRSAI Kft. / Tömítésgyár – Hajdúszoboszló",
+      "description": "A TÖRÖK és TÁRSAI Kft. / Tömítésgyár hajdúszoboszlói magyar gyártóvállalkozás részletes bemutatása.",
+      "mainEntity": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-custom-gasket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-technical-rubber"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-plastic-injection"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#primary-image"
+      },
+      "datePublished": "2026-09-07T17:03:54+02:00",
+      "dateModified": "2026-09-26T16:43:37+02:00",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "inLanguage": "hu-HU",
+      "isBasedOn": [
+        {
+          "@id": "https://www.tomitesgyarmagyarorszag.hu/#source-home"
+        },
+        {
+          "@id": "https://www.tomitesgyarmagyarorszag.hu/data.html#source"
+        },
+        {
+          "@id": "https://www.tomitesgyar.hu/#source-home"
+        }
+      ],
+      "citation": [
+        "https://www.tomitesgyarmagyarorszag.hu/",
+        "https://www.tomitesgyarmagyarorszag.hu/data.html",
+        "https://www.tomitesgyarmagyarorszag.hu/termekek.html",
+        "https://www.tomitesgyarmagyarorszag.hu/tudasbazis.html",
+        "https://www.tomitesgyar.hu/",
+        "https://www.google.com/maps?cid=4108516188606827803",
+        "https://www.nemzeticegtar.hu/torok-es-tarsai-kft-e10796683.html",
+        "https://lei.bloomberg.com/leis/view/984500B9H401F97F6C63"
+      ],
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": [
+        "Organization",
+        "Corporation",
+        "LocalBusiness",
+        "Manufacturer"
+      ],
+      "@id": "https://www.tomitesgyarmagyarorszag.hu/#business",
+      "name": "TÖRÖK és TÁRSAI Kft.",
+      "legalName": "TÖRÖK és TÁRSAI Tömítésgyártó és Szolgáltató Korlátolt Felelősségű Társaság",
+      "alternateName": [
+        "Tömítésgyár",
+        "TÖRÖK és TÁRSAI Kft. – Tömítésgyár",
+        "Török és Társai Tömítésgyártó Kft."
+      ],
+      "url": "https://www.tomitesgyarmagyarorszag.hu/",
+      "description": "Hajdúszoboszlói magyar gyártó- és kereskedelmi vállalkozás egyedi és sorozatgyártott tömítések, ipari és járműtömítések, O-gyűrűk, műszaki gumitermékek, tömítőlemezek és műanyag fröccsöntött termékek termékköreivel.",
+      "telephone": "+36702981356",
+      "email": "mailto:tomitesiroda@gmail.com",
+      "foundingDate": "1998-02-17",
+      "taxID": "11558655-2-09",
+      "vatID": "HU11558655",
+      "slogan": "Egy tömítés miatt nem állhat meg az élet.",
+      "logo": "https://www.tomitesgyarmagyarorszag.hu/images/apple-touch-icon.png",
+      "image": "https://www.tomitesgyarmagyarorszag.hu/assets/img/og-cover.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Baross u. 4.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "12:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "13:00",
+          "closes": "15:00"
+        }
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "name": "Cégjegyzékszám",
+          "propertyID": "companyRegistrationNumber",
+          "value": "09-09-005714"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Adószám",
+          "propertyID": "taxID",
+          "value": "11558655-2-09"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "EU VAT",
+          "propertyID": "vatID",
+          "value": "HU11558655"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Legal Entity Identifier",
+          "propertyID": "LEI",
+          "value": "984500B9H401F97F6C63"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Google CID",
+          "propertyID": "GoogleCID",
+          "value": "4108516188606827803"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Google Knowledge Graph MID",
+          "propertyID": "GoogleKGMID",
+          "value": "/g/1tcxylwk"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Google Place ID",
+          "propertyID": "GooglePlaceID",
+          "value": "ChIJu1oybt8bR0cRGw3ap7RhBDk"
+        }
+      ],
+      "sameAs": [
+        "https://www.tomitesgyar.hu/",
+        "https://www.facebook.com/tomitesgyar.hu",
+        "https://www.youtube.com/user/tomitesgyar1",
+        "https://www.google.com/maps?cid=4108516188606827803"
+      ],
+      "founder": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#founder-torok-laszlo"
+      },
+      "employee": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#manager-torok-peter"
+      },
+      "brand": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#brand"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-custom-gasket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-flange-gasket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-o-ring"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-vehicle-gasket"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-technical-rubber"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-plastic-injection"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-nbr"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-epdm"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-ptfe"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-expanded-graphite"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-catalog"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Főtevékenység",
+          "value": "2226 – Egyéb műanyag termék gyártása"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Minőségirányítás",
+          "value": "MSZ EN ISO 9001:2015"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tanúsítvány száma",
+          "value": "100 089"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tanúsító szervezet",
+          "value": "QT-CERT Tanúsító és Minőségfejlesztő Kft."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tanúsított kör",
+          "value": "Műanyag termékek fröccsöntése, tömítőgyűrűk gyártása és végtermék ellenőrzése MSZ 1601 szerinti gázokra"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#github-jsonld-mirror"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#founder-torok-laszlo",
+      "name": "Török László",
+      "jobTitle": "alapító",
+      "worksFor": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "description": "A vállalkozás alapítója; szakmai pályája 1973-ban víz-, gáz- és központifűtés-szerelő mesterként indult, a tömítésgyártási irány az 1990-es évek elején alakult ki."
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#manager-torok-peter",
+      "name": "Török Péter",
+      "jobTitle": "ügyvezető",
+      "worksFor": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "description": "A TÖRÖK és TÁRSAI Kft. ügyvezetője, aki 2011-ben vette át az ügyvezetői szerepet."
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.tomitesgyarmagyarorszag.hu/#brand",
+      "name": "Tömítésgyár",
+      "alternateName": [
+        "Tömítésgyár.hu",
+        "Gasket Factory"
+      ],
+      "owner": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "url": "https://www.tomitesgyar.hu/"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-catalog",
+      "name": "TÖRÖK és TÁRSAI Kft. / Tömítésgyár szolgáltatási és gyártási körei",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-custom-gasket"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-series-gasket"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-industrial-flange"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-vehicle-machinery"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-building-services"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-rubber-materials"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-plastic-products"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-promotional-products"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-b2b-partner"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-custom-gasket",
+      "name": "Egyedi tömítés gyártás",
+      "description": "Minta, méret, meglévő alkatrész vagy műszaki rajz alapján készülő egyedi tömítések gyártása.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-series-gasket",
+      "name": "Sorozatgyártott tömítések",
+      "description": "Kis és nagyobb sorozatú tömítések gyártása ipari, gépészeti és partneri igényekhez.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-industrial-flange",
+      "name": "Ipari és karimatömítések",
+      "description": "Ipari sík- és karimatömítések gyártása és ellátása, többek között DIN 2690 és EN 1514-1 környezethez.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-vehicle-machinery",
+      "name": "Jármű-, veterán- és erőgéptömítések",
+      "description": "Járművekhez, veterán járművekhez, mezőgazdasági gépekhez, kompresszorokhoz és szivattyúkhoz kapcsolódó tömítési termékkör.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-building-services",
+      "name": "Épületgépészeti tömítések",
+      "description": "Víz-, fűtési, kazán-, bojler-, vízmérő- és más épületgépészeti alkalmazásokhoz kapcsolódó tömítések.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-rubber-materials",
+      "name": "O-gyűrűk, gumilemezek és tömítőanyagok",
+      "description": "O-gyűrűk, O-gyűrű zsinórok, gumilemezek és tömítőanyagok SBR, NBR, EPDM, FKM, szilikon, PTFE és más anyagkörökben.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-plastic-products",
+      "name": "Műanyag fröccsöntött termékek",
+      "description": "Műszaki és használati műanyag termékek, tároló-, jelölő- és más fröccsöntött termékek gyártása.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-promotional-products",
+      "name": "Reklámajándékok és fotós ajándéktárgyak",
+      "description": "Akril hűtőmágnesek, kulcstartók, fotós ajándéktárgyak és kapcsolódó műanyag termékek.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#service-b2b-partner",
+      "name": "B2B, viszonteladói, bérgyártási és private label kiszolgálás",
+      "description": "Rendszeres partneri, viszonteladói, bérgyártási és előzetesen egyeztetett private label együttműködések.",
+      "provider": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu"
+        }
+      ],
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "B2B, B2C, ipari felhasználók, műhelyek, szerelők, viszonteladók és üzleti partnerek"
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "sameAs": "https://www.wikidata.org/wiki/Q830404"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#place-eu",
+      "name": "Európai Unió",
+      "sameAs": "https://www.wikidata.org/wiki/Q458"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-custom-gasket",
+      "name": "Egyedi tömítés gyártás",
+      "description": "Minta, méret vagy műszaki rajz alapján készülő tömítések gyártási köre."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-flange-gasket",
+      "name": "Karimatömítés",
+      "description": "Ipari karimás kötések tömítési termékköre."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-o-ring",
+      "name": "O-gyűrű",
+      "description": "Kör keresztmetszetű tömítőelem.",
+      "sameAs": "https://www.wikidata.org/wiki/Q942417"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-vehicle-gasket",
+      "name": "Jármű- és géptömítés",
+      "description": "Járművekhez, veterán járművekhez, mezőgazdasági gépekhez és gépészeti berendezésekhez kapcsolódó tömítések."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-technical-rubber",
+      "name": "Műszaki gumitermékek",
+      "description": "O-gyűrűk, gumilemezek, gumialapú tömítések és kapcsolódó műszaki termékek."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-plastic-injection",
+      "name": "Műanyag fröccsöntés",
+      "description": "Műanyag alkatrészek és használati termékek fröccsöntéses gyártási köre."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-nbr",
+      "name": "NBR",
+      "description": "Nitrilkaucsuk."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-epdm",
+      "name": "EPDM",
+      "description": "Műszaki elasztomer anyag."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-ptfe",
+      "name": "PTFE",
+      "description": "Politetrafluoroetilén.",
+      "sameAs": "https://www.wikidata.org/wiki/Q143252"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#concept-expanded-graphite",
+      "name": "Expandált grafit",
+      "description": "Ipari tömítéstechnikai lemez- és tömítőanyag."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq",
+      "url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#torok-gyik",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q1",
+          "name": "Mi a TÖRÖK és TÁRSAI Kft. és mi a Tömítésgyár?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a1",
+            "text": "A TÖRÖK és TÁRSAI Kft. a hajdúszoboszlói gyártóvállalkozás jogi neve, a Tömítésgyár pedig a közismert szakmai és kereskedelmi név. A fő tevékenység a tömítésgyártás, műszaki gumitermékek és műanyag termékek gyártása, valamint kapcsolódó termékellátás."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q2",
+          "name": "Lehet egyetlen darab egyedi tömítést készíttetni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a2",
+            "text": "Igen, az egyedi gyártás kiindulhat egyetlen mintadarabból vagy műszaki rajzból is. A tényleges gyárthatóságot, anyagot, árat és határidőt a konkrét feladat alapján kell egyeztetni."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q3",
+          "name": "Milyen adatokat érdemes megadni egy egyedi tömítéshez?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a3",
+            "text": "A méret vagy minta mellett érdemes megadni a felhasználási helyet, a közeget, az üzemi hőmérsékletet, a nyomást, a szükséges darabszámot és minden rendelkezésre álló műszaki dokumentációt."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q4",
+          "name": "Készülhet tömítés régi vagy veterán járműhöz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a4",
+            "text": "Igen, a vállalkozás régi és veterán járművekhez kapcsolódó pótlási feladatokkal is foglalkozik. Ilyenkor gyakran a meglévő tömítés, egy régi alkatrész vagy műszaki rajz adja a gyártási alapot."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q5",
+          "name": "Foglalkoznak MTZ és más mezőgazdasági gépek tömítéseivel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a5",
+            "text": "Igen, a termékkörben MTZ traktorokhoz és más mezőgazdasági gépekhez kapcsolódó tömítések és garnitúrák is szerepelnek. A pontos géptípust és alkatrészt minden esetben érdemes megadni."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q6",
+          "name": "Milyen gumianyagok érhetők el?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a6",
+            "text": "A dokumentált anyagkörben többek között SBR, NBR, EPDM, WRAS-EPDM, FKM/Viton és szilikon szerepel. A megfelelő anyagot mindig az alkalmazás alapján kell kiválasztani."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q7",
+          "name": "Van PTFE, grafit vagy ipari tömítőlemez is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a7",
+            "text": "Igen. A termékkörben PTFE, expandált grafit, fíber, parafa, prespán és különböző ipari tömítőlemezek is megtalálhatók."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q8",
+          "name": "Gyártanak műanyag termékeket is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a8",
+            "text": "Igen. A műanyag fröccsöntés a vállalkozás működésének önálló része. A kínálatban műszaki és használati műanyag termékek, jelölő- és tárolótermékek, valamint reklám- és ajándéktárgyak is megjelennek."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q9",
+          "name": "Van viszonteladói vagy bérgyártási lehetőség?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a9",
+            "text": "Igen, a vállalkozás B2B, viszonteladói, bérgyártási és előzetesen egyeztetett private label együttműködéseket is kezelhet."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q10",
+          "name": "Mennyibe kerül egy egyedi tömítés?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a10",
+            "text": "Nincs egyetlen általános ár. Az ár függhet az anyagtól, mérettől, geometriától, darabszámtól, gyártási eljárástól és az aktuális alapanyag-helyzettől. Pontos ajánlatot a cég a konkrét igény alapján tud adni."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q11",
+          "name": "Mennyi idő alatt készül el egy egyedi termék?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a11",
+            "text": "A teljesítési idő a termék típusától, az anyagtól, a mennyiségtől, a dokumentációtól és az aktuális gyártási terheléstől függ. Emiatt a határidőt minden megrendelésnél külön kell visszaigazolni."
+          }
+        },
+        {
+          "@type": "Question",
+          "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-q12",
+          "name": "Gázhoz vagy ivóvízhez elég csak a megfelelő méretű tömítést kiválasztani?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#faq-a12",
+            "text": "Nem. Biztonságkritikus felhasználásnál az anyag, a konkrét termékminősítés, a közeg, a hőmérséklet, a nyomás és a rendszer követelményei is számítanak. Ilyen esetben közvetlen műszaki egyeztetés szükséges."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar.md",
+      "url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – TÖRÖK és TÁRSAI Kft. / Tömítésgyár",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/torok-es-tarsai-kft-tomitesgyar.md",
+      "name": "WikiAI GitHub Markdown mirror – TÖRÖK és TÁRSAI Kft. / Tömítésgyár",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/torok-es-tarsai-kft-tomitesgyar.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – TÖRÖK és TÁRSAI Kft. / Tömítésgyár",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.tomitesgyarmagyarorszag.hu/#source-home",
+      "url": "https://www.tomitesgyarmagyarorszag.hu/",
+      "name": "TÖRÖK és TÁRSAI Kft. – Tömítésgyár",
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.tomitesgyarmagyarorszag.hu/data.html#source",
+      "url": "https://www.tomitesgyarmagyarorszag.hu/data.html",
+      "name": "TÖRÖK és TÁRSAI Kft. – strukturált cégadatok",
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.tomitesgyar.hu/#source-home",
+      "url": "https://www.tomitesgyar.hu/",
+      "name": "Tömítésgyár – hivatalos termék- és vállalati weboldal",
+      "about": {
+        "@id": "https://www.tomitesgyarmagyarorszag.hu/#business"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Kezdőlap",
+          "item": "https://www.wikiai.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vállalkozások",
+          "item": "https://www.wikiai.hu/category/vallalkozasok/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TÖRÖK és TÁRSAI Kft. / Tömítésgyár",
+          "item": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/"
+        }
+      ]
+    }
+  ]
+}
