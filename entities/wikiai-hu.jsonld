@@ -101,7 +101,10 @@
         {
           "@id": "https://www.wikiai.hu/wikiai-hu/#cylex-profile"
         }
-      ]
+      ],
+      "logo": {
+        "@id": "https://www.wikiai.hu/#logo"
+      }
     },
     {
       "@type": "WebSite",
@@ -187,7 +190,7 @@
       "url": "https://www.wikiai.hu/",
       "slogan": "Magyar vállalkozások az AI korszakában.",
       "logo": {
-        "@id": "https://www.wikiai.hu/wikiai-hu/#primary-image"
+        "@id": "https://www.wikiai.hu/#logo"
       }
     },
     {
@@ -258,6 +261,13 @@
       "email": "info@wikiai.hu",
       "areaServed": "HU",
       "availableLanguage": "hu"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/#logo",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/wikiailogo2.png",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/wikiailogo2.png",
+      "caption": "WikiAI.hu logó"
     },
     {
       "@type": "ImageObject",
