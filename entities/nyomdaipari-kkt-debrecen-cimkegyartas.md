@@ -1,5 +1,5 @@
 ---
-schema_version: "1.0"
+schema_version: "1.4"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "Nyomdaipari Kkt."
@@ -37,6 +37,12 @@ machine_attributes:
   google-kgmid: "/g/1xb2cbqy"
   google-place-id: "ChIJ136F-wYSR0cRpsNRIPybiN8"
   apple-maps-id: "I6970128794A2E0EC"
+local_markdown_url: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas.md"
+jsonld_mirror: "entities/nyomdaipari-kkt-debrecen-cimkegyartas.jsonld"
+editorial_author: "Várhelyi Csanád"
+publication_relation: "editorial"
+source_role: "independent-secondary-source"
+google_kgmid: "/g/1xb2cbqy"
 ---
 
 <!--
