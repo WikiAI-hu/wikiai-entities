@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:44:51+02:00"
+last_updated: "2026-09-26T17:45:18+02:00"
 location:
   country: "HU"
 identifiers:
@@ -175,6 +175,16 @@ Ez különösen fontos vállalkozások bemutatásánál, ahol egy pontatlan név
 A platform nem állítja, hogy egy WikiAI.hu-profil, egy weboldalfejlesztés vagy bármely szakmai szolgáltatás garantált Google-helyezést, ChatGPT-, Gemini- vagy más AI-rendszer általi ajánlást eredményez. Külső kereső- és AI-rendszerek saját szabályaik, adataik és technikai működésük szerint döntenek.
 
 Az AI-használat, a gépi hozzáférés és a szerzői jogi elvek részletes leírása az [AI-átláthatóság és szerzői jogok](https://www.wikiai.hu/ai-atlathatosag-szerzoi-jogok/) oldalon található.
+
+## Források, frissítés és helyesbítés
+
+A WikiAI.hu saját platformjára vonatkozó jogi és működési adatok elsődleges nyilvános forrásai a hatályos [Impresszum](https://www.wikiai.hu/impresszum/), az [Általános Szerződési Feltételek](https://www.wikiai.hu/altalanos-szerzodesi-feltetelek/), az [Adatvédelmi tájékoztató](https://www.wikiai.hu/adatvedelmi-tajekoztato/), a [Rólunk](https://www.wikiai.hu/rolunk/), a [FAQ](https://www.wikiai.hu/faq/) és a [Kapcsolat](https://www.wikiai.hu/kapcsolat/) oldal.
+
+A vállalkozásokról és szakmai témákról közölt tartalmak idővel változhatnak. Ha egy nyilvános adat módosul, megbízhatóbb forrás válik elérhetővé, vagy hitelt érdemlő helyesbítési kérés érkezik, a WikiAI.hu a releváns tartalmat felülvizsgálhatja és frissítheti.
+
+A helyesbítési vagy adatpontosítási megkeresések a [info@wikiai.hu](mailto:info@wikiai.hu) címen küldhetők. A helyesbítés lehetősége nem jelenti azt, hogy az érintett vállalkozás szerkesztőségi kontrollt kap a róla készülő tartalom felett.
+
+**A jelen profil tényeinek legutóbbi érdemi ellenőrzése: 2026. szeptember 26.**
 
 ## Nyilvános online jelenlét
 
