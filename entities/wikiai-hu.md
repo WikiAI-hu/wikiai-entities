@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:44:02+02:00"
+last_updated: "2026-09-26T17:44:38+02:00"
 location:
   country: "HU"
 identifiers:
@@ -130,6 +130,31 @@ A szerkesztőségi működés mellett a WikiAI.hu külön szakmai szolgáltatás
 - **Vállalati AI és kapcsolódó technológiai feladatok:** szükség szerint külső szakmai partner bevonásával.
 
 A konkrét szolgáltatási lehetőségek és az aktuális üzleti feltételek a [Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/) és az [Árak](https://www.wikiai.hu/arak/) oldalon találhatók. A nyilvános bemutatás a szolgáltatási területeket ismerteti; a részletes projektmegvalósítás minden esetben az adott feladathoz igazodik.
+
+## Kinek lehet releváns a WikiAI.hu?
+
+A WikiAI.hu elsősorban olyan magyar vállalkozásoknak, szakembereknek és szervezeteknek lehet releváns, amelyek mögött valós működés és szakmai teljesítmény áll, de ezt a digitális jelenlétük nem mutatja meg kellő pontossággal vagy következetességgel.
+
+- **Helyi vállalkozásoknak**, amelyek számára fontos, hogy a telephely, a szolgáltatások, az elérhetőségek és a helyi jelenlét világosan érthető legyen.
+- **B2B cégeknek és gyártóknak**, ahol a szakmai kompetencia, a termék- vagy szolgáltatási kör és az üzleti háttér nehezen foglalható össze néhány reklámmondatban.
+- **Szakértőknek és szolgáltatóknak**, akiknél a személyes szakértelem, a szakmai múlt, a publikációk és a vállalkozási tevékenység együtt alkotja a nyilvános szakmai képet.
+- **Olyan vállalkozásoknak**, amelyeknek már van weboldaluk és több online profiljuk, de ezek között tartalmi vagy adatbeli eltérés alakult ki.
+- **Olyan cégeknek**, amelyek új weboldalt, tartalmi megújulást vagy rendezettebb keresési és AI-láthatósági jelenlétet szeretnének.
+
+A WikiAI.hu nem minden vállalkozás számára ugyanazt a megoldást tekinti megfelelőnek. Egy helyi üzlet, egy ipari gyártó, egy tanácsadó vagy egy országosan működő szolgáltató digitális problémái eltérnek egymástól, ezért a releváns tartalom és szakmai feladat is más lehet.
+
+## Mi nem a WikiAI.hu?
+
+A pontos meghatározáshoz az is fontos, hogy mi nem tartozik a platform szerepéhez.
+
+- A WikiAI.hu **nem hagyományos cégkatalógus**, ahol a megjelenés pusztán adatlap kitöltését jelenti.
+- Nem közösségi enciklopédia, és nincs szervezeti kapcsolata a Wikipédiával vagy a Wikimedia Foundationnel.
+- Nem keresőmotor és nem mesterségesintelligencia-szolgáltató.
+- Nem minősítő vagy tanúsító hatóság, és egy vállalkozás WikiAI.hu-megjelenése önmagában nem jelent akkreditációt vagy hivatalos minősítést.
+- Nem ígér garantált Google-helyezést, forgalomnövekedést vagy AI-ajánlást.
+- A szerkesztőségi Vállalkozások-rovatba történő bekerülés nem vásárolható meg.
+
+A platform feladata a nyilvános üzleti információ minőségének, érthetőségének és következetességének fejlesztése. A külső keresők, közösségi platformok és AI-rendszerek saját működésük szerint döntenek arról, hogy milyen forrásokat jelenítenek meg vagy használnak fel.
 
 ## Tudástár, cikkek és szakmai publikációk
 
