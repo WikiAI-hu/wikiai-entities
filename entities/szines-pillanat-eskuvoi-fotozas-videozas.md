@@ -15,6 +15,18 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.szinespillanat.hu/"
 wordpress_post_id: 72
+local_markdown_url: "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas.md"
+jsonld_mirror: "entities/szines-pillanat-eskuvoi-fotozas-videozas.jsonld"
+wikiai_article_id: "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#article"
+wikiai_webpage_id: "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#webpage"
+editorial_author: "Várhelyi Csanád"
+editorial_author_id: "https://www.varhelyicsanad.hu/#person"
+publication_relation: "editorial"
+source_role: "independent-secondary-source"
+production_jsonld_layer: "HFCM/head"
+hfcm_id: 21
+legacy_redirect_source: "https://eskuvoifotosvideoshajdubihar.hu/"
+last_verified: "2026-09-26"
 last_updated: "2026-09-26T09:26:45+02:00"
 location:
   country: "HU"
