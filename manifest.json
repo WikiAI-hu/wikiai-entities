@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T12:09:20Z",
+    "last_updated": "2026-09-26T12:10:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -119,7 +119,8 @@
             "country": "HU",
             "google_cid": "9653346048547174198",
             "google_kgmid": "/g/11sj61qmkd",
-            "google_place_id": "ChIJRdzkZAcp6C8RwDNIDmxcNYk"
+            "google_place_id": "ChIJRdzkZAcp6C8RwDNIDmxcNYk",
+            "last_verified": "2026-09-26"
         },
         {
             "entity_name": "Kohlberger Építőanyag Kft.",
