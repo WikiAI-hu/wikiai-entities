@@ -70,7 +70,7 @@
       },
       "inLanguage": "hu-HU",
       "datePublished": "2026-09-07T17:04:07+02:00",
-      "dateModified": "2026-09-26T09:26:45+02:00",
+      "dateModified": "2026-09-26T09:43:56+02:00",
       "author": {
         "@id": "https://www.varhelyicsanad.hu/#person"
       },
@@ -100,7 +100,7 @@
       },
       "inLanguage": "hu-HU",
       "datePublished": "2026-09-07T17:04:07+02:00",
-      "dateModified": "2026-09-26T09:26:45+02:00",
+      "dateModified": "2026-09-26T09:43:56+02:00",
       "author": {
         "@id": "https://www.varhelyicsanad.hu/#person"
       },
@@ -219,6 +219,11 @@
           "@type": "PropertyValue",
           "propertyID": "Google Maps feature ID",
           "value": "0x4747190d4b509e49:0x84e2a46165fcf762"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJSZ5QSw0ZR0cRYvf8ZWGk4oQ"
         }
       ],
       "member": [
@@ -289,6 +294,13 @@
         {
           "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#github-jsonld-mirror"
         }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Működési modell",
+          "value": "A Színes Pillanat közös szolgáltatási márkanév; Uhelszky Angéla és Uhelszky Tamás külön-külön egyéni vállalkozóként végzik a hozzájuk tartozó munkát."
+        }
       ]
     },
     {
@@ -307,6 +319,16 @@
         "kismamafotózás",
         "gyermekfotózás",
         "fotós utómunka"
+      ],
+      "telephone": "+36 20 495 3848",
+      "taxID": "69319789-1-29",
+      "description": "Fotós és egyéni vállalkozó; a Színes Pillanat fotós oldalának meghatározó szakmai szereplője.",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "HU tax number",
+          "value": "69319789-1-29"
+        }
       ]
     },
     {
@@ -328,6 +350,16 @@
         "videóvágás",
         "esküvői film",
         "hangrögzítés"
+      ],
+      "telephone": "+36 20 377 3530",
+      "taxID": "67960626-1-29",
+      "description": "Videós, operatőr, vágó és egyéni vállalkozó; a Színes Pillanat videós oldalának meghatározó szakmai szereplője.",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "HU tax number",
+          "value": "67960626-1-29"
+        }
       ]
     },
     {
