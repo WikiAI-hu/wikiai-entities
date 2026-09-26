@@ -1,5 +1,5 @@
 ---
-schema_version: "1.0"
+schema_version: "1.4"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "M.I.A. Trans Kft."
@@ -36,6 +36,10 @@ machine_attributes:
   tax-id: "27408243-2-20"
   eu-vat-id: "HU27408243"
   official-url: "https://mia-trans.hu/"
+jsonld_mirror: "entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.jsonld"
+editorial_author: "Várhelyi Csanád"
+publication_relation: "editorial"
+source_role: "independent-secondary-source"
 ---
 
 <!--
