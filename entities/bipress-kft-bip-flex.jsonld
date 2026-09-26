@@ -1,0 +1,683 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#primary-image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/bipress-kft-hidraulika-tomlogyartas-debrecen-wikiai.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/bipress-kft-hidraulika-tomlogyartas-debrecen-wikiai.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu",
+      "name": "Európai Unió",
+      "sameAs": "https://www.wikidata.org/wiki/Q458"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#facility-debrecen",
+      "name": "BIPRESS Kft. – debreceni telephely",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nyíl utca 14-16.",
+        "postalCode": "4028",
+        "addressLocality": "Debrecen",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "hasMap": [
+        "https://www.google.com/maps?cid=1986537177653491448",
+        "https://www.openstreetmap.org/way/995850085"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#person-boda-istvan",
+      "name": "Boda István",
+      "jobTitle": "ügyvezető",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      }
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#brand-bip-flex",
+      "name": "BIP-FLEX",
+      "description": "A BIPRESS Kft. saját márkája hidraulikatömlő- és csatlakozástechnikai termékekhez.",
+      "owner": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      }
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business",
+      "name": "BIPRESS Kft.",
+      "legalName": "BIPRESS Ipari, Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+      "alternateName": [
+        "BIPRESS",
+        "BIP-FLEX"
+      ],
+      "url": "https://www.bipress.hu/",
+      "description": "Debreceni hidraulikai és fluidumtechnikai vállalkozás szerelt hidraulika-, ipari- és légféktömlők egyedi és sorozatgyártásával, konfekcionálással, nyomáspróbával és B2B/OEM alkatrészellátással.",
+      "foundingDate": "1994-03-08",
+      "telephone": "+36 52 310 401",
+      "email": "info@bipress.hu",
+      "taxID": "11150879-2-09",
+      "vatID": "HU11150879",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nyíl utca 16.",
+        "postalCode": "4028",
+        "addressLocality": "Debrecen",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "location": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#facility-debrecen"
+      },
+      "brand": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#brand-bip-flex"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "16:00"
+        }
+      ],
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu"
+        }
+      ],
+      "sameAs": [
+        "https://www.bipress.hu/",
+        "https://www.google.com/maps?cid=1986537177653491448",
+        "https://www.facebook.com/profile.php?id=100063623575609",
+        "https://www.linkedin.com/company/bipress-ltd/",
+        "https://www.openstreetmap.org/way/995850085"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Cégjegyzékszám",
+          "value": "09-09-002604"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Adószám",
+          "value": "11150879-2-09"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "EU VAT",
+          "value": "HU11150879"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "1986537177653491448"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Knowledge Graph MID",
+          "value": "/g/1wrtbn04"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "H engedély",
+          "value": "H 4-05-3416"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "H engedély",
+          "value": "H 4-05-3417"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#offer-catalog"
+      },
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#github-jsonld-mirror"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-hose-manufacturing",
+      "name": "Szerelt hidraulika-, ipari- és légféktömlők gyártása",
+      "description": "Egyedi, kis-, közepes és nagyszériás tömlőkonfekcionálás és szerelés.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-hose-assembly",
+      "name": "Tömlőkonfekcionálás",
+      "description": "Méretre vágás, csatlakozó- és hüvelyválasztás, préselés és ellenőrzés.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-pressure-test",
+      "name": "Statikus nyomáspróba",
+      "description": "Szerelt tömlők ISO 1402 szerinti hidrosztatikus statikus nyomáspróbája.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-component-supply",
+      "name": "Fluidumtechnikai alkatrészellátás",
+      "description": "Hidraulikai, pneumatikai, méréstechnikai és magasnyomású tisztítástechnikai komponensek B2B ellátása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-oem-supply",
+      "name": "OEM és sorozatbeszállítás",
+      "description": "Ismétlődő konfigurációk, tömlőkészletek, keretlehívás és ütemezett beszállítás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-technical-support",
+      "name": "Műszaki kiválasztási támogatás",
+      "description": "Tömlő, fitting, adapter és rendszerkomponensek kiválasztásának támogatása műszaki paraméterek alapján.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#place-eu"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#offer-catalog",
+      "name": "BIPRESS Kft. szolgáltatási és termékkör",
+      "provider": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-hose-manufacturing"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-hose-assembly"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-pressure-test"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-component-supply"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-oem-supply"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#service-technical-support"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-1sn",
+      "name": "1SN hidraulika tömlő",
+      "description": "Egy acélfonatos hidraulika tömlőcsalád."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-2sn",
+      "name": "2SN hidraulika tömlő",
+      "description": "Két acélfonatos hidraulika tömlőcsalád."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-4sp",
+      "name": "4SP hidraulika tömlő",
+      "description": "Spirálerősítésű hidraulika tömlőcsalád."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-4sh",
+      "name": "4SH hidraulika tömlő",
+      "description": "Nagy terheléshez kapcsolódó többspirálos hidraulika tömlőcsalád."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-r15",
+      "name": "SAE 100R15 tömlő",
+      "description": "Nagy nyomású spiráltömlő-kategória."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-thermoplast",
+      "name": "Thermoplast tömlő",
+      "description": "Termoplasztikus anyagú speciális tömlőmegoldás."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-ptfe",
+      "name": "PTFE tömlő",
+      "description": "PTFE belső réteggel készülő speciális tömlő."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-interlock",
+      "name": "Interlock csatlakozó",
+      "description": "Nagy igénybevételű tömlőkhöz kapcsolódó csatlakozási rendszer."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-pneumatics",
+      "name": "Pneumatika",
+      "description": "Sűrített levegős rendszerek tömlő- és csatlakozástechnikája."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#term-pressure-washing",
+      "name": "Magasnyomású mosótechnika",
+      "description": "Magasnyomású tisztító rendszerek tömlői és kapcsolódó alkatrészei."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-en-853",
+      "name": "EN 853"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-en-856",
+      "name": "EN 856"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-iso-1436",
+      "name": "ISO 1436"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-sae-100r",
+      "name": "SAE 100R"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-iso-1402",
+      "name": "ISO 1402"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-din-2353",
+      "name": "DIN 2353"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-iso-8434",
+      "name": "ISO 8434"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-iso-7241",
+      "name": "ISO 7241"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-iso-16028",
+      "name": "ISO 16028"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-iso-4406",
+      "name": "ISO 4406"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#standard-iso-9001-2015",
+      "name": "ISO 9001:2015"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#webpage",
+      "url": "https://www.wikiai.hu/bipress-kft-bip-flex/",
+      "name": "BIPRESS Kft. / BIP-FLEX – Debrecen",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#primary-image"
+      },
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "datePublished": "2026-09-07T17:03:47+02:00",
+      "dateModified": "2026-09-26T13:24:39+02:00",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#article",
+      "url": "https://www.wikiai.hu/bipress-kft-bip-flex/",
+      "headline": "BIPRESS Kft. / BIP-FLEX – hidraulika tömlőgyártás és fluidumtechnika Debrecenben",
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#brand-bip-flex"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#primary-image"
+      },
+      "inLanguage": "hu-HU",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "datePublished": "2026-09-07T17:03:47+02:00",
+      "dateModified": "2026-09-26T13:24:39+02:00",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://www.bipress.hu/",
+        "https://webshop.bipress.hu/"
+      ],
+      "citation": [
+        "https://www.bipress.hu/",
+        "https://webshop.bipress.hu/",
+        "https://www.google.com/maps?cid=1986537177653491448",
+        "https://www.nemzeticegtar.hu/bipress-kft-c0909002604.html",
+        "https://www.agroinform.hu/partner/adatlap-272083",
+        "https://www.openstreetmap.org/way/995850085"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#faq",
+      "url": "https://www.wikiai.hu/bipress-kft-bip-flex/#faq",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mi a BIPRESS Kft. fő tevékenysége?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Szerelt hidraulika-, ipari- és légféktömlők egyedi és sorozatgyártása, tömlőkonfekcionálás és ipari fluidumtechnikai alkatrészellátás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi a BIP-FLEX?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A BIP-FLEX a BIPRESS Kft. saját márkája."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Történik nyomáspróba a szerelt tömlőkön?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A BIPRESS ISO 1402 szerinti statikus hidrosztatikus nyomáspróbát is végez."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállalnak OEM és sorozatgyártási együttműködést?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Kis-, közepes és nagyszériás gyártás, OEM kiszolgálás és ütemezett beszállítás is része a működésnek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol található a BIPRESS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Debrecenben; a székhely Nyíl utca 16., a nyilvános telephely Nyíl utca 14–16."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor tart nyitva?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hétfőtől péntekig 08:00–16:00."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex.md",
+      "url": "https://www.wikiai.hu/bipress-kft-bip-flex.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – BIPRESS Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/bipress-kft-bip-flex.md",
+      "name": "WikiAI GitHub Markdown mirror – BIPRESS Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/bipress-kft-bip-flex.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – BIPRESS Kft.",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/bipress-kft-bip-flex/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    }
+  ]
+}
