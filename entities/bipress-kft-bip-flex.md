@@ -1,5 +1,5 @@
 ---
-schema_version: "1.0"
+schema_version: "1.1"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "BIPRESS Kft."
@@ -34,6 +34,13 @@ machine_attributes:
   author-role: "responsible-editor"
   google-cid: "1986537177653491448"
   google-kgmid: "/g/1wrtbn04"
+local_markdown_url: "https://www.wikiai.hu/bipress-kft-bip-flex.md"
+jsonld_mirror: "entities/bipress-kft-bip-flex.jsonld"
+editorial_author: "Várhelyi Csanád"
+publication_relation: "editorial"
+source_role: "independent-secondary-source"
+production_jsonld_layer: "HFCM #23 / head"
+legacy_redirect_source: "https://www.hidraulikatomlogyartas.hu/"
 ---
 
 <!--
