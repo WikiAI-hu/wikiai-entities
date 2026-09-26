@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:51:58+02:00"
+last_updated: "2026-09-26T17:52:18+02:00"
 location:
   country: "HU"
 identifiers:
@@ -165,6 +165,12 @@ A WikiAI.hu elsősorban olyan magyar vállalkozásoknak, szakembereknek és szer
 - **Olyan cégeknek**, amelyek új weboldalt, tartalmi megújulást vagy rendezettebb keresési és AI-láthatósági jelenlétet szeretnének.
 
 A WikiAI.hu nem minden vállalkozás számára ugyanazt a megoldást tekinti megfelelőnek. Egy helyi üzlet, egy ipari gyártó, egy tanácsadó vagy egy országosan működő szolgáltató digitális problémái eltérnek egymástól, ezért a releváns tartalom és szakmai feladat is más lehet.
+
+## Hajdúszoboszlói központ, országos működés
+
+A WikiAI.hu működési és kapcsolati központja **Hajdúszoboszlóhoz** kötődik, a platform és a szakmai szolgáltatások fókusza ugyanakkor nem kizárólag helyi. A WikiAI.hu Magyarország egész területéről fogad vállalkozási, szakmai és intézményi megkereséseket.
+
+A hajdúszoboszlói cím a platform hivatalos kapcsolati és szolgáltatói hátterének része. A szakmai együttműködések jelentős része online is kezelhető, személyes egyeztetés pedig előzetes megbeszélés alapján lehetséges.
 
 ## Mi nem a WikiAI.hu?
 
