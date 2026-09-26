@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T07:43:59Z",
+    "last_updated": "2026-09-26T07:44:30Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -192,7 +192,19 @@
             "country": "HU",
             "google_cid": "9575396495972956002",
             "google_kgmid": "/g/11zwm_0nwr",
-            "google_place_id": "ChIJSZ5QSw0ZR0cRYvf8ZWGk4oQ"
+            "google_place_id": "ChIJSZ5QSw0ZR0cRYvf8ZWGk4oQ",
+            "operator_model": "two_individual_entrepreneurs",
+            "operators": [
+                {
+                    "name": "Uhelszky Angéla",
+                    "business_form": "individual_entrepreneur"
+                },
+                {
+                    "name": "Uhelszky Tamás",
+                    "business_form": "individual_entrepreneur"
+                }
+            ],
+            "last_verified": "2026-09-26"
         },
         {
             "entity_name": "Tasca Ponte",
