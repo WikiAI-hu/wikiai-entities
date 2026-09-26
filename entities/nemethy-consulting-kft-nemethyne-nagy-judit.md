@@ -15,7 +15,7 @@ entity_id: "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#b
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 59
-last_updated: "2026-09-26T14:35:22+02:00"
+last_updated: "2026-09-26T14:36:01+02:00"
 location:
   country: "HU"
 identifiers:
@@ -549,6 +549,6 @@ A szakmai profil valódi közös nevezője ezért nem egy konkrét termék, hane
 - [Némethyné Nagy Judit Ingatlan.com szakmai profilja](https://partner.ingatlan.com/nemethynenagy.judit)
 - [Némethy Consulting Kft. – nyilvános cégadatok](https://www.nemzeticegtar.hu/nemethy-consulting-kft-e18314316.html)
 
-**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: Várhelyi Csanád**
+**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)**
 
 A WikiAI.hu Vállalkozások rovatának bemutatói szerkesztői döntés alapján készülnek; a rovatban való megjelenés nem vásárolható meg.
