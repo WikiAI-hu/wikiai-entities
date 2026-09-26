@@ -1,0 +1,835 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.varhelyicsanad.hu/#person",
+        "https://www.linkedin.com/in/varhelyicsanad/",
+        "https://github.com/varhelyicsanad",
+        "https://orcid.org/0009-0006-7599-3731"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#primary-image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/gyemant-ingatlan-salgotarjan-wikiai.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/gyemant-ingatlan-salgotarjan-wikiai.png",
+      "width": 1672,
+      "height": 941,
+      "caption": "Gyémánt Ingatlan – salgótarjáni ingatlaniroda",
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#webpage",
+      "url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/",
+      "name": "Gyémánt Ingatlaniroda – ingatlanközvetítés Salgótarjánon, Nógrád és Heves vármegyében",
+      "description": "A Gyémánt Ingatlaniroda salgótarjáni központtal segíti az ingatlaneladást, ingatlanvásárlást, bérbeadást, összetett ingatlanügyek koordinációját és bankfüggetlen hitelügyintézést Nógrád és Heves vármegyében.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#primary-image"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#article",
+      "url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/",
+      "headline": "Gyémánt Ingatlaniroda – ingatlanközvetítés Salgótarjánon, Nógrád és Heves vármegyében",
+      "name": "Gyémánt Ingatlaniroda – ingatlanközvetítés Salgótarjánon, Nógrád és Heves vármegyében",
+      "description": "A Gyémánt Ingatlaniroda salgótarjáni központtal segíti az ingatlaneladást, ingatlanvásárlást, bérbeadást, összetett ingatlanügyek koordinációját és bankfüggetlen hitelügyintézést Nógrád és Heves vármegyében.",
+      "abstract": "Részletes szerkesztőségi bemutatás a salgótarjáni Gyémánt Ingatlanirodáról, Tahu Sándorné Zsóka szakmai szerepéről, az ingatlanközvetítésről, összetett ingatlanügyekről, finanszírozási koordinációról, Nógrád–Heves működési területről és a tervezett partnerhálózatról.",
+      "inLanguage": "hu-HU",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "datePublished": "2026-09-07T17:04:14+02:00",
+      "dateModified": "2026-09-26",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#real-estate-brokerage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#complex-property-coordination"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#credit-administration"
+        }
+      ],
+      "image": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#primary-image"
+      },
+      "isBasedOn": [
+        "https://gyemantingatlan.net/"
+      ],
+      "citation": [
+        "https://www.google.com/maps?cid=14037451729918334845",
+        "https://iroda.ingatlan.com/tahuzsoka",
+        "https://partner.ingatlan.com/tahusandorne.zsoka/ertekelem",
+        "https://www.zenga.hu/partner-iroda/346857"
+      ],
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#salgotarjan",
+      "name": "Salgótarján"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd",
+      "name": "Nógrád vármegye"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves",
+      "name": "Heves vármegye"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#batonyterenye",
+      "name": "Bátonyterenye"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#paszto",
+      "name": "Pásztó"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szecseny",
+      "name": "Szécsény"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#holloko",
+      "name": "Hollókő"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#balassagyarmat",
+      "name": "Balassagyarmat"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#retsag",
+      "name": "Rétság"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#eger",
+      "name": "Eger"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#gyongyos",
+      "name": "Gyöngyös"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hatvan",
+      "name": "Hatvan"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary",
+      "name": "Magyarország",
+      "identifier": "HU"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#tahu-sandorne-zsoka",
+      "name": "Tahu Sándorné – Zsóka",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "jobTitle": "cégvezető, tulajdonos, okleveles ingatlanközvetítő és hitelügyintéző",
+      "sameAs": [
+        "https://partner.ingatlan.com/tahusandorne.zsoka/ertekelem"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#fekecs-nora",
+      "name": "Fekécs Nóra",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#repas-agnes",
+      "name": "Répás Ágnes",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szabone-juhasz-anna",
+      "name": "Szabóné Juhász Anna",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szellne-tahu-erzsebet",
+      "name": "Széllné Tahu Erzsébet",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szomszedne-tahu-mariann",
+      "name": "Szomszédné Tahu Mariann",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#tahu-gyongyi",
+      "name": "Tahu Gyöngyi",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#tahu-sandor",
+      "name": "Tahu Sándor",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#zagyine-anett",
+      "name": "Zagyiné Anett",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#real-estate-brokerage",
+      "name": "Ingatlanközvetítés",
+      "description": "Ingatlaneladás, ingatlanvásárlás, bérbeadás és az ingatlanügylet folyamatának koordinációja.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#property-sale-support",
+      "name": "Ingatlaneladási támogatás",
+      "description": "Piaci pozicionálás, ingatlanbemutatás, érdeklődőkezelés, megtekintés, ajánlat és adásvétel előkészítésének támogatása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#property-purchase-support",
+      "name": "Ingatlanvásárlási támogatás",
+      "description": "Igényfelmérés, ingatlankeresés, megtekintések, ajánlat, dokumentáció és finanszírozás összehangolása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#rental-support",
+      "name": "Bérbeadási és bérleti közvetítés",
+      "description": "Bérbeadók és bérlők közötti közvetítés, megtekintések és átadási folyamat támogatása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#complex-property-coordination",
+      "name": "Összetett ingatlanügyek koordinációja",
+      "description": "Hagyaték, közös tulajdon, haszonélvezet, terhek, végrehajtás, hiányos dokumentáció és más összetett helyzetek folyamatkoordinációja.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#credit-administration",
+      "name": "Bankfüggetlen hitelügyintézési támogatás",
+      "description": "Pénzügyi partnerrel végzett finanszírozási igényfelmérés, dokumentáció és banki folyamat koordinációja; a hiteldöntést a pénzügyi intézmény hozza meg.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#investment-project-support",
+      "name": "Befektetési és projektingatlan támogatás",
+      "description": "Befektetési, kereskedelmi, ipari, fejlesztési és több ingatlant érintő lehetőségek közvetítési és koordinációs támogatása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#partner-network-development",
+      "name": "Tervezett Gyémánt partner- és franchise-hálózat",
+      "description": "Fejlesztés alatt álló partnerhálózati koncepció helyi irodákkal, közvetítőkkel, ajánlói, specialista és projektpartnerekkel.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "státusz",
+          "value": "tervezett / fejlesztés alatt"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#service-catalog",
+      "name": "Gyémánt Ingatlaniroda szolgáltatásai",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#real-estate-brokerage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#property-sale-support"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#property-purchase-support"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#rental-support"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#complex-property-coordination"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#credit-administration"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#investment-project-support"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#partner-network-development"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "RealEstateAgent",
+        "ProfessionalService",
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business",
+      "name": "Gyémánt Ingatlaniroda",
+      "alternateName": [
+        "Gyémánt Ingatlan és Hitel Iroda",
+        "Országos Gyémánt Ingatlan és Hiteliroda"
+      ],
+      "url": "https://gyemantingatlan.net/",
+      "description": "Salgótarjáni ingatlanközvetítő iroda, amely ingatlaneladást, ingatlanvásárlást, bérbeadást, összetett ingatlanügyek koordinációját, befektetési és projektingatlanok közvetítését, valamint pénzügyi partnerrel bankfüggetlen hitelügyintézési támogatást végez elsősorban Nógrád és Heves vármegyében.",
+      "image": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#primary-image"
+      },
+      "telephone": "+36 20 357 7840",
+      "email": "tahu.zsoka@gyemantingatlan.net",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Klapka György tér 3. I/1.",
+        "postalCode": "3100",
+        "addressLocality": "Salgótarján",
+        "addressRegion": "Nógrád vármegye",
+        "addressCountry": "HU"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "taxNumber",
+          "value": "68048633-1-32"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "14037451729918334845"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJyzSgMjITQEcRfZd5ifkLz8I"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Knowledge Graph MID",
+          "value": "/g/11l329b6sf"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/maps?cid=14037451729918334845",
+        "https://www.facebook.com/p/Gy%C3%A9m%C3%A1ntingatlan-Salg%C3%B3tarj%C3%A1n-Ingatlan-Iroda-100084547878693/",
+        "https://iroda.ingatlan.com/tahuzsoka",
+        "https://www.zenga.hu/partner-iroda/346857"
+      ],
+      "employee": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#tahu-sandorne-zsoka"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#fekecs-nora"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#repas-agnes"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szabone-juhasz-anna"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szellne-tahu-erzsebet"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szomszedne-tahu-mariann"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#tahu-gyongyi"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#tahu-sandor"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#zagyine-anett"
+        }
+      ],
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#salgotarjan"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#nograd"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#heves"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#batonyterenye"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#paszto"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#szecseny"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#holloko"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#balassagyarmat"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#retsag"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#gyongyos"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hatvan"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#hungary"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#service-catalog"
+      },
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#github-jsonld-mirror"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#faq",
+      "url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#gyemant-gyik",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol működik a Gyémánt Ingatlaniroda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A központi iroda Salgótarjánon található. A fő működési térség Nógrád és Heves vármegye, más magyarországi helyszín pedig egyedi egyeztetéssel kerülhet szóba."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ki vezeti a Gyémánt Ingatlanirodát?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tahu Sándorné – Zsóka a cégvezető és tulajdonos. Ingatlanközvetítéssel 2013 óta foglalkozik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen ingatlanok értékesítésében tudnak segíteni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lakóingatlanok mellett kereskedelmi és ipari ingatlanok, telkek, fejlesztési területek, mezőgazdasági és külterületi ingatlanok, illetve befektetési célú ingatlanok is szóba kerülhetnek. A vállalhatóságot mindig az adott ingatlan alapján kell egyeztetni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Segítenek ingatlanvásárlásnál is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A támogatás az igények tisztázásától és az ingatlankereséstől a megtekintések, ajánlattétel, tárgyalás és finanszírozás összehangolásáig terjedhet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Foglalkoznak bérbeadással?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, a szolgáltatási kör a bérbeadáshoz és bérleti ingatlanokhoz kapcsolódó közvetítési és koordinációs feladatokat is érintheti."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi történik, ha az ingatlan örökölt vagy több tulajdonosa van?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az ilyen ügyeknél először a tulajdoni és jogi helyzetet kell tisztázni. A Gyémánt segíthet a folyamat szervezésében és a megfelelő szakemberek bevonásában, de a jogi döntéseket ügyvéd vagy az illetékes hatóság hozza meg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Végrehajtással vagy hitellel terhelt ingatlan is eladható?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bizonyos esetekben igen, de a konkrét teher, a jogosultak és a tehermentesítés módja határozza meg a lehetőségeket. Ilyenkor különösen fontos az ügyvédi és pénzügyi egyeztetés."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van bankfüggetlen hitelügyintézés?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, pénzügyi partner közreműködésével finanszírozási ügyintézés is kapcsolódhat a szolgáltatáshoz. A végleges hiteldöntést minden esetben a pénzügyi intézmény hozza meg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Más irodánál vagy magánszemélynél talált ingatlan finanszírozásában is kérhető segítség?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A finanszírozási ügyintézés nem feltétlenül csak a Gyémánt saját kínálatából kiválasztott ingatlanhoz kapcsolódhat; a konkrét lehetőséget és feltételeket előzetesen kell egyeztetni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Foglalkoznak befektetési ingatlanokkal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Lakó-, kereskedelmi, ipari, fejlesztési vagy más befektetési célú ingatlanok és projektlehetőségek közvetítése is része lehet a tevékenységnek. A befektetési eredmény azonban nem garantálható."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi a tervezett Gyémánt partnerhálózat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Egy fejlesztés alatt álló együttműködési modell, amelyben helyi irodák, közvetítők, ajánlói vagy specialisták közös szakmai rendszer és márka mellett működhetnek. A részletes feltételek nem tekinthetők végleges országos franchise-ajánlatnak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Valóban nincs franchise-belépési díj?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi koncepcióban szerepel belépési díj nélküli modell, de ez nem jelent költségmentes működést vagy garantált csatlakozást. Minden pénzügyi, működési, márkahasználati és területi feltételt írásban kell rendezni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol nézhetők meg az aktuális ingatlanhirdetések?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az aktuális kínálat elsődlegesen a Gyémánt Ingatlaniroda hivatalos weboldalán, valamint az iroda aktuális Ingatlan.com és Zenga profiljain érhető el."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan.md",
+      "url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Gyémánt Ingatlaniroda",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/gyemant-ingatlaniroda-salgotarjan.md",
+      "name": "WikiAI GitHub Markdown mirror – Gyémánt Ingatlaniroda",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/gyemant-ingatlaniroda-salgotarjan.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – Gyémánt Ingatlaniroda",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#source-index",
+      "name": "Gyémánt Ingatlaniroda – nyilvános forrásindex",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Gyémánt Ingatlaniroda hivatalos weboldala",
+          "url": "https://gyemantingatlan.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Google Maps / Google Cégprofil",
+          "url": "https://www.google.com/maps?cid=14037451729918334845"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gyémánt Ingatlaniroda – Ingatlan.com irodaoldal",
+          "url": "https://iroda.ingatlan.com/tahuzsoka"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Tahu Sándorné Zsóka – Ingatlan.com partnerprofil",
+          "url": "https://partner.ingatlan.com/tahusandorne.zsoka/ertekelem"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Gyémánt Ingatlaniroda – Zenga irodaoldal",
+          "url": "https://www.zenga.hu/partner-iroda/346857"
+        }
+      ]
+    }
+  ]
+}
