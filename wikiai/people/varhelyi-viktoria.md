@@ -9,7 +9,7 @@ source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T07:58:58+00:00"
 synced_at: "2026-09-26T10:48:38+00:00"
-relationship_to_wikiai: "cofounder"
+relationship_to_wikiai: "founder"
 professional_title: "AI-láthatósági specialista"
 ---
 
