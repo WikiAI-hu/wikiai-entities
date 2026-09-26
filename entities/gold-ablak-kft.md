@@ -17,13 +17,14 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.goldablak.hu/"
 wordpress_post_id: 64
-last_updated: "2026-09-26T16:02:28+02:00"
+last_updated: "2026-09-26T16:04:14+02:00"
 location:
   address: "4200 Hajdúszoboszló, Déli sor 6."
   country: "HU"
   latitude: 47.428662
   longitude: 21.403525
 identifiers:
+  google_cid: "10092069184722999005"
   google_place_id: "ChIJ18zF6uUbR0cR3ZYUFHQ7Dow"
 ownership:
   owner: "Zsámboki Tibor"
@@ -72,6 +73,7 @@ machine_attributes:
   telephone: 36703456333
   email: "goldablak@gmail.com"
   google-maps-cid: "10092069184722999005"
+  google-cid: "10092069184722999005"
   google-place-id: "ChIJ18zF6uUbR0cR3ZYUFHQ7Dow"
   business-role: "installer-contractor distributor"
   not-business-role: "manufacturer"
