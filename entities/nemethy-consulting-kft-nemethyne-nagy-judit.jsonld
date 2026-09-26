@@ -1,0 +1,2409 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#primary-image",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/nconsulting.hu_.webp",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/nconsulting.hu_.webp",
+      "width": 1200,
+      "height": 675,
+      "caption": "Némethy Consulting Kft. – pénzügyi, hitel-, biztosítási és ingatlanhoz kapcsolódó szakmai szolgáltatások"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "description": "A WikiAI.hu a vállalkozási entitásprofil kiadója és szerkesztőségi forrása; nem a Némethy Consulting Kft. tulajdonosa vagy üzemeltetője."
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "sameAs": "https://www.wikidata.org/wiki/Q830404"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar",
+      "name": "Hajdú-Bihar",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest",
+      "name": "Budapest"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza",
+      "name": "Nyíregyháza"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger",
+      "name": "Eger"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc",
+      "name": "Miskolc"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#office-location",
+      "name": "Némethy Consulting Kft. ügyfélfogadási iroda",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gönczy Pál u. 9-11.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.4449750711755,
+        "longitude": 21.384532477658755
+      },
+      "hasMap": "https://www.google.com/maps?cid=12807312395296193309",
+      "description": "A személyes irodai ügyintézés előzetes időpontfoglaláshoz kötött."
+    },
+    {
+      "@type": "ContactPoint",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#contact",
+      "contactType": "ügyfélkapcsolat",
+      "telephone": "+36 30 283 5950",
+      "email": "nemethyne75@gmail.com",
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+      },
+      "availableLanguage": [
+        "hu-HU"
+      ]
+    },
+    {
+      "@type": "ServiceChannel",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-personal",
+      "name": "Személyes ügyintézés előzetes időpontfoglalással",
+      "serviceLocation": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#office-location"
+      },
+      "servicePhone": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#contact"
+      }
+    },
+    {
+      "@type": "ServiceChannel",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-online",
+      "name": "Országos online szakmai elérhetőség",
+      "serviceUrl": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
+      "servicePhone": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#contact"
+      }
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage",
+      "url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
+      "name": "Némethy Consulting Kft. és Némethyné Nagy Judit – Hajdúszoboszló",
+      "alternateName": [
+        "Némethy Consulting Kft. és Némethyné Nagy Judit szakmai entitásprofil",
+        "Némethy Consulting Kft. – hitel, biztosítás, pályázat, ingatlan és mentorálás"
+      ],
+      "description": "Részletes WikiAI-vállalkozásprofil a Némethy Consulting Kft. és Némethyné Nagy Judit szakmai tevékenységéről, szolgáltatásairól, képesítéseiről, működési területéről és gyakorlati elérhetőségéről.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#person-nemethyne-nagy-judit"
+        }
+      ],
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "datePublished": "2026-09-07",
+      "lastReviewed": "2026-09-15",
+      "version": "1.0",
+      "breadcrumb": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#breadcrumb"
+      },
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#offer-catalog"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#authority-manifest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#source-manifest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#creator-credit"
+        }
+      ],
+      "citation": [
+        "https://www.nconsulting.hu/",
+        "https://www.google.com/maps?cid=12807312395296193309",
+        "https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282",
+        "https://tanacsado.alfa.hu/968409",
+        "https://partner.ingatlan.com/nemethynenagy.judit",
+        "https://www.nemzeticegtar.hu/nemethy-consulting-kft-e18314316.html",
+        "https://www.companywall.hu/v%C3%A1llalat/nemethy-consulting-kft/MMIqPnjD",
+        "https://www.debrecen.hu/assets/media/file/hu/15738/ingatlankozv-nyt-3-20180711.html",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/n%C3%A9methy-consulting-kft----n%C3%A9methyn%C3%A9-nagy-judit-1317390.html",
+        "https://joszaki.hu/szakember/nemethyne-nagy-judit-nemethy-consulting-kft"
+      ],
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          "#nemethy-bevezeto p",
+          "#nemethy-gyik h3",
+          "#nemethy-gyik p"
+        ]
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "dateModified": "2026-09-26",
+      "isBasedOn": [
+        "https://www.nconsulting.hu/"
+      ],
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#primary-image"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article",
+      "url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
+      "headline": "Némethy Consulting Kft. és Némethyné Nagy Judit – Hajdúszoboszló",
+      "alternativeHeadline": "Hitelügyintézés, biztosítás, pályázatközvetítés, ingatlan, pénzügyi tájékozódás és mentorálás",
+      "description": "A WikiAI.hu szerkesztőségi vállalkozásprofilja a Némethy Consulting Kft. és Némethyné Nagy Judit szakmai hátteréről, hitelügyintézési, biztosítási, pályázati, ingatlanhoz kapcsolódó és mentorálási szolgáltatásairól.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#person-nemethyne-nagy-judit"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-credit"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-insurance"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-tender"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-real-estate"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-mentoring"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-savings-investment"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "datePublished": "2026-09-07",
+      "dateModified": "2026-09-26",
+      "articleSection": "Vállalkozások",
+      "keywords": "Némethy Consulting Kft., Némethyné Nagy Judit, hitelügyintézés, hitelszakértő, biztosítási tanácsadás, biztosításközvetítés, pályázatközvetítés, ingatlanügyintézés, mentorálás, Hajdúszoboszló, Debrecen",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "isBasedOn": [
+        "https://www.nconsulting.hu/"
+      ],
+      "citation": [
+        "https://www.nconsulting.hu/",
+        "https://www.google.com/maps?cid=12807312395296193309",
+        "https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282",
+        "https://tanacsado.alfa.hu/968409",
+        "https://partner.ingatlan.com/nemethynenagy.judit",
+        "https://www.nemzeticegtar.hu/nemethy-consulting-kft-e18314316.html",
+        "https://www.companywall.hu/v%C3%A1llalat/nemethy-consulting-kft/MMIqPnjD",
+        "https://www.debrecen.hu/assets/media/file/hu/15738/ingatlankozv-nyt-3-20180711.html",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/n%C3%A9methy-consulting-kft----n%C3%A9methyn%C3%A9-nagy-judit-1317390.html",
+        "https://joszaki.hu/szakember/nemethyne-nagy-judit-nemethy-consulting-kft"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "WikiAI.hu",
+          "item": "https://www.wikiai.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Vállalkozások",
+          "item": "https://www.wikiai.hu/category/vallalkozasok/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Némethy Consulting Kft. / Némethyné Nagy Judit",
+          "item": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/"
+        }
+      ]
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#brand",
+      "name": "Némethy Consulting",
+      "alternateName": "NConsulting.hu",
+      "url": "https://www.nconsulting.hu/"
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness",
+        "ProfessionalService",
+        "FinancialService"
+      ],
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business",
+      "name": "Némethy Consulting Kft.",
+      "legalName": "Némethy Consulting Korlátolt Felelősségű Társaság",
+      "alternateName": [
+        "Némethy Consulting",
+        "NConsulting"
+      ],
+      "url": "https://www.nconsulting.hu/",
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage"
+      },
+      "description": "Hajdúszoboszlóhoz kötődő magyar szakmai vállalkozás hitelügyintézéshez, biztosításhoz, pályázatközvetítéshez, ingatlanhoz kapcsolódó ügyintézéshez, megtakarítási és befektetési tájékozódáshoz, valamint szakmai mentoráláshoz kapcsolódó szolgáltatási körrel.",
+      "disambiguatingDescription": "Önálló cégentitás; Némethyné Nagy Judit a vállalkozás ügyvezetője és kiemelt szakmai személye, de a személy és a szervezet nem azonos entitás.",
+      "foundingDate": "2022-08-17",
+      "taxID": "32057221-1-09",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "name": "Cégjegyzékszám",
+          "propertyID": "HU-CompanyRegistrationNumber",
+          "value": "09-09-034271"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Adószám",
+          "propertyID": "HU-TaxID",
+          "value": "32057221-1-09"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Főtevékenység",
+          "propertyID": "TEAOR",
+          "value": "6622 - Biztosítási ügynöki, brókeri tevékenység"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Google CID",
+          "propertyID": "GoogleCID",
+          "value": "12807312395296193309"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Google Knowledge Graph MID",
+          "propertyID": "GoogleKGMID",
+          "value": "/g/11z8rpfmj2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Google Place ID",
+          "propertyID": "GooglePlaceID",
+          "value": "ChIJkb0XcSYZR0cRHTsWecS2vLE"
+        }
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Szik utca 15.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "location": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#office-location"
+      },
+      "hasMap": "https://www.google.com/maps?cid=12807312395296193309",
+      "telephone": "+36 30 283 5950",
+      "email": "nemethyne75@gmail.com",
+      "contactPoint": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#contact"
+      },
+      "employee": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#person-nemethyne-nagy-judit"
+      },
+      "brand": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#brand"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#offer-catalog"
+      },
+      "sameAs": [
+        "https://www.google.com/maps?cid=12807312395296193309"
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#github-jsonld-mirror"
+        }
+      ],
+      "image": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#primary-image"
+      },
+      "logo": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#primary-image"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#person-nemethyne-nagy-judit",
+      "name": "Némethyné Nagy Judit",
+      "givenName": "Judit",
+      "familyName": "Némethyné Nagy",
+      "alternateName": [
+        "Némethyné Nagy Judit",
+        "Judit Némethyné Nagy"
+      ],
+      "url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
+      "jobTitle": [
+        "pénzügyi tanácsadó",
+        "hitelszakértő",
+        "hitelügyintéző",
+        "okleveles ingatlanközvetítő",
+        "Alfa értékesítési partner"
+      ],
+      "description": "A Némethy Consulting Kft. ügyvezetője és kiemelt szakmai személye, aki hitelügyintézéshez, biztosításhoz, ingatlanhoz kapcsolódó ügyintézéshez, pályázatközvetítéshez, pénzügyi tájékozódáshoz és mentoráláshoz kapcsolódó szakmai segítséget nyújt.",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "affiliation": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "telephone": "+36 30 283 5950",
+      "email": "nemethyne75@gmail.com",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "name": "MNB regisztrációs szám",
+          "propertyID": "MNBRegistrationNumber",
+          "value": "32057221"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Money.hu tagság kezdete",
+          "propertyID": "MoneyHuMembershipStartDate",
+          "value": "2023-01-01"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingatlanközvetítői nyilvántartási azonosító",
+          "propertyID": "RealEstateIntermediaryRegistryIdentifier",
+          "value": "177-IK/2019"
+        }
+      ],
+      "hasCredential": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-insurance-intermediary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-real-estate-agent"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-capital-market-dealer"
+        }
+      ],
+      "knowsAbout": [
+        "hitelügyintézés",
+        "bankfüggetlen hitelügyintézés",
+        "jelzáloghitel",
+        "lakáshitel",
+        "Otthon Start",
+        "CSOK Plusz",
+        "személyi kölcsön",
+        "vállalkozói hitelügyintézés",
+        "biztosítási tanácsadás",
+        "biztosításközvetítés",
+        "életbiztosítás",
+        "balesetbiztosítás",
+        "nyugdíjbiztosítás",
+        "KGFB",
+        "CASCO",
+        "ingatlan-adásvételi ügyintézés",
+        "pályázatközvetítés",
+        "megtakarítási és befektetési tájékozódás",
+        "szakmai mentorálás hitel és biztosítás területén"
+      ],
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "sameAs": [
+        "https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282",
+        "https://tanacsado.alfa.hu/968409",
+        "https://partner.ingatlan.com/nemethynenagy.judit",
+        "https://www.linkedin.com/in/nemethyne-nagy-judit/",
+        "https://www.facebook.com/nemethy.consulting.75"
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage"
+        },
+        "https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282",
+        "https://partner.ingatlan.com/nemethynenagy.judit",
+        "https://www.debrecen.hu/assets/media/file/hu/15738/ingatlankozv-nyt-3-20180711.html"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#psza",
+      "name": "Pénzügyi Szervezetek Állami Felügyelete",
+      "sameAs": "https://www.wikidata.org/wiki/Q1243064"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#mnb",
+      "name": "Magyar Nemzeti Bank",
+      "sameAs": "https://www.wikidata.org/wiki/Q774636"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-insurance-intermediary",
+      "name": "Függő biztosításközvetítői hatósági vizsga",
+      "credentialCategory": "hatósági vizsga",
+      "dateCreated": "2010-12-13",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "Tanúsítvány száma",
+        "propertyID": "CertificateNumber",
+        "value": "00019894"
+      },
+      "recognizedBy": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#psza"
+      },
+      "about": [
+        "biztosításközvetítés",
+        "biztosítási tanácsadás",
+        "életbiztosítás",
+        "balesetbiztosítás",
+        "nyugdíjbiztosítás",
+        "KGFB",
+        "CASCO"
+      ]
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-real-estate-agent",
+      "name": "Ingatlanközvetítő képesítés",
+      "credentialCategory": "szakmai képesítés",
+      "dateCreated": "2019-03-12",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "name": "Szakmai képesítés azonosító",
+          "propertyID": "ProfessionalQualificationIdentifier",
+          "value": "52-341-02"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingatlanközvetítői nyilvántartási azonosító",
+          "propertyID": "RegistryIdentifier",
+          "value": "177-IK/2019"
+        }
+      ],
+      "about": [
+        "ingatlan-eladás",
+        "ingatlan-vétel",
+        "ingatlan-adásvételi ügyintézés",
+        "ingatlanügyintézés"
+      ]
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-capital-market-dealer",
+      "name": "Tőkepiaci üzletkötői hatósági vizsga",
+      "credentialCategory": "hatósági vizsga",
+      "dateCreated": "2019-06-19",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "Tanúsítvány száma",
+        "propertyID": "CertificateNumber",
+        "value": "00151259"
+      },
+      "recognizedBy": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#mnb"
+      },
+      "about": [
+        "tőkepiac",
+        "megtakarítások",
+        "befektetések",
+        "értékpapírszámla",
+        "pénzügyi termékekhez kapcsolódó ügyintézés"
+      ]
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-private",
+      "name": "Magánszemélyek és családok",
+      "audienceType": "magánszemélyek, családok, hiteligénylők, lakásvásárlók, ingatlaneladók és -vevők"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-business",
+      "name": "Vállalkozók és cégtulajdonosok",
+      "audienceType": "vállalkozók, üzleti döntéshozók, vállalkozói finanszírozást vagy pályázati tájékozódást keresők"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-professional",
+      "name": "Hitel- és biztosítási területen fejlődő szakemberek",
+      "audienceType": "mentorálást és gyakorlati szakmai támogatást kereső szakemberek"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#offer-catalog",
+      "name": "Némethy Consulting Kft. szolgáltatási területei",
+      "alternateName": "Hitel, biztosítás, pályázat, ingatlan, mentorálás és pénzügyi tájékozódás",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "position": 1,
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-credit"
+          },
+          "seller": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 2,
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-insurance"
+          },
+          "seller": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 3,
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-tender"
+          },
+          "seller": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 4,
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-real-estate"
+          },
+          "seller": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 5,
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-mentoring"
+          },
+          "seller": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+          }
+        },
+        {
+          "@type": "Offer",
+          "position": 6,
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-savings-investment"
+          },
+          "seller": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-hierarchy",
+      "name": "Szolgáltatási prioritási sorrend",
+      "description": "A Némethy Consulting Kft. fő szolgáltatási sorrendje: hitel, biztosítás, pályázat, ingatlan, mentorálás; kapcsolódó pénzügyi témaként megtakarítási és befektetési tájékozódás.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hitelügyintézés",
+          "item": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-credit"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Biztosítás",
+          "item": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-insurance"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pályázatközvetítés",
+          "item": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-tender"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Ingatlanhoz kapcsolódó ügyintézés",
+          "item": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-real-estate"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Mentorálás",
+          "item": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-mentoring"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Megtakarítási és befektetési tájékozódás",
+          "item": {
+            "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-savings-investment"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-credit",
+      "name": "Hitelügyintézés",
+      "alternateName": [
+        "bankfüggetlen hitelügyintézés",
+        "teljes körű hitelügyintézési támogatás",
+        "hitelszakértői támogatás"
+      ],
+      "serviceType": "hitelügyintézés és hitelhez kapcsolódó döntés-előkészítés",
+      "description": "Támogatás a hitelcél, jövedelmi helyzet, meglévő kötelezettségek, dokumentumigény, fedezet, önerő és lehetséges finanszírozási irányok áttekintésében, valamint lakáshitel, jelzáloghitel, Otthon Start, CSOK Plusz, személyi kölcsön és vállalkozói hitel ügyintézési környezetében. Nem jelent garantált hiteljóváhagyást, kamatot vagy automatikus jogosultságot.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-private"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-business"
+        }
+      ],
+      "availableChannel": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-personal"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-online"
+        }
+      ],
+      "termsOfService": "A végső hitelbírálatot és szerződéses feltételeket az érintett pénzügyi intézmény határozza meg."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-insurance",
+      "name": "Biztosítási tanácsadás és közvetítési támogatás",
+      "alternateName": [
+        "biztosítási tanácsadás",
+        "biztosításközvetítés"
+      ],
+      "serviceType": "biztosítási tájékozódás és közvetítés",
+      "description": "Életbiztosítás, balesetbiztosítás, nyugdíjbiztosítás, KGFB és CASCO témájában nyújtott szakmai orientáció, amely a kockázat, fedezet, díj, kizárások és szerződéses feltételek értelmezését támogatja. A Némethy Consulting Kft. nem biztosító, és nem garantál biztosítási elfogadást vagy káreseményhez kapcsolódó eredményt.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-private"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-business"
+        }
+      ],
+      "availableChannel": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-personal"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-online"
+        }
+      ],
+      "termsOfService": "A biztosítási kockázatvállalásról és szerződéses feltételekről az érintett biztosító dönt."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-tender",
+      "name": "Pályázatközvetítés és előzetes pályázati tájékozódás",
+      "serviceType": "lakossági és vállalkozói pályázatok közvetítése",
+      "description": "Lakossági és vállalkozói pályázati lehetőségek előzetes áttekintése, a felhívás, jogosultság, határidő, támogatási cél, dokumentáció és beadási feltételek értelmezésének támogatása. Nem jelent garantált pályázati sikert, automatikus jogosultságot vagy támogatási döntést.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-private"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-business"
+        }
+      ],
+      "availableChannel": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-personal"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-online"
+        }
+      ],
+      "termsOfService": "A támogatási döntést az illetékes pályázati vagy hatósági döntéshozó rendszer hozza meg."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-real-estate",
+      "name": "Ingatlanhoz kapcsolódó ügyintézési segítség",
+      "alternateName": [
+        "ingatlan-eladás támogatása",
+        "ingatlan-vétel támogatása",
+        "ingatlan-adásvételi ügyintézés"
+      ],
+      "serviceType": "ingatlantranzakcióhoz kapcsolódó ügyintézési és koordinációs támogatás",
+      "description": "Ingatlan eladásához és vásárlásához kapcsolódó adminisztratív, finanszírozási és szakmai koordinációs segítség, beleértve az ügyvédi és energetikai szakmai szerepek megfelelő elkülönítését. A szolgáltatás nem jogi képviselet és nem energetikai tanúsítvány kiállítása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "audience": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-private"
+      },
+      "availableChannel": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-personal"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-online"
+        }
+      ],
+      "termsOfService": "A jogi szolgáltatást arra jogosult ügyvéd, az energetikai tanúsítást arra jogosult szakember végzi."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-mentoring",
+      "name": "Szakmai mentorálás hitel és biztosítás területén",
+      "serviceType": "gyakorlati szakmai mentorálás",
+      "description": "Gyakorlati támogatás ügyfélhelyzetek, folyamatok, szakmai kommunikáció, termékértés és döntési pontok jobb megértéséhez hitel- és biztosítási környezetben. Nem hatósági képzés, nem vizsga és nem hivatalos képesítés megszerzésére szolgáló program.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "audience": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-professional"
+      },
+      "availableChannel": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-personal"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-online"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-savings-investment",
+      "name": "Megtakarítási és befektetési tájékozódás",
+      "serviceType": "pénzügyi orientáció megtakarítási, befektetési és értékpapírszámla-témákban",
+      "description": "Pénzügyi célhoz, időtávhoz, kockázathoz, tartalékképzéshez, megtakarításhoz, befektetési témákhoz és értékpapírszámla-környezethez kapcsolódó előzetes tájékozódás. Nem jelent garantált hozamot, garantált profitot, adótanácsadást vagy külön engedélyköteles személyre szabott befektetési szolgáltatás állítását.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-budapest"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-eger"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#place-hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-private"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#audience-business"
+        }
+      ],
+      "availableChannel": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-personal"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#channel-online"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#service-boundaries",
+      "name": "Szakmai és felelősségi határok",
+      "description": "A Némethy Consulting Kft. és Némethyné Nagy Judit szolgáltatásait az intézményi döntéshozatal és más szabályozott szakmai szerepek világos elkülönítésével kell értelmezni.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Nem bank és nem hitelintézet"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Nem biztosítótársaság"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Nem pályázati vagy támogatási döntéshozó szerv"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nem ügyvédi iroda és nem jogi képviselő"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Nem energetikai tanúsítvány kiállítója"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Nem ígér garantált hiteljóváhagyást vagy garantált kamatot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Nem ígér garantált pályázati sikert vagy automatikus jogosultságot"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Nem ígér garantált befektetési hozamot vagy profitot"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#authority-manifest",
+      "name": "Némethyné Nagy Judit szakmai bizalmi és képesítési háttér",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#person-nemethyne-nagy-judit"
+      },
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-insurance-intermediary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-real-estate-agent"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#credential-capital-market-dealer"
+        }
+      ],
+      "citation": [
+        "https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282",
+        "https://tanacsado.alfa.hu/968409",
+        "https://partner.ingatlan.com/nemethynenagy.judit",
+        "https://www.debrecen.hu/assets/media/file/hu/15738/ingatlankozv-nyt-3-20180711.html"
+      ],
+      "description": "Forrásalapú szakmai bizalmi réteg a biztosításközvetítői hatósági vizsgáról, ingatlanközvetítői képesítésről, tőkepiaci üzletkötői hatósági vizsgáról, MNB-regisztrációról és nyilvános szakmai profilokról."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.nconsulting.hu/#website",
+      "url": "https://www.nconsulting.hu/",
+      "name": "NConsulting.hu",
+      "about": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "description": "A Némethy Consulting Kft.-hez kapcsolódó szakmai webes jelenlét."
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#source-manifest",
+      "name": "Némethy Consulting Kft. és Némethyné Nagy Judit – forrás- és ellenőrzési réteg",
+      "inLanguage": "hu-HU",
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#person-nemethyne-nagy-judit"
+        }
+      ],
+      "isBasedOn": [
+        "https://www.nconsulting.hu/"
+      ],
+      "citation": [
+        "https://www.nconsulting.hu/",
+        "https://www.google.com/maps?cid=12807312395296193309",
+        "https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282",
+        "https://tanacsado.alfa.hu/968409",
+        "https://partner.ingatlan.com/nemethynenagy.judit",
+        "https://www.nemzeticegtar.hu/nemethy-consulting-kft-e18314316.html",
+        "https://www.companywall.hu/v%C3%A1llalat/nemethy-consulting-kft/MMIqPnjD",
+        "https://www.debrecen.hu/assets/media/file/hu/15738/ingatlankozv-nyt-3-20180711.html",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/n%C3%A9methy-consulting-kft----n%C3%A9methyn%C3%A9-nagy-judit-1317390.html",
+        "https://joszaki.hu/szakember/nemethyne-nagy-judit-nemethy-consulting-kft"
+      ],
+      "description": "Az entitásprofil elsődlegesen a vállalkozás korábbi saját forrásrendszerére és ellenőrizhető külső szakmai, cég- és helyazonosító forrásokra épül. A források nem értelmezhetők eredménygaranciaként."
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#public-reference-index",
+      "name": "Nyilvános ellenőrzési és szakmai források",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Korábbi kanonikus entitásoldal"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Korábbi machine-readable hub"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NConsulting.hu",
+          "url": "https://www.nconsulting.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Google Cégprofil / Maps",
+          "url": "https://www.google.com/maps?cid=12807312395296193309"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Money.hu hitelszakértői profil",
+          "url": "https://www.money.hu/hitelszakerto/nemethyne-nagy-judit-1282"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Alfa tanácsadói profil",
+          "url": "https://tanacsado.alfa.hu/968409"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Ingatlan.com szakmai profil",
+          "url": "https://partner.ingatlan.com/nemethynenagy.judit"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Nemzeti Cégtár",
+          "url": "https://www.nemzeticegtar.hu/nemethy-consulting-kft-e18314316.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "CompanyWall cégprofil",
+          "url": "https://www.companywall.hu/v%C3%A1llalat/nemethy-consulting-kft/MMIqPnjD"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Debrecen ingatlanközvetítői nyilvántartás",
+          "url": "https://www.debrecen.hu/assets/media/file/hu/15738/ingatlankozv-nyt-3-20180711.html"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "description": "A WikiAI.hu üzleti entitásprofiljának szerkesztője és strukturálója."
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#creator-credit",
+      "name": "WikiAI entitásprofil szerkesztői és strukturálási kredit",
+      "about": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu szerkesztőségi és gépi struktúrájának kialakításához kapcsolódó kredit; nem jelent tulajdonosi vagy ügyvezetői szerepet a Némethy Consulting Kft.-ben."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q683476",
+      "name": "pénzügyi tanácsadó",
+      "termCode": "Q683476",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q683476"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q837171",
+      "name": "pénzügyi szolgáltatások",
+      "termCode": "Q837171",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q837171"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q2029911",
+      "name": "szakmai szolgáltatás",
+      "termCode": "Q2029911",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q2029911"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q189539",
+      "name": "hitel",
+      "termCode": "Q189539",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q189539"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q6663463",
+      "name": "hitelügyintéző",
+      "termCode": "Q6663463",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q6663463"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1278442",
+      "name": "jelzáloghitel-közvetítő",
+      "termCode": "Q1278442",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q1278442"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1210094",
+      "name": "jelzáloghitel",
+      "termCode": "Q1210094",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q1210094"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q4385034",
+      "name": "személyi kölcsön",
+      "termCode": "Q4385034",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q4385034"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q20899319",
+      "name": "vállalkozói hitel",
+      "termCode": "Q20899319",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q20899319"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q12304053",
+      "name": "lakáshitel",
+      "termCode": "Q12304053",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q12304053"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q43183",
+      "name": "biztosítás",
+      "termCode": "Q43183",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q43183"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q285759",
+      "name": "biztosítási alkusz / broker",
+      "termCode": "Q285759",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q285759"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q6017508",
+      "name": "független biztosítási ügynök",
+      "termCode": "Q6017508",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q6017508"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q626608",
+      "name": "életbiztosítás",
+      "termCode": "Q626608",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q626608"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q2493211",
+      "name": "balesetbiztosítás",
+      "termCode": "Q2493211",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q2493211"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q93474661",
+      "name": "nyugdíjbiztosítás",
+      "termCode": "Q93474661",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q93474661"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1068361",
+      "name": "gépjármű-biztosítás",
+      "termCode": "Q1068361",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q1068361"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q749311",
+      "name": "pályázat / tender",
+      "termCode": "Q749311",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q749311"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q684740",
+      "name": "ingatlan",
+      "termCode": "Q684740",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q684740"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q519076",
+      "name": "ingatlanközvetítő",
+      "termCode": "Q519076",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q519076"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q3412758",
+      "name": "szakmai képesítés",
+      "termCode": "Q3412758",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q3412758"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q196756",
+      "name": "tanúsítvány",
+      "termCode": "Q196756",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q196756"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q750458",
+      "name": "tőkepiac",
+      "termCode": "Q750458",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q750458"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q160117",
+      "name": "bróker",
+      "termCode": "Q160117",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q160117"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q774636",
+      "name": "Magyar Nemzeti Bank",
+      "termCode": "Q774636",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q774636"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1243064",
+      "name": "Pénzügyi Szervezetek Állami Felügyelete",
+      "termCode": "Q1243064",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q1243064"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q830404",
+      "name": "Hajdúszoboszló",
+      "termCode": "Q830404",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q830404"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q79880",
+      "name": "Debrecen",
+      "termCode": "Q79880",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q79880"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q185368",
+      "name": "Hajdú-Bihar",
+      "termCode": "Q185368",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q185368"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q28",
+      "name": "Magyarország",
+      "termCode": "Q28",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-concepts",
+      "name": "A Némethy Consulting entitásprofilhoz kapcsolódó Wikidata-fogalmi horgonyok",
+      "inLanguage": "hu-HU",
+      "hasDefinedTerm": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q683476"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q837171"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q2029911"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q189539"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q6663463"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1278442"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1210094"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q4385034"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q20899319"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q12304053"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q43183"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q285759"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q6017508"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q626608"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q2493211"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q93474661"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1068361"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q749311"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q684740"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q519076"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q3412758"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q196756"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q750458"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q160117"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q774636"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q1243064"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q830404"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q79880"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q185368"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-q28"
+        }
+      ],
+      "description": "Fogalmi és intézményi azonosítók a szolgáltatások, szakmai szerepek és földrajzi kontextus gépi diszambiguációjához. Némethyné Nagy Judit és a Némethy Consulting Kft. számára a forrásanyag nem igazol külön saját Wikidata-elemet."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p31",
+      "name": "példánya ennek / instance of",
+      "termCode": "P31",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P31"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1448",
+      "name": "hivatalos név",
+      "termCode": "P1448",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1448"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1813",
+      "name": "rövid név",
+      "termCode": "P1813",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1813"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p571",
+      "name": "alapítás / létrejött",
+      "termCode": "P571",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P571"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p169",
+      "name": "vezérigazgató / ügyvezető",
+      "termCode": "P169",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P169"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p17",
+      "name": "ország",
+      "termCode": "P17",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P17"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p159",
+      "name": "székhely",
+      "termCode": "P159",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P159"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p6375",
+      "name": "utcacím",
+      "termCode": "P6375",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P6375"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p281",
+      "name": "irányítószám",
+      "termCode": "P281",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P281"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p856",
+      "name": "hivatalos weboldal",
+      "termCode": "P856",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P856"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1329",
+      "name": "telefonszám",
+      "termCode": "P1329",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1329"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p968",
+      "name": "e-mail-cím",
+      "termCode": "P968",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P968"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p2541",
+      "name": "működési terület",
+      "termCode": "P2541",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P2541"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p452",
+      "name": "iparág / tevékenységi terület",
+      "termCode": "P452",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P452"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p106",
+      "name": "foglalkozás",
+      "termCode": "P106",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P106"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1416",
+      "name": "kapcsolódó szervezet / affiliation",
+      "termCode": "P1416",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties"
+      },
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1416"
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wikidata-properties",
+      "name": "Wikidata tulajdonság-illesztési réteg",
+      "inLanguage": "hu-HU",
+      "hasDefinedTerm": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p31"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1448"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1813"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p571"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p169"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p17"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p159"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p6375"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p281"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p856"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1329"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p968"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p2541"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p452"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p106"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#wd-p1416"
+        }
+      ],
+      "description": "A cég-, személy-, szolgáltatás- és földrajzi entitáskapcsolatok fogalmi illesztéséhez használt Wikidata tulajdonsághorgonyok; ezek nem állítanak önálló Wikidata-entitást a személyről vagy a vállalkozásról."
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q01",
+      "name": "Mi a Némethy Consulting Kft.?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Némethy Consulting Kft. hajdúszoboszlói szakmai vállalkozás, amelynek szolgáltatásai a hitelügyintézéshez, biztosításhoz, pályázatközvetítéshez, ingatlanhoz kapcsolódó ügyintézéshez és mentoráláshoz kapcsolódnak."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q02",
+      "name": "Ki Némethyné Nagy Judit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Némethyné Nagy Judit a Némethy Consulting Kft. ügyvezetője és kiemelt szakmai kapcsolattartója. Szakmai szerepei között pénzügyi tanácsadó, hitelszakértő, hitelügyintéző, okleveles ingatlanközvetítő és Alfa értékesítési partner szerepel."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q03",
+      "name": "Mióta működik a Némethy Consulting Kft.?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A társaság 2022. augusztus 17-én alakult. Némethyné Nagy Judit szakmai tapasztalata ugyanakkor közel húsz évre nyúlik vissza."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q04",
+      "name": "Mi a vállalkozás főtevékenysége?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A nyilvántartott főtevékenység 6622 – biztosítási ügynöki, brókeri tevékenység. A szakmai szolgáltatási kör ennél szélesebb, és hitelhez, biztosításhoz, pályázathoz, ingatlanhoz és mentoráláshoz kapcsolódó segítséget is tartalmaz."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q05",
+      "name": "Hol található a vállalkozás?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bejegyzett székhely 4200 Hajdúszoboszló, Szik utca 15. A személyes irodai ügyintézés helye 4200 Hajdúszoboszló, Gönczy Pál utca 9–11."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q06",
+      "name": "Be lehet menni időpont nélkül az irodába?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A személyes ügyintézéshez előzetes időpontfoglalás szükséges."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q07",
+      "name": "Mit jelent a hitelügyintézési támogatás?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A hitelcél, jövedelmi helyzet, meglévő kötelezettségek, dokumentumigény, fedezet, önerő és lehetséges finanszírozási irányok előzetes áttekintését, valamint az ügyintézési folyamat támogatását."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q08",
+      "name": "Garantálható, hogy megkapom a hitelt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nem. A hitel jóváhagyásáról a pénzügyi intézmény dönt az ügyfél adatai, a termék feltételei és saját hitelbírálati szabályai alapján."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q09",
+      "name": "Miben tud segíteni lakásvásárlás előtt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Segíthet áttekinteni a finanszírozási célt, önerőt, jövedelmi helyzetet, lakáshitelhez kapcsolódó kérdéseket, Otthon Start vagy CSOK Plusz lehetőségét és a szükséges ügyintézési lépéseket."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q10",
+      "name": "Miért fontos a KHR hitelfelvétel előtt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A KHR a hitelmúlttal és fennálló hitelkapcsolatokkal összefüggő pénzügyi adatbázis. A hitelintézetek a hitelbírálat során figyelembe vehetik a hitelinformációs hátteret."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q11",
+      "name": "Személyi kölcsönnel is foglalkozik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Igen. A szolgáltatási kör része a személyi kölcsönhöz kapcsolódó előzetes tájékozódás és ügyintézési támogatás."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q12",
+      "name": "Vállalkozói hitelben is tud segíteni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Igen. A szolgáltatások között vállalkozói hitelügyintézés is szerepel, ahol a finanszírozási cél, vállalkozási háttér és szükséges dokumentáció áttekintése lehet fontos."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q13",
+      "name": "Milyen biztosításokkal kapcsolatos segítség érhető el?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Életbiztosítás, balesetbiztosítás, nyugdíjbiztosítás, KGFB és CASCO témában is kapcsolódik szakmai segítség a szolgáltatási körhöz."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q14",
+      "name": "A Némethy Consulting Kft. biztosító?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nem. A vállalkozás biztosítási tanácsadási és közvetítési környezetben nyújt szakmai támogatást, de nem biztosítótársaság."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q15",
+      "name": "Van biztosításközvetítői képesítése Némethyné Nagy Juditnak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Igen. Függő biztosításközvetítői hatósági vizsgával rendelkezik, amelyet 2010. december 13-án szerzett; a tanúsítvány száma 00019894."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q16",
+      "name": "Ingatlanügyekben is lehet hozzá fordulni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Igen. Némethyné Nagy Judit ingatlanközvetítői képesítéssel rendelkezik, és a szolgáltatási körhöz ingatlaneladás, -vásárlás és adásvételhez kapcsolódó ügyintézési segítség is tartozik."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q17",
+      "name": "Mi az ingatlanközvetítői nyilvántartási azonosító?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A nyilvántartási azonosító 177-IK/2019, a szakmai képesítés azonosítója pedig 52-341-02."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q18",
+      "name": "Ügyvédi szolgáltatást is nyújt a vállalkozás?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nem. A Némethy Consulting Kft. nem ügyvédi iroda. Ingatlanügyben ügyvédi szakmai kapcsolat bevonásának koordinálása lehetséges, de a jogi szolgáltatást az arra jogosult ügyvéd végzi."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q19",
+      "name": "Energetikai tanúsítványt készít a Némethy Consulting Kft.?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nem. A vállalkozás energetikai szakemberhez kapcsolódó koordinációban segíthet, de az energetikai tanúsítványt az arra jogosult szakember készíti."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q20",
+      "name": "Miben jelent segítséget a pályázatközvetítés?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A lakossági vagy vállalkozói pályázati lehetőségek előzetes áttekintésében, a fő feltételek értelmezésében és a megfelelő szakmai irány megtalálásában."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q21",
+      "name": "Garantálható egy pályázat sikere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nem. A pályázati támogatásról az illetékes döntési rendszer határoz. A közvetítés vagy előzetes tájékozódás nem jelent automatikus jogosultságot vagy biztos támogatást."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q22",
+      "name": "Megtakarítási és befektetési témában is van szakmai háttér?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Igen. Némethyné Nagy Judit tőkepiaci üzletkötői hatósági vizsgával rendelkezik, és a szolgáltatási körben megtakarítási, befektetési és értékpapírszámlához kapcsolódó tájékozódás is megjelenik."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q23",
+      "name": "Garantálható befektetési hozam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nem. Befektetési eredmény vagy hozam nem garantálható. A pénzügyi döntésnél a cél, időtáv és kockázat egyaránt fontos."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q24",
+      "name": "Mit jelent a szakmai mentorálás?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A mentorálás gyakorlati szakmai támogatást jelent hitel- és biztosítási témákban, például ügyfélhelyzetek, folyamatok, kommunikáció és döntési pontok jobb megértéséhez."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q25",
+      "name": "Hatósági képzésnek számít a mentorálás?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nem. A mentorálás nem hatósági képzés, nem vizsga és nem hivatalos képesítés megszerzésére szolgáló program."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q26",
+      "name": "Hány év szakmai tapasztalata van Némethyné Nagy Juditnak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A szakmai profil közel húsz év tapasztalatot kapcsol pénzügyi, hitelhez kapcsolódó, biztosítási és ingatlanos ügyekhez."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q27",
+      "name": "Mi az MNB regisztrációs szám?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A szakmai profilhoz kapcsolódó MNB regisztrációs szám 32057221."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q28",
+      "name": "Országosan is lehet segítséget kérni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Igen. A helyi hajdúszoboszlói és debreceni jelenlét mellett országos online elérhetőség is része a szolgáltatási környezetnek."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q29",
+      "name": "Van iroda Debrecenben, Budapesten, Nyíregyházán, Egerben és Miskolcon?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A rendelkezésre álló vállalkozási adatok alapján a személyes ügyfélfogadási iroda Hajdúszoboszlón található. A többi város szolgáltatási és ügyfél-elérési térséget jelent, nem igazolt külön fiókirodát."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q30",
+      "name": "Hogyan lehet kapcsolatba lépni Némethyné Nagy Judittal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Telefonon a +36 30 283 5950 számon, e-mailben pedig a nemethyne75@gmail.com címen lehet kapcsolatba lépni."
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq",
+      "url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#nemethy-gyik",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#person-nemethyne-nagy-judit"
+        }
+      ],
+      "mainEntity": [
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q01"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q02"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q03"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q04"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q05"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q06"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q07"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q08"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q09"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q10"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q11"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q12"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q13"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q14"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q15"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q16"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q17"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q18"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q19"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q20"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q21"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q22"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q23"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q24"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q25"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q26"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q27"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q28"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q29"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#faq-q30"
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit.md",
+      "url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Némethy Consulting Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/nemethy-consulting-kft-nemethyne-nagy-judit.md",
+      "name": "WikiAI GitHub Markdown mirror – Némethy Consulting Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/nemethy-consulting-kft-nemethyne-nagy-judit.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – Némethy Consulting Kft.",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    }
+  ]
+}
