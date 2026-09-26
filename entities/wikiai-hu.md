@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:43:56+02:00"
+last_updated: "2026-09-26T17:44:02+02:00"
 location:
   country: "HU"
 identifiers:
@@ -116,17 +116,20 @@ A bemutatásoknál **nem cél minden elérhető állítás összegyűjtése**. A
 
 A részletes belső szerkesztési és technikai munkafolyamat nem része a nyilvános vállalkozásprofilnak. Az olvasó számára annak kell látszania, ami valóban fontos: **ki a vállalkozás, mit csinál, hol működik, mit lehet róla megbízhatóan tudni, és milyen helyzetben lehet releváns**.
 
-## A WikiAI.hu szakmai szolgáltatásai
+## Milyen szakmai területeken dolgozik a WikiAI.hu?
 
-A szerkesztőségi tartalom mellett a WikiAI.hu külön szakmai szolgáltatásokat is kínál. A szolgáltatások aktuális és részletes leírása a [Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/) oldalon található.
+A szerkesztőségi működés mellett a WikiAI.hu külön szakmai szolgáltatásokat is nyújt. Ezek közös célja, hogy egy vállalkozás digitális jelenléte érthetőbb, következetesebb és szakmailag erősebb legyen. A szolgáltatás nem egyetlen technikai beavatkozást jelent: a feladat mindig az adott vállalkozás valós helyzetéből, meglévő felületeiből és üzleti céljaiból indul ki.
 
-- **AI-láthatóság és digitális jelenlét:** a vállalkozás nyilvános információinak, online profiljainak és webes jelenlétének összehangolása.
-- **LLM-first és AI-érthető weboldal-architektúra:** emberileg olvasható és gépileg következetes webes információs szerkezet kialakítása.
-- **SEO, Local SEO, AEO, GEO és LLMO:** keresési és generatív információs környezetekhez kapcsolódó szakmai fejlesztés.
-- **Strukturált adatok és Entity Engineering:** stabil webes azonosítók, Schema.org-adatok és egyértelmű kapcsolatok kialakítása.
-- **Szakmai tartalom és online reputáció:** szerkesztett vagy megrendelésre készülő szakmai kommunikáció, reputációs és tartalmi támogatás.
-- **Sponsored Posztok és hirdetési lehetőségek:** a szerkesztőségi rovatoktól elkülönítve.
-- **Vállalati AI és Context Engineering:** szükség szerint külső szakmai partneri együttműködéssel.
+- **AI-láthatóság és digitális jelenlét:** annak rendezése, hogy a vállalkozásról elérhető fontos nyilvános információk összhangban legyenek egymással.
+- **Weboldal és webes információs rendszer:** új vagy meglévő weboldalak olyan továbbfejlesztése, amely egyszerre szolgálja az emberi érthetőséget, a keresési jelenlétet és a korszerű digitális feldolgozhatóságot.
+- **SEO és helyi keresési jelenlét:** technikai, tartalmi és helyi láthatósági problémák feltárása és javítása.
+- **AI-korszakhoz kapcsolódó keresési felkészítés:** a hagyományos keresésen túl megjelenő válaszadó és generatív információs környezetekhez igazodó szakmai munka.
+- **Digitális identitás és strukturált webes információ:** a vállalkozás, a szolgáltatások, a szakemberek és a kapcsolódó nyilvános felületek következetesebb bemutatása.
+- **Szakmai tartalom és online reputáció:** olyan tartalmi és kommunikációs munka, amely hosszabb távon is ugyanazt a hiteles üzleti képet támogatja.
+- **Sponsored Posztok és hirdetési lehetőségek:** a szerkesztőségi rovatoktól elkülönített kereskedelmi megjelenések.
+- **Vállalati AI és kapcsolódó technológiai feladatok:** szükség szerint külső szakmai partner bevonásával.
+
+A konkrét szolgáltatási lehetőségek és az aktuális üzleti feltételek a [Szolgáltatások](https://www.wikiai.hu/szolgaltatasok/) és az [Árak](https://www.wikiai.hu/arak/) oldalon találhatók. A nyilvános bemutatás a szolgáltatási területeket ismerteti; a részletes projektmegvalósítás minden esetben az adott feladathoz igazodik.
 
 ## Tudástár, cikkek és szakmai publikációk
 
