@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:21:10+02:00"
+last_updated: "2026-09-26T17:21:17+02:00"
 location:
   country: "HU"
 identifiers:
