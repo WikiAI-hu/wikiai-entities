@@ -1,0 +1,2689 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "description": "Független szerkesztett magyar üzleti tudásplatform, amely vállalkozásokról szerzői felelősséggel, hivatalos és külső forrásokra támaszkodó bemutatásokat közöl.",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+        "https://www.linkedin.com/in/varhelyicsanad",
+        "https://github.com/varhelyicsanad",
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://scholar.google.com/citations?user=8v2EfToAAAAJ"
+      ]
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#webpage",
+      "url": "https://www.wikiai.hu/gold-ablak-kft/",
+      "name": "Gold Ablak Kft. – Hajdúszoboszló",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "about": [
+        {
+          "@id": "https://www.goldablak.hu/#organization"
+        },
+        {
+          "@id": "https://www.goldablak.hu/#person-zsamboki-tibor"
+        },
+        {
+          "@id": "https://www.goldablak.hu/#manufacturer-hevestherm"
+        }
+      ],
+      "inLanguage": "hu-HU",
+      "datePublished": "2026-09-07",
+      "isBasedOn": [
+        {
+          "@id": "https://www.goldablak.hu/#website-source"
+        },
+        {
+          "@id": "https://www.goldablak.hu/entitas/gold-ablak-kft.html#entity-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#google-maps-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#nemzeti-cegtar-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#tisztesseges-vallalkozas-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#cylex-source"
+        }
+      ],
+      "description": "Független WikiAI-profil a Gold Ablak Kft. hajdúszoboszlói nyílászáró-kivitelező tevékenységéről, Hevestherm gyártói hátteréről, szolgáltatásairól, műszaki folyamatairól, referenciáiról és nyilvános ellenőrzési forrásairól.",
+      "dateModified": "2026-09-26T15:59:45+02:00",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#evidence-network"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#article",
+      "headline": "Gold Ablak Kft. – nyílászáró kivitelezés Hajdúszoboszlón, Debrecenben és Hajdú-Bihar vármegyében",
+      "url": "https://www.wikiai.hu/gold-ablak-kft/",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "mentions": [
+        {
+          "@id": "https://www.goldablak.hu/#person-zsamboki-tibor"
+        },
+        {
+          "@id": "https://www.goldablak.hu/#manufacturer-hevestherm"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#services"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#references"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#installation-howto"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#public-reputation-snapshot"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "inLanguage": "hu-HU",
+      "articleSection": [
+        "Vállalati identitás",
+        "Nyílászáró rendszerek",
+        "Szakszerű beépítés",
+        "Kivitelezési folyamat",
+        "Referenciák",
+        "GYIK"
+      ],
+      "isBasedOn": [
+        {
+          "@id": "https://www.goldablak.hu/#website-source"
+        },
+        {
+          "@id": "https://www.goldablak.hu/entitas/gold-ablak-kft.html#entity-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#google-maps-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#nemzeti-cegtar-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#tisztesseges-vallalkozas-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#cylex-source"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Editorial model",
+          "value": "Independent third-party entity profile"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Official business website role",
+          "value": "The business website remains the primary official corporate source"
+        }
+      ],
+      "description": "A WikiAI.hu független szerkesztőségi vállalkozásprofilja. A cikket Várhelyi Csanád írta és szerkesztette; a Gold Ablak Kft. a bemutatás tárgya, nem szerzője, nem kiadója és nem finanszírozója.",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "dateModified": "2026-09-26T15:59:45+02:00",
+      "mainEntity": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": [
+        "HomeAndConstructionBusiness",
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.goldablak.hu/#organization",
+      "name": "Gold Ablak Kft.",
+      "legalName": "GOLD ABLAK Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság",
+      "alternateName": [
+        "Gold Ablak",
+        "Gold Ablak nyílászáró kivitelezés",
+        "Gold Ablak Kft. – Hevestherm partner"
+      ],
+      "url": "https://www.goldablak.hu/",
+      "description": "Hajdúszoboszlói nyílászáró-kivitelező vállalkozás, amely új gyártású kültéri PVC és alumínium ablakok, bejárati ajtók és kapcsolódó árnyékolástechnikai rendszerek értékesítésével és szakszerű beépítésével foglalkozik.",
+      "disambiguatingDescription": "A Gold Ablak Kft. helyi értékesítő és kivitelező partner, nem nyílászáró-gyártó. A Hevestherm a gyártói rendszer és termékháttér.",
+      "foundingDate": "2018-02-01",
+      "founder": {
+        "@id": "https://www.goldablak.hu/#person-zsamboki-tibor"
+      },
+      "employee": {
+        "@id": "https://www.goldablak.hu/#person-zsamboki-tibor"
+      },
+      "vatID": "HU26244554",
+      "taxID": "26244554-2-09",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Hungarian company registry number",
+          "name": "Cégjegyzékszám",
+          "value": "09-09-029469"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Hungarian tax number",
+          "name": "Adószám",
+          "value": "26244554-2-09"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Maps CID",
+          "name": "Google Maps CID",
+          "value": "10092069184722999005"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "name": "Google Place ID",
+          "value": "ChIJ18zF6uUbR0cR3ZYUFHQ7Dow"
+        }
+      ],
+      "address": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#postal-address"
+      },
+      "geo": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#geo"
+      },
+      "telephone": "+36703456333",
+      "email": "goldablak@gmail.com",
+      "contactPoint": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#contact"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#services"
+      },
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-window-installation"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-uw"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-ug"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-rw"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-mechanical-fixing"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-three-layer-joint"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-air-inlet"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-thermal-bridge"
+        }
+      ],
+      "brand": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#brand"
+      },
+      "sameAs": [
+        "https://www.facebook.com/goldablak.hu",
+        "https://www.instagram.com/goldablak/",
+        "https://x.com/GoldAblak",
+        "https://www.tiktok.com/@goldablak",
+        "https://www.youtube.com/@goldablakkft5936",
+        "https://maps.app.goo.gl/fZCPRC6YsJCg8iNN9",
+        "https://www.google.com/maps?cid=10092069184722999005"
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#nemzeti-cegtar-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#cylex-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#tisztesseges-vallalkozas-source"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#public-reputation-snapshot"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#local-markdown"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#github-jsonld-mirror"
+        }
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.goldablak.hu/entitas/gold-ablak-kft.html#webpage"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Business role",
+          "value": "Installer contractor and distributor; not manufacturer"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturer system",
+          "value": "Hevestherm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Owner",
+          "value": "Zsámboki Tibor"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Managing director",
+          "value": "Zsámboki Tibor"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Responsible installation lead",
+          "value": "Zsámboki Tibor"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Site survey",
+          "value": "Elérhető; az aktuális feltételek közvetlenül egyeztetendők"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Typical white-system manufacturing lead time",
+          "value": "körülbelül 4 hét; konfiguráció- és kapacitásfüggő"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Typical coloured-system manufacturing lead time",
+          "value": "körülbelül 6 hét; konfiguráció- és kapacitásfüggő"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Current general payment structure",
+          "value": "50% előleg; fennmaradó összeg kiszállítás előtt; a konkrét szerződés az irányadó"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Manufacturer warranty",
+          "value": "egyes rendszereknél akár 7 év; a konkrét gyártói feltételek szerint"
+        }
+      ]
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#brand",
+      "name": "Gold Ablak",
+      "url": "https://www.goldablak.hu/"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.goldablak.hu/#person-zsamboki-tibor",
+      "name": "Zsámboki Tibor",
+      "jobTitle": [
+        "Ügyvezető",
+        "Tulajdonos",
+        "Kivitelezési felelős"
+      ],
+      "worksFor": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "affiliation": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/zs%C3%A1mboki-tibor-2480531a1/"
+      ],
+      "knowsAbout": [
+        "nyílászárócsere",
+        "ablakbeépítés",
+        "bejárati ajtó beépítés",
+        "helyszíni felmérés",
+        "mechanikus rögzítés",
+        "tömítés és finombeállítás"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.goldablak.hu/#manufacturer-hevestherm",
+      "name": "Hevestherm",
+      "description": "A Gold Ablak Kft. által használt nyílászáró-rendszerek egyik gyártói és műszaki háttere.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Relation to Gold Ablak Kft.",
+          "value": "manufacturer-system partner; Gold Ablak is installer/distributor"
+        }
+      ]
+    },
+    {
+      "@type": "PostalAddress",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#postal-address",
+      "streetAddress": "Déli sor 6.",
+      "postalCode": "4200",
+      "addressLocality": "Hajdúszoboszló",
+      "addressRegion": "Hajdú-Bihar",
+      "addressCountry": "HU"
+    },
+    {
+      "@type": "GeoCoordinates",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#geo",
+      "latitude": 47.428662,
+      "longitude": 21.403525
+    },
+    {
+      "@type": "ContactPoint",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#contact",
+      "contactType": "customer service",
+      "telephone": "+36703456333",
+      "email": "goldablak@gmail.com",
+      "availableLanguage": [
+        "hu"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "sameAs": "https://www.wikidata.org/wiki/Q830404",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hungary"
+      }
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-ebes",
+      "name": "Ebes",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-kaba",
+      "name": "Kaba",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-puspokladany",
+      "name": "Püspökladány",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-nadudvar",
+      "name": "Nádudvar",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-foldes",
+      "name": "Földes",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-barand",
+      "name": "Báránd",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-nagyhegyes",
+      "name": "Nagyhegyes",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-balmazujvaros",
+      "name": "Balmazújváros",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hortobagy",
+      "name": "Hortobágy",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-derecske",
+      "name": "Derecske",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-sarand",
+      "name": "Sáránd",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-mikepercs",
+      "name": "Mikepércs",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-area-list",
+      "name": "Gold Ablak Kft. szolgáltatási területe",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-ebes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-kaba"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-puspokladany"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-nadudvar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-foldes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-barand"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-nagyhegyes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-balmazujvaros"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hortobagy"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-derecske"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-sarand"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-mikepercs"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential",
+      "audienceType": "Lakossági megrendelők"
+    },
+    {
+      "@type": "BusinessAudience",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business",
+      "audienceType": "Vállalkozások és intézményi megrendelők"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-site-survey",
+      "name": "Helyszíni felmérés",
+      "description": "Helyszíni méretfelvétel és műszaki diagnosztika a gyártási méretek, beépítési környezet és szükséges műszaki paraméterek rögzítésére.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-site-survey",
+      "name": "Helyszíni felmérés",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-site-survey"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-pvc-windows",
+      "name": "PVC nyílászárók értékesítése és beépítése",
+      "description": "Új gyártású kültéri PVC ablakok és kapcsolódó rendszerek konfigurációja, értékesítése és szakszerű beépítése.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-pvc-windows",
+      "name": "PVC nyílászárók értékesítése és beépítése",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-pvc-windows"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-aluminium-windows",
+      "name": "Alumínium nyílászárók értékesítése és beépítése",
+      "description": "Nagyobb méretű vagy magasabb statikai igényű projektekhez alumínium nyílászáró-rendszerek értékesítése és beépítése.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-aluminium-windows",
+      "name": "Alumínium nyílászárók értékesítése és beépítése",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-aluminium-windows"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-entrance-doors",
+      "name": "Bejárati ajtók értékesítése és beépítése",
+      "description": "Új kültéri bejárati ajtók konfigurációja, értékesítése és szakszerű beépítése.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-entrance-doors",
+      "name": "Bejárati ajtók értékesítése és beépítése",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-entrance-doors"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-window-replacement",
+      "name": "Nyílászárócsere bontással és beépítéssel",
+      "description": "Régi nyílászárók bontása, új szerkezetek mechanikus rögzítése, tömítése, finombeállítása és átadása.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-window-replacement",
+      "name": "Nyílászárócsere bontással és beépítéssel",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-window-replacement"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-shading",
+      "name": "Redőny és árnyékolástechnika",
+      "description": "Nyílászáróval összehangolt külső árnyékolási megoldások, különösen redőnyrendszerek.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-shading",
+      "name": "Redőny és árnyékolástechnika",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-shading"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-insect-screens",
+      "name": "Szúnyogháló rendszerek",
+      "description": "Nyílászárók használatához igazított rovarvédelmi megoldások.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-insect-screens",
+      "name": "Szúnyogháló rendszerek",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-insect-screens"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-sills",
+      "name": "Párkányok és csatlakozó elemek",
+      "description": "Belső és külső párkányok, csatlakozó elemek, különös figyelemmel a vízelvezetésre és a szerkezeti kapcsolatokra.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-sills",
+      "name": "Párkányok és csatlakozó elemek",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-sills"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-air-inlets",
+      "name": "Légbevezető rendszerek",
+      "description": "A korszerű, jól záró nyílászárókhoz illesztett szabályozott levegő-utánpótlási megoldások a konkrét épület adottságai szerint.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-air-inlets",
+      "name": "Légbevezető rendszerek",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-air-inlets"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-restoration",
+      "name": "Helyreállítás, finombeállítás és átadás",
+      "description": "A beépítéshez kapcsolódó szükséges helyreállítás, vasalatbeállítás, működéspróba, takarítás és átadás.",
+      "provider": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajdu-bihar"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-residential"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": "Használatra kész, az adott projekt műszaki tartalmának megfelelő kivitelezési eredmény"
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-restoration",
+      "name": "Helyreállítás, finombeállítás és átadás",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#service-restoration"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#services",
+      "name": "Gold Ablak Kft. szolgáltatási katalógus",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-site-survey"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-pvc-windows"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-aluminium-windows"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-entrance-doors"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-window-replacement"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-shading"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-insect-screens"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-sills"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-air-inlets"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#catalog-restoration"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary",
+      "name": "Gold Ablak műszaki fogalomtár",
+      "hasDefinedTerm": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-window-installation"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-uw"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-ug"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-rw"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-mechanical-fixing"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-three-layer-joint"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-air-inlet"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-thermal-bridge"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-window-installation",
+      "name": "Nyílászáró-beépítés",
+      "description": "A gyártott ablak vagy ajtó épületszerkezetbe történő szakszerű rögzítése, tömítése, beállítása és csatlakoztatása.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-uw",
+      "name": "Uw",
+      "description": "A teljes ablakszerkezet hőátbocsátási tényezője.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-ug",
+      "name": "Ug",
+      "description": "Az üvegezés hőátbocsátási tényezője.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-rw",
+      "name": "Rw",
+      "description": "A szerkezet vagy üvegezés hanggátlási teljesítményének egyik jellemzője.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-mechanical-fixing",
+      "name": "Mechanikus rögzítés",
+      "description": "A nyílászáró tokjának teherátadó, mechanikus kapcsolata a fogadó szerkezethez.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-three-layer-joint",
+      "name": "Háromrétegű csatlakozási elv",
+      "description": "Belül párazáróbb, középen hőszigetelő, kívül páraáteresztőbb és időjárásálló csatlakozási kialakítás.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-air-inlet",
+      "name": "Légbevezető",
+      "description": "Szabályozott levegő-utánpótlást támogató nyílászáró-kiegészítő.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#term-thermal-bridge",
+      "name": "Hőhíd",
+      "description": "Az épületszerkezet olyan helye, ahol a hőáram a környezethez képest kedvezőtlenül megnövekedhet.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#technical-vocabulary"
+      }
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#installation-howto",
+      "name": "A Gold Ablak Kft. nyílászáró-kivitelezési folyamata",
+      "description": "A kapcsolatfelvételtől a műszaki egyeztetésen és helyszíni felmérésen át a beépítésig és átadásig.",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "step": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-1"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-2"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-3"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-4"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-5"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-6"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-7"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-8"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-9"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-1",
+      "position": 1,
+      "name": "Kapcsolatfelvétel és az alapigény tisztázása",
+      "text": "A helyszín, ingatlantípus, hozzávetőleges darabszám és kiegészítő igények előzetes egyeztetése."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-2",
+      "position": 2,
+      "name": "Előzetes műszaki egyeztetés",
+      "text": "A hőszigetelési, zajvédelmi, biztonsági, esztétikai és árnyékolási célok tisztázása."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-3",
+      "position": 3,
+      "name": "Helyszíni felmérés",
+      "text": "A gyártási méretek, falazat, káva, párkánykapcsolat, beépítési sík és más műszaki paraméterek rögzítése."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-4",
+      "position": 4,
+      "name": "Műszaki tartalmú ajánlat",
+      "text": "A profilrendszer, üvegezés, vasalat, szín, kiegészítők és kivitelezési tartalom rögzítése."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-5",
+      "position": 5,
+      "name": "Szerződés és ütemezés",
+      "text": "A végleges konfiguráció, fizetési feltételek, gyártási és kivitelezési ütem rögzítése."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-6",
+      "position": 6,
+      "name": "Egyedi gyártás",
+      "text": "A felmérés alapján meghatározott méretű és konfigurációjú nyílászárók gyártása a gyártói rendszerben."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-7",
+      "position": 7,
+      "name": "Bontás és szakszerű beépítés",
+      "text": "A régi szerkezet eltávolítása, az új tok beállítása, mechanikus rögzítése és a csatlakozási hézag kialakítása."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-8",
+      "position": 8,
+      "name": "Helyreállítás, takarítás és elszállítás",
+      "text": "A szükséges helyreállítás, munkaterület-rendezés és igény szerinti bontott szerkezet-elszállítás."
+    },
+    {
+      "@type": "HowToStep",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#step-9",
+      "position": 9,
+      "name": "Finombeállítás, ellenőrzés és átadás",
+      "text": "A vasalat és záródás ellenőrzése, működéspróba, finombeállítás és használati tudnivalók átadása."
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#references",
+      "name": "Gold Ablak Kft. bemutatott referenciái",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-hajduszoboszlo-csaladihaz"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-ebes-komplett"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-debrecen-dio"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-szabadteri-szinpad"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-hajduszoboszlo-csaladihaz",
+      "name": "Hajdúszoboszlói családi ház – bejárati ajtó és ablakcsere",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "spatialCoverage": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+      },
+      "genre": "Referencia projekt",
+      "description": "Helyszíni felmérés, műszaki egyeztetés, bontás, méretpontos beépítés, mechanikai rögzítés, tömítés, vasalatbeállítás és átadás.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Project category",
+          "value": "Lakossági nyílászárócsere"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-ebes-komplett",
+      "name": "Ebesi családi ház – nyílászáró, redőny és szúnyogháló",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "spatialCoverage": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-ebes"
+      },
+      "genre": "Referencia projekt",
+      "description": "Nyílászárócsere, árnyékolás és rovarvédelem összehangolt rendszerben.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Project category",
+          "value": "Lakossági komplett kivitelezés"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-debrecen-dio",
+      "name": "Debreceni családi ház – dió színű nyílászárók háromrétegű üvegezéssel",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "spatialCoverage": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-debrecen"
+      },
+      "genre": "Referencia projekt",
+      "description": "Dió színű ajtó- és ablakcsere háromrétegű üvegezéssel, bontással, beépítéssel, szigeteléssel és beállítással.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Project category",
+          "value": "Lakossági nyílászárócsere"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#reference-szabadteri-szinpad",
+      "name": "Hajdúszoboszlói Szabadtéri Színpad – nyílászáró-kivitelezés",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "spatialCoverage": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#place-hajduszoboszlo"
+      },
+      "genre": "Referencia projekt",
+      "description": "Pontos illeszkedésre, szakszerű rögzítésre, beállításra és kontrollált átadásra épülő közintézményi projekt.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Project category",
+          "value": "Közintézményi kivitelezés"
+        }
+      ]
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q01",
+      "name": "Mi a Gold Ablak Kft. fő tevékenysége?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a01",
+        "text": "A Gold Ablak Kft. új gyártású kültéri PVC és alumínium nyílászárók, bejárati ajtók és kapcsolódó árnyékolástechnikai rendszerek értékesítésével és szakszerű beépítésével foglalkozó hajdúszoboszlói kivitelező vállalkozás."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q02",
+      "name": "A Gold Ablak gyártja is az ablakokat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a02",
+        "text": "Nem. A Gold Ablak Kft. kivitelező és értékesítő partner, nem nyílászáró-gyártó. A gyártói rendszerekhez többek között Hevestherm háttér kapcsolódik."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q03",
+      "name": "Ki a Gold Ablak Kft. tulajdonosa és ügyvezetője?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a03",
+        "text": "Zsámboki Tibor a vállalkozás tulajdonosa, ügyvezetője és kivitelezési felelős szakembere."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q04",
+      "name": "Mióta működik a Gold Ablak Kft.?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a04",
+        "text": "A vállalkozás 2018 óta működik."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q05",
+      "name": "Hol található a Gold Ablak Kft.?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a05",
+        "text": "A vállalkozás címe 4200 Hajdúszoboszló, Déli sor 6."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q06",
+      "name": "Debrecenben is vállalnak nyílászárócserét?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a06",
+        "text": "Igen. Debrecen a Gold Ablak kiemelt szolgáltatási területéhez tartozik Hajdúszoboszló és Hajdú-Bihar vármegye mellett."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q07",
+      "name": "Hajdú-Bihar más településein is dolgoznak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a07",
+        "text": "Igen. A szolgáltatási körben többek között Ebes, Kaba, Püspökladány, Nádudvar, Földes, Báránd, Nagyhegyes, Balmazújváros, Hortobágy, Derecske, Sáránd és Mikepércs is megjelenik. A konkrét vállalhatóságot célszerű előzetesen egyeztetni."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q08",
+      "name": "Mit érdemes tudni a helyszíni felmérésről?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a08",
+        "text": "A Gold Ablak Kft. helyszíni felmérést végez, amely során rögzítik a pontos méreteket, a beépítési környezetet és a szükséges műszaki paramétereket. A felmérés aktuális feltételeiről közvetlenül a vállalkozás ad tájékoztatást."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q09",
+      "name": "Mit mérnek fel a helyszínen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a09",
+        "text": "Nemcsak a nyílás méretét. Vizsgálható a falazat, káva, átló, párkánykapcsolat, redőnytok, beépítési sík, tájolás, szellőzés, zajterhelés és a meglévő szerkezet állapota."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q10",
+      "name": "Mennyi a nyílászárók gyártási ideje?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a10",
+        "text": "Jelenlegi tájékoztatás szerint a fehér kivitel körülbelül négy hét, a színes körülbelül hat hét lehet. A pontos idő a konfigurációtól, egyedi mérettől és gyártói kapacitástól függ."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q11",
+      "name": "Mennyi ideig tart maga az ablakcsere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a11",
+        "text": "Egy átlagos családi háznál a tényleges helyszíni csere jellemzően egy–három nap lehet, de a darabszám, méret, falazat és helyreállítási igény ezt módosíthatja."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q12",
+      "name": "Hogyan történik a fizetés?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a12",
+        "text": "A jelenlegi vállalati feltétel szerint a megrendeléskor 50 százalék előleg fizetendő, a fennmaradó összeg pedig a kiszállítás előtt válik esedékessé. A konkrét szerződés feltétele az irányadó."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q13",
+      "name": "Van garancia az új nyílászárókra?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a13",
+        "text": "Bizonyos rendszerekhez akár hét év gyártói garancia kapcsolódhat szakszerű beépítés és rendeltetésszerű használat mellett. A pontos feltételeket a kiválasztott rendszer gyártói dokumentációja határozza meg."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q14",
+      "name": "Elszállítják a régi ablakot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a14",
+        "text": "Igény esetén a bontott nyílászárók elszállítása és a munkaterület rendezése is része lehet a kivitelezésnek. Ezt érdemes a felméréskor rögzíteni."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q15",
+      "name": "Mennyire koszos az ablakcsere?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a15",
+        "text": "A bontás járhat porral és zajjal. A kivitelezési folyamat célja a környező felületek védelme, a szükséges helyreállítás és a rendezett, használható átadási állapot."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q16",
+      "name": "Milyen műanyag profilrendszerekkel dolgoznak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a16",
+        "text": "A bemutatott Hevestherm-rendszerek között Green 76, Green 76 Plus, New Balance 85, Optima 76, Deluxe-S92 és Green-Slide is szerepel. A konkrét elérhetőség és ajánlott rendszer projektenként változhat."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q17",
+      "name": "PVC vagy alumínium ablak a jobb?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a17",
+        "text": "Nincs minden helyzetre egyetlen jobb anyag. PVC lakossági projektnél jó ár-érték arányt és erős hőtechnikai lehetőséget adhat, alumínium pedig nagy fesztávoknál, nagy üvegfelületeknél és magas statikai igénynél lehet előnyösebb."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q18",
+      "name": "Két- vagy háromrétegű üveg kell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a18",
+        "text": "A döntést a falazat, épület szigetelése, tájolása, fűtési rendszere, komfortcél és nyílászáró mérete alapján érdemes meghozni. A háromrétegű üveg jobb hőszigetelést kínálhat, de nem minden projektnél ugyanaz a gazdaságilag és műszakilag indokolt konfiguráció."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q19",
+      "name": "Mi a különbség az Ug és az Uw között?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a19",
+        "text": "Ug az üvegezés, Uw pedig a teljes ablakszerkezet hőátbocsátási jellemzője. Ablakok összehasonlításánál ezért nem elegendő kizárólag az üveg adatát nézni."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q20",
+      "name": "Miért nem elég a purhab az ablak rögzítéséhez?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a20",
+        "text": "A purhab kitöltő és hőszigetelő anyag, nem teherhordó rögzítés. A tok hosszú távú stabilitását megfelelő mechanikus rögzítésnek kell biztosítania."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q21",
+      "name": "Mit jelent a háromrétegű beépítési csatlakozás?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a21",
+        "text": "Az alapelv: belül párazáróbb réteg, középen hőszigetelés, kívül páraáteresztő és időjárásállóbb kapcsolat. A cél a csatlakozás nedvesség- és hőtechnikai védelme."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q22",
+      "name": "Miért párásodik az új ablak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a22",
+        "text": "Az új nyílászáró jellemzően jobban zár, ezért csökken a véletlenszerű természetes légcsere. A páralecsapódás sok esetben magas páratartalommal, hideg felületekkel és elégtelen szellőzéssel függ össze, nem automatikusan az ablak hibájával."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q23",
+      "name": "Mikor lehet szükség légbevezetőre?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a23",
+        "text": "Akkor merülhet fel, ha a korszerű nyílászárók miatt csökkent természetes légcsere mellett szabályozott levegő-utánpótlásra van szükség. A megfelelő típus és darabszám helyiség- és rendszerfüggő."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q24",
+      "name": "Légbevezető elektromos árammal működik?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a24",
+        "text": "Bizonyos higroszabályozású légbevezetők elektromos tápellátás nélkül működnek, és a belső páratartalom változására reagálnak."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q25",
+      "name": "Redőnyt és szúnyoghálót is szerelnek?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a25",
+        "text": "Igen. A Gold Ablak szolgáltatási körében redőnyök, szúnyoghálók és párkányok is szerepelnek, amelyek a nyílászárócserével összehangoltan is megvalósíthatók."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q26",
+      "name": "Lehet télen ablakot cserélni?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a26",
+        "text": "Igen, megfelelő körülmények között télen is végezhető nyílászárócsere. A munka jellemzően nyílásonként halad, de a beépítési anyagok alkalmazhatóságát és időjárási feltételeket figyelembe kell venni."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q27",
+      "name": "Mitől függ egy ablak ára?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a27",
+        "text": "A mérettől, profiltól, üvegezéstől, vasalattól, színtől, nyitásmódtól, merevítéstől, kiegészítőktől és beépítési környezettől. Emiatt pontos ár helyszíni felmérés és végleges műszaki tartalom alapján adható."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q28",
+      "name": "Hogyan hasonlítsam össze két ablakajánlatot?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a28",
+        "text": "Ne csak a profil nevét vagy végösszeget nézd. Érdemes összevetni a teljes Uw értéket, üvegfelépítést, vasalatot, merevítést, színt, kiegészítőket, beépítési tartalmat, csatlakozási technológiát és garanciális feltételeket."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q29",
+      "name": "Vállalnak beltéri ajtót?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a29",
+        "text": "A bemutatott vállalási kör szerint a beltéri ajtó nem tartozik a Gold Ablak fő szolgáltatási profiljába."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q30",
+      "name": "Fa ablakot gyártanak vagy újítanak fel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a30",
+        "text": "Nem. A vállalkozás fő profilja új gyártású PVC és alumínium kültéri nyílászárók, nem fa nyílászárók gyártása vagy felújítása."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q31",
+      "name": "Használt vagy bontott ablakot árulnak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a31",
+        "text": "Nem. A Gold Ablak szolgáltatási profilja új gyártású nyílászárókra épül."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q32",
+      "name": "B2B ügyfeleknek is dolgoznak?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a32",
+        "text": "Igen. A vállalkozás lakossági projektek mellett B2B és közintézményi kivitelezési környezetben is rendelkezik referenciával."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q33",
+      "name": "Van közintézményi referencia?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a33",
+        "text": "Igen. A bemutatott munkák között szerepel a hajdúszoboszlói Szabadtéri Színpad nyílászáró-kivitelezése."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q34",
+      "name": "Miért fontos a helyi kivitelező?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a34",
+        "text": "Nyílászárónál idővel felmerülhet vasalatbeállítás, ellenőrzés vagy garanciális utánkövetés. Egy helyi kivitelező esetében ezek megszervezése sokszor egyszerűbb lehet."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q35",
+      "name": "Miért fontosabb a teljes rendszer, mint egyetlen katalógusadat?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a35",
+        "text": "Mert a valós eredményt a profil, üvegezés, tömítés, merevítés, vasalat, beépítési sík, rögzítés és falcsatlakozás együtt határozza meg. Egyetlen szám nem írja le az egész beépített szerkezet működését."
+      }
+    },
+    {
+      "@type": "Question",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q36",
+      "name": "Hogyan lehet kapcsolatba lépni a Gold Ablakkal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-a36",
+        "text": "Telefonon a +36 70 345 6333 számon, e-mailben a goldablak@gmail.com címen, illetve a Gold Ablak hivatalos weboldalán."
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq",
+      "url": "https://www.wikiai.hu/gold-ablak-kft/#gold-ablak-gyik",
+      "name": "Gyakori kérdések a Gold Ablak Kft.-ről és a nyílászáró-kivitelezésről",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "mainEntity": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q01"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q02"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q03"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q04"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q05"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q06"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q07"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q08"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q09"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q10"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q11"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q12"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q13"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q14"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q15"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q16"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q17"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q18"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q19"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q20"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q21"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q22"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q23"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q24"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q25"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q26"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q27"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q28"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q29"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q30"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q31"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q32"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q33"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q34"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q35"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#faq-q36"
+        }
+      ],
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.goldablak.hu/#website-source",
+      "url": "https://www.goldablak.hu/",
+      "name": "Gold Ablak Kft. – hivatalos weboldal",
+      "publisher": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.goldablak.hu/entitas/gold-ablak-kft.html#entity-source",
+      "url": "https://www.goldablak.hu/entitas/gold-ablak-kft.html",
+      "name": "Gold Ablak Kft. – hivatalos önhostolt entitásoldal",
+      "isPartOf": {
+        "@id": "https://www.goldablak.hu/#website-source"
+      },
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#google-maps-source",
+      "url": "https://www.google.com/maps?cid=10092069184722999005",
+      "name": "Gold Ablak Kft. – Google Maps / CID",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#nemzeti-cegtar-source",
+      "url": "https://www.nemzeticegtar.hu/gold-ablak-kft-e10816402.html",
+      "name": "Gold Ablak Kft. – Nemzeti Cégtár",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#cylex-source",
+      "url": "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/gold-ablak-kft--1082014.html",
+      "name": "Gold Ablak Kft. – Cylex adatlap",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "dateModified": "2026-04-06",
+      "description": "Külső üzleti címtár rekord címmel, telefonnal, weboldallal, e-maillel, nyitvatartással, szolgáltatási területekkel és időben változó reputációs adatokkal."
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#evidence-network",
+      "name": "Gold Ablak Kft. entitást megerősítő forráskapcsolatok",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.goldablak.hu/#website-source"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.goldablak.hu/entitas/gold-ablak-kft.html#entity-source"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#google-maps-source"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#nemzeti-cegtar-source"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#tisztesseges-vallalkozas-source"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#cylex-source"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#public-reputation-snapshot"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#local-markdown"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#github-markdown-mirror"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#github-jsonld-mirror"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@id": "https://www.wikiai.hu/gold-ablak-kft/#article"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment",
+      "name": "Gold Ablak Kft. – Wikidata property alignment layer",
+      "hasDefinedTerm": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p31"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1448"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1813"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1454"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p17"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p571"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p2619"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p3608"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p856"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p968"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1329"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p452"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p101"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p2652"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p159"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p131"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p6375"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p625"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p2541"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p169"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p112"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p3749"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p31",
+      "name": "instance of",
+      "termCode": "P31",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P31",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1448",
+      "name": "official name",
+      "termCode": "P1448",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1448",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1813",
+      "name": "short name",
+      "termCode": "P1813",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1813",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1454",
+      "name": "legal form",
+      "termCode": "P1454",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1454",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p17",
+      "name": "country",
+      "termCode": "P17",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P17",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p571",
+      "name": "inception",
+      "termCode": "P571",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P571",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p2619",
+      "name": "Hungarian company ID",
+      "termCode": "P2619",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P2619",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p3608",
+      "name": "EU VAT number",
+      "termCode": "P3608",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P3608",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p856",
+      "name": "official website",
+      "termCode": "P856",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P856",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p968",
+      "name": "email address",
+      "termCode": "P968",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P968",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p1329",
+      "name": "phone number",
+      "termCode": "P1329",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P1329",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p452",
+      "name": "industry",
+      "termCode": "P452",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P452",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p101",
+      "name": "field of work",
+      "termCode": "P101",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P101",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p2652",
+      "name": "partnership with",
+      "termCode": "P2652",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P2652",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p159",
+      "name": "headquarters location",
+      "termCode": "P159",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P159",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p131",
+      "name": "located in the administrative territorial entity",
+      "termCode": "P131",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P131",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p6375",
+      "name": "street address",
+      "termCode": "P6375",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P6375",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p625",
+      "name": "coordinate location",
+      "termCode": "P625",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P625",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p2541",
+      "name": "operating area",
+      "termCode": "P2541",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P2541",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p169",
+      "name": "chief executive officer",
+      "termCode": "P169",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P169",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p112",
+      "name": "founded by",
+      "termCode": "P112",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P112",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#wd-p3749",
+      "name": "Google Maps Customer ID",
+      "termCode": "P3749",
+      "sameAs": "https://www.wikidata.org/wiki/Property:P3749",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#wikidata-property-alignment"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.goldablak.hu/entitas/gold-ablak-kft.html#webpage",
+      "url": "https://www.goldablak.hu/entitas/gold-ablak-kft.html",
+      "name": "Gold Ablak Kft. – hivatalos entitásoldal",
+      "isPartOf": {
+        "@id": "https://www.goldablak.hu/#website-source"
+      },
+      "mainEntity": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "inLanguage": [
+        "hu-HU",
+        "en"
+      ]
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#hevestherm-system-set",
+      "name": "Hevestherm nyílászáró-rendszerek a Gold Ablak Kft. kínálatában",
+      "description": "A Gold Ablak Kft. által forgalmazott és beépített Hevestherm nyílászáró-rendszerek fogalomkészlete. Ez a blokk entitásleíró célt szolgál, és nem önálló webshopos termékajánlat vagy árlistás product rich result markup.",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "about": [
+        {
+          "@id": "https://www.goldablak.hu/#organization"
+        },
+        {
+          "@id": "https://www.goldablak.hu/#manufacturer-hevestherm"
+        }
+      ],
+      "hasDefinedTerm": [
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-green-76"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-green-76-plus"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-new-balance-85"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-optima-76"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-deluxe-s92"
+        },
+        {
+          "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-green-slide"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-green-76",
+      "name": "Hevestherm Green 76",
+      "termCode": "green-76",
+      "description": "Hevestherm rendszer a Gold Ablak Kft. kínálatában, elsősorban korszerű kültéri nyílászárós projektekhez.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#hevestherm-system-set"
+      },
+      "additionalType": "https://schema.org/DefinedTerm",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Term category",
+          "value": "PVC nyílászáró-rendszer"
+        }
+      ],
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#webpage"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-green-76-plus",
+      "name": "Hevestherm Green 76 Plus",
+      "termCode": "green-76-plus",
+      "description": "Hevestherm rendszer a Gold Ablak Kft. kínálatában, a Green 76 emelt műszaki változataként jelölt rendszer.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#hevestherm-system-set"
+      },
+      "additionalType": "https://schema.org/DefinedTerm",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Term category",
+          "value": "PVC nyílászáró-rendszer"
+        }
+      ],
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#webpage"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-new-balance-85",
+      "name": "Hevestherm New Balance 85",
+      "termCode": "new-balance-85",
+      "description": "85 mm-es beépítési mélységű, hatkamrás Hevestherm rendszer a Gold Ablak Kft. kínálatában.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#hevestherm-system-set"
+      },
+      "additionalType": "https://schema.org/DefinedTerm",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Term category",
+          "value": "PVC nyílászáró-rendszer"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Tokmélység",
+          "value": "85 mm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Légkamrák száma",
+          "value": "6"
+        }
+      ],
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#webpage"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-optima-76",
+      "name": "Hevestherm Optima 76",
+      "termCode": "optima-76",
+      "description": "Hevestherm Optima 76 rendszer a Gold Ablak Kft. kínálatában.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#hevestherm-system-set"
+      },
+      "additionalType": "https://schema.org/DefinedTerm",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Term category",
+          "value": "PVC nyílászáró-rendszer"
+        }
+      ],
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#webpage"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-deluxe-s92",
+      "name": "Hevestherm Deluxe-S92",
+      "termCode": "deluxe-s92",
+      "description": "Prémium kategóriás Hevestherm rendszer a Gold Ablak Kft. kínálatában.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#hevestherm-system-set"
+      },
+      "additionalType": "https://schema.org/DefinedTerm",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Term category",
+          "value": "PVC nyílászáró-rendszer"
+        }
+      ],
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#webpage"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#system-green-slide",
+      "name": "Hevestherm Green-Slide",
+      "termCode": "green-slide",
+      "description": "Toló nyílászáró-rendszer a Gold Ablak Kft. kínálatában.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#hevestherm-system-set"
+      },
+      "additionalType": "https://schema.org/DefinedTerm",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Term category",
+          "value": "Toló nyílászáró-rendszer"
+        }
+      ],
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#webpage"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#tisztesseges-vallalkozas-source",
+      "name": "Gold Ablak Kft. – Tisztességes Vállalkozás ellenőrzési rekord",
+      "url": "https://www.tvtanusitvany.eu/company,38588,gold-ablak-kft",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "dateModified": "2025-11-05",
+      "description": "Külső minősítő oldal saját ellenőrzési rekordja; a Gold Ablak Kft. az oldalon Ellenőrzött cég jelöléssel és pozitív ellenőrzési eredménnyel szerepel.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Verification date",
+          "value": "2025-11-05"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Record label",
+          "value": "Ellenőrzött cég"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Verification result",
+          "value": "pozitív"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scope note",
+          "value": "A minősítő oldal saját ellenőrzési rendszere; nem állami vagy hatósági minősítés."
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#public-reputation-snapshot",
+      "name": "Gold Ablak Kft. – külső reputációs pillanatkép",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "dateModified": "2026-04-06",
+      "citation": "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/gold-ablak-kft--1082014.html",
+      "description": "Időben változó külső reputációs snapshot a Cylex/Yably adatlap alapján.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Displayed review count",
+          "value": "38"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Displayed aggregate score",
+          "value": "5/5"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Displayed source count",
+          "value": "2"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Snapshot note",
+          "value": "Nem állandó vállalati tulajdonság; a külső adatlap idővel változhat."
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#local-markdown",
+      "name": "WikiAI saját-domain Markdown – Gold Ablak Kft.",
+      "url": "https://www.wikiai.hu/gold-ablak-kft.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#github-markdown-mirror",
+      "name": "WikiAI GitHub Markdown mirror – Gold Ablak Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/gold-ablak-kft.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/gold-ablak-kft/#local-markdown"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/gold-ablak-kft/#github-jsonld-mirror",
+      "name": "WikiAI GitHub JSON-LD mirror – Gold Ablak Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/gold-ablak-kft.jsonld",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.goldablak.hu/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    }
+  ]
+}
