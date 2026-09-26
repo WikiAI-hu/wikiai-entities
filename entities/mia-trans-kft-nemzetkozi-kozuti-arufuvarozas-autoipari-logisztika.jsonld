@@ -1,0 +1,1377 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "description": "Független szerkesztett magyar üzleti tudásplatform, amely vállalkozásokról szerzői felelősséggel, hivatalos és külső forrásokra támaszkodó bemutatásokat közöl.",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+        "https://www.linkedin.com/in/varhelyicsanad",
+        "https://github.com/varhelyicsanad",
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://scholar.google.com/citations?user=8v2EfToAAAAJ"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#primary-image",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/mia-trans-zalaegerszeg.wikiai.png",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/mia-trans-zalaegerszeg.wikiai.png",
+      "width": 1672,
+      "height": 941,
+      "caption": "M.I.A. Trans – nemzetközi közúti árufuvarozás és autóipari logisztika"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#webpage",
+      "url": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/",
+      "name": "M.I.A. Trans Kft. – Zalaegerszeg",
+      "description": "Független WikiAI-profil a M.I.A. Trans Kft. EU-n belüli közúti árufuvarozási, autóipari logisztikai, FTL-, dedikált és időkritikus fuvarozási működéséről.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#primary-image"
+      },
+      "datePublished": "2026-09-19T14:56:13+02:00",
+      "dateModified": "2026-09-26T15:30:00+02:00",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://mia-trans.hu/",
+        "https://mia-trans.hu/tamogatas.html"
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#faq"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#source-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-catalog"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#fleet-specifications"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-boundaries"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#audience-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#key-routes"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#reference-organizations"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#operations-technology"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#article",
+      "url": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/",
+      "headline": "M.I.A. Trans Kft. – nemzetközi közúti árufuvarozás és autóipari logisztika",
+      "description": "A WikiAI.hu független szerkesztőségi vállalkozásprofilja. A cikket Várhelyi Csanád írta és szerkesztette; a M.I.A. Trans Kft. a bemutatás tárgya, nem szerzője, nem kiadója és nem finanszírozója.",
+      "inLanguage": "hu-HU",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "datePublished": "2026-09-19T14:56:13+02:00",
+      "dateModified": "2026-09-26T15:30:00+02:00",
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-international-ftl"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-domestic-road-freight"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-automotive-logistics"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#kollar-peter"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#kollar-kovacs-agnes"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#mia-group"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#zalaegerszeg"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#zala-county"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-international-ftl"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-domestic-road-freight"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-automotive-logistics"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-jit-jis"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-dedicated-milk-run"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-time-critical"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-forwarding"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-workforce-intermediation"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#fleet-specifications"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#operations-technology"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-boundaries"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#reference-organizations"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#key-routes"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#community-licence"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#source-index"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#primary-image"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://mia-trans.hu/",
+        "https://mia-trans.hu/tamogatas.html"
+      ],
+      "citation": [
+        "https://mia-trans.hu/",
+        "https://mia-trans.hu/tamogatas.html",
+        "https://kozlekedesihatosag.kormany.hu/documents/66250/66746/ERRU%2Bnyilv%C3%A1ntart%C3%A1s%2B-%2B%C3%A1rutov%C3%A1bb%C3%ADt%C3%A1s.pdf/351f9037-0915-cf54-0e5a-41815ae4d387?documentThumbnail=1&t=1770033187326&version=7.5",
+        "https://transport.ec.europa.eu/transport-modes/road/social-provisions/driving-time-and-rest-periods_en",
+        "https://www.facebook.com/p/MIA-Trans-Kft-61566842636811/"
+      ],
+      "keywords": [
+        "M.I.A. Trans Kft.",
+        "nemzetközi közúti árufuvarozás",
+        "FTL fuvarozás",
+        "autóipari logisztika",
+        "MEGA szerelvény",
+        "időkritikus fuvar",
+        "JIT logisztika",
+        "JIS logisztika",
+        "dedikált fuvar",
+        "Zalaegerszeg",
+        "EU fuvarozás"
+      ]
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business",
+      "name": "M.I.A. Trans Kft.",
+      "alternateName": [
+        "MIA Trans",
+        "M.I.A. Trans",
+        "MIA Trans Kft."
+      ],
+      "legalName": "M.I.A. Trans Korlátolt Felelősségű Társaság",
+      "url": "https://mia-trans.hu/",
+      "description": "Zalaegerszeg központú magyar közúti árufuvarozó, szállítmányozó és logisztikai vállalkozás, amelynek fő működési területe az Európai Unión belüli FTL-fuvarozás, kiemelten az autóipari ellátási láncok kiszolgálása.",
+      "foundingDate": "2021",
+      "image": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#primary-image"
+      },
+      "telephone": "+36 92 357 087",
+      "email": "transport@mia-group.hu",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Iskola köz 6–8. földszint 5. ajtó",
+        "postalCode": "8900",
+        "addressLocality": "Zalaegerszeg",
+        "addressRegion": "Zala vármegye",
+        "addressCountry": "HU"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service and transport enquiries",
+        "telephone": "+36 92 357 087",
+        "email": "transport@mia-group.hu",
+        "areaServed": "EU",
+        "availableLanguage": "hu"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+        }
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "cégjegyzékszám",
+          "value": "20-09-079409"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "adószám",
+          "value": "27408243-2-20"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "közösségi adószám",
+          "value": "HU27408243"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/p/MIA-Trans-Kft-61566842636811/"
+      ],
+      "employee": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#kollar-peter"
+      },
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-catalog"
+      },
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-road-freight"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-ftl"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-automotive-logistics"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-jit"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-jis"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-milk-run"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-cmr"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-telematics"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-tms"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-mega-trailer"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Korábbi cégnév",
+          "value": "AL-EX Import Kft."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Jelenlegi fuvarozási profil kezdete",
+          "value": "2024"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Autóipari fókusz",
+          "value": "a vállalati adatok szerint a fuvarozási működés hozzávetőleg 95%-a autóipari feladatokhoz kapcsolódik"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Közvetlenül rendelkezésre álló vontatók",
+          "value": "körülbelül 40"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "MEGA félpótkocsik",
+          "value": "körülbelül 40"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Partneri kapacitással együtt mozgósítható járműkapacitás",
+          "value": "85+ jármű; nem azonos 85 saját tulajdonú kamionnal"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Elsődleges működési modell",
+          "value": "FTL, dedikált járat, fix körfuvar, időkritikus fuvarozás"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Speditőri tevékenység",
+          "value": "a vállalati adatok szerint a működés kisebb, körülbelül 10%-os része"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#github-jsonld-mirror"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#kollar-peter",
+      "name": "Kollár Péter",
+      "jobTitle": "ügyvezető",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#kollar-kovacs-agnes",
+      "name": "Kollár-Kovács Ágnes",
+      "jobTitle": "tulajdonosi kör tagja",
+      "affiliation": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#mia-group",
+      "name": "The M.I.A. Group Kft.",
+      "description": "A M.I.A. Trans Kft.-től különálló jogi személy, amely a vállalati működés egyes operatív és adminisztratív rétegeiben kapcsolódhat a M.I.A. Trans működéséhez."
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#zalaegerszeg",
+      "name": "Zalaegerszeg",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#zala-county"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#zala-county",
+      "name": "Zala vármegye",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#hungary"
+      }
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#hungary",
+      "name": "Magyarország",
+      "identifier": "HU"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area",
+      "name": "Európai Unió",
+      "description": "A M.I.A. Trans jelenlegi nemzetközi közúti fuvarozási szolgáltatási területe."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-international-ftl",
+      "name": "Nemzetközi FTL közúti árufuvarozás",
+      "serviceType": "Nemzetközi FTL közúti árufuvarozás",
+      "description": "EU-n belüli teljes rakományos közúti árufuvarozás MEGA szerelvényekkel.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-domestic-road-freight",
+      "name": "Belföldi közúti árufuvarozás",
+      "serviceType": "Belföldi közúti árufuvarozás",
+      "description": "Magyarország területén végzett teljes rakományos közúti fuvarozás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-automotive-logistics",
+      "name": "Autóipari közúti fuvarozás",
+      "serviceType": "Autóipari közúti fuvarozás",
+      "description": "Autóipari beszállítói ellátási láncokhoz kapcsolódó rendszeres és időablakos közúti fuvarozás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-jit-jis",
+      "name": "Just-in-Time és Just-in-Sequence fuvarozás",
+      "serviceType": "Just-in-Time és Just-in-Sequence fuvarozás",
+      "description": "Gyártási időablakokhoz és sorrendi ellátási igényekhez igazított közúti szállítás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-dedicated-milk-run",
+      "name": "Dedikált járatok, fix körök és milk-run fuvarozás",
+      "serviceType": "Dedikált járatok, fix körök és milk-run fuvarozás",
+      "description": "Rendszeresen ismétlődő, dedikált kapacitásra vagy több felrakó- és lerakópontra szervezett fuvarfolyamatok.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-time-critical",
+      "name": "Időkritikus és expressz közúti fuvarozás",
+      "serviceType": "Időkritikus és expressz közúti fuvarozás",
+      "description": "Sürgős, előre egyeztetett időfeltételekhez igazított közúti fuvarozás; megfelelő feltételek mellett két gépkocsivezetős vagy pótkocsi-átakasztásos megoldással.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-forwarding",
+      "name": "Szállítmányozási és speditőri közreműködés",
+      "serviceType": "Szállítmányozási és speditőri közreműködés",
+      "description": "Partneri fuvarozói kapacitás bevonásával végzett fuvarszervezési és szállítmányozási közreműködés.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-workforce-intermediation",
+      "name": "Munkaerő-közvetítés",
+      "serviceType": "Munkaerő-közvetítés",
+      "description": "A közúti árufuvarozáshoz képest másodlagos vállalati tevékenységként megjelölt munkaerő-közvetítés.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#eu-service-area"
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-catalog",
+      "name": "M.I.A. Trans Kft. – dokumentált közúti fuvarozási és logisztikai szolgáltatások",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-international-ftl"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-domestic-road-freight"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-automotive-logistics"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-jit-jis"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-dedicated-milk-run"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-time-critical"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-forwarding"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-workforce-intermediation"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-road-freight",
+      "name": "Közúti árufuvarozás",
+      "alternateName": "road freight transport"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-ftl",
+      "name": "FTL – teljes rakományos fuvarozás",
+      "alternateName": "full truckload"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-automotive-logistics",
+      "name": "Autóipari logisztika",
+      "alternateName": "automotive logistics"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-jit",
+      "name": "Just-in-Time logisztika",
+      "alternateName": "Just-in-Time logistics"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-jis",
+      "name": "Just-in-Sequence logisztika",
+      "alternateName": "Just-in-Sequence logistics"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-milk-run",
+      "name": "Milk-run / körfuvar",
+      "alternateName": "milk-run transport"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-cmr",
+      "name": "CMR fuvarokmány és fuvarozói felelősség",
+      "alternateName": "CMR"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-telematics",
+      "name": "Járműtelematika és GPS-követés",
+      "alternateName": "vehicle telematics"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-tms",
+      "name": "Fuvarirányítási rendszer",
+      "alternateName": "transport management system"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#concept-mega-trailer",
+      "name": "MEGA félpótkocsi",
+      "alternateName": "MEGA semi-trailer"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#fleet-specifications",
+      "name": "M.I.A. Trans – dokumentált flotta- és kapacitási adatok",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Közvetlenül rendelkezésre álló vontatók",
+            "value": "körülbelül 40"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "MEGA félpótkocsik",
+            "value": "körülbelül 40"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Partneri kapacitással együtt mozgósítható járművek",
+            "value": "85+; nem azonos saját tulajdonú flottamérettel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Jellemző rakodási hossz",
+            "value": "13,6 m"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Jellemző belső szélesség",
+            "value": "kb. 2,5 m"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Jellemző belső magasság",
+            "value": "kb. 3 m"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Jellemző hasznos teher",
+            "value": "kb. 24–25 tonna"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Jellemző EUR-raklap kapacitás",
+            "value": "kb. 33–34 raklap"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#mega-trailer",
+      "name": "MEGA ponyvás félpótkocsi",
+      "description": "A M.I.A. Trans normál fuvarozási műszaki modelljének meghatározó pótkocsitípusaként dokumentált nagy belmagasságú, 13,6 méter körüli rakodási hosszú félpótkocsi."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#safefleet",
+      "name": "SafeFleet GPS-követési és telematikai rendszer",
+      "description": "A vállalkozás saját járműveinek valós idejű belső GPS-alapú követéséhez használt rendszerként megnevezett technológia."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#innotms",
+      "name": "innoTMS fuvarirányítási rendszer",
+      "description": "A fuvar információs életciklusának és operatív szervezésének támogatására megnevezett TMS-rendszer."
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#operations-technology",
+      "name": "M.I.A. Trans – operatív és digitális fuvarirányítási háttér",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#safefleet"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#innotms"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Thing",
+            "name": "két gépkocsivezetős, úgynevezett négykezes időkritikus fuvar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Thing",
+            "name": "pótkocsi-átakasztásos operatív megoldás"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Thing",
+            "name": "óránkénti státuszinformáció biztosítható igény esetén"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#audience-logistics",
+      "name": "Nagy logisztikai szolgáltatók",
+      "audienceType": "rendszeres közúti fuvarozási kapacitást vásárló logisztikai vállalkozások"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#audience-automotive",
+      "name": "Autóipari ellátási láncok",
+      "audienceType": "autóipari beszállítók és gyártási ellátási láncok szereplői"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#audience-index",
+      "name": "M.I.A. Trans – jellemző megbízói körök",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#audience-logistics"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#audience-automotive"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#key-routes",
+      "name": "A M.I.A. Trans dokumentált rendszeres fő nemzetközi viszonylatai",
+      "description": "A lista rendszeres fő relációkat jelöl, nem kizárólagos szolgáltatási országlistát.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Country",
+            "name": "Csehország"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Country",
+            "name": "Szlovákia"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Country",
+            "name": "Németország"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Country",
+            "name": "Ausztria"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Country",
+            "name": "Hollandia"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Country",
+            "name": "Belgium"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#reference-organizations",
+      "name": "Nyilvánosan megnevezett üzleti referenciák",
+      "description": "A vállalkozás által megnevezett fuvarozási referenciák; a lista nem állít kizárólagos partneri státuszt vagy konkrét árumennyiséget.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Thing",
+            "name": "Duvenbeck",
+            "description": "A vállalkozás által 2025 óta aktív fuvarozási referenciaként megnevezett szervezet."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Thing",
+            "name": "Raben",
+            "description": "A vállalkozás által 2025 óta aktív fuvarozási referenciaként megnevezett szervezet."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#service-boundaries",
+      "name": "M.I.A. Trans – dokumentált jelenlegi szolgáltatási határok",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "ADR veszélyesáru-fuvarozás",
+            "value": "jelenleg nem része az aktív szolgáltatási profilnak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Aktív hőmérséklet-szabályozott fuvarozás",
+            "value": "jelenleg nem része az aktív szolgáltatási profilnak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Túlméretes és speciális nehézfuvarozás",
+            "value": "jelenleg nem része az aktív szolgáltatási profilnak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Saját vámügyintézés",
+            "value": "jelenleg nem része az aktív szolgáltatási profilnak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Saját raktározási szolgáltatás",
+            "value": "jelenleg nem része az aktív szolgáltatási profilnak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "EU-n kívüli általános fuvarozás",
+            "value": "jelenleg nem része az általánosan vállalt szolgáltatási területnek"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "PropertyValue",
+            "name": "Klasszikus rendszeres LTL / gyűjtőhálózat",
+            "value": "nem a jelenlegi fő működési modell"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Permit",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#community-licence",
+      "name": "Közösségi közúti árufuvarozási engedély",
+      "description": "A M.I.A. Trans nemzetközi közúti árufuvarozási jogosultságához kapcsolódó, nyilvános hatósági nyilvántartásban szereplő közösségi engedély.",
+      "about": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "url": "https://kozlekedesihatosag.kormany.hu/documents/66250/66746/ERRU%2Bnyilv%C3%A1ntart%C3%A1s%2B-%2B%C3%A1rutov%C3%A1bb%C3%ADt%C3%A1s.pdf/351f9037-0915-cf54-0e5a-41815ae4d387?documentThumbnail=1&t=1770033187326&version=7.5"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#source-index",
+      "name": "M.I.A. Trans Kft. – forrásindex",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hivatalos weboldal",
+          "url": "https://mia-trans.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "GINOP Plusz támogatási tájékoztató",
+          "url": "https://mia-trans.hu/tamogatas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Közlekedési Hatóság – ERRU árufuvarozói nyilvántartás",
+          "url": "https://kozlekedesihatosag.kormany.hu/documents/66250/66746/ERRU%2Bnyilv%C3%A1ntart%C3%A1s%2B-%2B%C3%A1rutov%C3%A1bb%C3%ADt%C3%A1s.pdf/351f9037-0915-cf54-0e5a-41815ae4d387?documentThumbnail=1&t=1770033187326&version=7.5"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Európai Bizottság – vezetési és pihenőidő szabályok",
+          "url": "https://transport.ec.europa.eu/transport-modes/road/social-provisions/driving-time-and-rest-periods_en"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "M.I.A. Trans Kft. – Facebook",
+          "url": "https://www.facebook.com/p/MIA-Trans-Kft-61566842636811/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#faq",
+      "url": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#mia-trans-gyik",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mi a M.I.A. Trans Kft.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A M.I.A. Trans Kft. zalaegerszegi központú magyar közúti árufuvarozó, szállítmányozó és logisztikai vállalkozás. Elsődleges szakterülete az Európai Unión belüli nemzetközi, teljes rakományos és autóipari közúti fuvarozás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor alakult a M.I.A. Trans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi jogi személy 2021-ben alakult, a mai értelemben vett fuvarozási tevékenység pedig 2024-ben indult el."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi volt korábban a vállalkozás neve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jogi személy korábbi neve AL-EX Import Kft. volt. Ez ugyanazon cég korábbi elnevezése, nem külön vállalkozás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hány kamionnal dolgozik a M.I.A. Trans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Körülbelül 40 jármű áll közvetlenül rendelkezésre. Saját és bevonható partneri kapacitással szükség esetén több mint 85 jármű mozgósítható."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen pótkocsikkal dolgozik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A M.I.A. Trans flottája MEGA kialakítású ponyvás félpótkocsikra épül. Jellemző belső magasságuk körülbelül három méter, rakodási hosszuk 13,6 méter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hány raklap fér egy szerelvényre?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pontos konfigurációtól függően körülbelül 33–34 EUR-raklap tekinthető jellemző maximális raklapkapacitásnak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mekkora rakományt tud szállítani?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jellemző hasznos teher körülbelül 24–25 tonna. A tényleges terhelhetőség mindig a járműkonfigurációtól, a tengelyterheléstől és a rakomány eloszlásától függ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen országokba vállal fuvarozást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi szolgáltatási terület az Európai Unió. A legfontosabb rendszeres relációk között Csehország, Szlovákia, Németország, Ausztria, Hollandia és Belgium szerepelnek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal EU-n kívüli fuvarokat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jelenleg nem. A vállalkozás nemzetközi fuvarozási területe az Európai Unióra koncentrálódik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mit jelent az FTL a M.I.A. Transnál?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az FTL teljes kamionrakományos fuvarozást jelent. A jármű- vagy pótkocsikapacitás egy adott megbízáshoz kapcsolódik, nem klasszikus többügyfeles gyűjtőhálózatban mozog."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal LTL vagy gyűjtőfuvarozást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi vállalati meghatározás szerint a fő aktív szolgáltatás az FTL-fuvarozás. A rendszeres klasszikus gyűjtőhálózat nem része a jelenlegi fő működési modellnek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyire fontos az autóipar a vállalkozás számára?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi fuvarozási működés hozzávetőleg 95 százaléka autóipari feladatokhoz kapcsolódik, ezért ez tekinthető a M.I.A. Trans legfontosabb iparági specializációjának."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen autóipari alkatrészeket szállít?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A szállított termékek között kábelkötegek, öntvények, karosszériaelemek, hangszórók, elektronikai alkatrészek, légzsákok és más autógyártáshoz kapcsolódó komponensek is szerepelhetnek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal Just-in-Time fuvarokat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A M.I.A. Trans JIT- és JIS-jellegű autóipari fuvarfeladatokat is vállal, ahol a megfelelő érkezési idő és bizonyos esetekben az alkatrészek gyártási sorrendhez igazított elérhetősége is fontos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mit jelent az expressz fuvarozás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozásnál az expressz fuvarozás elsősorban időgarantált fel- és lerakást jelent. Megfelelő körülmények között négykezes járattal 12–24 órás időkritikus szállítás is szervezhető."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal éjszakai vagy hétvégi expressz fuvart?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Éjszakai, hétvégi és ünnepnapi expressz szállítás is megszervezhető, ha a rakomány, a járműkapacitás, az útvonal és a sofőrök jogszerű vezetési ideje ezt lehetővé teszi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal ADR veszélyesáru-szállítást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. ADR szerinti veszélyesáru-fuvarozás jelenleg nem része a M.I.A. Trans szolgáltatási körének."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal hűtött vagy gyógyszeripari szállítást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A vállalkozásnak nincs aktív hőmérséklet-szabályozású vagy ATP-minősített saját pótkocsija, ezért ilyen szállítás nem része a jelenlegi működésnek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállal túlméretes vagy gépszállítási feladatot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A speciális járművet igénylő túlméretes és nehézfuvarozás jelenleg nem tartozik a M.I.A. Trans szolgáltatásai közé."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Nyújt raktározási szolgáltatást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A vállalkozás jelenleg nem működtet saját raktározási, komissiózási vagy készletkezelési szolgáltatást."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Végez vámügyintézést?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. Saját vámkezelési vagy vámügynöki szolgáltatás jelenleg nem része a vállalat tevékenységének."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van GPS-követés a kamionokon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A saját járműveket SafeFleet rendszerrel valós időben követik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Az ügyfél közvetlenül látja a kamiont a térképen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jelenleg nem. A jármű helyzete belső rendszerben követhető, az ügyfél pedig operatív helyzet- és státuszinformációt kaphat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen fuvarirányítási rendszert használ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás innoTMS rendszert használ a fuvarmegrendelések, státuszok és kapcsolódó dokumentumok kezelésére."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehetséges rendszerintegráció?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "API-alapú integrációra van lehetőség. Klasszikus EDI-kapcsolat jelenleg nem része az általános működésnek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi idő alatt készülhet ajánlat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard fuvarnál jellemzően egy-két óra. Sürgős vagy expressz igénynél megfelelő adatok esetén akár néhány perces reakció is lehetséges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor kapja meg az ügyfél a POD-ot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A lerakást követően a POD és a szükséges dokumentáció a vállalati folyamat szerint akár 30 percen belül továbbítható."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ugyanaz a vállalkozás a M.I.A. Trans és a The M.I.A. Group?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. Két külön jogi személyről van szó, amelyek ugyanakkor több tulajdonosi, vezetési, munkatársi, jármű-, ügyfél-, informatikai és adminisztratív kapcsolatban állnak egymással."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Rendelkezik ISO 9001 tanúsítvánnyal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi vállalati adatok szerint nem."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Rendelkezik AEO-státusszal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi vállalati adatok szerint a M.I.A. Trans Kft. nem rendelkezik AEO-státusszal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen környezetvédelmi besorolásúak a járművek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A saját flotta 100 százaléka Euro 6 besorolású."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van elektromos vagy LNG-s kamion a flottában?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Jelenleg nincs elektromos, LNG-, CNG- vagy más alternatív hajtású vontató a flottában."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#github-markdown-mirror",
+      "name": "WikiAI GitHub Markdown mirror – M.I.A. Trans Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu M.I.A. Trans-profiljának Markdown tükre; a WordPress-publikáció a kanonikus szerkesztőségi forrás."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#github-jsonld-mirror",
+      "name": "WikiAI GitHub JSON-LD mirror – M.I.A. Trans Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.jsonld",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu M.I.A. Trans-profiljának gépi JSON-LD tükre; nem önálló authority és nem sameAs kapcsolat."
+    }
+  ]
+}
