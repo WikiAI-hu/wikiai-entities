@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-a
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 612
-last_updated: "2026-09-26T15:37:34+02:00"
+last_updated: "2026-09-26T15:37:39+02:00"
 location:
   country: "HU"
 contact:
