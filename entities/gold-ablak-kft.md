@@ -17,7 +17,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.goldablak.hu/"
 wordpress_post_id: 64
-last_updated: "2026-09-26T15:59:45+02:00"
+last_updated: "2026-09-26T16:02:28+02:00"
 location:
   address: "4200 Hajdúszoboszló, Déli sor 6."
   country: "HU"
@@ -566,6 +566,6 @@ Ajánlatkéréskor érdemes megadni a **települést, az ingatlan típusát, az 
 
 A Gold Ablak Kft. szakmai profiljának lényege nem egyetlen ablakmárka vagy egyetlen műszaki szám. A vállalkozás értékét a **helyszíni felmérés, megfelelő rendszerkonfiguráció, gyártói háttér, szakszerű mechanikai és épületfizikai beépítés, finombeállítás és helyi utánkövetés** együttese adja.
 
-**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: [Várhelyi Csanád](https://www.varhelyicsanad.hu/)**
+**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)**
 
 A WikiAI.hu Vállalkozások rovatának bemutatói szerkesztői döntés alapján készülnek; **a rovatban való megjelenés nem vásárolható meg**.
