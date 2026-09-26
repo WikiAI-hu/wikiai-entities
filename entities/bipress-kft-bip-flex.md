@@ -40,7 +40,6 @@ editorial_author: "Várhelyi Csanád"
 publication_relation: "editorial"
 source_role: "independent-secondary-source"
 production_jsonld_layer: "HFCM #23 / head"
-legacy_redirect_source: "https://www.hidraulikatomlogyartas.hu/"
 ---
 
 <!--
