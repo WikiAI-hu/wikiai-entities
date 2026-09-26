@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T12:52:06Z",
+    "last_updated": "2026-09-26T12:55:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -168,7 +168,7 @@
             "google_place_id": "ChIJkb0XcSYZR0cRHTsWecS2vLE"
         },
         {
-            "entity_name": "Nyomdaipari Kkt.",
+            "entity_name": "NYOMDAIPARI Szolgáltató Közkereseti Társaság",
             "entity_type": [
                 "Organization",
                 "LocalBusiness",
@@ -182,7 +182,19 @@
             "country": "HU",
             "google_cid": "16107295574466872230",
             "google_kgmid": "/g/1xb2cbqy",
-            "google_place_id": "ChIJ136F-wYSR0cRpsNRIPybiN8"
+            "google_place_id": "ChIJ136F-wYSR0cRpsNRIPybiN8",
+            "locality": "Debrecen",
+            "apple_maps_place_id": "I6970128794A2E0EC",
+            "entity_id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business",
+            "local_markdown_url": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas.md",
+            "jsonld_mirror": "entities/nyomdaipari-kkt-debrecen-cimkegyartas.jsonld",
+            "wikiai_article_id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#webpage",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source",
+            "production_jsonld_layer": "temporary-wordpress-post-body-fallback",
+            "last_verified": "2026-09-26"
         },
         {
             "entity_name": "Színes Pillanat",
