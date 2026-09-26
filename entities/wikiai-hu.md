@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:43:28+02:00"
+last_updated: "2026-09-26T17:43:56+02:00"
 location:
   country: "HU"
 identifiers:
@@ -106,13 +106,15 @@ A WikiAI.hu egyik alapelve a **szerkesztőségi és a fizetett tartalmak világo
 - A pro bono megjelenés ellenszolgáltatás nélküli, és nem azonos a sponsored tartalommal.
 - Fizetett együttműködés nem biztosít automatikus szerkesztőségi bekerülést vagy kedvező szerkesztőségi megállapítást.
 
-## Hogyan készülnek a vállalkozási profilok?
+## Mit ad egy WikiAI.hu vállalkozási bemutatás?
 
-A WikiAI.hu vállalkozási bemutatásai többféle forrásból épülhetnek fel: hivatalos weboldalból, nyilvános cégadatokból, térképes és üzleti profilokból, szakmai dokumentumokból, kapcsolódó személyek nyilvános szakmai felületeiből és más ellenőrizhető forrásokból.
+A WikiAI.hu vállalkozási profiljának célja, hogy az olvasó néhány perc alatt használható képet kapjon egy cégről vagy szakemberről. A bemutatás ezért az alapadatokon túl kitérhet a tevékenységre, a szolgáltatásokra, a szakmai háttérre, a működési területre, a fontos kapcsolódó személyekre, a gyakorlati tudnivalókra és azokra a körülményekre, amelyek segítenek eldönteni, hogy az adott vállalkozás releváns-e egy konkrét helyzetben.
 
-A cél nem az, hogy minden elérhető állítás bekerüljön a profilba. Ha egy adat bizonytalan, elavult vagy egymásnak ellentmondó forrásokból származik, a WikiAI.hu inkább kihagyhatja vagy óvatosan, forrásához kötve fogalmazhatja meg.
+A profilok alapja ellenőrizhető nyilvános információ. Felhasználhatók hivatalos vállalkozási közlések, nyilvános cégadatok, szakmai dokumentumok és független külső források is. A vállalkozás saját közlése fontos információforrás lehet, de a WikiAI.hu szerkesztőségi tartalma nem azonos a vállalkozás saját reklámszövegével.
 
-A vállalkozás saját hivatalos oldala elsődleges forrás lehet a saját szolgáltatásaira és bemutatkozására, míg a WikiAI.hu-profil a bemutatott külső vállalkozás esetében külön szerkesztőségi forrásként működik.
+A bemutatásoknál **nem cél minden elérhető állítás összegyűjtése**. A lényeges, ellenőrizhető és az olvasó döntését segítő információk kapnak elsőbbséget. A gyorsan változó vagy nem kellően alátámasztott adatokat a WikiAI.hu nem kezeli automatikusan stabil tényként.
+
+A részletes belső szerkesztési és technikai munkafolyamat nem része a nyilvános vállalkozásprofilnak. Az olvasó számára annak kell látszania, ami valóban fontos: **ki a vállalkozás, mit csinál, hol működik, mit lehet róla megbízhatóan tudni, és milyen helyzetben lehet releváns**.
 
 ## A WikiAI.hu szakmai szolgáltatásai
 
