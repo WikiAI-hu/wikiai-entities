@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:45:25+02:00"
+last_updated: "2026-09-26T17:51:50+02:00"
 location:
   country: "HU"
 identifiers:
@@ -114,7 +114,7 @@ A profilok alapja ellenőrizhető nyilvános információ. Felhasználhatók hiv
 
 A bemutatásoknál **nem cél minden elérhető állítás összegyűjtése**. A lényeges, ellenőrizhető és az olvasó döntését segítő információk kapnak elsőbbséget. A gyorsan változó vagy nem kellően alátámasztott adatokat a WikiAI.hu nem kezeli automatikusan stabil tényként.
 
-A részletes belső szerkesztési és technikai munkafolyamat nem része a nyilvános vállalkozásprofilnak. Az olvasó számára annak kell látszania, ami valóban fontos: **ki a vállalkozás, mit csinál, hol működik, mit lehet róla megbízhatóan tudni, és milyen helyzetben lehet releváns**.
+Az olvasó számára a használható eredmény a fontos: **ki a vállalkozás, mit csinál, hol működik, mit lehet róla megbízhatóan tudni, és milyen helyzetben lehet releváns**.
 
 ## Milyen szakmai területeken dolgozik a WikiAI.hu?
 
