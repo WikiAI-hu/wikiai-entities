@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/csarnok-gyarto-kft/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 63
-last_updated: "2026-09-26T17:01:25+02:00"
+last_updated: "2026-09-26T17:01:31+02:00"
 location:
   country: "HU"
 machine_attributes:
