@@ -1,0 +1,992 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "sameAs": [
+        "https://github.com/WikiAI-hu"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "sameAs": [
+        "https://www.varhelyicsanad.hu/"
+      ],
+      "jobTitle": "felelős szerkesztő"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#primary-image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/szines-pillanat-eskuvoi-fotos-videos-debrecen-wikiai.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/szines-pillanat-eskuvoi-fotos-videos-debrecen-wikiai.png",
+      "caption": "Színes Pillanat – esküvői fotózás és videózás Hajdúszoboszlón, Debrecenben és Hajdú-Biharban",
+      "width": 1672,
+      "height": 941,
+      "inLanguage": "hu-HU",
+      "representativeOfPage": true,
+      "creditText": "MI-generált illusztráció",
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "propertyID": "IPTC:DigitalSourceType",
+        "value": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia"
+      }
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#webpage",
+      "url": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/",
+      "name": "Színes Pillanat – esküvői fotózás és videózás Hajdúszoboszlón",
+      "description": "A Színes Pillanat Uhelszky Angéla és Uhelszky Tamás hajdúszoboszlói esküvői fotós-videós csapata, amely Debrecenben, Hajdú-Biharban és egyeztetéssel országszerte vállal munkát.",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#primary-image"
+      },
+      "inLanguage": "hu-HU",
+      "datePublished": "2026-09-07T17:04:07+02:00",
+      "dateModified": "2026-09-26T09:26:45+02:00",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#article",
+      "headline": "Színes Pillanat – esküvői fotózás és videózás Hajdúszoboszlón",
+      "description": "Részletes szerkesztőségi bemutatás a Színes Pillanat esküvői fotó- és videós szolgáltatásáról, Uhelszky Angéla és Uhelszky Tamás munkájáról, csomagjairól, technikai hátteréről és szolgáltatási területéről.",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#webpage"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+        }
+      ],
+      "image": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#primary-image"
+      },
+      "inLanguage": "hu-HU",
+      "datePublished": "2026-09-07T17:04:07+02:00",
+      "dateModified": "2026-09-26T09:26:45+02:00",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "keywords": [
+        "Színes Pillanat",
+        "esküvői fotózás",
+        "esküvői videózás",
+        "esküvői film",
+        "Hajdúszoboszló",
+        "Debrecen",
+        "Hajdú-Bihar",
+        "Uhelszky Angéla",
+        "Uhelszky Tamás"
+      ],
+      "isBasedOn": [
+        {
+          "@type": "WebPage",
+          "name": "Színes Pillanat hivatalos weboldala",
+          "url": "https://www.szinespillanat.hu/"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Szolid esküvői csomag",
+          "url": "https://www.szinespillanat.hu/szolid.html"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Klasszikus esküvői csomag",
+          "url": "https://www.szinespillanat.hu/klasszikus.html"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Fényűző esküvői csomag",
+          "url": "https://www.szinespillanat.hu/fenyuzo.html"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Személyre szabott esküvői szolgáltatás",
+          "url": "https://www.szinespillanat.hu/szemelyre-szabott.html"
+        },
+        {
+          "@type": "WebPage",
+          "name": "Uhelszky Angéla Photography",
+          "url": "https://www.uhelszkyangelaphotography.hu/"
+        }
+      ],
+      "citation": [
+        "https://www.google.com/maps?cid=9575396495972956002",
+        "https://hvtv.hu/munkatarsaink/",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/sz%C3%ADnes-pillanat---esk%C3%BCv%C5%91i-fot%C3%B3z%C3%A1s---vide%C3%B3z%C3%A1s-805693.html",
+        "https://azeskuvo.hu/szolgaltato/video/uhelszky-tamas",
+        "https://www.starofservice.hu/inv/szakember/legi-fotozas/hajduszoboszlo/214852894/szines-pillanat"
+      ],
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business",
+      "name": "Színes Pillanat",
+      "url": "https://www.szinespillanat.hu/",
+      "description": "Hajdúszoboszlói esküvői fotós-videós szolgáltatás, amely fotózást, videózást, esküvői filmkészítést és összehangolt fotó-videó dokumentálást kínál.",
+      "image": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#primary-image"
+      },
+      "telephone": [
+        "+36 20 377 3530",
+        "+36 20 495 3848"
+      ],
+      "email": "info@szinespillanat.hu",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cseke utca 14.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.450166,
+        "longitude": 21.381519
+      },
+      "hasMap": "https://www.google.com/maps?cid=9575396495972956002",
+      "sameAs": [
+        "https://www.google.com/maps?cid=9575396495972956002",
+        "https://www.facebook.com/uhelszkyphotography",
+        "https://youtube.com/@szinespillanat3592"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "9575396495972956002"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google KGMID",
+          "value": "/g/11zwm_0nwr"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Maps feature ID",
+          "value": "0x4747190d4b509e49:0x84e2a46165fcf762"
+        }
+      ],
+      "member": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#uhelszky-angela"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#uhelszky-tamas"
+        }
+      ],
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-balmazujvaros"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduboszormeny"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-berettyoujfalu"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-puspokladany"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajdunanas"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-derecske"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-nyiregyhaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-miskolc"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-bekescsaba"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#offer-catalog"
+      },
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#github-jsonld-mirror"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#uhelszky-angela",
+      "name": "Uhelszky Angéla",
+      "jobTitle": "esküvői fotós és portréfotós",
+      "url": "https://www.uhelszkyangelaphotography.hu/",
+      "sameAs": [
+        "https://www.tiktok.com/@uhelszkyangela"
+      ],
+      "knowsAbout": [
+        "esküvői fotózás",
+        "portréfotózás",
+        "családi fotózás",
+        "kismamafotózás",
+        "gyermekfotózás",
+        "fotós utómunka"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#uhelszky-tamas",
+      "name": "Uhelszky Tamás",
+      "jobTitle": "esküvői videós, operatőr és vágó",
+      "sameAs": [
+        "https://azeskuvo.hu/szolgaltato/video/uhelszky-tamas"
+      ],
+      "subjectOf": {
+        "@type": "WebPage",
+        "name": "Hajdúszoboszlói Városi Televízió – munkatársak",
+        "url": "https://hvtv.hu/munkatarsaink/"
+      },
+      "knowsAbout": [
+        "esküvői videózás",
+        "operatőri munka",
+        "videóvágás",
+        "esküvői film",
+        "hangrögzítés"
+      ]
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business-location",
+      "name": "Színes Pillanat – hajdúszoboszlói bázis",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Cseke utca 14.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 47.450166,
+        "longitude": 21.381519
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "sameAs": "https://www.wikidata.org/wiki/Q830404"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-balmazujvaros",
+      "name": "Balmazújváros"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduboszormeny",
+      "name": "Hajdúböszörmény"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-berettyoujfalu",
+      "name": "Berettyóújfalu"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-puspokladany",
+      "name": "Püspökladány"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajdunanas",
+      "name": "Hajdúnánás"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-derecske",
+      "name": "Derecske"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-nyiregyhaza",
+      "name": "Nyíregyháza"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-miskolc",
+      "name": "Miskolc"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-bekescsaba",
+      "name": "Békéscsaba"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#concept-wedding",
+      "name": "Esküvő",
+      "sameAs": "https://www.wikidata.org/wiki/Q49836"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#concept-wedding-photography",
+      "name": "Esküvői fotózás",
+      "sameAs": "https://www.wikidata.org/wiki/Q929508"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#concept-videography",
+      "name": "Videográfia",
+      "sameAs": "https://www.wikidata.org/wiki/Q2662841"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-wedding-photography",
+      "name": "Esküvői fotózás",
+      "description": "Esküvői készülődés, szertartások, családi és csoportképek, kreatív páros fotózás és lakodalmi események fényképes dokumentálása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-wedding-videography",
+      "name": "Esküvői videózás",
+      "description": "Esküvői események mozgóképes dokumentálása, többkamerás rögzítés, hangkezelés és vágott filmes átadás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-combined-photo-video",
+      "name": "Összehangolt esküvői fotó-videó szolgáltatás",
+      "description": "Fotós és videós szerepkör összehangolt munkája ugyanazon esküvői időrendben.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-engagement-photography",
+      "name": "Jegyesfotózás",
+      "description": "Esküvő előtti páros fotózás külön egyeztetett időpontban és helyszínen.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-creative-wedding-photo",
+      "name": "Kreatív esküvői fotózás",
+      "description": "Tervezett páros portréfotózás az esküvő napján vagy külön időpontban.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-highlight-video",
+      "name": "Esküvői highlight videó",
+      "description": "Rövid, válogatott, szerkesztett összefoglaló film az esküvő meghatározó pillanataiból.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-long-wedding-film",
+      "name": "Hosszabb esküvői film",
+      "description": "A nap eseményeit részletesebben, szélesebb időrendben bemutató szerkesztett esküvői film.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-ceremony-recording",
+      "name": "Szertartásfelvétel",
+      "description": "Polgári, egyházi vagy más egyeztetett esküvői szertartás videós dokumentálása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-family-photography",
+      "name": "Családi és portréfotózás",
+      "description": "Családi, kismama-, baba-, gyermek-, születésnapi és kapcsolódó portréfotózás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-event-photo-video",
+      "name": "Rendezvényfotózás és filmezés",
+      "description": "Rendezvények fotós és videós dokumentálása a megrendelő igényeihez igazodva.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-product-photography",
+      "name": "Termékfotózás",
+      "description": "Katalógushoz, weboldalhoz és üzleti vizuális megjelenéshez készülő termékfotózás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-szolid",
+      "name": "Szolid esküvői fotó-videó csomag",
+      "url": "https://www.szinespillanat.hu/szolid.html",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "serviceType": "esküvői fotózás és videózás",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Kiindulási rendelkezésre állás",
+          "value": "6 óra"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Kreatív fotózás",
+          "value": "körülbelül 1 óra"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Esküvői film",
+          "value": "körülbelül 45 perc, HD 1080p"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Összefoglaló film",
+          "value": "4–5 perc"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-klasszikus",
+      "name": "Klasszikus esküvői fotó-videó csomag",
+      "url": "https://www.szinespillanat.hu/klasszikus.html",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "serviceType": "esküvői fotózás és videózás",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Kiindulási rendelkezésre állás",
+          "value": "12 óra"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Kreatív fotózás",
+          "value": "körülbelül 1–2 óra"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Esküvői film",
+          "value": "körülbelül 1–1,5 óra, HD 1080p"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Összefoglaló film",
+          "value": "4–5 perc"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-fenyuuzo",
+      "name": "Fényűző esküvői fotó-videó csomag",
+      "url": "https://www.szinespillanat.hu/fenyuzo.html",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "serviceType": "esküvői fotózás és videózás",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Kiindulási rendelkezésre állás",
+          "value": "16 óra"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Kreatív fotózás",
+          "value": "körülbelül 2 óra"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Esküvői film",
+          "value": "körülbelül 1,5–2 óra, HD 1080p"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Összefoglaló film",
+          "value": "6–8 perc"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Légifelvétel",
+          "value": "csak megfelelő időjárási, helyszíni, légügyi és biztonsági feltételek mellett"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-custom",
+      "name": "Személyre szabott esküvői fotó-videó szolgáltatás",
+      "url": "https://www.szinespillanat.hu/szemelyre-szabott.html",
+      "provider": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "serviceType": "esküvői fotózás és videózás",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Összeállítás",
+          "value": "egyedileg választható szertartás-, vacsora-, kreatív-, jegyes- és más dokumentálási elemek"
+        }
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#offer-catalog",
+      "name": "Színes Pillanat esküvői szolgáltatási katalógus",
+      "itemListElement": [
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-szolid"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-klasszikus"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-fenyuuzo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#package-custom"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-wedding-photography"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-wedding-videography"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#service-combined-photo-video"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#faq",
+      "url": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#szines-pillanat-faq",
+      "about": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "inLanguage": "hu-HU",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Hol működik a Színes Pillanat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A bázis Hajdúszoboszló, a fő szolgáltatási terület Hajdúszoboszló, Debrecen és Hajdú-Bihar vármegye. Távolabbi magyarországi esküvők előzetes egyeztetéssel vállalhatók."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van külön debreceni telephely?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. Debrecen fontos szolgáltatási terület, a nyilvánosan megadott fizikai cím 4200 Hajdúszoboszló, Cseke utca 14."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet csak fotózást vagy csak videózást kérni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A fotó és a videó külön is megrendelhető, és személyre szabott összeállítás is kérhető."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi ideig van jelen a csapat?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A kész csomagok kiindulási kerete eltérő: a Szolid 6 óra, a Klasszikus 12 óra, a Fényűző 16 óra. Egyedi összeállításnál a jelenléti idő külön egyeztethető."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Készül rövid és hosszabb esküvői film is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Csomagtól függően rövid highlight és hosszabb esküvői film is része lehet az átadásnak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "4K-ban adják át a filmet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A hivatalos csomagok HD 1080p / Full HD filmet neveznek meg. A 4K nem automatikus alapformátum, ezért külön egyeztetendő."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Minden esküvőn készül drónfelvétel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A légifelvétel csak akkor készíthető el, ha az időjárási, helyszíni, légügyi és biztonsági feltételek lehetővé teszik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet külön napon kreatív fotózást kérni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A kreatív fotózás vagy filmezés külön napra is szervezhető előzetes egyeztetéssel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen anyagokat kaphat meg a pár?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A csomagtól függően szerkesztett digitális fotóanyag, highlight videó, hosszabb esküvői film, fotókönyv, jelszóval védett webgaléria, nyomtatott képválogatás és pendrive is része lehet az átadásnak."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan érdemes ajánlatot kérni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az első üzenetben célszerű megadni a dátumot, helyszínt, tervezett időrendet és a kívánt szolgáltatást, valamint a különleges igényeket."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas.md",
+      "url": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Színes Pillanat",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/szines-pillanat-eskuvoi-fotozas-videozas.md",
+      "name": "WikiAI GitHub Markdown mirror – Színes Pillanat",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/szines-pillanat-eskuvoi-fotozas-videozas.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – Színes Pillanat",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    }
+  ]
+}
