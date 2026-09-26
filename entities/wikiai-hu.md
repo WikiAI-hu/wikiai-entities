@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:45:18+02:00"
+last_updated: "2026-09-26T17:45:25+02:00"
 location:
   country: "HU"
 identifiers:
@@ -252,4 +252,4 @@ Igen, bizonyos kutatási, szerkesztési, nyelvi és strukturálási feladatok t�
 
 **Profil: WikiAI.hu · Szerző és felelős szerkesztő: [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)**
 
-Jelen oldal a WikiAI.hu saját, első fél által fenntartott hivatalos platformprofilja. A WikiAI.hu külső vállalkozásokról készített Vállalkozások-profiljaitól eltérően ez az oldal nem független másodlagos forrás a saját platformjáról.
+A WikiAI.hu jelen oldala a platform saját működését, szereplőit és szolgáltatási területeit bemutató hivatalos profil. A külső vállalkozásokról készített szerkesztőségi profilok ettől elkülönülő tartalmak.
