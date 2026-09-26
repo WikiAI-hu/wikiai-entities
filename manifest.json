@@ -273,5 +273,71 @@
             "wordpress_post_id": 637,
             "country": "Magyarország"
         }
-    ]
+    ],
+    "wikiai_knowledge": {
+        "index": "wikiai/index.md",
+        "manifest": "wikiai/manifest.json",
+        "source_of_truth": "https://www.wikiai.hu/",
+        "last_updated": "2026-09-26T14:06:49+00:00",
+        "documents": [
+            {
+                "document_type": "service_catalog",
+                "path": "wikiai/services.md",
+                "canonical_url": "https://www.wikiai.hu/szolgaltatasok/",
+                "wordpress_post_id": 101
+            },
+            {
+                "document_type": "pricing",
+                "path": "wikiai/pricing.md",
+                "canonical_url": "https://www.wikiai.hu/arak/",
+                "wordpress_post_id": 202,
+                "currency": "HUF",
+                "valid_as_of": "2026-09-26"
+            },
+            {
+                "document_type": "about",
+                "path": "wikiai/about.md",
+                "canonical_url": "https://www.wikiai.hu/rolunk/",
+                "wordpress_post_id": 21
+            },
+            {
+                "document_type": "team_directory",
+                "path": "wikiai/team.md",
+                "canonical_url": "https://www.wikiai.hu/szakertok/",
+                "wordpress_post_id": 22
+            },
+            {
+                "document_type": "contact",
+                "path": "wikiai/contact.md",
+                "canonical_url": "https://www.wikiai.hu/kapcsolat/",
+                "wordpress_post_id": 23
+            }
+        ],
+        "people": [
+            {
+                "document_type": "person_profile",
+                "path": "wikiai/people/varhelyi-csanad.md",
+                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+                "wordpress_post_id": 143,
+                "name": "Várhelyi Csanád",
+                "relationship_to_wikiai": "founder"
+            },
+            {
+                "document_type": "person_profile",
+                "path": "wikiai/people/varhelyi-viktoria.md",
+                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
+                "wordpress_post_id": 144,
+                "name": "Várhelyi Viktória",
+                "relationship_to_wikiai": "cofounder"
+            },
+            {
+                "document_type": "person_profile",
+                "path": "wikiai/people/molnar-andras.md",
+                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
+                "wordpress_post_id": 145,
+                "name": "Molnár András",
+                "relationship_to_wikiai": "external_professional_partner"
+            }
+        ]
+    }
 }
