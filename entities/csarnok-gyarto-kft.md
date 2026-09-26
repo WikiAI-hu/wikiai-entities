@@ -13,7 +13,7 @@ entity_id: "https://www.csarnokgyartasdebrecen.hu/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 63
-last_updated: "2026-09-26T17:26:06+02:00"
+last_updated: "2026-09-26T17:26:11+02:00"
 location:
   country: "HU"
 machine_attributes:
