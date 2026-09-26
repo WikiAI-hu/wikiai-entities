@@ -15,7 +15,7 @@ entity_id: "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#b
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 59
-last_updated: "2026-09-26T14:35:16+02:00"
+last_updated: "2026-09-26T14:35:22+02:00"
 location:
   country: "HU"
 identifiers:
