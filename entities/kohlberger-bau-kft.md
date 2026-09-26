@@ -16,11 +16,13 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://kohlberger.hu/"
 wordpress_post_id: 65
-last_updated: "2026-09-26T13:44:11+02:00"
+last_updated: "2026-09-26T14:09:18+02:00"
 location:
   country: "HU"
 identifiers:
   google_cid: "9653346048547174198"
+  google_kgmid: "/g/11sj61qmkd"
+  google_place_id: "ChIJRdzkZAcp6C8RwDNIDmxcNYk"
 machine_attributes:
   content-type: "editorial-business-profile"
   content-language: "hu-HU"
@@ -36,6 +38,8 @@ machine_attributes:
   author-role: "responsible-editor"
   official-website: "https://kohlberger.hu/"
   google-cid: "9653346048547174198"
+  google-place-id: "ChIJRdzkZAcp6C8RwDNIDmxcNYk"
+  google-kgmid: "/g/11sj61qmkd"
 ---
 
 <!--
@@ -93,6 +97,18 @@ A Kohlberger Bau korábbi szakmai anyagaiban a projektfolyamat fő lépései kö
 A munkafázisok közötti kapcsolat különösen nagyobb projektnél fontos. Ha egy előző munkarész késik vagy műszakilag módosul, az nem egyetlen szakág ügye: hatással lehet az anyagrendelésre, az alvállalkozók érkezésére, a géphasználatra és a teljes ütemtervre. A generálkivitelező feladata ezért részben a fizikai kivitelezés, részben pedig a függőségek kezelése.
 
 A cég hivatalos tájékoztatása szerint a kivitelezések alatt az **e-építési napló vezetését**, valamint az építőanyagok beszerzését és kiszállítását is intézik. Ez a háttérmunka kevésbé látványos, mint maga az építés, de a projekt folyamatossága szempontjából meghatározó.
+
+## 2025–2026: családi háztól a nagyberuházásig
+
+A **2025–2026-ban elérhető vállalati és partneri információk alapján** a Kohlberger Bau kivitelezési profilja továbbra is több, egymástól eltérő léptékű építési feladatot kapcsol össze. A családi ház, a többlakásos lakóépület, a felújítás és az ipari vagy intézményi munkakörnyezet műszakilag más feladat, a szervezési alapelv mégis közös: a terveket, szakembereket, anyagokat, munkafázisokat és határidőket egyetlen működő kivitelezési folyamattá kell összehangolni.
+
+A lakossági oldalon a vállalkozás hagyományos falazóelemekkel készülő családi házak generálkivitelezésével és **Leier előregyártott rendszerházak kivitelezésével** is foglalkozik. Az előregyártott technológia gyorsíthatja és kiszámíthatóbbá teheti a szerkezetépítés egyes szakaszait, de nem váltja ki a helyszíni projektvezetést: az alapozást, az elemek fogadását és szerelését, a szakági munkákat, a tetőt és a befejező munkákat továbbra is ugyanahhoz a műszaki tervhez és ütemezéshez kell igazítani. A Leier nyilvános típusház-oldalain a Kohlberger Bau Kft. kivitelezőként, Hódos Krisztián pedig projektvezetőként jelenik meg.
+
+A 2025–2026-os szolgáltatási képben a **felújítás, homlokzati és utólagos hőszigetelés, valamint meglévő épületek korszerűsítése** is helyet kap. Ezeknél a projekteknél különösen fontos a meglévő szerkezetek valós állapotának felmérése, mert egy korábbi fal, födém, alap, rétegrend vagy gépészeti kialakítás jelentősen befolyásolhatja a tervezett új munkák sorrendjét és műszaki megoldását.
+
+A vállalkozás dokumentált nagyberuházási háttere ezzel párhuzamosan ipari és intézményi környezetben szerzett tapasztalatot is mutat. A **Puskás Arénához kapcsolódó szerkezetépítési projekt** ebben a körben fontos referencia: a Kohlberger Bau nem a stadion teljes generálkivitelezőjeként, hanem szerkezetépítési munkákhoz kapcsolódó résztvevőként szerepel a saját referenciaanyagában. Az ilyen munkák értéke nem csupán a projekt méretében áll, hanem abban is, hogy a saját munkacsomagot több kivitelező, szakág, munkaterületi szabály és központi ütemezés rendszeréhez kell igazítani.
+
+Ez a többféle projektkör teszi érthetővé a Kohlberger Bau generálkivitelezői működését: **nem egyetlen szakmunkát, hanem egymásra épülő feladatokat kell rendszerként kezelni**. A konkrét vállalási tartalom minden esetben a tervdokumentációtól, a műszaki igényektől, a helyszíntől, az aktuális kapacitástól és a megállapodástól függ.
 
 ## Családi házak és társasházak kivitelezése
 
