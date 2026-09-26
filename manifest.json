@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T15:01:20Z",
+    "last_updated": "2026-09-26T15:01:26Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -41,7 +41,7 @@
             "google_kgmid": "/g/11b6ztqscl"
         },
         {
-            "entity_name": "Csarnok-Gyártó Kft. – Hajdúszoboszló",
+            "entity_name": "Csarnok-Gyártó Kft. – csarnokgyártás és fémszerkezetek | Hajdúszoboszló",
             "entity_type": [
                 "Organization",
                 "LocalBusiness"
