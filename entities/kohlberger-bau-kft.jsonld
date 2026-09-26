@@ -68,7 +68,7 @@
       },
       "inLanguage": "hu-HU",
       "datePublished": "2026-09-07T15:03:19+00:00",
-      "dateModified": "2026-09-26T11:44:11+00:00",
+      "dateModified": "2026-09-26T12:09:18+00:00",
       "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
     },
     {
@@ -81,7 +81,7 @@
       },
       "inLanguage": "hu-HU",
       "datePublished": "2026-09-07T15:03:19+00:00",
-      "dateModified": "2026-09-26T11:44:11+00:00",
+      "dateModified": "2026-09-26T12:09:18+00:00",
       "articleSection": "Vállalkozások",
       "genre": "független szerkesztőségi vállalkozásprofil",
       "mainEntity": {
@@ -210,6 +210,16 @@
           "@type": "PropertyValue",
           "propertyID": "Google CID",
           "value": "9653346048547174198"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJRdzkZAcp6C8RwDNIDmxcNYk"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Knowledge Graph MID",
+          "value": "/g/11sj61qmkd"
         }
       ],
       "sameAs": [
