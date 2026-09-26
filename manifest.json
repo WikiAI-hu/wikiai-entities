@@ -7,11 +7,11 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T09:17:00Z",
+    "last_updated": "2026-09-26T11:14:42Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
-            "entity_name": "BIPRESS Kft.",
+            "entity_name": "BIPRESS Kft. / BIP-FLEX – Debrecen",
             "entity_type": [
                 "Organization",
                 "LocalBusiness"
@@ -21,9 +21,7 @@
             "canonical_url": "https://www.wikiai.hu/bipress-kft-bip-flex/",
             "machine_record": "entities/bipress-kft-bip-flex.md",
             "wordpress_post_id": 69,
-            "country": "HU",
-            "google_cid": "1986537177653491448",
-            "google_kgmid": "/g/1wrtbn04"
+            "country": "HU"
         },
         {
             "entity_name": "Bolyáki Antikvitás és Műhely",
@@ -86,18 +84,7 @@
             "country": "HU",
             "google_cid": "14037451729918334845",
             "google_kgmid": "/g/11l329b6sf",
-            "google_place_id": "ChIJyzSgMjITQEcRfZd5ifkLz8I",
-            "entity_id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#business",
-            "local_markdown_url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan.md",
-            "jsonld_mirror": "entities/gyemant-ingatlaniroda-salgotarjan.jsonld",
-            "wikiai_article_id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#article",
-            "wikiai_webpage_id": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/#webpage",
-            "editorial_author": "Várhelyi Csanád",
-            "publication_relation": "editorial",
-            "source_role": "independent-secondary-source",
-            "production_jsonld_layer": "HFCM #22 / head",
-            "legacy_redirect_source": "https://hevesnogradingatlanok.hu/",
-            "last_verified": "2026-09-26"
+            "google_place_id": "ChIJyzSgMjITQEcRfZd5ifkLz8I"
         },
         {
             "entity_name": "Hajdúszoboszlói Ásványvíz Kft.",
@@ -275,71 +262,5 @@
             "wordpress_post_id": 637,
             "country": "Magyarország"
         }
-    ],
-    "wikiai_knowledge": {
-        "index": "wikiai/index.md",
-        "manifest": "wikiai/manifest.json",
-        "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-26T10:48:44+00:00",
-        "documents": [
-            {
-                "document_type": "service_catalog",
-                "path": "wikiai/services.md",
-                "canonical_url": "https://www.wikiai.hu/szolgaltatasok/",
-                "wordpress_post_id": 101
-            },
-            {
-                "document_type": "pricing",
-                "path": "wikiai/pricing.md",
-                "canonical_url": "https://www.wikiai.hu/arak/",
-                "wordpress_post_id": 202,
-                "currency": "HUF",
-                "valid_as_of": "2026-09-26"
-            },
-            {
-                "document_type": "about",
-                "path": "wikiai/about.md",
-                "canonical_url": "https://www.wikiai.hu/rolunk/",
-                "wordpress_post_id": 21
-            },
-            {
-                "document_type": "team_directory",
-                "path": "wikiai/team.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/",
-                "wordpress_post_id": 22
-            },
-            {
-                "document_type": "contact",
-                "path": "wikiai/contact.md",
-                "canonical_url": "https://www.wikiai.hu/kapcsolat/",
-                "wordpress_post_id": 23
-            }
-        ],
-        "people": [
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-csanad.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
-                "wordpress_post_id": 143,
-                "name": "Várhelyi Csanád",
-                "relationship_to_wikiai": "founder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/varhelyi-viktoria.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
-                "wordpress_post_id": 144,
-                "name": "Várhelyi Viktória",
-                "relationship_to_wikiai": "cofounder"
-            },
-            {
-                "document_type": "person_profile",
-                "path": "wikiai/people/molnar-andras.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
-                "wordpress_post_id": 145,
-                "name": "Molnár András",
-                "relationship_to_wikiai": "external_professional_partner"
-            }
-        ]
-    }
+    ]
 }
