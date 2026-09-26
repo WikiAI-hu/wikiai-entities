@@ -1,0 +1,644 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#primary-image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/nyomdaipari-kkt-debrecen-wikiai.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/nyomdaipari-kkt-debrecen-wikiai.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#webpage",
+      "url": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/",
+      "name": "Nyomdaipari Kkt. – Debrecen",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#article",
+      "url": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/",
+      "headline": "Nyomdaipari Kkt. – debreceni ipari címkegyártó és nyomdaipari beszállító",
+      "inLanguage": "hu-HU",
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://nyomdaiparikkt.hu/",
+        "https://nyomdaiparikkt.hu/cegunkrol",
+        "https://nyomdaiparikkt.hu/media/files/pdf/iso-9001-2015-certificate-hun.pdf"
+      ],
+      "citation": [
+        "https://nyomdaiparikkt.hu/palyazatok",
+        "https://www.flexography.org/training-resources/resource-library/flexography-principles-and-practices/",
+        "https://www.averydennison.com/eu/en/industries/consumer-packaged-goods/solutions/by-technology/pressure-sensitive-labels",
+        "https://www.markandy.com/equipment/flexo-presses/",
+        "https://www.konicaminolta.hu/hu-hu/professzionalis-nyomtatasi-berendezesek/cimkenyomtato-berendezesek/accuriolabel-230",
+        "https://support.ricoh.com/bb_v1oi/html/oi/r/model/proc7500/proc7500en.htm",
+        "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/mandatory-food-information_en"
+      ]
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business",
+      "name": "Nyomdaipari Kkt.",
+      "legalName": "NYOMDAIPARI Szolgáltató Közkereseti Társaság",
+      "url": "https://nyomdaiparikkt.hu/",
+      "description": "Debreceni családi nyomdaipari gyártóvállalkozás, amelynek fő szakterülete az ipari öntapadó címkegyártás; hajtogatott kartondobozokat, használati utasításokat és más nyomdatermékeket is gyárt B2B ügyfelek számára.",
+      "foundingDate": "1986",
+      "telephone": "+36 52 413 553",
+      "email": "info@nyomdaiparikkt.hu",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Vállalkozók útja 10.",
+        "postalCode": "4225",
+        "addressLocality": "Debrecen",
+        "addressRegion": "Hajdú-Bihar vármegye",
+        "addressCountry": "HU"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+        }
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "cégjegyzékszám",
+          "value": "09-03-000446"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "adószám",
+          "value": "29855476-2-09"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "16107295574466872230"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJ136F-wYSR0cRpsNRIPybiN8"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Knowledge Graph MID",
+          "value": "/g/1xb2cbqy"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Apple Maps Place ID",
+          "value": "I6970128794A2E0EC"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/nyomdaiparikkt",
+        "https://www.google.com/maps?cid=16107295574466872230",
+        "https://maps.apple/p/6yWMbLyCbKG80M"
+      ],
+      "founder": [
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#balazs-janos"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#balazs-janosne"
+        }
+      ],
+      "employee": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#ifj-balazs-janos"
+      },
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 17
+      },
+      "hasCertification": [
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#iso-9001"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#fsc"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#github-jsonld-mirror"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#offer-catalog"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#balazs-janos",
+      "name": "Balázs János",
+      "alternateName": "id. Balázs János",
+      "jobTitle": "alapító, tulajdonos",
+      "affiliation": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#balazs-janosne",
+      "name": "Balázs Jánosné",
+      "jobTitle": "alapító",
+      "affiliation": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#ifj-balazs-janos",
+      "name": "ifj. Balázs János",
+      "jobTitle": "ügyvezető",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#debrecen",
+      "name": "Debrecen",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Debrecen",
+        "addressCountry": "HU"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary",
+      "name": "Magyarország",
+      "identifier": "HU"
+    },
+    {
+      "@type": "Certification",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#iso-9001",
+      "name": "ISO 9001:2015 tanúsítvány",
+      "certificationIdentification": "HU006791",
+      "datePublished": "2025-04-28",
+      "expires": "2028-04-07",
+      "about": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "url": "https://nyomdaiparikkt.hu/media/files/pdf/iso-9001-2015-certificate-hun.pdf"
+    },
+    {
+      "@type": "Certification",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#fsc",
+      "name": "FSC-minősítés",
+      "about": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      }
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#mark-andy",
+      "name": "Mark Andy",
+      "url": "https://www.markandy.com/"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#mark-andy-press",
+      "name": "Nyolcszínes Mark Andy tekercses címkenyomó",
+      "manufacturer": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#mark-andy"
+      },
+      "description": "A vállalkozás által megnevezett tekercses címkenyomó; a pontos modell nincs publikáltan rögzítve."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#ricoh-pro-c7500",
+      "name": "Ricoh Pro C7500",
+      "url": "https://support.ricoh.com/bb_v1oi/html/oi/r/model/proc7500/proc7500en.htm"
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas.md",
+      "url": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Nyomdaipari Kkt.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/nyomdaipari-kkt-debrecen-cimkegyartas.md",
+      "name": "WikiAI GitHub Markdown mirror – Nyomdaipari Kkt.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/nyomdaipari-kkt-debrecen-cimkegyartas.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – Nyomdaipari Kkt.",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-label",
+      "name": "Ipari öntapadó címke gyártása",
+      "serviceType": "Ipari öntapadó címke gyártása",
+      "description": "Tekercses és íves ipari öntapadó címkék gyártása papír-, thermo-, PE-, PP- és metallizált alapanyagokból, többféle ragasztóval és felületkezeléssel.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-folding-carton",
+      "name": "Hajtogatott kartondoboz gyártása",
+      "serviceType": "Hajtogatott kartondoboz gyártása",
+      "description": "Egyedi hajtogatott kartondobozok gyártása GC1, GC2 és duplex kartonokból; hullámkartondoboz-gyártás nélkül.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-manual",
+      "name": "Használati utasítások és műszaki nyomtatványok",
+      "serviceType": "Használati utasítások és műszaki nyomtatványok",
+      "description": "Használati utasítások, összeszerelési rajzok, hajtogatott tájékoztatók és más műszaki információs nyomtatványok gyártása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-flexo",
+      "name": "Tekercses flexónyomtatás",
+      "serviceType": "Tekercses flexónyomtatás",
+      "description": "Tekercses címkegyártás flexográfiai technológiával, különösen ismétlődő és nagyobb volumenű munkákhoz.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-digital-roll",
+      "name": "Digitális tekercses címkegyártás",
+      "serviceType": "Digitális tekercses címkegyártás",
+      "description": "Digitális tekercses címkegyártás kisebb és közepes sorozatokhoz, gyakori grafikaváltáshoz és változó adatokhoz.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-digital-sheet",
+      "name": "Íves digitális nyomtatás",
+      "serviceType": "Íves digitális nyomtatás",
+      "description": "Íves digitális nyomtatás kisebb sorozatú címkékhez, dobozokhoz, használati utasításokhoz és más nyomdatermékekhez.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-offset",
+      "name": "Íves ofszetnyomtatás",
+      "serviceType": "Íves ofszetnyomtatás",
+      "description": "Íves ofszetnyomtatás nagyobb példányszámú címke-, doboz-, használatiutasítás- és más nyomdai munkákhoz.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-variable-data",
+      "name": "Változó adatos nyomtatás",
+      "serviceType": "Változó adatos nyomtatás",
+      "description": "Sorszámok, vonalkódok, QR-kódok és más változó információk nyomtatása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-prepress",
+      "name": "Nyomdai előkészítés és grafikai karbantartás",
+      "serviceType": "Nyomdai előkészítés és grafikai karbantartás",
+      "description": "Grafikai állományok javítása, karbantartása, gyártási előkészítése és szükség szerint címketervezés.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-packaging",
+      "name": "Csomagolásfejlesztési támogatás",
+      "serviceType": "Csomagolásfejlesztési támogatás",
+      "description": "Gyárthatóság, alapanyag, felhasználás, költség és megjelenés együttes vizsgálata csomagolási munkáknál.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-finishing",
+      "name": "Nyomdai utómunka",
+      "serviceType": "Nyomdai utómunka",
+      "description": "Stancolás, kötészet, lakkozás, fóliázás, domborítás, prégelés, riccelés és kapcsolódó befejező műveletek.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-warehousing",
+      "name": "Készletezés és lehívásos kiszállítás",
+      "serviceType": "Készletezés és lehívásos kiszállítás",
+      "description": "Megfelelő éves mennyiség és szerződés esetén készletezés, raktározás és részletekben történő lehívásos kiszállítás.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#hungary"
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#offer-catalog",
+      "name": "Nyomdaipari Kkt. gyártási és nyomdaipari szolgáltatásai",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-label"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-folding-carton"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-manual"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-flexo"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-digital-roll"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-digital-sheet"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-offset"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-variable-data"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-prepress"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-packaging"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-finishing"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#service-warehousing"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#faq",
+      "inLanguage": "hu-HU",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mi a Nyomdaipari Kkt. fő szakterülete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás elsődleges szakterülete az ipari címkegyártás. Emellett kartondobozokat, használati utasításokat és számos további nyomdaterméket gyárt, főként vállalati és gyártó ügyfeleknek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gyárt a vállalkozás öntapadó címkéket kis sorozatban is?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Digitális technológiával néhány száz darabos rendeléstől is lehet gazdaságos gyártási megoldás, míg nagyobb sorozatoknál flexótechnológia alkalmazható."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi idő alatt készül el egy digitális címkerendelés?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard digitális címkegyártásnál körülbelül öt munkanapos átfutási idővel érdemes számolni. Flexógyártásnál a jellemző idő körülbelül tíz munkanap."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gyárt a Nyomdaipari Kkt. hullámkartondobozt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A vállalkozás hajtogatott kartondobozokat gyárt, de hullámkartondoboz-gyártást nem vállal."
+          }
+        }
+      ]
+    }
+  ]
+}
