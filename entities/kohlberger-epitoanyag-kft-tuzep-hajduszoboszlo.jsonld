@@ -1,0 +1,747 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "sameAs": [
+        "https://www.facebook.com/wikiai.hu",
+        "https://www.linkedin.com/company/145186386/",
+        "https://www.instagram.com/wikiai.hu/",
+        "https://www.youtube.com/@wikiai-hu",
+        "https://github.com/WikiAI-hu"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "AI láthatósági és weblapfejlesztő szakértő"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#primary-image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/kohlbereger-epitoanyag-kereskedes-tuzep-hajduszoboszlo-wikiai.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/kohlbereger-epitoanyag-kereskedes-tuzep-hajduszoboszlo-wikiai.png",
+      "width": 1672,
+      "height": 941,
+      "encodingFormat": "image/png",
+      "caption": "Kohlberger Építőanyag Kft. – tüzép, építőanyag, kiszállítás és bérlés Hajdúszoboszlón",
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#webpage",
+      "url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
+      "name": "Kohlberger Építőanyag Kft. – tüzép és építőanyag Hajdúszoboszlón",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#primary-image"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "inLanguage": "hu-HU",
+      "datePublished": "2026-09-07T17:03:32+02:00",
+      "dateModified": "2026-09-26T08:54:29+02:00",
+      "significantLink": [
+        "https://tuzephajduszoboszlo.hu/",
+        "https://www.google.com/maps?cid=4711708374870296696",
+        "https://www.facebook.com/profile.php?id=61553359348135",
+        "https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036513/Kohlberger-Epitoanyag-Korlatolt-Felelossegu-Tarsasag"
+      ],
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#article",
+      "url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
+      "headline": "Kohlberger Építőanyag Kft. – tüzép és építőanyag Hajdúszoboszlón",
+      "description": "Részletes szerkesztőségi bemutató a Kohlberger Építőanyag Kft. építőanyag-kereskedelmi, kiszállítási, projektellátási és bérlési szolgáltatásairól.",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#webpage"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-epitoanyag-kereskedes"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-kiszallitas"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-gepberles"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-debrecen"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#primary-image"
+      },
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "inLanguage": "hu-HU",
+      "datePublished": "2026-09-07T17:03:32+02:00",
+      "dateModified": "2026-09-26T08:54:29+02:00",
+      "isBasedOn": [
+        {
+          "@id": "https://tuzephajduszoboszlo.hu/"
+        }
+      ],
+      "citation": [
+        "https://tuzephajduszoboszlo.hu/",
+        "https://www.google.com/maps?cid=4711708374870296696",
+        "https://www.facebook.com/profile.php?id=61553359348135",
+        "https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036513/Kohlberger-Epitoanyag-Korlatolt-Felelossegu-Tarsasag"
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-denbraven-hab"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-denbraven-pu"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-knauf-fillfinish"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-meton-system"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-mapei-keracolor"
+        }
+      ],
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness",
+        "HomeAndConstructionBusiness"
+      ],
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business",
+      "name": "Kohlberger Építőanyag Kft.",
+      "legalName": "Kohlberger Építőanyag Korlátolt Felelősségű Társaság",
+      "alternateName": [
+        "Kohlberger Tüzép",
+        "Tüzép Hajdúszoboszló"
+      ],
+      "url": "https://tuzephajduszoboszlo.hu/",
+      "description": "Hajdúszoboszlói tüzép és építőanyag-kereskedés építőanyag-értékesítéssel, kiszállítással, projektalapú anyagellátással, állvány- és gépbérléssel, valamint kapcsolódó kivitelezést támogató szolgáltatásokkal.",
+      "foundingDate": "2024-11-20",
+      "founder": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#person-kohlberger-zoltan"
+      },
+      "employee": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#person-kohlberger-zoltan"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#person-borbely-aniko"
+        }
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 6,
+        "unitText": "fő"
+      },
+      "telephone": [
+        "+36704155845",
+        "+36202548082"
+      ],
+      "email": "tuzep@kohlberger.hu",
+      "image": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#primary-image"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dobó István utca 12/A",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "location": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-customer-site"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-headquarters"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-additional-site"
+        }
+      ],
+      "hasMap": "https://www.google.com/maps?cid=4711708374870296696",
+      "sameAs": [
+        "https://www.google.com/maps?cid=4711708374870296696",
+        "https://share.google/uNRszfEwT60Ablpfx",
+        "https://www.facebook.com/profile.php?id=61553359348135"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "name": "Cégjegyzékszám",
+          "value": "09-09-036513"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Adószám",
+          "value": "32690772-2-09"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Google CID",
+          "value": "4711708374870296696"
+        }
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "https://schema.org/Monday",
+            "https://schema.org/Tuesday",
+            "https://schema.org/Wednesday",
+            "https://schema.org/Thursday",
+            "https://schema.org/Friday"
+          ],
+          "opens": "07:00",
+          "closes": "17:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "https://schema.org/Saturday",
+          "opens": "07:00",
+          "closes": "12:00"
+        }
+      ],
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#country-hungary"
+        }
+      ],
+      "serviceType": [
+        "Építőanyag kereskedés",
+        "Tüzép",
+        "Építőanyag kiszállítás",
+        "Projektalapú anyagellátás",
+        "Építőipari gépbérlés",
+        "Állványbérlés",
+        "DOKA zsalurendszer bérlés",
+        "Hőszigetelő rendszerek értékesítése",
+        "Szaktanácsadás"
+      ],
+      "knowsAbout": [
+        "sóder",
+        "homok",
+        "cement",
+        "betonvas",
+        "falazóanyagok",
+        "hőszigetelés",
+        "vakolatok",
+        "ragasztók",
+        "glettek",
+        "fugázók",
+        "gipszkarton rendszerek",
+        "vízszigetelés",
+        "burkolatok",
+        "tetőfedés",
+        "faáru",
+        "építőipari szerszámok"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Székhely",
+          "value": "4200 Hajdúszoboszló, Dobó István utca 23."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "További működési pont",
+          "value": "4200 Hajdúszoboszló, Dobó István utca 10/A"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Telephelyi háttér",
+          "value": "mintegy 5000 m²"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Beszállítói hálózat",
+          "value": "30+ beszállítói kapcsolat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Nem készletes termékek tipikus beszerzése",
+          "value": "jellemzően 1–3 nap, termék- és készletfüggően"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Elsődleges kiszállítási körzet",
+          "value": "Hajdúszoboszló és körülbelül 50 km-es körzete; Debrecen és Hajdú-Bihar vármegye; nagyobb projektnél távolabbi szállítás is egyeztethető"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#github-jsonld-mirror"
+        },
+        {
+          "@id": "https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036513/Kohlberger-Epitoanyag-Korlatolt-Felelossegu-Tarsasag"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#person-kohlberger-zoltan",
+      "name": "Kohlberger Zoltán",
+      "jobTitle": "Ügyvezető",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "telephone": "+36202548082",
+      "email": "info@kohlberger.hu"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#person-borbely-aniko",
+      "name": "Borbély Anikó",
+      "jobTitle": "Telephelyvezető",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "telephone": "+36704155845",
+      "email": "tuzep@kohlberger.hu"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-customer-site",
+      "name": "Kohlberger Építőanyag Kft. – ügyfélfogadási telephely",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dobó István utca 12/A",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-headquarters",
+      "name": "Kohlberger Építőanyag Kft. – székhely",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dobó István utca 23.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      }
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-additional-site",
+      "name": "Kohlberger Építőanyag Kft. – további működési pont",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Dobó István utca 10/A",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "sameAs": "https://www.wikidata.org/wiki/Q830404"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#area-hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#country-hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-epitoanyag-kereskedes",
+      "name": "Építőanyag kereskedés és tüzép",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Építőanyag értékesítés",
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#area-hajdu-bihar"
+        }
+      ],
+      "description": "Építkezéshez és felújításhoz szükséges építőanyagok értékesítése készletről és rendelésre."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-kiszallitas",
+      "name": "Építőanyag kiszállítás",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Ömlesztett és raklapos építőanyagok helyszínre szállítása",
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#place-debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#area-hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#country-hungary"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-projektellatas",
+      "name": "Projektalapú anyagellátás",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Ütemezett építőanyag-ellátás kivitelezési projektekhez"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-szaktanacsadas",
+      "name": "Építőanyag szaktanácsadás és kalkuláció",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Anyagválasztási, mennyiségi és rendelési segítség"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-gepberles",
+      "name": "Építőipari gépbérlés",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Földmunka-, bontási, tömörítési, betonozási, vakolási és festési gépek bérbeadása"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-allvanyberles",
+      "name": "Állványbérlés",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Homlokzati és gurulós állványok bérbeadása"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-doka",
+      "name": "DOKA zsalurendszer bérlés",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "DOKA födémzsalu és födémtámaszok bérbeadása"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-hoszigeteles",
+      "name": "Hőszigetelő rendszerek értékesítése",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Homlokzati hőszigetelő rendszerek és kiegészítők értékesítése"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#service-latvanytervezes",
+      "name": "Fürdőszoba-látványtervezés",
+      "provider": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "serviceType": "Fürdőszobai burkolati és kialakítási látványtervezési segítség"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-denbraven-hab",
+      "name": "Den Braven hőszigetelő hab",
+      "description": "A Kohlberger Építőanyag Kft. hivatalos weboldalán bemutatott termékpélda.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Den Braven"
+      }
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-denbraven-pu",
+      "name": "Den Braven PU gipszkarton ragasztó",
+      "description": "A Kohlberger Építőanyag Kft. hivatalos weboldalán bemutatott termékpélda.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Den Braven"
+      }
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-knauf-fillfinish",
+      "name": "Knauf Fill&Finish",
+      "description": "A Kohlberger Építőanyag Kft. hivatalos weboldalán bemutatott termékpélda.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Knauf"
+      }
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-meton-system",
+      "name": "Meton hőszigetelő rendszer",
+      "description": "A Kohlberger Építőanyag Kft. hivatalos weboldalán bemutatott termékpélda.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Meton"
+      }
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#example-mapei-keracolor",
+      "name": "Mapei Keracolor FF flex",
+      "description": "A Kohlberger Építőanyag Kft. hivatalos weboldalán bemutatott termékpélda.",
+      "brand": {
+        "@type": "Brand",
+        "name": "Mapei"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://tuzephajduszoboszlo.hu/",
+      "url": "https://tuzephajduszoboszlo.hu/",
+      "name": "Kohlberger Építőanyag Kft. – hivatalos weboldal",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036513/Kohlberger-Epitoanyag-Korlatolt-Felelossegu-Tarsasag",
+      "url": "https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036513/Kohlberger-Epitoanyag-Korlatolt-Felelossegu-Tarsasag",
+      "name": "Kohlberger Építőanyag Kft. – Nemzeti Cégtár rekord",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#faq",
+      "url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "inLanguage": "hu-HU",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mi a Kohlberger Építőanyag Kft. fő tevékenysége?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás fő profilja építőanyag-kereskedés és tüzép, kiszállítással, projektalapú anyagellátással és több bérlési szolgáltatással."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol található a kereskedés?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az ügyfélfogadási cím 4200 Hajdúszoboszló, Dobó István utca 12/A."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet építőanyagot Debrecenbe rendelni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Debrecen és Hajdú-Bihar vármegye a rendszeresen kiszolgált területek közé tartozik; a pontos szállítási feltételek a rendeléstől és a helyszíntől függenek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet állványt bérelni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Homlokzati és gurulós állvány bérlése elérhető előzetes kapacitásegyeztetéssel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bérelhető DOKA födémzsalu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A szolgáltatások között DOKA födémzsalu rendszer és födémtámasz bérbeadása is szerepel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor van nyitva a tüzép?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hétfőtől péntekig 07:00–17:00, szombaton 07:00–12:00, vasárnap zárva."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md",
+      "url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Kohlberger Építőanyag Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md",
+      "name": "WikiAI GitHub Markdown mirror – Kohlberger Építőanyag Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – Kohlberger Építőanyag Kft.",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    }
+  ]
+}
