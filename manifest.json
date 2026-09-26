@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T11:24:41Z",
+    "last_updated": "2026-09-26T11:24:39Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -23,7 +23,18 @@
             "wordpress_post_id": 69,
             "country": "HU",
             "google_cid": "1986537177653491448",
-            "google_kgmid": "/g/1wrtbn04"
+            "google_kgmid": "/g/1wrtbn04",
+            "entity_id": "https://www.wikiai.hu/bipress-kft-bip-flex/#business",
+            "local_markdown_url": "https://www.wikiai.hu/bipress-kft-bip-flex.md",
+            "jsonld_mirror": "entities/bipress-kft-bip-flex.jsonld",
+            "wikiai_article_id": "https://www.wikiai.hu/bipress-kft-bip-flex/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/bipress-kft-bip-flex/#webpage",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source",
+            "production_jsonld_layer": "HFCM #23 / head",
+            "legacy_redirect_source": "https://www.hidraulikatomlogyartas.hu/",
+            "last_verified": "2026-09-26"
         },
         {
             "entity_name": "Bolyáki Antikvitás és Műhely",
