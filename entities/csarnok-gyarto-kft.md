@@ -12,21 +12,23 @@ canonical_url: "https://www.wikiai.hu/csarnok-gyarto-kft/"
 entity_id: "https://www.csarnokgyartasdebrecen.hu/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
-official_website: "https://www.csarnokgyartasdebrecen.hu/"
-legal_name: "Csarnok-Gyártó Szolgáltató Korlátolt Felelősségű Társaság"
-company_registration_number: "09-09-036651"
-tax_id: "32729562-2-09"
 wordpress_post_id: 63
-google_cid: "14344838622428428681"
-google_place_id: "ChIJGZQe0NWci6MRiXkmkrkaE8c"
-last_updated: "2026-09-26T17:01:31+02:00"
+last_updated: "2026-09-26T17:13:01+02:00"
 location:
   country: "HU"
 machine_attributes:
+  content-type: "editorial-business-profile"
+  content-language: "hu-HU"
+  wikiai-profile: "business-entity"
+  entity: "Csarnok-Gyártó Kft."
+  entity-type: "Organization,LocalBusiness"
+  entity-id: "https://www.csarnokgyartasdebrecen.hu/#business"
   publication-relation: "editorial"
+  source-role: "independent-secondary-source"
   publisher: "WikiAI.hu"
+  publisher-role: "independent-editorial-publisher"
   author: "Várhelyi Csanád"
-  main-entity-id: "https://www.csarnokgyartasdebrecen.hu/#business"
+  author-role: "responsible-editor"
 ---
 
 <!--
