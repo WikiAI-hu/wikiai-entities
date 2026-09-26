@@ -14,7 +14,7 @@ entity_id: "https://www.tomitesgyarmagyarorszag.hu/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 70
-last_updated: "2026-09-26T16:43:37+02:00"
+last_updated: "2026-09-26T17:02:25+02:00"
 location:
   country: "HU"
 identifiers:
