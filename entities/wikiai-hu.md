@@ -11,6 +11,11 @@ canonical_url: "https://www.wikiai.hu/wikiai-hu/"
 entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
+official_website: "https://www.wikiai.hu/"
+source_role: "official-first-party-source"
+operator_entity_id: "https://www.wikiai.hu/#operator-business"
+operator_name: "Várhelyi Viktória egyéni vállalkozó"
+responsible_editor: "Várhelyi Csanád"
 wordpress_post_id: 637
 last_updated: "2026-09-26T17:21:17+02:00"
 location:
