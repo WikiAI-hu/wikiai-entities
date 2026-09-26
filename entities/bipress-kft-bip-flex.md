@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 69
-last_updated: "2026-09-26T13:29:11+02:00"
+last_updated: "2026-09-26T13:32:07+02:00"
 location:
   country: "HU"
 identifiers:
