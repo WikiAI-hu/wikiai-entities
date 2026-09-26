@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:44:38+02:00"
+last_updated: "2026-09-26T17:44:45+02:00"
 location:
   country: "HU"
 identifiers:
@@ -158,9 +158,13 @@ A platform feladata a nyilvános üzleti információ minőségének, érthetős
 
 ## Tudástár, cikkek és szakmai publikációk
 
-A WikiAI.hu nem kizárólag vállalkozásprofilokat közöl. A **Tudástár** hosszabb szakmai magyarázatokat, a **Cikkek** elemző és szerkesztőségi anyagokat, a **Hírek** aktuális fejleményeket, a **Posztok** pedig rövidebb vagy kereskedelmi együttműködésben készülő tartalmakat is tartalmazhatnak.
+A WikiAI.hu nem kizárólag vállalkozásprofilokat közöl. A platform különböző rovatokban dolgoz fel olyan üzleti és technológiai témákat, amelyek a magyar vállalkozások digitális működését, kommunikációját vagy jövőbeli versenyképességét érinthetik.
 
-A platformon kiemelt témák közé tartozik az AI-láthatóság, a digitális identitás, a keresőoptimalizálás, a Local SEO, az AEO, a GEO, az LLMO, az LLM-first webarchitektúra, a strukturált adatok, az Entity Engineering és a vállalati AI.
+A **Tudástár** hosszabb, magyarázó szakmai anyagok helye. A **Cikkek** elemzőbb vagy szerkesztőségi megközelítésű tartalmakat közölhetnek, a **Hírek** aktuális fejleményekkel foglalkoznak, a **Posztok** pedig a kereskedelmi vagy sponsored tartalmak elkülönített felülete.
+
+A visszatérő témák között szerepel a keresőoptimalizálás, a helyi digitális jelenlét, az AI-láthatóság, az AI-alapú keresés, a weboldalak korszerű információs felépítése, a strukturált webes információ, az online reputáció, a vállalati AI és az ezekhez kapcsolódó üzleti változások.
+
+A WikiAI.hu célja ezeknél a témáknál sem az, hogy technikai kifejezésekből építsen tartalmat. A szakmai fogalmak akkor kapnak helyet, ha segítenek egy üzleti probléma megértésében, és az olvasó számára világos gyakorlati összefüggést adnak.
 
 ## AI-használat és emberi szerkesztői felelősség
 
