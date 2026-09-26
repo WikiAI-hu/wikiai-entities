@@ -1,5 +1,5 @@
 ---
-schema_version: "1.1"
+schema_version: "1.0"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "BIPRESS Kft."
@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/bipress-kft-bip-flex/#business"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 69
-last_updated: "2026-09-26T13:24:39+02:00"
+last_updated: "2026-09-26T13:29:11+02:00"
 location:
   country: "HU"
 identifiers:
@@ -34,12 +34,6 @@ machine_attributes:
   author-role: "responsible-editor"
   google-cid: "1986537177653491448"
   google-kgmid: "/g/1wrtbn04"
-local_markdown_url: "https://www.wikiai.hu/bipress-kft-bip-flex.md"
-jsonld_mirror: "entities/bipress-kft-bip-flex.jsonld"
-editorial_author: "Várhelyi Csanád"
-publication_relation: "editorial"
-source_role: "independent-secondary-source"
-production_jsonld_layer: "HFCM #23 / head"
 ---
 
 <!--
@@ -375,6 +369,6 @@ A legfontosabb a tömlő mérete és hossza, üzemi nyomása, közege, hőmérs�
 - [Nemzeti Cégtár – BIPRESS Kft.](https://www.nemzeticegtar.hu/bipress-kft-c0909002604.html)
 - [Agroinform partneradatlap – BIPRESS Kft.](https://www.agroinform.hu/partner/adatlap-272083)
 
-**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: Várhelyi Csanád**
+**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: [Várhelyi Csanád](https://www.varhelyicsanad.hu/)**
 
 A WikiAI.hu Vállalkozások rovatának bemutatói szerkesztői döntés alapján készülnek; a rovatban való megjelenés nem vásárolható meg.
