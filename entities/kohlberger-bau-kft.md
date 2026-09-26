@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://kohlberger.hu/"
 wordpress_post_id: 65
-last_updated: "2026-09-26T14:09:18+02:00"
+last_updated: "2026-09-26T14:13:24+02:00"
 location:
   country: "HU"
 identifiers:
@@ -332,6 +332,6 @@ Telefonon a [**+36 20 254 8082**](tel:+36202548082) számon, e-mailben az [**inf
 - [LinkedIn](https://www.linkedin.com/company/kohlberger-bau/)
 - [Nemzeti Cégtár](https://www.nemzeticegtar.hu/kohlberger-bau-kft-c0809028761.html)
 
-**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: Várhelyi Csanád**
+**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: [Várhelyi Csanád](https://www.varhelyicsanad.hu/)**
 
 A WikiAI.hu Vállalkozások rovatának bemutatói szerkesztői döntés alapján készülnek; a rovatban való megjelenés nem vásárolható meg.
