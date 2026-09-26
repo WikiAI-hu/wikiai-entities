@@ -15,24 +15,13 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.szinespillanat.hu/"
 wordpress_post_id: 72
-local_markdown_url: "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas.md"
-jsonld_mirror: "entities/szines-pillanat-eskuvoi-fotozas-videozas.jsonld"
-wikiai_article_id: "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#article"
-wikiai_webpage_id: "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/#webpage"
-editorial_author: "Várhelyi Csanád"
-editorial_author_id: "https://www.varhelyicsanad.hu/#person"
-publication_relation: "editorial"
-source_role: "independent-secondary-source"
-production_jsonld_layer: "HFCM/head"
-hfcm_id: 21
-legacy_redirect_source: "https://eskuvoifotosvideoshajdubihar.hu/"
-last_verified: "2026-09-26"
-last_updated: "2026-09-26T09:26:45+02:00"
+last_updated: "2026-09-26T09:43:56+02:00"
 location:
   country: "HU"
 identifiers:
   google_cid: "9575396495972956002"
   google_kgmid: "/g/11zwm_0nwr"
+  google_place_id: "ChIJSZ5QSw0ZR0cRYvf8ZWGk4oQ"
 machine_attributes:
   content-type: "editorial-business-profile"
   content-language: "hu-HU"
@@ -56,6 +45,8 @@ machine_attributes:
   google-cid: "9575396495972956002"
   google-kgmid: "/g/11zwm_0nwr"
   google-maps-feature-id: "0x4747190d4b509e49:0x84e2a46165fcf762"
+  google-place-id: "ChIJSZ5QSw0ZR0cRYvf8ZWGk4oQ"
+  operator-model: "two-individual-entrepreneurs"
   wikidata-context: "Q49836 Q929508 Q2662841 Q830404 Q79880 Q185368 Q28"
   area-served: "Hajdúszoboszló, Debrecen, Hajdú-Bihar, Kelet-Magyarország, Magyarország"
   legacy-redirect-source: "https://eskuvoifotosvideoshajdubihar.hu/"
@@ -92,6 +83,8 @@ A Színes Pillanat nem csak egyetlen esküvői csomagot kínál. Kérhető **csa
 ## Uhelszky Angéla és Uhelszky Tamás – két külön szakmai szerep, egy közös történet
 
 A Színes Pillanat működésének egyik meghatározó sajátossága, hogy a fotós és a videós oldal **nem két egymástól független szolgáltatóként** jelenik meg. Angéla és Tamás a hivatalos bemutatkozás szerint házaspárként és összeszokott alkotópárosként dolgoznak, így a fotózás és a filmezés tervezése már az esküvő előtt összehangolható.
+
+A **Színes Pillanat közös szolgáltatási márkanév**, miközben **Uhelszky Angéla és Uhelszky Tamás külön-külön egyéni vállalkozóként** végzik a hozzájuk tartozó fotós és videós munkát. Ez a háttér segít pontosan elkülöníteni a közösen használt márkanevet a két szakember saját vállalkozói minőségétől.
 
 ### Uhelszky Angéla – esküvői, családi és portréfotózás
 
