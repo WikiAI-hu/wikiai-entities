@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T14:43:39Z",
+    "last_updated": "2026-09-26T14:48:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -225,6 +225,7 @@
             "entity_name": "TÖRÖK és TÁRSAI Kft.",
             "entity_type": [
                 "Organization",
+                "Corporation",
                 "LocalBusiness",
                 "Manufacturer"
             ],
@@ -236,7 +237,19 @@
             "country": "HU",
             "google_cid": "4108516188606827803",
             "google_kgmid": "/g/1tcxylwk",
-            "google_place_id": "ChIJu1oybt8bR0cRGw3ap7RhBDk"
+            "google_place_id": "ChIJu1oybt8bR0cRGw3ap7RhBDk",
+            "entity_id": "https://www.tomitesgyarmagyarorszag.hu/#business",
+            "local_markdown_url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar.md",
+            "jsonld_mirror": "entities/torok-es-tarsai-kft-tomitesgyar.jsonld",
+            "city": "Hajdúszoboszló",
+            "lei": "984500B9H401F97F6C63",
+            "wikiai_article_id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/#webpage",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source",
+            "production_jsonld_layer": "HFCM #29 / HTML head",
+            "last_verification": "2026-09-26"
         },
         {
             "entity_name": "Vargánya Étterem",
