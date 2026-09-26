@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T13:28:06Z",
+    "last_updated": "2026-09-26T13:31:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -147,7 +147,18 @@
             "canonical_url": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/",
             "machine_record": "entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.md",
             "wordpress_post_id": 612,
-            "country": "HU"
+            "country": "HU",
+            "locality": "Zalaegerszeg",
+            "entity_id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#business",
+            "jsonld_mirror": "entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.jsonld",
+            "wikiai_article_id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/#webpage",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source",
+            "google_business_profile_status": "not_available_yet",
+            "production_jsonld_layer": "temporary-wordpress-post-body-fallback",
+            "last_verified": "2026-09-26"
         },
         {
             "entity_name": "Némethy Consulting Kft.",
