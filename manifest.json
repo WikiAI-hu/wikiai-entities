@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T07:26:34Z",
+    "last_updated": "2026-09-26T07:26:40Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
