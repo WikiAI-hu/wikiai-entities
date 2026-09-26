@@ -1,0 +1,529 @@
+emzeti Bank Oktatási és Konferenciaközpont – Balatonakarattya",
+      "description": "Teljes szárazépítési munkák; a vállalati bemutatás szerint nagy létszámú csapat közel két éven át dolgozott a projekten."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-komarom-pharma",
+      "name": "Komáromi gyógyszeripari létesítmény – komplett szárazépítés",
+      "description": "A cég nagyobb korábbi szárazépítési munkái között dokumentált gyógyszeripari projekt."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-futura",
+      "name": "Futura múzeum – Mosonmagyaróvár",
+      "description": "Az épület különleges geometriájához kapcsolódó szárazépítési munka."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-dust-wall",
+      "name": "Mosonmagyaróvári ipari üzem – ideiglenes porvédő fal",
+      "description": "18 méter magas ideiglenes porvédő fal kivitelezése, speciális ipari feladatként dokumentálva."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-panel",
+      "name": "Panelprogram – tízemeletes lakóépületek hőszigetelése",
+      "description": "Több nagy méretű lakóépület komplett homlokzati hőszigetelési munkái, saját állvány- és gépi háttérrel."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-universities",
+      "name": "Győri és Veszprémi Egyetem – szárazépítési munkák",
+      "description": "Észak-dunántúli felsőoktatási intézmények belső szárazépítési projektjei."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-villa-vitae",
+      "name": "Villa Vitae Balatonfüred – teljes szárazépítés",
+      "description": "Balatonfüredi lakóingatlan teljes szárazépítési munkája; a hivatalos referenciaoldalon ma is név szerint szerepel."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-borgwarner",
+      "name": "BorgWarner turbógyár – Oroszlány",
+      "description": "Szárazépítési munkák öt ütemben, a dokumentált projektmúlt szerint West Hungária Bau együttműködésével."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-csillag-erod",
+      "name": "Komáromi Csillag Erőd – kőműves és felújítási munkák",
+      "description": "Történeti épülethez kapcsolódó kőműves és felújítási referencia."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-own-2x6",
+      "name": "Hajdúszoboszlói saját 2×6 lakásos beruházás",
+      "description": "Két hatlakásos társasház és garázsépület saját beruházásban; a vállalati bemutatás szerint alapozástól befejezésig, mintegy másfél éves kivitelezéssel."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-201-apartments",
+      "name": "201 lakásos társasház",
+      "description": "A Kohlberger Bau jelenlegi hivatalos referenciaoldalán felsorolt társasházi referencia."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-family-houses-2024",
+      "name": "16 átadott családi ház – 2024-es teljesítménypillanatkép",
+      "description": "A 2024-es cégbemutató az azt megelőző két évre 16 felépített és átadott családi házat rögzített."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-hogyesliget",
+      "name": "Hőgyesliget lakópark",
+      "description": "A Kohlberger Bau jelenlegi hivatalos oldalán saját beruházásként bemutatott lakóprojekt."
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-index",
+      "name": "Kohlberger Bau Kft. – dokumentált referenciaindex",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-puskas"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-mnb-balatonakarattya"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-komarom-pharma"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-futura"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-dust-wall"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-panel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-universities"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-villa-vitae"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-borgwarner"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-csillag-erod"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-own-2x6"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-201-apartments"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-family-houses-2024"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#reference-hogyesliget"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#historical-collaboration-index",
+      "name": "Korábbi ipari együttműködések – 2024-ben dokumentált lista",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Organization",
+            "name": "Fész Zrt."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Organization",
+            "name": "Laterex Építő Zrt."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Organization",
+            "name": "West Hungária Bau Kft."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Organization",
+            "name": "Magyar Építő Zrt."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Organization",
+            "name": "STRABAG Építőipari Zrt."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Organization",
+            "name": "ÉPKAR Zrt."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "Organization",
+            "name": "ZÁÉV Zrt."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "Organization",
+            "name": "Szabó és Társa Belsőépítészeti Kft."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "Organization",
+            "name": "Raw Development Kft."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "Organization",
+            "name": "VEMÉVSZER Építő- és Szerelőipari Kft."
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "Organization",
+            "name": "SWIETELSKY Építő Kft."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#source-company-presentation-2024",
+      "name": "Kohlberger Bau Kft. – Bemutatkozó 2024",
+      "encodingFormat": "application/pdf",
+      "dateCreated": "2024",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "creator": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://kohlberger.hu/",
+      "url": "https://kohlberger.hu/",
+      "name": "Kohlberger Bau Kft. – hivatalos weboldal",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://kohlberger.hu/magunkrol/",
+      "url": "https://kohlberger.hu/magunkrol/",
+      "name": "Kohlberger Bau Kft. – Magunkról",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://kohlberger.hu/referenciaink/",
+      "url": "https://kohlberger.hu/referenciaink/",
+      "name": "Kohlberger Bau Kft. – Referenciák",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://kohlberger.hu/szolgaltatasaink/leier-hazak/",
+      "url": "https://kohlberger.hu/szolgaltatasaink/leier-hazak/",
+      "name": "Kohlberger Bau Kft. – Leier házak",
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#service-leier-house"
+        }
+      ],
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.leier.hu/hu/tipushazak/berettyo-haz-4",
+      "url": "https://www.leier.hu/hu/tipushazak/berettyo-haz-4",
+      "name": "Leier Típusház – Kohlberger Bau Kft. kivitelezői megjelenés",
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#person-hodos-krisztian"
+        }
+      ],
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.companywall.hu/v%C3%A1llalat/kohlberger-bau-kft/MMHTkLQ0",
+      "url": "https://www.companywall.hu/v%C3%A1llalat/kohlberger-bau-kft/MMHTkLQ0",
+      "name": "Kohlberger Bau Kft. – céginformációs rekord",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://creditonline.hu/hu/kohlberger-bau-kft/0809028761c",
+      "url": "https://creditonline.hu/hu/kohlberger-bau-kft/0809028761c",
+      "name": "Kohlberger Bau Kft. – céginformációs rekord",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#faq",
+      "url": "https://www.wikiai.hu/kohlberger-bau-kft/#kohlberger-bau-gyik",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "inLanguage": "hu-HU",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mi a Kohlberger Bau Kft. fő tevékenysége?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás fő profilja az építőipari kivitelezés és generálkivitelezés. Családi és társasházak, szerkezetépítési, szárazépítési, homlokzati, földmunka- és más szakipari feladatok egyaránt megjelennek a tevékenységében."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor alapították a Kohlberger Bau Kft.-t?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jelenlegi társaság 2017. január 18-án alakult."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ki a vállalkozás ügyvezetője?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Kohlberger Bau Kft. ügyvezetője Kohlberger Zoltán."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol működik a vállalkozás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A társaság jogi székhelye Rábacsécsényben található, a nyilvános hajdúszoboszlói kapcsolati cím pedig 4200 Hajdúszoboszló, Dobó István utca 12/A. A kivitelezési jelenlét erősen kapcsolódik Debrecenhez és Hajdú-Bihar vármegyéhez is."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállalnak családi ház generálkivitelezést?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A családi házak teljes körű generálkivitelezése a hivatalosan bemutatott szolgáltatások között szerepel, hagyományos falazási technológiával és Leier Típusházakhoz kapcsolódó kivitelezéssel is."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van társasházi tapasztalatuk?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A saját 2×6 lakásos hajdúszoboszlói projekt mellett a hivatalos referenciaoldal egy 201 lakásos társasházat is felsorol."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dolgoztak ipari és intézményi projekteken?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A dokumentált referenciák között szerepel stadion, konferenciaközpont, gyógyszeripari létesítmény, autóipari gyár, egyetem, múzeum és más nagyobb projekt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen saját gépekkel dolgoztak a 2024-es vállalati bemutatás szerint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A 2024-es bemutatkozás többek között 600 m²-es homlokzati állványrendszert, DOKA födémzsalut, különböző teherbírású szállítójárműveket, kotró-rakodógépet, gumitalpas forgó kotrót, szóróberendezéseket és betonipari eszközöket sorolt fel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van nyilvános kivitelezési árlista?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nincs általános nyilvános árlista. A kivitelezés ára a konkrét tervtől, műszaki tartalomtól, mérettől, anyagoktól, helyszíntől és a projekt körülményeitől függ."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan lehet árajánlatot kérni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Telefonon a +36 20 254 8082 számon, e-mailben az info@kohlberger.hu címen, vagy a hivatalos weboldal kapcsolatfelvételi felületén lehet egyeztetést kezdeményezni."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft.md",
+      "url": "https://www.wikiai.hu/kohlberger-bau-kft.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Kohlberger Bau Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#github-markdown-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/kohlberger-bau-kft.md",
+      "name": "WikiAI GitHub Markdown mirror – Kohlberger Bau Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#github-jsonld-mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/kohlberger-bau-kft.jsonld",
+      "name": "WikiAI GitHub JSON-LD mirror – Kohlberger Bau Kft.",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    }
+  ]
+}
+</script>
