@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://gyemantingatlan.net/"
 wordpress_post_id: 73
-last_updated: "2026-09-26T10:06:05+02:00"
+last_updated: "2026-09-26T10:06:17+02:00"
 location:
   country: "HU"
 identifiers:
