@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:44:45+02:00"
+last_updated: "2026-09-26T17:44:51+02:00"
 location:
   country: "HU"
 identifiers:
@@ -168,9 +168,11 @@ A WikiAI.hu célja ezeknél a témáknál sem az, hogy technikai kifejezésekbő
 
 ## AI-használat és emberi szerkesztői felelősség
 
-A WikiAI.hu a kutatás, szerkesztés, nyelvi feldolgozás, strukturálás és technikai előkészítés egyes részeiben mesterséges intelligenciát is használhat. A közzétett tartalmak végleges szerkesztői felelőssége azonban emberi szerepkörhöz kötődik.
+A WikiAI.hu munkájában mesterséges intelligencia támogathat bizonyos kutatási, szerkesztési, nyelvi és technikai feladatokat. Az AI használata azonban nem helyettesíti a szerzői és szerkesztői felelősséget: a nyilvánosan közzétett tartalom végleges formája emberi kontroll alatt marad.
 
-A platform nem állítja, hogy egy WikiAI.hu-profil vagy szakmai szolgáltatás garantált Google-helyezést, ChatGPT-, Gemini- vagy más AI-rendszer általi ajánlást eredményez. Külső kereső- és AI-rendszerek saját szabályaik szerint működnek.
+Ez különösen fontos vállalkozások bemutatásánál, ahol egy pontatlan név, elavult szolgáltatás, rossz helyadat vagy félreérthető szakmai állítás közvetlenül torzíthatja a vállalkozásról kialakuló képet. A WikiAI.hu ezért az AI-t szakmai eszközként, nem önálló döntéshozóként kezeli.
+
+A platform nem állítja, hogy egy WikiAI.hu-profil, egy weboldalfejlesztés vagy bármely szakmai szolgáltatás garantált Google-helyezést, ChatGPT-, Gemini- vagy más AI-rendszer általi ajánlást eredményez. Külső kereső- és AI-rendszerek saját szabályaik, adataik és technikai működésük szerint döntenek.
 
 Az AI-használat, a gépi hozzáférés és a szerzői jogi elvek részletes leírása az [AI-átláthatóság és szerzői jogok](https://www.wikiai.hu/ai-atlathatosag-szerzoi-jogok/) oldalon található.
 
