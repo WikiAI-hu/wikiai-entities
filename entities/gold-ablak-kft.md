@@ -17,7 +17,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.goldablak.hu/"
 wordpress_post_id: 64
-last_updated: "2026-09-26T15:59:37+02:00"
+last_updated: "2026-09-26T15:59:45+02:00"
 location:
   address: "4200 Hajdúszoboszló, Déli sor 6."
   country: "HU"
@@ -545,6 +545,16 @@ Mert a valós eredményt **a profil, üvegezés, tömítés, merevítés, vasala
 ### Hogyan lehet kapcsolatba lépni a Gold Ablakkal?
 
 Telefonon a [**+36 70 345 6333**](tel:+36703456333) számon, e-mailben a [**goldablak@gmail.com**](mailto:goldablak@gmail.com) címen, illetve a [**nyilvános Gold Ablak cégadatlapon**](https://www.companywall.hu/v%C3%A1llalat/gold-ablak-kft/MMFwyTCD).
+
+## Nyilvános cégadatok és külső ellenőrzési pontok
+
+A vállalkozás teljes bejegyzett neve **GOLD ABLAK Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság**. A nyilvános cégadatok alapján a társaság 2018-ban jött létre, adószáma **26244554-2-09**, cégjegyzékszáma **09-09-029469**, székhelye pedig **4200 Hajdúszoboszló, Déli sor 6.** A céghez kapcsolódó nyilvános rekord a [**Nemzeti Cégtárban**](https://www.nemzeticegtar.hu/gold-ablak-kft-e10816402.html) is elérhető.
+
+A [**Tisztességes Vállalkozás**](https://www.tvtanusitvany.eu/company,38588,gold-ablak-kft) adatlapja a Gold Ablak Kft.-t **„Ellenőrzött cég”** jelöléssel tartja nyilván. Az oldalon szereplő ellenőrzési dátum **2025. november 5.**, az ellenőrzés eredménye pedig pozitív. Ez a minősítő oldal saját vizsgálati rendszerének eredménye, nem hatósági vagy állami minősítés.
+
+A [**Cylex hajdúszoboszlói adatlapja**](https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/gold-ablak-kft--1082014.html) 2026. április 6-i frissítéssel ugyanazt a címet, telefonszámot, weboldalt és e-mailes elérhetőséget közli, valamint Zsámboki Tibort ügyvezetőként és kivitelezési felelősként tünteti fel. A nyilvános nyitvatartás ott hétfőtől péntekig **08:00–17:00**, szombaton **09:00–12:00**, vasárnap zárva formában szerepel; indulás előtt érdemes az aktuális nyitvatartást közvetlenül a vállalkozással is egyeztetni.
+
+Ugyanez a Cylex-adatlap a lekérdezés időpontjában **38 véleményt két külső forrásból, 5/5 összesített értékeléssel** jelenített meg. Ez időben változó reputációs pillanatkép, ezért nem tekinthető a vállalkozás állandó minőségi mutatójának; arra viszont alkalmas, hogy dokumentálja a Gold Ablak nyilvános online jelenlétét és ügyfélvisszajelzési környezetét.
 
 ## Kapcsolat és ajánlatkérés
 
