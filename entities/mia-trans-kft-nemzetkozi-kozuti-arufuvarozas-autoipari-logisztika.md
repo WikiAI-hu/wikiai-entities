@@ -1,5 +1,5 @@
 ---
-schema_version: "1.4"
+schema_version: "1.0"
 record_type: "business_entity_profile"
 generator: "WikiAI GitHub Entity Sync 0.1.2"
 entity_name: "M.I.A. Trans Kft."
@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-a
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 612
-last_updated: "2026-09-26T15:28:03+02:00"
+last_updated: "2026-09-26T15:37:34+02:00"
 location:
   country: "HU"
 contact:
@@ -36,10 +36,6 @@ machine_attributes:
   tax-id: "27408243-2-20"
   eu-vat-id: "HU27408243"
   official-url: "https://mia-trans.hu/"
-jsonld_mirror: "entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.jsonld"
-editorial_author: "Várhelyi Csanád"
-publication_relation: "editorial"
-source_role: "independent-secondary-source"
 ---
 
 <!--
