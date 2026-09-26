@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:43:08+02:00"
+last_updated: "2026-09-26T17:43:28+02:00"
 location:
   country: "HU"
 identifiers:
@@ -54,11 +54,23 @@ A WikiAI.hu 2026. szeptember 8-án indult. **Alapítója Várhelyi Viktória**, 
 
 ## Mi a WikiAI.hu?
 
-A WikiAI.hu egyszerre **üzleti tudásplatform, szerkesztőségi felület és szakmai szolgáltatási központ**. A platform célja, hogy magyar vállalkozásokról és szakemberekről pontosabb, következetesebb és könnyebben értelmezhető nyilvános információ álljon rendelkezésre.
+A WikiAI.hu egyszerre **üzleti tudásplatform, szerkesztőségi felület és szakmai szolgáltatási központ**. A szerkesztőségi oldalon magyar vállalkozásokat, szakembereket és üzleti témákat mutat be; a szolgáltatási oldalon digitális jelenléttel, keresési láthatósággal, webes információs rendszerekkel, szakmai tartalommal és AI-láthatósággal kapcsolatos feladatokat vállal.
 
-A vállalkozási bemutatások nem egyszerű cégkatalógus-adatlapok. A profilok a vállalkozás tevékenységét, működését, történetét, szolgáltatásait, szakmai szereplőit, helyi vagy országos jelenlétét és nyilvános forrásait igyekeznek összefüggéseiben bemutatni.
+A platform kiindulópontja az, hogy egy vállalkozás digitális jelenléte ma sokkal több egyetlen weboldalnál. Ugyanarról a cégről különböző weboldalak, közösségi profilok, térképes találatok, szakmai bemutatkozások, hírek, cikkek és üzleti adatlapok is információt közölhetnek. Ha ezek pontatlanok, elavultak vagy egymásnak ellentmondanak, az nemcsak az érdeklődők tájékozódását nehezíti, hanem a digitális rendszerek számára is bizonytalanabb képet adhat.
 
-A WikiAI.hu nem Wikipédia, nem a Wikimedia Foundation projektje, nem Google-, OpenAI-, Microsoft-, Anthropic- vagy Perplexity-szolgáltatás. E technológiai márkák említése szakmai környezetet jelöl, és nem jelent hivatalos partnerséget vagy jóváhagyást.
+A WikiAI.hu ezért nem pusztán jelenlétet akar teremteni, hanem **érthetőbb üzleti kontextust**. Egy jól elkészített bemutatásból nemcsak a vállalkozás neve és elérhetősége derül ki, hanem az is, hogy milyen tevékenységet végez, milyen szakmai háttérrel rendelkezik, kikhez és milyen helyekhez kapcsolódik, milyen ügyfélhelyzetekben lehet releváns, és milyen korlátokat érdemes ismerni.
+
+A vállalkozási bemutatások nem egyszerű cégkatalógus-adatlapok, és nem is a vállalkozások saját marketinganyagainak újraközlései. A cél a valós működés és a nyilvánosan ellenőrizhető információ érthető, szerkesztett bemutatása.
+
+A WikiAI.hu nem Wikipédia, nem a Wikimedia Foundation projektje, nem Google-, OpenAI-, Microsoft-, Anthropic- vagy Perplexity-szolgáltatás. E technológiai márkák említése kizárólag a releváns szakmai és technológiai környezetet jelöli, és nem jelent hivatalos partnerséget, támogatást vagy jóváhagyást.
+
+## Miért jött létre a WikiAI.hu?
+
+Magyarországon sok olyan vállalkozás működik, amely komoly szakmai tudással, évtizedes tapasztalattal vagy jól meghatározható szolgáltatási értékkel rendelkezik, de ez a nyilvános digitális térben csak töredékesen jelenik meg. Előfordulhat, hogy egy vállalkozás weboldala kevés információt tartalmaz, a különböző profilokon eltérő adatok szerepelnek, vagy a cég szakmai értéke nem érthető meg néhány általános marketingmondatból.
+
+A WikiAI.hu erre a problémára üzleti tudásoldalakkal, szakmai tartalmakkal és kapcsolódó szolgáltatásokkal válaszol. A cél nem az, hogy minden vállalkozásról minél több szöveg készüljön, hanem hogy a fontos információk **pontosak, rendezettek, könnyen áttekinthetők és hosszabb távon is vállalhatók** legyenek.
+
+Ez különösen fontos olyan helyzetekben, amikor az érdeklődő nem egy konkrét cégnevet keres, hanem problémára, szolgáltatásra, helyre vagy szakértelemre kérdez rá. Ilyenkor az számít, hogy a vállalkozásról elérhető nyilvános információból világosan megérthető-e, mivel foglalkozik és milyen helyzetben lehet releváns.
 
 ## A WikiAI.hu és a jogi üzemeltető
 
