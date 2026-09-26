@@ -1,0 +1,1239 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "description": "Független szerkesztett magyar üzleti tudásplatform, amely vállalkozásokról szerzői felelősséggel, hivatalos és külső forrásokra támaszkodó bemutatásokat közöl.",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+        "https://www.linkedin.com/in/varhelyicsanad",
+        "https://github.com/varhelyicsanad",
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://scholar.google.com/citations?user=8v2EfToAAAAJ"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#primary-image",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/csarnok-gyarto-kft-hajduszoboszlo-wikiai.png",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/csarnok-gyarto-kft-hajduszoboszlo-wikiai.png",
+      "caption": "Csarnok-Gyártó Kft. – acélszerkezet-gyártás és csarnokgyártás"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#webpage",
+      "url": "https://www.wikiai.hu/csarnok-gyarto-kft/",
+      "name": "Csarnok-Gyártó Kft. – csarnokgyártás és fémszerkezetek | Hajdúszoboszló",
+      "description": "Független WikiAI-profil a Csarnok-Gyártó Kft. hajdúszoboszlói fémszerkezet-gyártó és kivitelező tevékenységéről, csarnokgyártásáról, úszókapu-, hegesztési, inox és egyedi fémipari munkáiról.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#primary-image"
+      },
+      "datePublished": "2026-09-07T17:03:04+02:00",
+      "dateModified": "2026-09-26T17:01:31+02:00",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://www.csarnokgyartasdebrecen.hu/",
+        "https://www.csarnokgyartasdebrecen.hu/szolgaltatas.html",
+        "https://www.csarnokgyartasdebrecen.hu/rolunk.html",
+        "https://www.csarnokgyartasdebrecen.hu/faq.html",
+        "https://www.csarnokgyartasdebrecen.hu/kapcsolat.html"
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#faq"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#source-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-catalog"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#materials-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-output-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-area-priority"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#article",
+      "url": "https://www.wikiai.hu/csarnok-gyarto-kft/",
+      "headline": "Csarnok-Gyártó Kft. – csarnokgyártás, acélszerkezetek és egyedi fémipari gyártás",
+      "description": "A WikiAI.hu független szerkesztőségi vállalkozásprofilja. A cikket Várhelyi Csanád írta és szerkesztette; a Csarnok-Gyártó Kft. a bemutatás tárgya, nem szerzője, nem kiadója és nem finanszírozója.",
+      "inLanguage": "hu-HU",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "datePublished": "2026-09-07T17:03:04+02:00",
+      "dateModified": "2026-09-26T17:01:31+02:00",
+      "mainEntity": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-steel-hall"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-custom-metal"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.csarnokgyartasdebrecen.hu/#person-csaszi-gergo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-sliding-gate"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-welding"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-inox"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-residential-metal"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-steel-hall"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-steel-structure"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-welding"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-sliding-gate"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-inox"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#materials-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-index"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-output-index"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#primary-image"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://www.csarnokgyartasdebrecen.hu/",
+        "https://www.csarnokgyartasdebrecen.hu/szolgaltatas.html",
+        "https://www.csarnokgyartasdebrecen.hu/rolunk.html"
+      ],
+      "citation": [
+        "https://www.agroinform.hu/partner/csarnok-gyarto-kft-202676",
+        "https://cegcontrol.hu/ceg/csarnok-gyarto-kft-32729562/",
+        "https://www.google.com/maps?cid=14344838622428428681"
+      ],
+      "keywords": [
+        "Csarnok-Gyártó Kft.",
+        "Császi Gergő",
+        "csarnokgyártás",
+        "acélszerkezet gyártás",
+        "fémszerkezet gyártás",
+        "úszókapu gyártás",
+        "hegesztés",
+        "inox",
+        "egyedi fémszerkezet",
+        "mezőgazdasági csarnok",
+        "gépszín",
+        "Hajdúszoboszló",
+        "Debrecen",
+        "Hajdú-Bihar"
+      ]
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "@id": "https://www.csarnokgyartasdebrecen.hu/#business",
+      "name": "Csarnok-Gyártó Kft.",
+      "alternateName": [
+        "Csarnok Gyártó Kft.",
+        "Universal Metal Team"
+      ],
+      "legalName": "Csarnok-Gyártó Szolgáltató Korlátolt Felelősségű Társaság",
+      "url": "https://www.csarnokgyartasdebrecen.hu/",
+      "description": "Hajdúszoboszlói fémszerkezet-gyártó és kivitelező vállalkozás. Fő területei az acélszerkezetes csarnokok és más fémszerkezetek gyártása, úszókapuk, hegesztési munkák, rozsdamentes és alumínium szerkezetek, valamint projektfüggő helyszíni szerelés.",
+      "image": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#primary-image"
+      },
+      "foundingDate": "2025",
+      "founder": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#person-csaszi-gergo"
+      },
+      "telephone": "+36 70 626 2752",
+      "email": "csarnokgyartokft@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Debreceni út 10.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressRegion": "Hajdú-Bihar vármegye",
+        "addressCountry": "HU"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "07:30",
+        "closes": "16:00"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "+36 70 626 2752",
+        "email": "csarnokgyartokft@gmail.com",
+        "areaServed": "HU",
+        "availableLanguage": "hu"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        }
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "HU company registration number",
+          "name": "Cégjegyzékszám",
+          "value": "09-09-036651"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "HU tax number",
+          "name": "Adószám",
+          "value": "32729562-2-09"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "14344838622428428681"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJGZQe0NWci6MRiXkmkrkaE8c"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/maps?cid=14344838622428428681",
+        "https://www.facebook.com/gergo.univerzalmetal",
+        "https://www.tiktok.com/@debrecenuniverzal",
+        "https://www.youtube.com/@UniversalmetalDebrecen"
+      ],
+      "employee": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#person-csaszi-gergo"
+      },
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-catalog"
+      },
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-steel-hall"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-steel-structure"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-welding"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-sliding-gate"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-inox"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#materials-index"
+        },
+        "egyedi fémszerkezet",
+        "helyszíni szerelés",
+        "korrózióvédelem",
+        "MIG/MAG hegesztés",
+        "AWI/TIG hegesztés",
+        "MMA hegesztés"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Jogi társaság létrejötte",
+          "value": "2025"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Alapító szakmai hátterének kezdete",
+          "value": "2007; a vállalkozás saját bemutatkozása szerint"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Korábbi szakmai megnevezés",
+          "value": "Universal Metal Team; a jelenlegi társaság előtti szakmai névként dokumentálva"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Főtevékenység",
+          "value": "fémszerkezet gyártása"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Elsődleges működési térség",
+          "value": "Hajdúszoboszló; Debrecen; Hajdú-Bihar vármegye"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Országos projektek",
+          "value": "nagyobb projektek esetén előzetes egyeztetéssel"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#github-jsonld-mirror"
+        },
+        {
+          "@id": "https://www.agroinform.hu/partner/csarnok-gyarto-kft-202676"
+        },
+        {
+          "@id": "https://cegcontrol.hu/ceg/csarnok-gyarto-kft-32729562/"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.csarnokgyartasdebrecen.hu/#person-csaszi-gergo",
+      "name": "Császi Gergő",
+      "jobTitle": "alapító és ügyvezető",
+      "worksFor": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "knowsAbout": [
+        "acélszerkezet-gyártás",
+        "csarnokgyártás",
+        "fémszerkezetek",
+        "hegesztés",
+        "helyszíni kivitelezés"
+      ],
+      "description": "A Csarnok-Gyártó Kft. alapítója és ügyvezetője; a vállalkozás hivatalos bemutatkozása szerint 2007 óta dolgozik az építőiparban."
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-catalog",
+      "name": "Csarnok-Gyártó Kft. – dokumentált szolgáltatási kör",
+      "url": "https://www.csarnokgyartasdebrecen.hu/szolgaltatas.html",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-steel-hall"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-sliding-gate"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-welding"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-inox"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-custom-metal"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-residential-metal"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-steel-hall",
+      "name": "Csarnokgyártás és acélszerkezet-gyártás",
+      "serviceType": "acélszerkezetes csarnokok és kapcsolódó acélszerkezetek gyártása és projektfüggő helyszíni szerelése",
+      "provider": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-agriculture"
+        }
+      ],
+      "serviceOutput": {
+        "@type": "Thing",
+        "name": "acélszerkezetes csarnok vagy épületváz"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-sliding-gate",
+      "name": "Úszókapu gyártás és telepítés",
+      "serviceType": "egyedi méretű acélszerkezetű úszókapu gyártása, kézi vagy motoros működtetés lehetőségével",
+      "provider": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-agriculture"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-private"
+        }
+      ],
+      "serviceOutput": {
+        "@type": "Thing",
+        "name": "egyedi úszókapu"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-welding",
+      "name": "Hegesztési munkák",
+      "serviceType": "MIG/MAG, AWI/TIG és MMA hegesztési munkák a konkrét anyaghoz és feladathoz igazítva",
+      "provider": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-agriculture"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-private"
+        }
+      ],
+      "serviceOutput": {
+        "@type": "Thing",
+        "name": "hegesztett szerkezet vagy javított fémelem"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-inox",
+      "name": "Inox és rozsdamentes egyedi gyártás",
+      "serviceType": "rozsdamentes és saválló egyedi szerkezetek és berendezéselemek gyártása",
+      "provider": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-business"
+        }
+      ],
+      "serviceOutput": {
+        "@type": "Thing",
+        "name": "egyedi rozsdamentes szerkezet"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-custom-metal",
+      "name": "Egyedi fémszerkezet-gyártás",
+      "serviceType": "egyedi acél-, alumínium- és rozsdamentes fémszerkezetek gyártása rajz vagy műszaki egyeztetés alapján",
+      "provider": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-agriculture"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-private"
+        }
+      ],
+      "serviceOutput": {
+        "@type": "Thing",
+        "name": "egyedi fémszerkezet"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-residential-metal",
+      "name": "Lakossági fémszerkezetek",
+      "serviceType": "garázs, műhely, kisebb épületváz, kapu, előtető és teraszszerkezet gyártása",
+      "provider": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+        }
+      ],
+      "audience": [
+        {
+          "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-private"
+        }
+      ],
+      "serviceOutput": {
+        "@type": "Thing",
+        "name": "egyedi lakossági fémszerkezet"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-area-priority",
+      "name": "Csarnok-Gyártó Kft. – szolgáltatási területek",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Működési központ – Hajdúszoboszló",
+          "item": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kiemelt projektterület – Debrecen",
+          "item": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Regionális működés – Hajdú-Bihar vármegye",
+          "item": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Nagyobb projektek – Magyarország, előzetes egyeztetéssel",
+          "item": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "sameAs": "https://www.wikidata.org/wiki/Q830404"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#hungary",
+      "name": "Magyarország",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-steel-hall",
+      "name": "csarnokgyártás",
+      "description": "Acélszerkezetes csarnokok és kapcsolódó szerkezeti elemek gyártási és kivitelezési területe."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-steel-structure",
+      "name": "acélszerkezet-gyártás",
+      "description": "Szerkezeti acélelemek műhelyben történő előkészítése, összeállítása és gyártása."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-welding",
+      "name": "hegesztés",
+      "description": "Fém alkatrészek és szerkezetek hegesztett kötéseinek kialakítása a feladathoz megfelelő eljárással."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-sliding-gate",
+      "name": "úszókapu",
+      "description": "Sín nélküli kapunyílást áthidaló, konzolosan vezetett tolókapu jellegű fémszerkezet."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#concept-inox",
+      "name": "inox gyártás",
+      "description": "Rozsdamentes acélból készülő egyedi fémszerkezetek és berendezéselemek gyártása."
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#materials-index",
+      "name": "A Csarnok-Gyártó dokumentált anyag- és felületköre",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "acél",
+          "item": {
+            "@type": "Thing",
+            "name": "acél",
+            "alternateName": "steel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "rozsdamentes acél / inox",
+          "item": {
+            "@type": "Thing",
+            "name": "rozsdamentes acél / inox",
+            "alternateName": "stainless steel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "alumínium",
+          "item": {
+            "@type": "Thing",
+            "name": "alumínium",
+            "alternateName": "aluminium"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "saválló anyag",
+          "item": {
+            "@type": "Thing",
+            "name": "saválló anyag",
+            "alternateName": "acid-resistant stainless steel"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "tűzihorganyzás",
+          "item": {
+            "@type": "Thing",
+            "name": "tűzihorganyzás",
+            "alternateName": "hot-dip galvanizing"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "porszórás",
+          "item": {
+            "@type": "Thing",
+            "name": "porszórás",
+            "alternateName": "powder coating"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-business",
+      "name": "Ipari és vállalkozói megrendelők",
+      "audienceType": "ipari, logisztikai, kereskedelmi és más vállalkozói projektek megrendelői"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-agriculture",
+      "name": "Mezőgazdasági vállalkozások",
+      "audienceType": "mezőgazdasági csarnok, gépszín, tároló és kapcsolódó fémszerkezet megrendelői"
+    },
+    {
+      "@type": "Audience",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-private",
+      "name": "Magánmegrendelők",
+      "audienceType": "garázs, műhely, kapu, előtető, terasz és kisebb egyedi fémszerkezet megrendelői"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-index",
+      "name": "Csarnok-Gyártó Kft. – jellemző megrendelői körök",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-business"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-agriculture"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#audience-private"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#service-output-index",
+      "name": "Dokumentált szerkezettípusok és felhasználások",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Thing",
+            "name": "Acélvázas csarnok",
+            "description": "ipari, mezőgazdasági, raktározási vagy más projekthez igazított acélszerkezetes csarnok",
+            "manufacturer": {
+              "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Thing",
+            "name": "Gépszín",
+            "description": "mezőgazdasági gépek tárolására szolgáló acélvázas épület",
+            "manufacturer": {
+              "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Thing",
+            "name": "Gabonatároló",
+            "description": "mezőgazdasági tárolási célú csarnok vagy szerkezeti rendszer",
+            "manufacturer": {
+              "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Thing",
+            "name": "Lovarda",
+            "description": "lovas használathoz kialakítható acélvázas csarnok",
+            "manufacturer": {
+              "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "Thing",
+            "name": "Garázsváz és tároló",
+            "description": "kisebb léptékű egyedi acélszerkezet",
+            "manufacturer": {
+              "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "Thing",
+            "name": "Úszókapu",
+            "description": "egyedi méretű acélszerkezetű kapu",
+            "manufacturer": {
+              "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#source-index",
+      "name": "Csarnok-Gyártó Kft. – forrásindex",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Hivatalos weboldal",
+          "url": "https://www.csarnokgyartasdebrecen.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Hivatalos szolgáltatásoldal",
+          "url": "https://www.csarnokgyartasdebrecen.hu/szolgaltatas.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hivatalos bemutatkozás",
+          "url": "https://www.csarnokgyartasdebrecen.hu/rolunk.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Hivatalos FAQ",
+          "url": "https://www.csarnokgyartasdebrecen.hu/faq.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Hivatalos kapcsolat",
+          "url": "https://www.csarnokgyartasdebrecen.hu/kapcsolat.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Agroinform partnerprofil",
+          "url": "https://www.agroinform.hu/partner/csarnok-gyarto-kft-202676"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Cégcontrol nyilvános cégadatlap",
+          "url": "https://cegcontrol.hu/ceg/csarnok-gyarto-kft-32729562/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Google Maps cégprofil",
+          "url": "https://www.google.com/maps?cid=14344838622428428681"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.agroinform.hu/partner/csarnok-gyarto-kft-202676",
+      "url": "https://www.agroinform.hu/partner/csarnok-gyarto-kft-202676",
+      "name": "Csarnok-Gyártó Kft. – Agroinform partnerprofil",
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://cegcontrol.hu/ceg/csarnok-gyarto-kft-32729562/",
+      "url": "https://cegcontrol.hu/ceg/csarnok-gyarto-kft-32729562/",
+      "name": "Csarnok-Gyártó Kft. – Cégcontrol nyilvános cégadatlap",
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.google.com/maps?cid=14344838622428428681",
+      "url": "https://www.google.com/maps?cid=14344838622428428681",
+      "name": "Csarnok-Gyártó Kft. – Google Maps cégprofil",
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#faq",
+      "url": "https://www.wikiai.hu/csarnok-gyarto-kft/#gyakori-kerdesek",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#webpage"
+      },
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mi a Csarnok-Gyártó Kft. fő tevékenysége?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fő profilja a fémszerkezet-gyártás, ezen belül különösen acélszerkezetes csarnokok, egyedi fémszerkezetek és úszókapuk készítése, valamint hegesztési munkák."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor alakult a cég?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Csarnok-Gyártó Kft. 2025-ben jött létre. Császi Gergő saját szakmai bemutatkozása szerint 2007 óta dolgozik az építőiparban."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ki vezeti a vállalkozást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A nyilvános cégadatok szerint a tulajdonos és ügyvezető Császi Gergő."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol található a vállalkozás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A cég címe 4200 Hajdúszoboszló, Debreceni út 10."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Debrecenben is vállalnak munkát?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A hivatalos bemutatkozás Debrecent és Hajdú-Bihar vármegyét az elsődleges szolgáltatási térség részeként jelöli meg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Országosan is vállalnak projektet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nagyobb, előzetesen egyeztetett projektek esetén országos vállalás is lehetséges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen mezőgazdasági szerkezeteket készítenek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A nyilvános vállalkozási profilokban többek között gépszínek, gabonatárolók, lovardák és más acélvázas mezőgazdasági csarnokok szerepelnek."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gyártanak úszókaput?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Egyedi méretű acélszerkezetű úszókapuk gyártása és telepítése a kiemelt szolgáltatások között szerepel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen hegesztési eljárásokat használnak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A saját szolgáltatási leírás MIG/MAG, AWI/TIG és MMA hegesztést sorol fel, a konkrét eljárást az anyag és a feladat határozza meg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Inox és alumínium szerkezeteket is készítenek?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A vállalkozás rozsdamentes, saválló és alumínium egyedi szerkezeteket is felsorol a szolgáltatási körében."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen adatok szükségesek egy ajánlatkéréshez?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hasznos megadni a helyszínt, a felhasználási célt, a fő méreteket, a tervezett határidőt és lehetőség szerint rajzot vagy fényképet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Van egységes árlista?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A munkák projektalapúak. A méret, anyag, felületkezelés, gyártási és szerelési tartalom miatt az ár jellemzően egyedi műszaki egyeztetés után határozható meg."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#github-markdown-mirror",
+      "name": "WikiAI GitHub Markdown mirror – Csarnok-Gyártó Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/csarnok-gyarto-kft.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Csarnok-Gyártó Kft.-profiljának Markdown tükre; a WordPress-publikáció a kanonikus szerkesztőségi forrás."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#github-jsonld-mirror",
+      "name": "WikiAI GitHub JSON-LD mirror – Csarnok-Gyártó Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/csarnok-gyarto-kft.jsonld",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Csarnok-Gyártó Kft.-profiljának gépi JSON-LD tükre; nem önálló authority és nem sameAs kapcsolat."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/csarnok-gyarto-kft.md",
+      "url": "https://www.wikiai.hu/csarnok-gyarto-kft.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Csarnok-Gyártó Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.csarnokgyartasdebrecen.hu/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/csarnok-gyarto-kft/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Csarnok-Gyártó Kft.-ről szóló szerkesztőségi profiljának saját domainen elérhető Markdown reprezentációja."
+    }
+  ]
+}
