@@ -17,7 +17,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.goldablak.hu/"
 wordpress_post_id: 64
-last_updated: "2026-09-26T16:20:02+02:00"
+last_updated: "2026-09-26T16:20:08+02:00"
 location:
   address: "4200 Hajdúszoboszló, Déli sor 6."
   country: "HU"
