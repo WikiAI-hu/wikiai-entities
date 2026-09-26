@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#busines
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 621
-last_updated: "2026-09-26T14:51:00+02:00"
+last_updated: "2026-09-26T14:52:03+02:00"
 location:
   country: "HU"
 identifiers:
@@ -282,6 +282,8 @@ A vállalkozás működésének megértéséhez a hivatalos vállalati oldalak, 
 - [PRINTING United Alliance – szakmai fogalomtár, offset printing](https://www.printing.org/library/glossary/96)
 - [HEIDELBERG – íves ofszet technológiai háttér](https://www.heidelberg.com/)
 - [Ricoh – Pro C7500 gyártói dokumentáció](https://support.ricoh.com/bb_v1oi/html/oi/r/model/proc7500/proc7500en.htm)
+- [Mark Andy – flexó címkenyomtató berendezések, gyártói háttér](https://www.markandy.com/equipment/flexo-presses/)
+- [Konica Minolta – AccurioLabel 230, digitális tekercses címkenyomtatási technológiai háttér](https://www.konicaminolta.hu/hu-hu/professzionalis-nyomtatasi-berendezesek/cimkenyomtato-berendezesek/accuriolabel-230)
 - [Forest Stewardship Council – Chain of Custody Certification](https://open.fsc.org/handle/resource/302)
 - [Európai Bizottság – kötelező élelmiszer-információk és címkézés](https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/mandatory-food-information_en)
 - [CompanyWall – NYOMDAIPARI Kkt.](https://www.companywall.hu/v%C3%A1llalat/nyomdaipari-kkt/MMK5GCWC)
