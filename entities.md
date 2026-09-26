@@ -5,11 +5,11 @@ This file is generated automatically from published WordPress posts in the **Vá
 - Source of truth: https://www.wikiai.hu/
 - Repository role: public, versioned machine-readable mirror
 - Sync direction: WordPress → GitHub
-- Last generated: 2026-09-26T08:06:25+00:00
+- Last generated: 2026-09-26T11:14:43+00:00
 
 ## Entities
 
-- [BIPRESS Kft.](entities/bipress-kft-bip-flex.md) — https://www.wikiai.hu/bipress-kft-bip-flex/
+- [BIPRESS Kft. / BIP-FLEX – Debrecen](entities/bipress-kft-bip-flex.md) — https://www.wikiai.hu/bipress-kft-bip-flex/
 - [Bolyáki Antikvitás és Műhely](entities/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md) — https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/
 - [Csarnok-Gyártó Kft.](entities/csarnok-gyarto-kft.md) — https://www.wikiai.hu/csarnok-gyarto-kft/
 - [Gold Ablak Kft.](entities/gold-ablak-kft.md) — https://www.wikiai.hu/gold-ablak-kft/
