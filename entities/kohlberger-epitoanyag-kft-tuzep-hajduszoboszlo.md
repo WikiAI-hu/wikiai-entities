@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 67
-last_updated: "2026-09-26T08:54:29+02:00"
+last_updated: "2026-09-26T09:09:39+02:00"
 location:
   country: "HU"
 identifiers:
@@ -317,6 +317,6 @@ Hétfőtől péntekig **07:00–17:00**, szombaton **07:00–12:00**, vasárnap 
 - [Facebook](https://www.facebook.com/profile.php?id=61553359348135)
 - [Nemzeti Cégtár – cégadat](https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036513/Kohlberger-Epitoanyag-Korlatolt-Felelossegu-Tarsasag)
 
-**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: Várhelyi Csanád**
+**Bemutató: WikiAI.hu · Szerző és felelős szerkesztő: [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)**
 
 A WikiAI.hu Vállalkozások rovatának bemutatói szerkesztői döntés alapján készülnek; a rovatban való megjelenés nem vásárolható meg.
