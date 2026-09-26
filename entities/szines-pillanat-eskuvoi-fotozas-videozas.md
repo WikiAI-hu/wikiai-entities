@@ -15,22 +15,13 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://www.szinespillanat.hu/"
 wordpress_post_id: 72
-last_updated: "2026-09-26T09:43:56+02:00"
+last_updated: "2026-09-26T09:47:44+02:00"
 location:
   country: "HU"
 identifiers:
   google_cid: "9575396495972956002"
   google_kgmid: "/g/11zwm_0nwr"
   google_place_id: "ChIJSZ5QSw0ZR0cRYvf8ZWGk4oQ"
-operators:
-  - name: "Uhelszky Angéla"
-    business_form: "individual_entrepreneur"
-    tax_id: "69319789-1-29"
-    telephone: "+36 20 495 3848"
-  - name: "Uhelszky Tamás"
-    business_form: "individual_entrepreneur"
-    tax_id: "67960626-1-29"
-    telephone: "+36 20 377 3530"
 machine_attributes:
   content-type: "editorial-business-profile"
   content-language: "hu-HU"
