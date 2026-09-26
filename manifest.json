@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-26T12:26:03Z",
+    "last_updated": "2026-09-26T12:33:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -165,7 +165,18 @@
             "country": "HU",
             "google_cid": "12807312395296193309",
             "google_kgmid": "/g/11z8rpfmj2",
-            "google_place_id": "ChIJkb0XcSYZR0cRHTsWecS2vLE"
+            "google_place_id": "ChIJkb0XcSYZR0cRHTsWecS2vLE",
+            "entity_id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#business",
+            "local_markdown_url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit.md",
+            "jsonld_mirror": "entities/nemethy-consulting-kft-nemethyne-nagy-judit.jsonld",
+            "wikiai_article_id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#article",
+            "wikiai_webpage_id": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/#webpage",
+            "editorial_author": "Várhelyi Csanád",
+            "publication_relation": "editorial",
+            "source_role": "independent-secondary-source",
+            "production_jsonld_layer": "HFCM #25 / head",
+            "last_verification": "2026-09-26",
+            "legacy_redirect_source": "https://www.nemethynenagyjudit.hu/"
         },
         {
             "entity_name": "NYOMDAIPARI Szolgáltató Közkereseti Társaság",
