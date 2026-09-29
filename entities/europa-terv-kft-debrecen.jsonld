@@ -1,0 +1,823 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "description": "Független szerkesztett magyar üzleti tudásplatform, amely vállalkozásokról szerzői felelősséggel, hivatalos és külső forrásokra támaszkodó bemutatásokat közöl.",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+        "https://www.linkedin.com/in/varhelyicsanad",
+        "https://github.com/varhelyicsanad",
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://scholar.google.com/citations?user=8v2EfToAAAAJ"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#primary-image",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/europa-terv-kft-debrecen-wikiai.png",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/europa-terv-kft-debrecen-wikiai.png",
+      "caption": "Európa Terv Kft. – pályázatírás és projektmenedzsment"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#webpage",
+      "url": "https://www.wikiai.hu/europa-terv-kft-debrecen/",
+      "name": "Európa Terv Kft. – pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés – Debrecen",
+      "description": "A WikiAI.hu szerkesztőségi vállalkozásprofilja a debreceni Európa Terv Kft. történetéről, vezetéséről, pályázatírási, projektmenedzsment-, pályázatfigyelési és tanulmánykészítési tevékenységéről.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#primary-image"
+      },
+      "datePublished": "2026-09-29T20:23:20+02:00",
+      "dateModified": "2026-09-29T20:23:30+02:00",
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://europaterv.eu/",
+        "https://www.facebook.com/p/Eur%C3%B3pa-Terv-Kft-61576829083265/"
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#faq"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#source-index"
+        }
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#article",
+      "url": "https://www.wikiai.hu/europa-terv-kft-debrecen/",
+      "headline": "Európa Terv Kft. – pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés – Debrecen",
+      "description": "A WikiAI.hu szerkesztőségi vállalkozásprofilja az Európa Terv Kft.-ről. A cikket Várhelyi Csanád írta és szerkesztette; a vállalkozás a bemutatás tárgya, nem szerzője és nem kiadója.",
+      "inLanguage": "hu-HU",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "datePublished": "2026-09-29T20:23:20+02:00",
+      "dateModified": "2026-09-29T20:23:30+02:00",
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatiras"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-projektmenedzsment"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatfigyeles"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-tanulmanykeszites"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#concept-agrar-videkfejlesztes"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#concept-vallalkozasfejlesztes"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#lakatos-tibor"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#kallai-nagy-maria"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#tamas-timea"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#hungary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#debreceni-egyetem-mek"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-debrecen-nagytemplom"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-gorbehaza"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-hajduhadhaz"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-hortobagyi-halgazdasag"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#quintessence"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#bni"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#primary-image"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        "https://europaterv.eu/",
+        "https://www.facebook.com/p/Eur%C3%B3pa-Terv-Kft-61576829083265/"
+      ],
+      "citation": [
+        "https://maps.app.goo.gl/VG4isR6BcWpftQC56",
+        "https://www.google.com/maps?cid=9120373823829108610",
+        "https://share.google/aE9XNdRVbWgmHInA5",
+        "https://maps.apple/p/BuNLUG2pbHfMzD",
+        "https://www.nemzeticegtar.hu/europa-terv-kft-c0909014226.html",
+        "https://www.companywall.hu/v%C3%A1llalat/europa-terv-kft/MMF1ZHoq",
+        "https://webshop.opten.hu/europa-terv-kft-e10803819.html",
+        "https://www.aranyvallalkozas.eu/company/europa-terv-kft-480449",
+        "https://www.civishir.hu/hir/megkerulhetetlen-vallalkozassa-valt-a-debreceni-europa-terv-kft",
+        "https://quintessence-palinka.hu/",
+        "https://bnieszakkelet.hu/"
+      ],
+      "keywords": [
+        "Európa Terv Kft.",
+        "pályázatírás Debrecen",
+        "projektmenedzsment",
+        "pályázatfigyelés",
+        "tanulmánykészítés",
+        "agrár- és vidékfejlesztés",
+        "vállalkozásfejlesztés",
+        "KKV pályázatok",
+        "uniós források"
+      ]
+    },
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business",
+      "name": "Európa Terv Kft.",
+      "legalName": "Európa Terv Fejlesztő és Szolgáltató Korlátolt Felelősségű Társaság",
+      "url": "https://europaterv.eu/",
+      "description": "2007-ben alapított, debreceni központú magyar fejlesztési és projekt-tanácsadó vállalkozás. Fő szolgáltatásai a pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés; kiemelt szakmai területei az agrár- és vidékfejlesztés, valamint a vállalkozásfejlesztés.",
+      "image": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#primary-image"
+      },
+      "foundingDate": "2007-12-14",
+      "founder": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#lakatos-tibor"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Iparkamara utca 8. földszint 3.",
+        "postalCode": "4024",
+        "addressLocality": "Debrecen",
+        "addressRegion": "Hajdú-Bihar vármegye",
+        "addressCountry": "HU"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#hungary"
+      },
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 10
+      },
+      "employee": [
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#lakatos-tibor"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#kallai-nagy-maria"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#tamas-timea"
+        }
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google CID",
+          "value": "9120373823829108610"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJW2rrE24OR0cRgucaxKsTkn4"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Knowledge Graph MID",
+          "value": "/g/11cn8tcg1z"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Apple Maps place ID",
+          "value": "IA815B959764B9CAF"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Cégjegyzékszám",
+          "value": "09-09-014226"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Adószám",
+          "value": "14136041-2-09"
+        }
+      ],
+      "sameAs": [
+        "https://share.google/aE9XNdRVbWgmHInA5",
+        "https://www.google.com/maps?cid=9120373823829108610",
+        "https://maps.apple/p/BuNLUG2pbHfMzD",
+        "https://www.facebook.com/p/Eur%C3%B3pa-Terv-Kft-61576829083265/"
+      ],
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatiras"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-projektmenedzsment"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatfigyeles"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-tanulmanykeszites"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#concept-agrar-videkfejlesztes"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#concept-vallalkozasfejlesztes"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#offer-catalog"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Nyilvántartott főtevékenység",
+          "value": "üzletviteli és egyéb üzletvezetési tanácsadás"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Szakmai múlt",
+          "value": "több mint 2200 pályázati vagy projektfolyamat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "2007–2013-as időszak",
+          "value": "mintegy 795 pályázat; közel 70 milliárd forintnyi pályázati forráshoz kapcsolódó munka"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Szakmai csapat",
+          "value": "10 fő"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Kiemelt szakmai területek",
+          "value": "agrár- és vidékfejlesztés; vállalkozásfejlesztés"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Működési terület",
+          "value": "Debrecen központtal Magyarország egész területe; nemzetközi projektek gondozása is"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Stratégiai partner",
+          "value": "Debreceni Egyetem Mezőgazdaság-, Élelmiszertudományi és Környezetgazdálkodási Kar"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen.md"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#github-markdown-mirror"
+        },
+        {
+          "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#github-jsonld-mirror"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#lakatos-tibor",
+      "name": "Lakatos Tibor",
+      "jobTitle": "alapító, tulajdonos és ügyvezető",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#kallai-nagy-maria",
+      "name": "Kállai-Nagy Mária",
+      "jobTitle": "ügyvezető-helyettes; Agrár- és vidékfejlesztési csoport vezetője",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#tamas-timea",
+      "name": "Tamás Tímea",
+      "jobTitle": "Vállalkozásfejlesztési csoport vezetője",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#debrecen",
+      "name": "Debrecen",
+      "addressCountry": "HU"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#hungary",
+      "name": "Magyarország",
+      "identifier": "HU"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#concept-agrar-videkfejlesztes",
+      "name": "Agrár- és vidékfejlesztés"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#concept-vallalkozasfejlesztes",
+      "name": "Vállalkozásfejlesztés"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatiras",
+      "name": "Pályázatírás",
+      "serviceType": "Pályázatírás",
+      "description": "Pályázati dokumentáció szakmai és formai előkészítése, a fejlesztési cél bemutatása és a szükséges dokumentumok összeállítása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-projektmenedzsment",
+      "name": "Projektmenedzsment",
+      "serviceType": "Projektmenedzsment",
+      "description": "Támogatott projektek megvalósításának követése, elszámolások, ügyfélkapcsolattartás, helyszíni ellenőrzések és projektzáráshoz kapcsolódó feladatok.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatfigyeles",
+      "name": "Pályázatfigyelés",
+      "serviceType": "Pályázatfigyelés",
+      "description": "A vállalkozás vagy szervezet számára releváns finanszírozási és fejlesztési lehetőségek azonosítása.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#hungary"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-tanulmanykeszites",
+      "name": "Tanulmánykészítés",
+      "serviceType": "Tanulmánykészítés",
+      "description": "Megvalósíthatósági tanulmányok és üzleti tervek készítése beruházások és fejlesztések szakmai, gazdasági, pénzügyi és működési megalapozásához.",
+      "provider": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#hungary"
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#offer-catalog",
+      "name": "Európa Terv Kft. fejlesztési és projekt-tanácsadási szolgáltatásai",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatiras"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-projektmenedzsment"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-palyazatfigyeles"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#service-tanulmanykeszites"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#debreceni-egyetem-mek",
+      "name": "Debreceni Egyetem Mezőgazdaság-, Élelmiszertudományi és Környezetgazdálkodási Kar",
+      "url": "https://mek.unideb.hu/"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#quintessence",
+      "name": "Quintessence Pálinka- és Párlatverseny",
+      "url": "https://quintessence-palinka.hu/"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#bni",
+      "name": "BNI Északkelet-Magyarország",
+      "url": "https://bnieszakkelet.hu/"
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-debrecen-nagytemplom",
+      "name": "Debrecen-Nagytemplomi Református Egyházközség energetikai fejlesztése",
+      "description": "2015-ös, három intézményt érintő energetikai fejlesztés; az Európa Terv projektmenedzsment-feladatokat látott el, a projekt 86 millió forint támogatással valósult meg."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-gorbehaza",
+      "name": "Görbeháza művelődési ház felújítása",
+      "description": "Közel 30 millió forintos támogatott fejlesztés, amelyben az Európa Terv projektmenedzsment-szolgáltatása jelent meg."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-hajduhadhaz",
+      "name": "Hajdúhadházi iskola-felújítás és sportcsarnok",
+      "description": "2013 és 2015 között megvalósult projekt, amelyhez az Európa Terv pályázatírási és projektmenedzsment-feladatokkal kapcsolódott."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-hortobagyi-halgazdasag",
+      "name": "Hortobágyi Halgazdaság természetvédelmi beruházása",
+      "description": "Természetvédelmi beruházás, amelynél az Európa Terv projektmenedzsmenthez kapcsolódó feladatokban vett részt."
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#source-index",
+      "name": "Európa Terv Kft. – forrásindex",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Hivatalos weboldal",
+            "url": "https://europaterv.eu/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Google Maps",
+            "url": "https://maps.app.goo.gl/VG4isR6BcWpftQC56"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Google CID",
+            "url": "https://www.google.com/maps?cid=9120373823829108610"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Google Cégprofil",
+            "url": "https://share.google/aE9XNdRVbWgmHInA5"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Apple Maps",
+            "url": "https://maps.apple/p/BuNLUG2pbHfMzD"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/p/Eur%C3%B3pa-Terv-Kft-61576829083265/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Nemzeti Cégtár",
+            "url": "https://www.nemzeticegtar.hu/europa-terv-kft-c0909014226.html"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Companywall",
+            "url": "https://www.companywall.hu/v%C3%A1llalat/europa-terv-kft/MMF1ZHoq"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Opten",
+            "url": "https://webshop.opten.hu/europa-terv-kft-e10803819.html"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Arany Vállalkozás",
+            "url": "https://www.aranyvallalkozas.eu/company/europa-terv-kft-480449"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Cívishír",
+            "url": "https://www.civishir.hu/hir/megkerulhetetlen-vallalkozassa-valt-a-debreceni-europa-terv-kft"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Quintessence",
+            "url": "https://quintessence-palinka.hu/"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "BNI Északkelet-Magyarország",
+            "url": "https://bnieszakkelet.hu/"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#faq",
+      "inLanguage": "hu-HU",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mi az Európa Terv Kft.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az Európa Terv Kft. 2007 óta működő, debreceni központú magyar fejlesztési és projekt-tanácsadó vállalkozás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ki az Európa Terv Kft. alapítója és ügyvezetője?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás alapítója, tulajdonosa és ügyvezetője Lakatos Tibor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol található az Európa Terv Kft.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A társaság székhelye 4024 Debrecen, Iparkamara utca 8. földszint 3. A vállalkozás debreceni központtal országosan vállal feladatokat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Melyek az Európa Terv Kft. fő szolgáltatásai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az Európa Terv négy fő szolgáltatása a pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen kiemelt szakmai területeken dolgozik az Európa Terv?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás működésében az agrár- és vidékfejlesztés, valamint a vállalkozásfejlesztés önálló szakmai területként jelenik meg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen kapcsolata van az Európa Terv Kft.-nek a Debreceni Egyetemmel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az Európa Terv Kft. a Debreceni Egyetem Mezőgazdaság-, Élelmiszertudományi és Környezetgazdálkodási Karának stratégiai partnere. Az együttműködés az agrárinnovációhoz, a vidékfejlesztéshez, a kutatás-fejlesztéshez és közös szakmai projektekhez kapcsolódik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hány pályázati és projektfolyamatban vett részt az Európa Terv Kft.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás működése során több mint 2200 pályázati vagy projektfolyamat előkészítésében, megírásában, megvalósításában vagy lezárásában vett részt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hány munkatárssal működik az Európa Terv Kft.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az Európa Terv jelenleg 10 fős csapattal működik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Csak Debrecenben dolgozik az Európa Terv Kft.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A társaság központja Debrecenben található, de Magyarország egész területén vállal feladatokat, és nemzetközi projektek gondozásában is részt vesz."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen.md",
+      "url": "https://www.wikiai.hu/europa-terv-kft-debrecen.md",
+      "name": "WikiAI saját-domain Markdown reprezentáció – Európa Terv Kft.",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Európa Terv Kft.-ről szóló szerkesztőségi profiljának saját domainen elérhető Markdown reprezentációja."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#github-markdown-mirror",
+      "name": "WikiAI GitHub Markdown mirror – Európa Terv Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/europa-terv-kft-debrecen.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#article"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Európa Terv Kft.-ről szóló szerkesztőségi cikkének Markdown tükre. A WordPress-publikáció a kanonikus forrás."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#github-jsonld-mirror",
+      "name": "WikiAI GitHub JSON-LD mirror – Európa Terv Kft.",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/europa-terv-kft-debrecen.jsonld",
+      "encodingFormat": "application/ld+json",
+      "inLanguage": "hu-HU",
+      "about": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#article"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "description": "A WikiAI.hu Európa Terv Kft.-ről szóló szerkesztőségi cikkének gépi JSON-LD tükre; nem sameAs kapcsolat."
+    }
+  ]
+}
