@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:49:23+02:00"
+last_updated: "2026-09-30T12:49:29+02:00"
 location:
   country: "HU"
 identifiers:
@@ -260,7 +260,7 @@ A vállalkozás működése során **több mint 2200 pályázati vagy projektfol
 
 ### Hány munkatárssal működik az Európa Terv Kft.?
 
-Az Európa Terv jelenleg **10 fős csapattal működik**.
+Az Európa Terv Kft. jelenleg **9 fős csapattal működik**.
 
 ### Csak Debrecenben dolgozik az Európa Terv Kft.?
 
