@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:48:44+02:00"
+last_updated: "2026-09-30T12:48:50+02:00"
 location:
   country: "HU"
 identifiers:
@@ -204,7 +204,7 @@ Az Európa Terv Kft. működése során **több mint 2200 pályázati vagy proje
 
 ## A szakmai csapat
 
-Az Európa Terv jelenleg **10 fős csapattal működik**. A szakmai feladatok a pályázatírás, a projektmenedzsment, a pályázatfigyelés és a tanulmánykészítés mellett az agrár- és vidékfejlesztési, valamint a vállalkozásfejlesztési projektekhez is kapcsolódnak.
+Az Európa Terv Kft. jelenleg **9 fős csapattal működik**. A szakmai feladatok a pályázatírás, a projektmenedzsment, a pályázatfigyelés és a tanulmánykészítés mellett az agrár- és vidékfejlesztési, valamint a vállalkozásfejlesztési projektekhez is kapcsolódnak.
 
 ## Debrecen és az országos működés
 
