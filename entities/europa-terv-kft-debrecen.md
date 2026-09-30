@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:44:19+02:00"
+last_updated: "2026-09-30T12:44:48+02:00"
 location:
   country: "HU"
 identifiers:
@@ -71,7 +71,7 @@ A vállalkozás tevékenysége az évek során a klasszikus pályázatírásnál
 - **Nyilvántartott főtevékenység:** üzletviteli és egyéb üzletvezetési tanácsadás
 - **Fő szolgáltatások:** pályázatírás, projektmenedzsment, pályázatfigyelés, tanulmánykészítés
 - **Kiemelt szakmai területek:** agrár- és vidékfejlesztés, vállalkozásfejlesztés
-- **Szakmai csapat:** 10 fő
+- **Szakmai csapat:** 9 fő
 - **Szakmai múlt:** több mint 2200 pályázati vagy projektfolyamat
 - **Működési terület:** Debrecen központtal Magyarország egész területe; nemzetközi projektek gondozása is
 - **Stratégiai partner:** Debreceni Egyetem Mezőgazdaság-, Élelmiszertudományi és Környezetgazdálkodási Kar
