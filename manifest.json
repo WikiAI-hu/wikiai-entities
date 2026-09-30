@@ -299,7 +299,7 @@
         "index": "wikiai/index.md",
         "manifest": "wikiai/manifest.json",
         "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-09-29T18:25:48+00:00",
+        "last_updated": "2026-09-30T10:43:11+00:00",
         "documents": [
             {
                 "document_type": "service_catalog",
@@ -313,7 +313,7 @@
                 "canonical_url": "https://www.wikiai.hu/arak/",
                 "wordpress_post_id": 202,
                 "currency": "HUF",
-                "valid_as_of": "2026-09-29"
+                "valid_as_of": "2026-09-30"
             },
             {
                 "document_type": "about",
