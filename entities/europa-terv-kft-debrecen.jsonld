@@ -65,7 +65,7 @@
         "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#primary-image"
       },
       "datePublished": "2026-09-29T20:23:20+02:00",
-      "dateModified": "2026-09-29T20:23:30+02:00",
+      "dateModified": "2026-09-30T12:41:00+02:00",
       "author": {
         "@id": "https://www.varhelyicsanad.hu/#person"
       },
@@ -103,7 +103,7 @@
       "genre": "független szerkesztőségi vállalkozásprofil",
       "isAccessibleForFree": true,
       "datePublished": "2026-09-29T20:23:20+02:00",
-      "dateModified": "2026-09-29T20:23:30+02:00",
+      "dateModified": "2026-09-30T12:41:00+02:00",
       "mainEntity": {
         "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#business"
       },
@@ -247,7 +247,7 @@
       },
       "numberOfEmployees": {
         "@type": "QuantitativeValue",
-        "value": 10
+        "value": 9
       },
       "employee": [
         {
@@ -340,7 +340,7 @@
         {
           "@type": "PropertyValue",
           "name": "Szakmai csapat",
-          "value": "10 fő"
+          "value": "9 fő"
         },
         {
           "@type": "PropertyValue",
@@ -708,7 +708,7 @@
           "name": "Melyek az Európa Terv Kft. fő szolgáltatásai?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Az Európa Terv négy fő szolgáltatása a pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés."
+            "text": "Az Európa Terv Kft. négy fő szolgáltatása a pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés."
           }
         },
         {
@@ -740,7 +740,7 @@
           "name": "Hány munkatárssal működik az Európa Terv Kft.?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Az Európa Terv jelenleg 10 fős csapattal működik."
+            "text": "Az Európa Terv Kft. jelenleg 9 fős csapattal működik."
           }
         },
         {
