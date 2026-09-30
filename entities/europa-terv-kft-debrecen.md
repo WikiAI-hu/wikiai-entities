@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:55+02:00"
+last_updated: "2026-09-30T12:47:02+02:00"
 location:
   country: "HU"
 identifiers:
@@ -166,7 +166,7 @@ Ezek a példák nem teljes referencialistát jelentenek, hanem a vállalkozás t
 
 **Lakatos Tibor** az Európa Terv Kft. alapítója, tulajdonosa és meghatározó vezetője. A társaság 2007-es indulása óta ügyvezetőként kapcsolódik a vállalkozás működéséhez és szakmai fejlődéséhez.
 
-Több mint másfél évtizede jelenik meg az Európa Terv képviselőjeként különböző fejlesztési projektekben. Munkája önkormányzati, oktatási, energetikai, környezetvédelmi és térségfejlesztési beruházásokhoz egyaránt kapcsolódott.
+Több mint másfél évtizede jelenik meg az Európa Terv Kft. képviselőjeként különböző fejlesztési projektekben. Munkája önkormányzati, oktatási, energetikai, környezetvédelmi és térségfejlesztési beruházásokhoz egyaránt kapcsolódott.
 
 Szakmai szemléletében a klasszikus pályázatírásnál szélesebb fejlesztéspolitikai és térségfejlesztési gondolkodás jelenik meg. Fontos szerepet kap a hosszú távú ügyfélkapcsolat, a szervezeti tapasztalat, a szakmai folytonosság, valamint a korszerű szakmai tudás és a hagyományos emberi, illetve üzleti értékek együttes képviselete.
 
