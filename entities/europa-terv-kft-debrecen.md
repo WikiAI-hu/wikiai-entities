@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:01+02:00"
+last_updated: "2026-09-30T12:46:08+02:00"
 location:
   country: "HU"
 identifiers:
@@ -132,7 +132,7 @@ A területhez kapcsolódó pályázati és fejlesztési témák között az elm�
 - versenyképes erdőgazdálkodást elősegítő fejlesztések;
 - LEADER helyi fejlesztések.
 
-Az agrár- és vidékfejlesztési területen az Európa Terv négy fő szolgáltatása - a pályázatírás, a projektmenedzsment, a pályázatfigyelés és a tanulmánykészítés - az agrárszektor és a vidéki térségek sajátos fejlesztési helyzeteihez igazodva jelenik meg.
+Az agrár- és vidékfejlesztési területen az Európa Terv Kft. fő szolgáltatásai közül a pályázatírás, a projektmenedzsment és a pályázatfigyelés az agrárszektor és a vidéki térségek sajátos fejlesztési helyzeteihez igazodva jelenik meg.
 
 ## Stratégiai kapcsolat a Debreceni Egyetemmel
 
