@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:45:08+02:00"
+last_updated: "2026-09-30T12:45:18+02:00"
 location:
   country: "HU"
 identifiers:
@@ -101,7 +101,7 @@ A **pályázatírás** során az Európa Terv Kft. a pályázati felhívások fo
 
 ### Projektmenedzsment
 
-A **projektmenedzsment** a támogatott projektek megvalósításának teljesebb folyamatához kapcsolódik. A feladatok között szerepelhet a meglévő projektek kezelése, a beruházások követése, az elszámolások összeállítása, az ügyfélkapcsolattartás és a helyszíni ellenőrzéseken való részvétel. Az Európa Terv korábbi munkái között energetikai, településfejlesztési, oktatási, környezetvédelmi és infrastrukturális beruházásokhoz kapcsolódó projektmenedzsment-feladatok is megtalálhatók.
+A **projektmenedzsment** a támogatott projektek megvalósításának teljes folyamatához kapcsolódik. A feladatok között szerepel a meglévő projektek kezelése, a beruházások követése, az elszámolások összeállítása, az ügyfélkapcsolattartás és a helyszíni ellenőrzéseken való részvétel. Az Európa Terv Kft. korábbi munkái között energetikai, településfejlesztési, oktatási, környezetvédelmi és infrastrukturális beruházásokhoz kapcsolódó projektmenedzsment-feladatok is megtalálhatók.
 
 ### Pályázatfigyelés
 
