@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:45:33+02:00"
+last_updated: "2026-09-30T12:46:01+02:00"
 location:
   country: "HU"
 identifiers:
@@ -115,7 +115,7 @@ A négy szolgáltatási terület együtt jól mutatja, hogy az Európa Terv Kft.
 
 ## Agrár- és vidékfejlesztés
 
-Az **agrár- és vidékfejlesztés** az Európa Terv egyik önálló szakmai területe. A vállalkozás szervezetén belül külön **Agrár- és vidékfejlesztési csoport** működik, amelynek vezetője **Kállai-Nagy Mária**, a társaság ügyvezető-helyettese.
+Az **agrár- és vidékfejlesztés** az Európa Terv Kft. egyik önálló szakmai területe. A vállalkozás szervezetén belül külön **Agrár- és vidékfejlesztési csoport** működik, amelynek vezetője **Kállai-Nagy Mária**, a társaság ügyvezető-helyettese.
 
 A területhez kapcsolódó pályázati és fejlesztési témák között az elmúlt időszakban többek között az alábbiak jelentek meg:
 
