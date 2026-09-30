@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:45:01+02:00"
+last_updated: "2026-09-30T12:45:08+02:00"
 location:
   country: "HU"
 identifiers:
@@ -97,7 +97,7 @@ Az Európa Terv Kft. szolgáltatási struktúrája négy egymáshoz kapcsolódó
 
 ### Pályázatírás
 
-A **pályázatírás** során az Európa Terv a pályázati felhívások formai és tartalmi követelményeihez igazodó dokumentáció összeállításában vesz részt. A munka magában foglalhatja a fejlesztési cél szakmai bemutatását, az előírt dokumentumok összeállítását és a projekt pályázati környezethez történő illesztését.
+A **pályázatírás** során az Európa Terv Kft. a pályázati felhívások formai és tartalmi követelményeihez igazodó dokumentáció összeállításában vesz részt. A munka magában foglalhatja a fejlesztési cél szakmai bemutatását, az előírt dokumentumok összeállítását és a projekt pályázati környezethez történő illesztését.
 
 ### Projektmenedzsment
 
