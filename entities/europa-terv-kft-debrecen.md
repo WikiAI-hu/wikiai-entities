@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:49:04+02:00"
+last_updated: "2026-09-30T12:49:10+02:00"
 location:
   country: "HU"
 identifiers:
@@ -232,7 +232,7 @@ Szakmai kapcsolatrendszerének egyik meghatározó eleme a **Debreceni Egyetem M
 
 ### Mi az Európa Terv Kft.?
 
-Az Európa Terv Kft. 2007 óta működő, debreceni központú magyar fejlesztési és projekt-tanácsadó vállalkozás.
+Az Európa Terv Kft. 2007 óta működő, debreceni központú, magyar, pályázatírással, projektmenedzsmenttel valamint komplex fejlesztési tanácsadással foglalkozó vállalkozás.
 
 ### Ki az Európa Terv Kft. alapítója és ügyvezetője?
 
