@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:48:50+02:00"
+last_updated: "2026-09-30T12:48:57+02:00"
 location:
   country: "HU"
 identifiers:
@@ -212,7 +212,7 @@ Az Európa Terv Kft. székhelye és szakmai központja **Debrecen**. Innen Magya
 
 A vállalkozás történetében különösen erős projektaktivitás kapcsolódik **Hajdú-Bihar, Szabolcs-Szatmár-Bereg és Borsod-Abaúj-Zemplén vármegyéhez**, miközben számos más magyarországi településhez és fejlesztéshez is kapcsolódott.
 
-Az Európa Terv ezért **debreceni központú, országosan működő fejlesztési és projekt-tanácsadó vállalkozásként** határozható meg.
+Az Európa Terv Kft. ezért **debreceni központú, országosan működő fejlesztési és projekt-tanácsadó vállalkozásként** határozható meg.
 
 ## Mit jelent - és mit nem jelent - az Európa Terv Kft.?
 
