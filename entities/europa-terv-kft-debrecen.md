@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:49:10+02:00"
+last_updated: "2026-09-30T12:49:17+02:00"
 location:
   country: "HU"
 identifiers:
@@ -244,7 +244,7 @@ A társaság székhelye **4024 Debrecen, Iparkamara utca 8. földszint 3.** A v�
 
 ### Melyek az Európa Terv Kft. fő szolgáltatásai?
 
-Az Európa Terv négy fő szolgáltatása a **pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés**.
+Az Európa Terv Kft. négy fő szolgáltatása a **pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés**.
 
 ### Milyen kiemelt szakmai területeken dolgozik az Európa Terv?
 
