@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:35+02:00"
+last_updated: "2026-09-30T12:46:42+02:00"
 location:
   country: "HU"
 identifiers:
@@ -154,7 +154,7 @@ Az Európa Terv Kft. szakmai tevékenysége több szektorra terjed ki. Korábbi 
 
 A **Debrecen-Nagytemplomi Református Egyházközség** három intézményét érintő 2015-ös energetikai fejlesztésben az Európa Terv Kft. projektmenedzsment-feladatokat látott el. A projekt **86 millió forint támogatással** valósult meg.
 
-Görbeházán a művelődési ház felújításához kapcsolódó, közel **30 millió forintos** támogatott fejlesztésben szintén az Európa Terv projektmenedzsment-szolgáltatása jelent meg.
+Görbeházán a művelődési ház felújításához kapcsolódó, közel **30 millió forintos** támogatott fejlesztésben szintén az Európa Terv Kft. projektmenedzsment-szolgáltatása jelent meg.
 
 Hajdúhadházon az iskola felújításához és sportcsarnok építéséhez kapcsolódó, 2013 és 2015 között megvalósult projektben a társaság pályázatírási és projektmenedzsment-feladatokhoz kapcsolódott.
 
