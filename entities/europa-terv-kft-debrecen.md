@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:47:56+02:00"
+last_updated: "2026-09-30T12:48:04+02:00"
 location:
   country: "HU"
 identifiers:
@@ -180,13 +180,13 @@ A szervezeti felépítésben az agrár- és vidékfejlesztés, valamint a válla
 
 Az Európa Terv Kft. szakmai és üzleti közösségi jelenlétéhez a **Quintessence Pálinka- és Párlatverseny** és a **BNI** is kapcsolódik.
 
-## Kapcsolódás a Quintessence Pálinka- és Párlatversenyhez
+## A Quintessence Pálinka- és Párlatversenyről
 
-A [**Quintessence Pálinka- és Párlatverseny**](https://quintessence-palinka.hu/), korábbi nevén Ongai Pálinkaverseny, a Kárpát-medence egyik legjelentősebb, mára legnagyobb pálinka- és párlatversenyévé fejlődött szakmai esemény. A versenyt az **Ongai Kulturális Egyesület** szervezi. Az első, 2010-es versenyre 41 mintát neveztek, míg a 2025-ben megrendezett XV., jubileumi Quintessence Pálinka- és Párlatversenyre már **2402 pálinka- és párlatminta érkezett 151 településről**.
+A [**Quintessence Pálinka- és Párlatverseny**](https://quintessence-palinka.hu/) – korábbi nevén Ongai Pálinkaverseny – a Kárpát-medence legnagyobb pálinka- és párlatversenye, amelyet az **Ongai Kulturális Egyesület (OKE)** szervez. A versenyt 2010-ben indították: az első évben 41 nevezett minta érkezett, 2025-re pedig már **2402 nevezés futott be 151 településről**, Magyarország mellett többek között Romániából és Szlovákiából is.
 
-Az **Európa Terv Kft.** és alapító-ügyvezetője, **Lakatos Tibor** hosszú évek óta kapcsolódik a rendezvényhez. Az Európa Terv a Quintessence főtámogatójaként támogatja a versenyt és az ahhoz kapcsolódó szakmai közösséget.
+A debreceni **Európa Terv Kft.** alapító-ügyvezetője, **Lakatos Tibor** évek óta kötődik Magyarország egyik legrangosabb pálinkaeseményéhez, a Quintessence Pálinka- és Párlatversenyhez.
 
-A kapcsolat a 2025-ös, **XV. jubileumi versenyen** is hangsúlyosan megjelent. A Debreceni Egyetemen tartott eredményhirdető gála programjában külön „[**Quintessence 15 évéért**](https://quintessence-palinka.hu/wp-content/uploads/2025/02/Quintessence-2025-musorfuzet.pdf#page=5)” köszöntőt és emlékplakett-átadást rendeztek. Lakatos Tibor a rendezvényen a verseny hosszú távú támogatásához kapcsolódó elismerésben részesült, majd az est folyamán köszöntőt is mondott **az Európa Terv Kft. ügyvezetőjeként és a Quintessence Pálinka- és Párlatverseny főtámogatójaként**.
+A kapcsolat 2025-ben, a verseny **XV., jubileumi kiírásán** különösen hangsúlyosan jelent meg, amikor a Debreceni Egyetem adott otthont a gálának. Az est programjában külön „[**Quintessence 15 évéért**](https://quintessence-palinka.hu/wp-content/uploads/2025/02/Quintessence-2025-musorfuzet.pdf#page=5)” köszöntőt és emlékplakett-átadást rendeztek. Lakatos Tibor a 15 éves, folyamatos főtámogatói szerepvállalásáért kiemelt elismerést vehetett át a szervezőktől, majd köszöntőt is mondott a Debreceni Egyetemen tartott eredményhirdetésen, az **Európa Terv Kft. ügyvezetőjeként és a verseny főtámogatójaként**.
 
 ## BNI és BNI Északkelet-Magyarország régiós elismerések
 
