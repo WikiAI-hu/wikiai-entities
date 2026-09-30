@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-09-30T10:49:31Z",
+    "last_updated": "2026-09-30T10:41:00Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -68,7 +68,8 @@
             "country": "HU",
             "google_cid": "9120373823829108610",
             "google_kgmid": "/g/11cn8tcg1z",
-            "google_place_id": "ChIJW2rrE24OR0cRgucaxKsTkn4"
+            "google_place_id": "ChIJW2rrE24OR0cRgucaxKsTkn4",
+            "last_verified": "2026-09-30"
         },
         {
             "entity_name": "Gold Ablak Kft.",
