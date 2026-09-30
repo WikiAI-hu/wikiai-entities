@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:44:55+02:00"
+last_updated: "2026-09-30T12:45:01+02:00"
 location:
   country: "HU"
 identifiers:
@@ -93,7 +93,7 @@ Az Európa Terv Kft. működése során **több mint 2200 pályázati vagy proje
 
 ## Az Európa Terv Kft. fő szolgáltatásai
 
-Az Európa Terv szolgáltatási struktúrája négy egymáshoz kapcsolódó fő területre épül: **pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés**. Ezek a fejlesztési és pályázati folyamat különböző szakaszaihoz kapcsolódnak.
+Az Európa Terv Kft. szolgáltatási struktúrája négy egymáshoz kapcsolódó fő területre épül: **pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés**. Ezek a fejlesztési és pályázati folyamat különböző szakaszaihoz kapcsolódnak.
 
 ### Pályázatírás
 
