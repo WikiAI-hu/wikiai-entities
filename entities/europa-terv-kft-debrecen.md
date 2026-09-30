@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:42+02:00"
+last_updated: "2026-09-30T12:46:49+02:00"
 location:
   country: "HU"
 identifiers:
@@ -158,7 +158,7 @@ Görbeházán a művelődési ház felújításához kapcsolódó, közel **30 m
 
 Hajdúhadházon az iskola felújításához és sportcsarnok építéséhez kapcsolódó, 2013 és 2015 között megvalósult projektben a társaság pályázatírási és projektmenedzsment-feladatokhoz kapcsolódott.
 
-A **Hortobágyi Halgazdaság** egyik természetvédelmi beruházásánál szintén az Európa Terv vett részt a projektmenedzsmenthez kapcsolódó feladatokban.
+A **Hortobágyi Halgazdaság** egyik természetvédelmi beruházásánál szintén az Európa Terv Kft. vett részt a projektmenedzsmenthez kapcsolódó feladatokban.
 
 Ezek a példák nem teljes referencialistát jelentenek, hanem a vállalkozás több ágazatra kiterjedő projektmenedzsment-tapasztalatát szemléltetik.
 
