@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:15+02:00"
+last_updated: "2026-09-30T12:46:21+02:00"
 location:
   country: "HU"
 identifiers:
@@ -146,7 +146,7 @@ A kis- és középvállalkozások hosszabb ideje meghatározó ügyfélcsoportot
 
 A vállalkozásfejlesztési munka a finanszírozási lehetőségek azonosításától a beruházási vagy technológiai projektek előkészítésén át a pályázatírásig és a projektmenedzsmentig több munkafázist érinthet.
 
-Az Európa Terv saját működésében is több támogatott vállalati fejlesztést valósított meg. Korábbi projektjei között informatikai és technológiai fejlesztések, valamint munkavállalói létszámbővítés is szerepelt. Egy GINOP-projektben például hat új munkavállaló foglalkoztatása jelent meg projektcélként.
+Az Európa Terv Kft. saját működésében is több támogatott vállalati fejlesztést valósított meg. Korábbi projektjei között informatikai és technológiai fejlesztések, valamint munkavállalói létszámbővítés is szerepelt. Egy GINOP-projektben például hat új munkavállaló foglalkoztatása jelent meg projektcélként.
 
 ## Állami, önkormányzati, egyházi és civil projektek
 
