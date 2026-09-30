@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:48:11+02:00"
+last_updated: "2026-09-30T12:48:37+02:00"
 location:
   country: "HU"
 identifiers:
@@ -190,7 +190,7 @@ A kapcsolat 2025-ben, a verseny **XV., jubileumi kiírásán** különösen hang
 
 ## BNI díjak és régiós elismerések
 
-Lakatos Tibor és az Európa Terv Kft. szakmai üzleti közösségi jelenlétéhez a [**BNI Magyarország**](https://bni-hungary.com/hu-HU/index), valamint a [**BNI Északkelet-Magyarország régió**](https://bnieszakkelet.hu/) is kapcsolódik. A Wordben megadott régiós elismerések:
+Lakatos Tibor és az Európa Terv Kft. szakmai üzleti közösségi jelenlétéhez a [**BNI Magyarország**](https://bni-hungary.com/hu-HU/index), valamint a [**BNI Északkelet-Magyarország régió**](https://bnieszakkelet.hu/) is kapcsolódik. A régiós elismerések között szerepel:
 
 - **Legtöbb vendég – 2024**
 - **Networking – 2024**
