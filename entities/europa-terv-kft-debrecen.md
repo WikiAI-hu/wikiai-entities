@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:47:48+02:00"
+last_updated: "2026-09-30T12:47:56+02:00"
 location:
   country: "HU"
 identifiers:
@@ -176,15 +176,9 @@ Az Európa Terv Kft. szakmai szervezetében **Lakatos Tibor** ügyvezetőként, 
 
 A szervezeti felépítésben az agrár- és vidékfejlesztés, valamint a vállalkozásfejlesztés elkülönült szakmai területként jelenik meg, miközben mindkettőhöz kapcsolódhat a társaság négy fő szolgáltatása: a pályázatírás, a projektmenedzsment, a pályázatfigyelés és a tanulmánykészítés.
 
-## Díjak, munkáltatói elismerések és szakmai közösségi jelenlét
+## Szakmai közösségi jelenlét: Quintessence és BNI
 
-Az Európa Terv történetében több, a munkáltatói kultúrához és a családbarát működéshez kapcsolódó elismerés is megjelent.
-
-A **Legjobb Női Munkahely 2013** pályázaton az Európa Terv Kft. a 250 fő alatti vállalatok kategóriájában **III. díjat** kapott, amelyet Lakatos Tibor ügyvezető vett át.
-
-A vállalkozást **2015-ben Apabarát Munkahely** elismeréssel is illették. **2016-ban** az Európa Terv Kft. a **Családbarát Munkahely** program támogatottjai, illetve díjazottjai között is megjelent a „Családi és munkahelyi szerepek összehangolása a családbarát szemlélet elmélyítéséért” című programjával.
-
-A vállalkozás szakmai és üzleti közösségi jelenlétéhez a **Quintessence** és a **BNI** is kapcsolódik.
+Az Európa Terv Kft. szakmai és üzleti közösségi jelenlétéhez a **Quintessence Pálinka- és Párlatverseny** és a **BNI** is kapcsolódik.
 
 ## Kapcsolódás a Quintessence Pálinka- és Párlatversenyhez
 
