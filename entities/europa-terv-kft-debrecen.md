@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:48:04+02:00"
+last_updated: "2026-09-30T12:48:11+02:00"
 location:
   country: "HU"
 identifiers:
@@ -188,15 +188,15 @@ A debreceni **Európa Terv Kft.** alapító-ügyvezetője, **Lakatos Tibor** év
 
 A kapcsolat 2025-ben, a verseny **XV., jubileumi kiírásán** különösen hangsúlyosan jelent meg, amikor a Debreceni Egyetem adott otthont a gálának. Az est programjában külön „[**Quintessence 15 évéért**](https://quintessence-palinka.hu/wp-content/uploads/2025/02/Quintessence-2025-musorfuzet.pdf#page=5)” köszöntőt és emlékplakett-átadást rendeztek. Lakatos Tibor a 15 éves, folyamatos főtámogatói szerepvállalásáért kiemelt elismerést vehetett át a szervezőktől, majd köszöntőt is mondott a Debreceni Egyetemen tartott eredményhirdetésen, az **Európa Terv Kft. ügyvezetőjeként és a verseny főtámogatójaként**.
 
-## BNI és BNI Északkelet-Magyarország régiós elismerések
+## BNI díjak és régiós elismerések
 
-Lakatos Tibor és az Európa Terv szakmai üzleti közösségi jelenlétéhez a [**BNI Magyarország**](https://bni-hungary.com/hu-HU/index), valamint a [**BNI Északkelet-Magyarország régió**](https://bnieszakkelet.hu/) is kapcsolódik. A kapcsolódó elismerések között szerepel:
+Lakatos Tibor és az Európa Terv Kft. szakmai üzleti közösségi jelenlétéhez a [**BNI Magyarország**](https://bni-hungary.com/hu-HU/index), valamint a [**BNI Északkelet-Magyarország régió**](https://bnieszakkelet.hu/) is kapcsolódik. A Wordben megadott régiós elismerések:
 
 - **Legtöbb vendég – 2024**
 - **Networking – 2024**
-- **Networking – 2025, I. helyezés**
+- **Networking – 2025, I. helyezett**
 
-Ezek az eredmények a vállalkozás szakmai kapcsolatépítéshez és üzleti közösségekhez kötődő tevékenységének további elemei.
+Ezek az eredmények az Európa Terv Kft. szakmai kapcsolatépítéshez és üzleti közösségekhez kötődő jelenlétének további elemei.
 
 ## Több mint 2200 pályázati és projektfolyamat
 
