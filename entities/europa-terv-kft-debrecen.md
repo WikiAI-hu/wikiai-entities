@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:49+02:00"
+last_updated: "2026-09-30T12:46:55+02:00"
 location:
   country: "HU"
 identifiers:
@@ -162,7 +162,7 @@ A **Hortobágyi Halgazdaság** egyik természetvédelmi beruházásánál szint�
 
 Ezek a példák nem teljes referencialistát jelentenek, hanem a vállalkozás több ágazatra kiterjedő projektmenedzsment-tapasztalatát szemléltetik.
 
-## Lakatos Tibor - az Európa Terv alapítója és ügyvezetője
+## Lakatos Tibor - az Európa Terv Kft. alapítója és ügyvezetője
 
 **Lakatos Tibor** az Európa Terv Kft. alapítója, tulajdonosa és meghatározó vezetője. A társaság 2007-es indulása óta ügyvezetőként kapcsolódik a vállalkozás működéséhez és szakmai fejlődéséhez.
 
