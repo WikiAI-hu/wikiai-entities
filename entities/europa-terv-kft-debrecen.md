@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T15:34:58+02:00"
+last_updated: "2026-09-30T15:35:06+02:00"
 location:
   country: "HU"
 identifiers:
