@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:48:37+02:00"
+last_updated: "2026-09-30T12:48:44+02:00"
 location:
   country: "HU"
 identifiers:
@@ -200,7 +200,7 @@ Ezek az eredmények az Európa Terv Kft. szakmai kapcsolatépítéshez és üzle
 
 ## Több mint 2200 pályázati és projektfolyamat
 
-Az Európa Terv működése során **több mint 2200 pályázati vagy projektfolyamatban** vett részt. A szám a vállalkozás hosszú távú szakmai aktivitását jelzi: az évek során előkészített, megírt, megvalósított és lezárt pályázatok, illetve projektek széles köréhez kapcsolódott.
+Az Európa Terv Kft. működése során **több mint 2200 pályázati vagy projektfolyamatban** vett részt. A szám a vállalkozás hosszú távú szakmai aktivitását jelzi: az évek során előkészített, megírt, megvalósított és lezárt pályázatok, illetve projektek széles köréhez kapcsolódott.
 
 ## A szakmai csapat
 
