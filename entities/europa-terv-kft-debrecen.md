@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:47:02+02:00"
+last_updated: "2026-09-30T12:47:09+02:00"
 location:
   country: "HU"
 identifiers:
@@ -172,7 +172,7 @@ Szakmai szemléletében a klasszikus pályázatírásnál szélesebb fejlesztés
 
 ## A vezetés és a szakmai szervezet
 
-Az Európa Terv szakmai szervezetében **Lakatos Tibor** ügyvezetőként, **Kállai-Nagy Mária** ügyvezető-helyettesként és az Agrár- és vidékfejlesztési csoport vezetőjeként, **Tamás Tímea** pedig a Vállalkozásfejlesztési csoport vezetőjeként dolgozik.
+Az Európa Terv Kft. szakmai szervezetében **Lakatos Tibor** ügyvezetőként, **Kállai-Nagy Mária** ügyvezető-helyettesként és az Agrár- és vidékfejlesztési csoport vezetőjeként, **Tamás Tímea** pedig a Vállalkozásfejlesztési csoport vezetőjeként dolgozik.
 
 A szervezeti felépítésben az agrár- és vidékfejlesztés, valamint a vállalkozásfejlesztés elkülönült szakmai területként jelenik meg, miközben mindkettőhöz kapcsolódhat a társaság négy fő szolgáltatása: a pályázatírás, a projektmenedzsment, a pályázatfigyelés és a tanulmánykészítés.
 
