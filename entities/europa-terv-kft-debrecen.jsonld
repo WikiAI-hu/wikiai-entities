@@ -530,25 +530,25 @@
       "@type": "Thing",
       "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-debrecen-nagytemplom",
       "name": "Debrecen-Nagytemplomi Református Egyházközség energetikai fejlesztése",
-      "description": "2015-ös, három intézményt érintő energetikai fejlesztés; az Európa Terv projektmenedzsment-feladatokat látott el, a projekt 86 millió forint támogatással valósult meg."
+      "description": "2015-ös, három intézményt érintő energetikai fejlesztés; az Európa Terv Kft. projektmenedzsment-feladatokat látott el, a projekt 86 millió forint támogatással valósult meg."
     },
     {
       "@type": "Thing",
       "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-gorbehaza",
       "name": "Görbeháza művelődési ház felújítása",
-      "description": "Közel 30 millió forintos támogatott fejlesztés, amelyben az Európa Terv projektmenedzsment-szolgáltatása jelent meg."
+      "description": "Közel 30 millió forintos támogatott fejlesztés, amelyben az Európa Terv Kft. projektmenedzsment-szolgáltatása jelent meg."
     },
     {
       "@type": "Thing",
       "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-hajduhadhaz",
       "name": "Hajdúhadházi iskola-felújítás és sportcsarnok",
-      "description": "2013 és 2015 között megvalósult projekt, amelyhez az Európa Terv pályázatírási és projektmenedzsment-feladatokkal kapcsolódott."
+      "description": "2013 és 2015 között megvalósult projekt, amelyhez az Európa Terv Kft. pályázatírási és projektmenedzsment-feladatokkal kapcsolódott."
     },
     {
       "@type": "Thing",
       "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#reference-hortobagyi-halgazdasag",
       "name": "Hortobágyi Halgazdaság természetvédelmi beruházása",
-      "description": "Természetvédelmi beruházás, amelynél az Európa Terv projektmenedzsmenthez kapcsolódó feladatokban vett részt."
+      "description": "Természetvédelmi beruházás, amelynél az Európa Terv Kft. projektmenedzsmenthez kapcsolódó feladatokban vett részt."
     },
     {
       "@type": "ItemList",
@@ -713,7 +713,7 @@
         },
         {
           "@type": "Question",
-          "name": "Milyen kiemelt szakmai területeken dolgozik az Európa Terv?",
+          "name": "Milyen kiemelt szakmai területeken dolgozik az Európa Terv Kft.?",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "A vállalkozás működésében az agrár- és vidékfejlesztés, valamint a vállalkozásfejlesztés önálló szakmai területként jelenik meg."
