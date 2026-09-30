@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:08+02:00"
+last_updated: "2026-09-30T12:46:15+02:00"
 location:
   country: "HU"
 identifiers:
@@ -142,7 +142,7 @@ A partnerség 2025-ben a kar stratégiai partneri körében is megjelent, a stra
 
 ## Vállalkozásfejlesztés és KKV-k
 
-A kis- és középvállalkozások hosszabb ideje meghatározó ügyfélcsoportot jelentenek az Európa Terv működésében. A társaságon belül külön **Vállalkozásfejlesztési csoport** működik, amelynek vezetője **Tamás Tímea**.
+A kis- és középvállalkozások hosszabb ideje meghatározó ügyfélcsoportot jelentenek az Európa Terv Kft. működésében. A társaságon belül külön **Vállalkozásfejlesztési csoport** működik, amelynek vezetője **Tamás Tímea**.
 
 A vállalkozásfejlesztési munka a finanszírozási lehetőségek azonosításától a beruházási vagy technológiai projektek előkészítésén át a pályázatírásig és a projektmenedzsmentig több munkafázist érinthet.
 
