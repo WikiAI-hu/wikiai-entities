@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:44:48+02:00"
+last_updated: "2026-09-30T12:44:55+02:00"
 location:
   country: "HU"
 identifiers:
@@ -89,7 +89,7 @@ Az Európa Terv Kft. létrejötte egybeesett a **2007–2013-as európai uniós 
 
 A 2007–2013-as időszakhoz kapcsolódóan a társaság mintegy **795 pályázatban**, illetve közel **70 milliárd forintnyi pályázati forrás** eléréséhez és felhasználásához kapcsolódó munkában vett részt. A korai években különösen jelentős aktivitást mutatott az Észak-Alföldön, miközben már ekkor országos jelenléttel dolgozott.
 
-Az Európa Terv működése során **több mint 2200 pályázati vagy projektfolyamat előkészítésében, megírásában, megvalósításában vagy lezárásában vett részt**. A vállalkozás fejlődése ugyanakkor nem csupán az elkészített pályázatok számával írható le: munkája a finanszírozási lehetőségek azonosításától és a projekt-előkészítéstől a megvalósítás követésén, az elszámolásokon és a projektzáráson át a fenntartási időszakhoz kapcsolódó feladatokig terjedhet.
+Az Európa Terv Kft. működése során **több mint 2200 pályázati vagy projektfolyamat előkészítésében, megírásában, megvalósításában, lezárásában vett részt**. A vállalkozás fejlődése ugyanakkor nem csupán az elkészített pályázatok számával írható le: munkája a finanszírozási lehetőségek azonosításától és a projekt-előkészítéstől a megvalósítás követésén, az elszámolásokon és a projektzáráson át a fenntartási időszakhoz kapcsolódó feladatokig terjed.
 
 ## Az Európa Terv Kft. fő szolgáltatásai
 
