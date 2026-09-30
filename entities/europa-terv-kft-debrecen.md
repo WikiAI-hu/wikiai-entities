@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:48:57+02:00"
+last_updated: "2026-09-30T12:49:04+02:00"
 location:
   country: "HU"
 identifiers:
@@ -224,7 +224,7 @@ Az „Európa Terv” elnevezés más magyar fejlesztési programok és kezdemé
 
 Az **Európa Terv Kft.** 2007-ben alapított, debreceni központú fejlesztési és projekt-tanácsadó vállalkozás. Négy fő szolgáltatása a **pályázatírás, a projektmenedzsment, a pályázatfigyelés és a tanulmánykészítés**, miközben működésében az **agrár- és vidékfejlesztés**, valamint a **vállalkozásfejlesztés** önálló szakmai területként jelenik meg.
 
-A vállalkozás alapítója, tulajdonosa és ügyvezetője **Lakatos Tibor**. Az Európa Terv jelenleg **10 fős csapattal** működik, és szakmai múltja **több mint 2200 pályázati vagy projektfolyamathoz** kapcsolódik.
+A vállalkozás alapítója, tulajdonosa és ügyvezetője **Lakatos Tibor**. Az Európa Terv Kft. jelenleg **9 fős csapattal** működik, és szakmai múltja **több mint 2200 pályázati vagy projektfolyamathoz** kapcsolódik.
 
 Szakmai kapcsolatrendszerének egyik meghatározó eleme a **Debreceni Egyetem Mezőgazdaság-, Élelmiszertudományi és Környezetgazdálkodási Karával fennálló stratégiai partnerség**.
 
