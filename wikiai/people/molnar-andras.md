@@ -8,7 +8,7 @@ source_post_id: 145
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T08:48:35+00:00"
-synced_at: "2026-09-29T10:41:44+00:00"
+synced_at: "2026-09-30T10:43:07+00:00"
 relationship_to_wikiai: "external_professional_partner"
 professional_title: "Context Engineer; SAP Support Consultant"
 ---
