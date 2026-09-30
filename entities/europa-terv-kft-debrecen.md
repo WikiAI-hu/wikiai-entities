@@ -15,7 +15,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://europaterv.eu/"
 wordpress_post_id: 1206
-last_updated: "2026-09-30T12:46:21+02:00"
+last_updated: "2026-09-30T12:46:28+02:00"
 location:
   country: "HU"
 identifiers:
@@ -150,7 +150,7 @@ Az Európa Terv Kft. saját működésében is több támogatott vállalati fejl
 
 ## Állami, önkormányzati, egyházi és civil projektek
 
-Az Európa Terv szakmai tevékenysége több szektorra terjed ki. Korábbi projektjei között önkormányzati, egyházi, oktatási, energetikai, környezetvédelmi, természetvédelmi és infrastrukturális fejlesztésekhez kapcsolódó munkák is megtalálhatók.
+Az Európa Terv Kft. szakmai tevékenysége több szektorra terjed ki. Korábbi projektjei között önkormányzati, egyházi, oktatási, energetikai, környezetvédelmi, természetvédelmi és infrastrukturális fejlesztésekhez kapcsolódó munkák is megtalálhatók.
 
 A **Debrecen-Nagytemplomi Református Egyházközség** három intézményét érintő 2015-ös energetikai fejlesztésben az Európa Terv projektmenedzsment-feladatokat látott el. A projekt **86 millió forint támogatással** valósult meg.
 
