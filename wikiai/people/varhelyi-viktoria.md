@@ -8,7 +8,7 @@ source_post_id: 144
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T07:58:58+00:00"
-synced_at: "2026-09-30T10:43:06+00:00"
+synced_at: "2026-10-01T10:53:49+00:00"
 relationship_to_wikiai: "cofounder"
 professional_title: "AI-láthatósági specialista"
 ---
