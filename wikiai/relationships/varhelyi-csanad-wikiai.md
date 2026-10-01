@@ -81,7 +81,7 @@ https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401
 
 This record documents **publicly verifiable identity, role and source relationships only**.
 
-It does not describe internal publishing workflows, entity-modelling methods, structured-data implementation, validation logic, crawler strategy, ranking methods, source-weighting systems or other proprietary implementation details.
+It intentionally does not disclose non-public implementation details, internal operational methods or proprietary know-how.
 
 WikiAI.hu is independent. It is not Wikipedia or a Wikimedia project and is not a service of OpenAI, Google, Microsoft, Anthropic or Perplexity. It does not guarantee search rankings, AI citations or AI recommendations.
 
