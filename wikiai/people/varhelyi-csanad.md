@@ -9,7 +9,7 @@ source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T08:25:01+00:00"
 synced_at: "2026-10-01T10:53:46+00:00"
-relationship_to_wikiai: "founder"
+relationship_to_wikiai: "responsible_editor"
 professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 ---
 
@@ -78,6 +78,7 @@ Várhelyi Csanád a gyakorlati fejlesztés mellett független szakmai kutatási 
 - **ORCID:** [0009-0006-7599-3731](https://orcid.org/0009-0006-7599-3731)
 - **Google Scholar:** [Várhelyi Csanád szerzői profilja](https://scholar.google.com/citations?user=8v2EfToAAAAJ)
 - **Medium:** [szakmai publikációk és cikkek](https://medium.com/@varhelyicsanad)
+- **Medium szakmai cikk:** [WikiAI.hu: Helping Hungarian Businesses Be Understood in the Age of AI](https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401c58a7)
 
 A publikációs azonosítók nem minőségi garanciák és nem helyettesítik a szakmai értékelést. Jelentőségük abban van, hogy a gondolatok névhez, tartós azonosítóhoz és nyilvánosan visszakereshető forráshoz kapcsolhatók.
 
