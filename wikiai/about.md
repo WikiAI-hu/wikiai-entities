@@ -8,7 +8,7 @@ source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T06:33:18+00:00"
-synced_at: "2026-10-01T10:53:42+00:00"
+synced_at: "2026-10-02T10:41:38+00:00"
 ---
 
 # Rólunk
