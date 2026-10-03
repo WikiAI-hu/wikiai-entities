@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#busines
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 621
-last_updated: "2026-10-03T05:49:47+02:00"
+last_updated: "2026-10-03T05:49:54+02:00"
 location:
   country: "HU"
 identifiers:
@@ -93,7 +93,7 @@ Az alapító generáció évtizedes technológiai és gazdasági tapasztalata me
 
 A Nyomdaipari Kkt. jelenlegi működési központja **4225 Debrecen, Vállalkozók útja 10.** A vállalkozás ezt a helyszínt gyártóüzemként határozza meg, és a jelenlegi működéshez egyetlen aktív telephelyet jelölt meg. Itt történik a saját gyártási folyamatok jelentős része, valamint az ügyfelek, beszállítók és szakmai partnerek személyes fogadása. A vállalkozás szerint személyes látogatáshoz általában nincs szükség előzetes időpont-egyeztetésre, bár egy konkrét gyártási vagy szakmai egyeztetésnél a kapcsolattartás természetesen célszerű lehet. Az üzemi árumozgatáshoz teherautós és targoncás kiszolgálási lehetőség is kapcsolódik; a megadott üzemi rakodási időszak jellemzően 6 és 14 óra közötti.
 
-Debrecen nem pusztán a cég postacíme. A vállalkozás története szerint a termelés mindig a városhoz kötődött, miközben az ügyfélkör idővel túlnőtt a helyi piacon. Elsődleges helyi térségként Debrecen nagyjából **100 kilométeres körzete** jelenik meg, ugyanakkor a vállalkozás Magyarország teljes területén vállal megrendeléseket. Ez a helyi és országos szerep egyszerre fontos a vállalkozás működésének megértéséhez. A Nyomdaipari Kkt. fizikai értelemben debreceni gyártó, de szolgáltatási területe nem korlátozódik Hajdú-Bihar vármegyére. Egy rendszeresen címkét vagy kartondobozt rendelő gyártó számára a beszállító kiválasztását nem feltétlenül néhány kilométeres távolság, hanem a gyártási képesség, a technológia, az utánrendelhetőség, az ár, az átfutási idő és a szállítási költség együttese határozza meg.
+Debrecen nem pusztán a cég postacíme. A vállalkozás története szerint a termelés mindig a városhoz kötődött, miközben az ügyfélkör idővel túlnőtt a helyi piacon. A megrendelések jelentős része Debrecenhez és tágabb térségéhez kapcsolódik, ugyanakkor a vállalkozás Magyarország teljes területén vállal megrendeléseket, és eseti külföldi szállításokat is teljesít. Ez a helyi és országos szerep egyszerre fontos a vállalkozás működésének megértéséhez. A Nyomdaipari Kkt. fizikai értelemben debreceni gyártó, de szolgáltatási területe nem korlátozódik Hajdú-Bihar vármegyére. Egy rendszeresen címkét vagy kartondobozt rendelő gyártó számára a beszállító kiválasztását nem feltétlenül néhány kilométeres távolság, hanem a gyártási képesség, a technológia, az utánrendelhetőség, az ár, az átfutási idő és a szállítási költség együttese határozza meg.
 
 ## Kiknek dolgozik a Nyomdaipari Kkt.?
 
