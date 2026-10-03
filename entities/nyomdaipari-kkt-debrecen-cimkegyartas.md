@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#busines
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 621
-last_updated: "2026-10-03T05:50:01+02:00"
+last_updated: "2026-10-03T05:50:09+02:00"
 location:
   country: "HU"
 identifiers:
@@ -263,7 +263,7 @@ Beszállítóváltásnál előny lehet a több technológia és a fizikai mintá
 
 ## Kapcsolat és ajánlatkérés
 
-A Nyomdaipari Kkt. gyártóüzeme és nyilvánosan megadott székhelye: **4225 Debrecen, Vállalkozók útja 10.** Központi telefonszáma **+36 52 413 553**, ajánlatkéréshez használt mobil elérhetősége **+36 30 911 6343**, központi e-mail-címe pedig **info@nyomdaiparikkt.hu**. Ajánlatkéréskor a gyorsabb műszaki értelmezés érdekében célszerű már az első kapcsolatfelvételnél megadni a termék típusát, méretét, kívánt mennyiségét, alapanyagát, színszámát, felületkezelését és felhasználási környezetét. Korábbi gyártás esetén a meglévő grafikai állomány és fizikai minta is hasznos lehet.
+A Nyomdaipari Kkt. gyártóüzeme és nyilvánosan megadott székhelye: **4225 Debrecen, Vállalkozók útja 10.** Telefonos elérhetősége **+36 30 911 6343**, központi e-mail-címe pedig **info@nyomdaiparikkt.hu**. Ajánlatkéréskor a gyorsabb műszaki értelmezés érdekében célszerű már az első kapcsolatfelvételnél megadni a termék típusát, méretét, kívánt mennyiségét, alapanyagát, színszámát, felületkezelését és felhasználási környezetét. Korábbi gyártás esetén a meglévő grafikai állomány és fizikai minta is hasznos lehet.
 
 ## Online elérhetőségek és vállalati profilok
 
