@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#busines
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 621
-last_updated: "2026-10-03T05:49:34+02:00"
+last_updated: "2026-10-03T05:49:41+02:00"
 location:
   country: "HU"
 identifiers:
@@ -332,7 +332,7 @@ Standard digitális címkegyártásnál körülbelül **öt munkanapos** átfut�
 
 ### Gyárt a Nyomdaipari Kkt. hullámkartondobozt?
 
-Nem. A vállalkozás **kartondobozokat és hajtogatott kartoncsomagolásokat** gyárt, de hullámkartondoboz-gyártást nem vállal.
+Nem. A vállalkozás **falt kartondobozokat** gyárt, de hullámkartondoboz-gyártást nem vállal.
 
 ### Milyen adatok szükségesek egy pontos címke- vagy dobozajánlathoz?
 
