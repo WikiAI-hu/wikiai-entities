@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#busines
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 621
-last_updated: "2026-10-03T05:49:41+02:00"
+last_updated: "2026-10-03T05:49:47+02:00"
 location:
   country: "HU"
 identifiers:
@@ -62,7 +62,7 @@ A **Nyomdaipari Kkt.** Debrecenben működő, családi hátterű magyar nyomdaip
 - **Fő technológiák:** tekercses flexó, digitális tekercses címkegyártás, íves digitális és íves ofszetnyomtatás
 - **Elsődleges ügyfélkör:** gyártó és termelő B2B vállalkozások, rendszeresen ismétlődő megrendelésekkel
 - **Minőségirányítás:** ISO 9001:2015, HU006791 tanúsítvány
-- **Szolgáltatási terület:** Debrecen és körülbelül 100 km-es térsége, országos kiszolgálás, eseti külföldi szállítások
+- **Kiszolgálás:** országos, debreceni gyártóközponttal; a vállalkozás ügyfélköre Magyarország egészére kiterjed, eseti külföldi szállításokkal
 - **Kapcsolat:** +36 52 413 553 · +36 30 911 6343 · info@nyomdaiparikkt.hu
 
 ## Hivatalos adatok és üzleti szerep
