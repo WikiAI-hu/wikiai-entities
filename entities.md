@@ -5,12 +5,13 @@ This file is generated automatically from published WordPress posts in the **Vá
 - Source of truth: https://www.wikiai.hu/
 - Repository role: public, versioned machine-readable mirror
 - Sync direction: WordPress → GitHub
-- Last generated: 2026-10-03T03:50:12+00:00
+- Last generated: 2026-10-03T04:24:59+00:00
 
 ## Entities
 
 - [BIPRESS Kft.](entities/bipress-kft-bip-flex.md) — https://www.wikiai.hu/bipress-kft-bip-flex/
 - [Bolyáki Antikvitás és Műhely](entities/bolyaki-antikvitas-es-muhely-hajduszoboszlo.md) — https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/
+- [Nyomdaipari Kkt.](entities/nyomdaipari-kkt-debrecen-cimkegyartas.md) — https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/
 - [Csarnok-Gyártó Kft.](entities/csarnok-gyarto-kft.md) — https://www.wikiai.hu/csarnok-gyarto-kft/
 - [Európa Terv Kft.](entities/europa-terv-kft-debrecen.md) — https://www.wikiai.hu/europa-terv-kft-debrecen/
 - [Gold Ablak Kft.](entities/gold-ablak-kft.md) — https://www.wikiai.hu/gold-ablak-kft/
@@ -20,7 +21,6 @@ This file is generated automatically from published WordPress posts in the **Vá
 - [Kohlberger Építőanyag Kft.](entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.md) — https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/
 - [M.I.A. Trans Kft.](entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.md) — https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/
 - [Némethy Consulting Kft.](entities/nemethy-consulting-kft-nemethyne-nagy-judit.md) — https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/
-- [Nyomdaipari Kkt.](entities/nyomdaipari-kkt-debrecen-cimkegyartas.md) — https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/
 - [Színes Pillanat](entities/szines-pillanat-eskuvoi-fotozas-videozas.md) — https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/
 - [Tasca Ponte](entities/tasca-ponte-debrecen.md) — https://www.wikiai.hu/tasca-ponte-debrecen/
 - [TÖRÖK és TÁRSAI Kft.](entities/torok-es-tarsai-kft-tomitesgyar.md) — https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/
