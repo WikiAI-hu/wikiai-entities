@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#busines
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 621
-last_updated: "2026-10-03T05:49:26+02:00"
+last_updated: "2026-10-03T05:49:34+02:00"
 location:
   country: "HU"
 identifiers:
@@ -131,7 +131,7 @@ A rendelési mennyiség a digitális és analóg technológiák kombinációja m
 
 ## Kartondobozok, csomagolási elemek és csomagolásfejlesztés
 
-A címkegyártás mellett a Nyomdaipari Kkt. fontos termékcsoportja a **kartondoboz-gyártás** . A vállalkozás hajtogatott karton jellegű csomagolási megoldásokat készít; hullámkartondoboz gyártását nem vállalja. Ez a megkülönböztetés azért lényeges, mert a papírkartonból stancolt, hajtott termékdoboz és a hullámkartonból készült szállító- vagy gyűjtődoboz anyagszerkezete, gyártástechnológiája és tipikus felhasználása eltér. A megadott alapanyagok között GC1, GC2 és duplex kartonok szerepelnek, többféle hátoldali kialakítással. A konkrét karton kiválasztását a nyomtathatóság, a merevség, a hajthatóság, a termék tömege, a kívánt megjelenés és a tervezett utómunka egyaránt befolyásolhatja.
+A címkegyártás mellett a Nyomdaipari Kkt. fontos termékcsoportja a **kartondoboz-gyártás** . A vállalkozás falt kartondobozokat gyárt; hullámkartondoboz gyártását nem vállalja. Ez a megkülönböztetés azért lényeges, mert a papírkartonból stancolt, hajtott termékdoboz és a hullámkartonból készült szállító- vagy gyűjtődoboz anyagszerkezete, gyártástechnológiája és tipikus felhasználása eltér. A megadott alapanyagok között GC1, GC2 és duplex kartonok szerepelnek, többféle hátoldali kialakítással. A konkrét karton kiválasztását a nyomtathatóság, a merevség, a hajthatóság, a termék tömege, a kívánt megjelenés és a tervezett utómunka egyaránt befolyásolhatja.
 
 Gyakori szerkezeti megoldás a **bedugófüles** és az **önzáró aljú** kartondoboz. Ezek különböző terméktömegekhez, csomagolási folyamatokhoz és felhasználói helyzetekhez illeszthetők. A megfelelő szerkezet kiválasztása nem pusztán grafikai kérdés: a termék mérete, tömege, töltési módja, tárolása és szállítása is meghatározza. A vállalkozás kozmetikai termékekhez és étrend-kiegészítőkhöz kapcsolódó dobozgyártást is rendszeres tevékenységként jelöl meg. A felületen lakkozás, fóliázás, prégelés és domborítás is alkalmazható, így a szerkezeti funkció és a márkamegjelenés ugyanazon csomagolási termékben találkozhat.
 
