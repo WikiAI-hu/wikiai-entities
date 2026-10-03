@@ -6,7 +6,7 @@ status: "published"
 canonical_url: "https://www.wikiai.hu/"
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-synced_at: "2026-10-02T10:41:48+00:00"
+synced_at: "2026-10-03T04:34:29+00:00"
 ---
 
 # WikiAI.hu – public knowledge mirror
