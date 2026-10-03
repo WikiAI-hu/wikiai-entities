@@ -14,7 +14,7 @@ entity_id: "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/#busines
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 621
-last_updated: "2026-10-03T06:24:55+02:00"
+last_updated: "2026-10-03T06:25:01+02:00"
 location:
   country: "HU"
 identifiers:
