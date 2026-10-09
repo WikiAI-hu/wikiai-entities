@@ -1,0 +1,697 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.wikiai.hu/szakertok/#webpage",
+      "url": "https://www.wikiai.hu/szakertok/",
+      "name": "Munkatársaink – WikiAI.hu",
+      "headline": "A WikiAI.hu mögött álló szakmai csapat",
+      "description": "A WikiAI.hu belső szakmai csapatának és külső informatikai-technológiai partnerének bemutatása.",
+      "inLanguage": "hu-HU",
+      "datePublished": "2026-09-07T14:38:32+02:00",
+      "dateModified": "2026-10-09T14:54:12+00:00",
+      "isAccessibleForFree": true,
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "WordPress post ID",
+        "value": "22"
+      },
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/szakertok/#internal-team-list"
+      },
+      "mentions": [
+        {
+          "@id": "https://www.varhelyicsanad.hu/#person"
+        },
+        {
+          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+        }
+      ],
+      "audience": {
+        "@id": "https://www.wikiai.hu/szakertok/#audience"
+      },
+      "breadcrumb": {
+        "@id": "https://www.wikiai.hu/szakertok/#breadcrumb"
+      },
+      "encoding": [
+        {
+          "@id": "https://www.wikiai.hu/szakertok.md#media"
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.md#media"
+        }
+      ],
+      "relatedLink": [
+        "https://www.wikiai.hu/szolgaltatasok/",
+        "https://www.wikiai.hu/kapcsolat/"
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#intro"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#mission"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#internal-team"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#external-partner"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#roles"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#business-value"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#partnership-model"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#faq"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "alternateName": "WikiAI",
+      "description": "Országos magyar, szerkesztett üzleti tudásplatform.",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "alternateName": "WikiAI",
+      "url": "https://www.wikiai.hu/",
+      "description": "Országos magyar, szerkesztett üzleti tudásplatform, amely magyar vállalkozásokról, szakemberekről és üzleti témákról közöl szerkesztett tartalmakat, valamint elkülönített szakmai szolgáltatásokat kínál.",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "foundingDate": "2026-09-08",
+      "founder": {
+        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+      },
+      "member": [
+        {
+          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        },
+        {
+          "@id": "https://www.varhelyicsanad.hu/#person"
+        }
+      ],
+      "email": "info@wikiai.hu",
+      "telephone": "+36707784012",
+      "areaServed": {
+        "@id": "https://www.wikiai.hu/#country-hungary"
+      },
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "sameAs": [
+        "https://github.com/WikiAI-hu"
+      ],
+      "knowsAbout": [
+        "magyar vállalkozások",
+        "üzleti tudás",
+        "szerkesztőségi vállalkozás-adatlapok",
+        "AI-láthatóság",
+        "weboldalfejlesztés",
+        "keresési láthatóság",
+        "szakmai tartalom",
+        "online reputáció",
+        "digitális jelenlét"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/szakertok/#internal-team-list",
+      "name": "A WikiAI.hu belső szakmai csapata",
+      "description": "A WikiAI.hu belső működéséhez közvetlenül kapcsolódó személyek.",
+      "numberOfItems": 2,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.varhelyicsanad.hu/#person"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/szakertok/#external-partner-list",
+      "name": "Külső szakmai partner",
+      "description": "Simon Imre, az INF-GROUP Kft. tulajdonosa és ügyvezetője; a WikiAI.hu önálló külső informatikai és technológiai szakmai partnere.",
+      "numberOfItems": 1,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "givenName": "Csanád",
+      "familyName": "Várhelyi",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": [
+        "WikiAI.hu felelős szerkesztő",
+        "vezető szerkesztőségi szerző",
+        "AI Weblapfejlesztő",
+        "SEO, AEO, GEO, LLMO és AI-láthatósági szakember"
+      ],
+      "description": "Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. A szerkesztőségi kutatásért, forrásellenőrzésért és szakmai pontosságért felel, emellett weboldalfejlesztési, keresési és AI-láthatósági szakmai munkát végez.",
+      "memberOf": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#image"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#webpage"
+      },
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#webpage"
+      },
+      "knowsAbout": [
+        "weboldalfejlesztés",
+        "keresőoptimalizálás",
+        "SEO",
+        "AEO",
+        "GEO",
+        "LLMO",
+        "AI-láthatóság",
+        "szerkesztőségi kutatás",
+        "forrásellenőrzés",
+        "digitális jelenlét"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-csanad-ai-weblapfejleszto-wikiaihu.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-csanad-ai-weblapfejleszto-wikiaihu.png",
+      "width": 1672,
+      "height": 941,
+      "encodingFormat": "image/png",
+      "caption": "Várhelyi Csanád, a WikiAI.hu felelős szerkesztője és AI Weblapfejlesztő.",
+      "about": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      }
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#webpage",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "name": "Várhelyi Csanád – szakmai profil | WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person",
+      "name": "Várhelyi Viktória",
+      "givenName": "Viktória",
+      "familyName": "Várhelyi",
+      "url": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
+      "jobTitle": [
+        "WikiAI.hu alapító",
+        "AI-láthatósági specialista"
+      ],
+      "description": "Várhelyi Viktória a WikiAI.hu alapítója és AI-láthatósági specialista. A partneri és üzleti kapcsolatok, az online reputáció, a sponsored tartalmak és a vállalkozások következetes digitális kommunikációjának területét képviseli.",
+      "memberOf": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#image"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#webpage"
+      },
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#webpage"
+        },
+        {
+          "@id": "https://github.com/varhelyicsanad/varhelyi-viktoria-ai-visibility#entity-documentation"
+        }
+      ],
+      "knowsAbout": [
+        "AI-láthatóság",
+        "partnerkapcsolatok",
+        "üzleti kommunikáció",
+        "online reputáció",
+        "sponsored tartalom",
+        "digitális kommunikáció",
+        "tartalomgondozás"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-viktoria-ai-lathatosagi-specalista-wikiaihu.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-viktoria-ai-lathatosagi-specalista-wikiaihu.png",
+      "width": 1672,
+      "height": 941,
+      "encodingFormat": "image/png",
+      "caption": "Várhelyi Viktória, a WikiAI.hu alapítója és AI-láthatósági specialista.",
+      "about": {
+        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+      }
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#webpage",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
+      "name": "Várhelyi Viktória – szakmai profil | WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person",
+      "name": "Simon Imre",
+      "url": "https://www.wikiai.hu/szakertok/simon-imre/",
+      "jobTitle": "Az INF-GROUP Kft. tulajdonosa és ügyvezetője",
+      "description": "Simon Imre debreceni informatikai szakember, az INF-GROUP Kft. tulajdonosa és ügyvezetője. A WikiAI.hu és webfejlesztési ügyfélprojektjei külső technológiai és tárhelyszolgáltató partnere; nem a WikiAI.hu belső munkatársa.",
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#webpage"
+      },
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#webpage"
+      },
+      "knowsAbout": [
+        "vállalati IT-infrastruktúra",
+        "rendszergazdai szolgáltatások",
+        "szerverüzemeltetés",
+        "hálózatüzemeltetés",
+        "adatbiztonság",
+        "webtárhely-szolgáltatás",
+        "domainregisztrációs támogatás"
+      ],
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#inf-group"
+      }
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#webpage",
+      "url": "https://www.wikiai.hu/szakertok/simon-imre/",
+      "name": "Simon Imre – INF-GROUP Kft. | szakmai profil – WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+      }
+    },
+    {
+      "@type": "BusinessAudience",
+      "@id": "https://www.wikiai.hu/szakertok/#audience",
+      "name": "Magyar vállalkozások és szakmai szereplők",
+      "audienceType": "Magyar vállalkozások, cégek, szolgáltatók, szakemberek, szakmai szervezetek és intézmények",
+      "geographicArea": {
+        "@id": "https://www.wikiai.hu/#country-hungary"
+      }
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/#country-hungary",
+      "name": "Magyarország",
+      "alternateName": "Hungary",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.wikiai.hu/szakertok/#expertise",
+      "name": "A WikiAI.hu belső szakmai csapatának fő területei",
+      "inLanguage": "hu-HU",
+      "hasDefinedTerm": [
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#term-ai"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#term-llm"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#term-seo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/#term-ai-visibility"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/#term-ai",
+      "name": "Mesterséges intelligencia",
+      "alternateName": "Artificial intelligence",
+      "sameAs": "https://www.wikidata.org/wiki/Q11660",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/szakertok/#expertise"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/#term-llm",
+      "name": "Nagy nyelvi modell",
+      "alternateName": "Large language model",
+      "sameAs": "https://www.wikidata.org/wiki/Q115305900",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/szakertok/#expertise"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/#term-seo",
+      "name": "Keresőoptimalizálás",
+      "alternateName": "Search engine optimization",
+      "sameAs": "https://www.wikidata.org/wiki/Q180711",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/szakertok/#expertise"
+      }
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/#term-ai-visibility",
+      "name": "AI-láthatóság",
+      "alternateName": "AI visibility",
+      "description": "A vállalkozásról nyilvánosan elérhető digitális információ pontosságának, következetességének és értelmezhetőségének szakmai környezete.",
+      "inDefinedTermSet": {
+        "@id": "https://www.wikiai.hu/szakertok/#expertise"
+      }
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://www.wikiai.hu/szakertok.md#media",
+      "name": "Munkatársaink – WikiAI.hu Markdown-reprezentáció",
+      "url": "https://www.wikiai.hu/szakertok.md",
+      "contentUrl": "https://www.wikiai.hu/szakertok.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "isAccessibleForFree": true,
+      "encodesCreativeWork": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "isBasedOn": "https://www.wikiai.hu/szakertok/",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/WikiAI-hu/wikiai-entities#repository",
+      "name": "WikiAI.hu public machine-readable GitHub mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities",
+      "description": "A WikiAI.hu nyilvános, verziózott GitHub mirror rétege. A kanonikus forrás a WikiAI.hu HTML-publikációja.",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "hasPart": {
+        "@id": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.md#media"
+      }
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.md#media",
+      "name": "Munkatársaink – WikiAI.hu GitHub Markdown mirror",
+      "url": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/wikiai/team.md",
+      "contentUrl": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.md",
+      "encodingFormat": "text/markdown",
+      "inLanguage": "hu-HU",
+      "isAccessibleForFree": true,
+      "encodesCreativeWork": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "isBasedOn": "https://www.wikiai.hu/szakertok/",
+      "isPartOf": {
+        "@id": "https://github.com/WikiAI-hu/wikiai-entities#repository"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://github.com/varhelyicsanad/varhelyi-viktoria-ai-visibility#entity-documentation",
+      "name": "Várhelyi Viktória – public entity documentation",
+      "url": "https://github.com/varhelyicsanad/varhelyi-viktoria-ai-visibility",
+      "about": {
+        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/szolgaltatasok/#webpage",
+      "url": "https://www.wikiai.hu/szolgaltatasok/",
+      "name": "Szolgáltatások – WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/#intro",
+      "name": "A WikiAI.hu mögött álló szakmai csapat",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/#mission",
+      "name": "Miben segít a WikiAI.hu?",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/#internal-team",
+      "name": "A WikiAI.hu belső szakmai csapata",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/szakertok/#internal-team-list"
+      },
+      "mentions": [
+        {
+          "@id": "https://www.varhelyicsanad.hu/#person"
+        },
+        {
+          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        }
+      ]
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/#external-partner",
+      "name": "Külső szakmai partner",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/szakertok/#external-partner-list"
+      },
+      "mentions": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+      },
+      "description": "Simon Imre, az INF-GROUP Kft. tulajdonosa és ügyvezetője, a WikiAI.hu külső informatikai és technológiai szakmai partnere. Az INF-GROUP Kft. tárhelyszolgáltatást biztosít a WikiAI.hu számára, valamint tárhely- és domainregisztrációs támogatást nyújt a kapcsolódó ügyfélprojektekhez. Simon Imre nem a WikiAI.hu belső munkatársa."
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/#roles",
+      "name": "Két egymást kiegészítő belső szerep",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "mentions": [
+        {
+          "@id": "https://www.varhelyicsanad.hu/#person"
+        },
+        {
+          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        }
+      ],
+      "description": "Várhelyi Csanád a WikiAI.hu felelős szerkesztője, Várhelyi Viktória a WikiAI.hu alapítója. A szerkesztőségi és kereskedelmi működés egymástól elkülönül."
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/#business-value",
+      "name": "Miben tudunk segíteni egy vállalkozásnak?",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/szolgaltatasok/#webpage"
+      }
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/#partnership-model",
+      "name": "Belső csapat és külső szakmai partner",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "mentions": [
+        {
+          "@id": "https://www.varhelyicsanad.hu/#person"
+        },
+        {
+          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+        }
+      ],
+      "description": "A WikiAI.hu belső működését Várhelyi Viktória alapítói és üzleti szerepe, valamint Várhelyi Csanád felelős szerkesztői és szakmai szerepe adja. Simon Imre és az INF-GROUP Kft. ettől elkülönült, önálló külső informatikai partnerség keretében működik közre."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/szakertok/#faq",
+      "url": "https://www.wikiai.hu/szakertok/#wikiai-team-faq",
+      "name": "Gyakori kérdések a WikiAI.hu szakmai csapatáról",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mivel foglalkozik a WikiAI.hu?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A WikiAI.hu országos magyar, szerkesztett üzleti tudásplatform. Magyar vállalkozásokról, szakemberekről és üzleti témákról közöl szerkesztett tartalmakat, emellett elkülönített szakmai szolgáltatásokat is kínál a digitális és AI-láthatóság fejlesztéséhez."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan segíti a WikiAI.hu egy vállalkozás Google- és AI-láthatóságát?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A WikiAI.hu rendezett vállalkozási bemutatással, következetes szakmai információkkal, webes és tartalmi jelenléttel, valamint kapcsolódó láthatósági munkával segíti, hogy a vállalkozásról egyértelműbb digitális forráskörnyezet alakuljon ki. Ez javíthatja a kereső- és AI-rendszerek értelmezési feltételeit, de nem jelent garantált helyezést vagy AI-ajánlást."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Miben tud segíteni a WikiAI.hu szakmai csapata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A fő területek közé tartozik a weboldalfejlesztés, keresési és AI-láthatóság, vállalkozási adatok rendezése, szakmai tartalomkészítés, online reputáció, partneri kommunikáció és folyamatos tartalomgondozás. Meghatározott projektekben külső szakmai partner is bevonható."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol találhatók a vállalkozások számára elérhető szolgáltatások?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az AI-láthatóságról, weboldalfejlesztésről, keresési jelenlétről, tartalmi támogatásról, sponsored Posztokról és további fizetett együttműködési lehetőségekről a WikiAI.hu Szolgáltatások oldalán található részletes tájékoztatás. A Vállalkozások rovat szerkesztőségi megjelenése nem megvásárolható szolgáltatás."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Miért dolgozik több különböző szakmai terület együtt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mert egy vállalkozás digitális jelenléte nem kizárólag technikai kérdés. A jó weboldal, a pontos és következetes információ, a hiteles szakmai tartalom, az online reputáció és a keresési jelenlét együtt adhat stabilabb digitális alapot."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.wikiai.hu/szakertok/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "WikiAI.hu",
+          "item": "https://www.wikiai.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Munkatársaink",
+          "item": "https://www.wikiai.hu/szakertok/"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#inf-group",
+      "name": "INF-GROUP Kft.",
+      "legalName": "INF-GROUP Kft.",
+      "url": "https://www.infgroup.hu/",
+      "description": "Debreceni informatikai szolgáltató: vállalati IT-infrastruktúra, rendszergazdai szolgáltatások, számítógép-, szerver- és hálózatüzemeltetés, adatbiztonság és webtárhely-szolgáltatás.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Markotányos utca 12.",
+        "postalCode": "4028",
+        "addressLocality": "Debrecen",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      }
+    }
+  ]
+}
