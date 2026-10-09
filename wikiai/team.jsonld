@@ -51,10 +51,10 @@
       },
       "encoding": [
         {
-          "@id": "https://www.wikiai.hu/szakertok.md#media"
+          "@id": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.md#media"
         },
         {
-          "@id": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.md#media"
+          "@id": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.jsonld#media"
         }
       ],
       "relatedLink": [
@@ -429,23 +429,6 @@
       }
     },
     {
-      "@type": "MediaObject",
-      "@id": "https://www.wikiai.hu/szakertok.md#media",
-      "name": "Munkatársaink – WikiAI.hu Markdown-reprezentáció",
-      "url": "https://www.wikiai.hu/szakertok.md",
-      "contentUrl": "https://www.wikiai.hu/szakertok.md",
-      "encodingFormat": "text/markdown",
-      "inLanguage": "hu-HU",
-      "isAccessibleForFree": true,
-      "encodesCreativeWork": {
-        "@id": "https://www.wikiai.hu/szakertok/#webpage"
-      },
-      "isBasedOn": "https://www.wikiai.hu/szakertok/",
-      "publisher": {
-        "@id": "https://www.wikiai.hu/#organization"
-      }
-    },
-    {
       "@type": "CreativeWork",
       "@id": "https://github.com/WikiAI-hu/wikiai-entities#repository",
       "name": "WikiAI.hu public machine-readable GitHub mirror",
@@ -691,6 +674,17 @@
         "addressLocality": "Debrecen",
         "addressRegion": "Hajdú-Bihar",
         "addressCountry": "HU"
+      }
+    },
+    {
+      "@type": "MediaObject",
+      "@id": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.jsonld#media",
+      "url": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.jsonld",
+      "contentUrl": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.jsonld",
+      "encodingFormat": "application/ld+json",
+      "name": "WikiAI.hu – Munkatársaink élő JSON-LD gráfjának GitHub gépi tükre",
+      "about": {
+        "@id": "https://www.wikiai.hu/szakertok/#webpage"
       }
     }
   ]
