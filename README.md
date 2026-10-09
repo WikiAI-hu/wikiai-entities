@@ -69,3 +69,13 @@ Pricing and other fast-changing commercial data must be interpreted together wit
 **WikiAI.hu** — Magyar vállalkozások az AI korszakában.
 
 Canonical website: https://www.wikiai.hu/
+
+## Structured JSON-LD mirrors
+
+The WordPress pages and their active HFCM structured data are the first-party source of truth. These versioned JSON-LD snapshots were verified against the live WikiAI.hu frontend on 2026-10-09. They are not a replacement for the canonical site and need re-synchronization after future WordPress/HFCM changes.
+
+- [WikiAI.hu official platform JSON-LD](wikiai/wikiai-hu.jsonld) — https://www.wikiai.hu/wikiai-hu/
+- [Munkatársaink team JSON-LD](wikiai/team.jsonld) — https://www.wikiai.hu/szakertok/
+- [Simon Imre person profile JSON-LD](wikiai/people/simon-imre.jsonld) — https://www.wikiai.hu/szakertok/simon-imre/
+
+Simon Imre and INF-GROUP Kft. are external IT infrastructure partners, not internal WikiAI.hu employees or owners.
