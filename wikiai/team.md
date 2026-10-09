@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-09T14:11:33+00:00"
-synced_at: "2026-10-09T14:11:53+00:00"
+source_last_modified: "2026-10-09T14:25:47+00:00"
+synced_at: "2026-10-09T14:26:31+00:00"
 ---
 
 # Munkatársaink
@@ -32,6 +32,8 @@ Ehhez a vállalkozási bemutatást, a webes struktúrát, a szakmai tartalmat, a
 **Ez nem jelent garantált Google-helyezést vagy garantált AI-ajánlást.** A WikiAI.hu a vállalkozásról elérhető információk minőségének, egyértelműségének és következetességének javításán dolgozik, ezzel erősebb digitális alapot teremtve a keresési és AI-alapú környezetekben való megjelenéshez.
 
 Az AI-láthatóságról, weboldalfejlesztésről, keresési jelenlétről, szakmai tartalmakról, sponsored Posztokról és további fizetett együttműködési lehetőségekről részletes információ a **[Szolgáltatások oldalon](https://www.wikiai.hu/szolgaltatasok/)** található. A Vállalkozások rovat szerkesztőségi megjelenése ettől elkülönül és nem vásárolható meg.
+
+#wikiai-expert-feed .wikiai-team-group-title { margin: 0 0 18px; } #wikiai-expert-feed .wikiai-team-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin: 0 0 38px; } #wikiai-expert-feed .wikiai-expert-card { overflow: hidden; border: 1px solid rgba(127,127,127,.24); border-radius: 16px; background: rgba(127,127,127,.035); box-shadow: 0 8px 24px rgba(0,0,0,.06); } #wikiai-expert-feed .wikiai-expert-card__media { display: block; margin: 0; } #wikiai-expert-feed .wikiai-expert-card__media img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; margin: 0; } #wikiai-expert-feed .wikiai-expert-card__body { padding: 20px 22px 22px; } #wikiai-expert-feed .wikiai-expert-card__title { margin: 0 0 8px; } #wikiai-expert-feed .wikiai-expert-card__meta { margin: 0 0 12px; font-size: .94em; line-height: 1.55; opacity: .82; } #wikiai-expert-feed .wikiai-expert-card__bio { margin: 0 0 16px; line-height: 1.7; } #wikiai-expert-feed .wikiai-expert-card__action { margin: 0; font-weight: 600; } #wikiai-expert-feed #wikiai-external-partner-title { margin-top: 8px; } #wikiai-expert-feed .wikiai-expert-card--external { display: block; margin-top: 20px; } @media (max-width: 760px) { #wikiai-expert-feed .wikiai-team-grid { grid-template-columns: 1fr; } }
 
 ## A WikiAI.hu belső szakmai csapata
 
@@ -57,15 +59,17 @@ A WikiAI.hu alapítójaként a partneri és üzleti kapcsolatok, az online reput
 
 ## Külső szakmai partner
 
-A WikiAI.hu meghatározott szakterületeken külső szakmai partnerrel is együttműködhet. A külső partner nem a WikiAI.hu munkatársa; saját szakmai tevékenységével, külön együttműködés keretében kapcsolódhat egy adott projekthez.
+A WikiAI.hu belső szakmai csapata mellett önálló külső technológiai partnerrel is együttműködik. Simon Imre az INF-GROUP Kft. képviseletében biztosítja az informatikai infrastruktúrához kapcsolódó szakmai hátteret; nem a WikiAI.hu belső munkatársa.
 
-## [Molnár András](https://www.wikiai.hu/szakertok/molnar-andras/)
+[![Simon Imre, az INF-GROUP Kft. tulajdonosa és ügyvezetője, a WikiAI.hu külső informatikai szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/10/simon-imre-inf-group-kft-it-infrastruktura-adatbiztonsag-wikiaihu.png)](https://www.infgroup.hu/)
 
-Context Engineer · SAP Support Consultant · Vállalati AI · külső szakmai partner
+## Simon Imre
 
-A WikiAI.hu-hoz nem munkatársként, hanem önálló külső szakmai partnerként kapcsolódik, meghatározott projektekben és a saját szakterületéhez illeszkedő feladatoknál.
+INF-GROUP Kft. tulajdonosa és ügyvezetője · Vállalati IT-infrastruktúra · Rendszergazdai szolgáltatások · Adatbiztonság · Külső szakmai partner
 
-[Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/molnar-andras/)
+Simon Imre debreceni informatikai szakember, az INF-GROUP Kft. tulajdonosa és ügyvezetője. Szakterülete a vállalati számítógépek és szerverek karbantartása, a hálózatok üzemeltetése, a rendszergazdai felügyelet, valamint a biztonságos adattárolás. Vállalkozása a WikiAI.hu webtárhely-szolgáltatója, emellett Várhelyi Csanád webfejlesztési ügyfelei számára tárhelyet és domainregisztrációs támogatást biztosít.
+
+[INF-GROUP Kft. hivatalos weboldala →](https://www.infgroup.hu/)
 
 ## Két egymást kiegészítő belső szerep
 
@@ -95,7 +99,7 @@ Nem minden projektben van szükség minden területre. A cél az, hogy mindig az
 
 A WikiAI.hu belső működését Várhelyi Viktória alapítói és üzleti szerepe, valamint Várhelyi Csanád felelős szerkesztői és szakmai szerepe adja. Meghatározott projektekhez ettől elkülönülten külső szakmai partnerek is kapcsolódhatnak.
 
-**Molnár András külső szakmai partner, nem a WikiAI.hu munkatársa.** Saját szakmai tevékenységével, külön együttműködés keretében kapcsolódhat olyan projektekhez, ahol az ő szakterülete releváns. Ez a kapcsolat nem jelent WikiAI.hu-tagságot, munkaviszonyt vagy szervezeti szerepet.
+**Simon Imre és az INF-GROUP Kft. a WikiAI.hu külső informatikai és technológiai szakmai partnere.** A vállalat biztosítja a WikiAI.hu webtárhely-szolgáltatását, emellett Várhelyi Csanád webfejlesztési ügyfelei számára is tárhelyet, valamint domainregisztrációhoz kapcsolódó technikai támogatást nyújt. Az INF-GROUP Kft. további szolgáltatásai – rendszergazdai felügyelet, számítógép- és szerverüzemeltetés, hálózatépítés és -karbantartás, helyi és felhőalapú biztonsági mentések – a vállalkozások informatikai működését is támogathatják. A partnerség nem jelent tulajdonosi, munkaviszonybeli vagy szervezeti összetartozást a WikiAI.hu és az INF-GROUP Kft. között.
 
 ## Gyakori kérdések
 
