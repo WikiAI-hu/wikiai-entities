@@ -1,0 +1,190 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#webpage",
+      "url": "https://www.wikiai.hu/szakertok/simon-imre/",
+      "name": "Simon Imre – INF-GROUP Kft. | szakmai profil – WikiAI.hu",
+      "description": "Simon Imre, az INF-GROUP Kft. tulajdonosa és ügyvezetője. Debreceni informatikai szakember, vállalati IT-infrastruktúra, rendszergazdai szolgáltatások, szerver- és hálózatüzemeltetés, adatbiztonság, webhosting; a WikiAI.hu külső technológiai szakmai partnere.",
+      "inLanguage": "hu-HU",
+      "isAccessibleForFree": true,
+      "datePublished": "2026-10-09T14:24:56+00:00",
+      "dateModified": "2026-10-09T15:01:28+00:00",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/simon-imre/#inf-group"
+        }
+      ],
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#image"
+      },
+      "hasPart": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#faq"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person",
+      "name": "Simon Imre",
+      "url": "https://www.wikiai.hu/szakertok/simon-imre/",
+      "jobTitle": "Az INF-GROUP Kft. tulajdonosa és ügyvezetője",
+      "description": "Debreceni informatikai szakember. Az INF-GROUP Kft. tulajdonosa és ügyvezetője, a WikiAI.hu önálló külső informatikai és technológiai szakmai partnere, nem a WikiAI.hu belső munkatársa, alapítója vagy tulajdonosa.",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#inf-group"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#webpage"
+      },
+      "subjectOf": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#webpage"
+      },
+      "image": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#image"
+      },
+      "knowsAbout": [
+        "vállalati IT-infrastruktúra",
+        "rendszergazdai felügyelet",
+        "számítógépek és szerverek üzemeltetése",
+        "hálózatépítés",
+        "adatbiztonság",
+        "helyi és felhőalapú biztonsági mentés",
+        "webtárhely-szolgáltatás",
+        "domainregisztrációs technikai támogatás"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#inf-group",
+      "name": "INF-GROUP Kft.",
+      "legalName": "INF-GROUP Kft.",
+      "url": "https://www.infgroup.hu/",
+      "description": "Debreceni informatikai szolgáltató, rendszergazdai felügyelettel, számítógép-, szerver- és hálózatüzemeltetéssel, adatbiztonsági megoldásokkal és webtárhely-szolgáltatással.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Markotányos utca 12.",
+        "postalCode": "4028",
+        "addressLocality": "Debrecen",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Debrecen"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Hajdú-Bihar vármegye"
+        },
+        {
+          "@type": "Place",
+          "name": "Kelet-Magyarország"
+        }
+      ],
+      "knowsAbout": [
+        "vállalati informatikai infrastruktúra",
+        "rendszergazdai szolgáltatás",
+        "adatvédelem és biztonsági mentés",
+        "webhosting"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/10/simon-imre-inf-group-kft-it-infrastruktura-adatbiztonsag-wikiaihu.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/10/simon-imre-inf-group-kft-it-infrastruktura-adatbiztonsag-wikiaihu.png",
+      "width": 1672,
+      "height": 941,
+      "name": "Simon Imre – INF-GROUP Kft. szakmai bemutatkozó képe",
+      "description": "Simon Imre portréja az INF-GROUP Kft. logójával és a WikiAI.hu arculati jelzésével, világos technológiai háttér előtt.",
+      "about": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#it-services",
+      "name": "Vállalati IT-infrastruktúra és rendszergazdai szolgáltatások",
+      "serviceType": [
+        "rendszergazdai szolgáltatás",
+        "szerverüzemeltetés",
+        "hálózatépítés és -karbantartás",
+        "adatmentés és adatbiztonság",
+        "webtárhely-szolgáltatás",
+        "domainregisztrációs támogatás"
+      ],
+      "provider": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#inf-group"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Hajdú-Bihar vármegye"
+      },
+      "description": "Az INF-GROUP Kft. informatikai szolgáltatásai, amelyek önálló céges szolgáltatások, nem a WikiAI.hu szerkesztőségi szolgáltatásai."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/szakertok/simon-imre/#faq",
+      "url": "https://www.wikiai.hu/szakertok/simon-imre/#simon-imre-section-9",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/simon-imre/#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ki Simon Imre, és mivel foglalkozik?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Simon Imre debreceni informatikai szakember, az INF-GROUP Kft. tulajdonosa és ügyvezetője. Szakterülete a vállalati számítógépek, szerverek, hálózatok és informatikai rendszerek üzemeltetése, valamint az adatbiztonság."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen informatikai szolgáltatásokat biztosít az INF-GROUP Kft.?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az INF-GROUP Kft. rendszergazdai szolgáltatást, számítógép- és szerverkarbantartást, hálózatkiépítést és -üzemeltetést, helyi és felhőalapú adatmentést, webtárhelyet és domainregisztrációs technikai támogatást nyújt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hol található az INF-GROUP Kft. irodája?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "4028 Debrecen, Markotányos utca 12. A szolgáltatási terület Debrecen, Hajdú-Bihar vármegye és Kelet-Magyarország."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan támogatja az INF-GROUP Kft. a vállalkozások adatbiztonságát?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Helyi és felhőalapú biztonsági mentésekkel, adatmentési és helyreállítási megoldásokkal, valamint az informatikai rendszerek folyamatos felügyeletével."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi Simon Imre és az INF-GROUP Kft. szerepe a WikiAI.hu mellett?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Simon Imre és az INF-GROUP Kft. a WikiAI.hu külső informatikai és technológiai szakmai partnere. A vállalat tárhelyet biztosít a WikiAI.hu számára, valamint tárhely- és domainregisztrációs támogatást nyújt Várhelyi Csanád webfejlesztési ügyfelei számára. Simon Imre nem a WikiAI.hu munkatársa, alapítója vagy tulajdonosa."
+          }
+        }
+      ]
+    }
+  ]
+}
