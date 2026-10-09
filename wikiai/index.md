@@ -32,6 +32,9 @@ A WikiAI.hu / WordPress az elsodleges forras. A GitHub masodlagos publikacios es
 ## Gepi index
 
 - [WikiAI manifest](manifest.json)
+- [Munkatarsaink JSON-LD](team.jsonld)
+- [Simon Imre JSON-LD](people/simon-imre.jsonld)
+- [WikiAI.hu platform JSON-LD](wikiai-hu.jsonld)
 
 ## Entitashatar
 
