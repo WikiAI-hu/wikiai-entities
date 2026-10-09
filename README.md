@@ -33,7 +33,7 @@ wikiai-entities/
     └── people/
         ├── varhelyi-csanad.md
         ├── varhelyi-viktoria.md
-        └── molnar-andras.md
+        └── simon-imre.md
 ```
 
 ## Two machine-readable knowledge layers
