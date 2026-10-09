@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-09T14:39:27+00:00"
-synced_at: "2026-10-09T14:39:56+00:00"
+source_last_modified: "2026-10-09T14:41:54+00:00"
+synced_at: "2026-10-09T14:42:23+00:00"
 ---
 
 # Munkatársaink
@@ -58,8 +58,6 @@ A WikiAI.hu alapítójaként a partneri és üzleti kapcsolatok, az online reput
 ## Külső szakmai partner
 
 A WikiAI.hu belső szakmai csapata mellett önálló külső technológiai partnerrel is együttműködik. Simon Imre az INF-GROUP Kft. képviseletében biztosítja az informatikai infrastruktúrához kapcsolódó szakmai hátteret; nem a WikiAI.hu belső munkatársa.
-
-[![Simon Imre, az INF-GROUP Kft. tulajdonosa és ügyvezetője, a WikiAI.hu külső informatikai szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/10/simon-imre-inf-group-kft-it-infrastruktura-adatbiztonsag-wikiaihu.png)](https://www.wikiai.hu/szakertok/simon-imre/)
 
 ## [Simon Imre](https://www.wikiai.hu/szakertok/simon-imre/)
 
