@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-09-26T17:52:42+02:00"
+last_updated: "2026-10-09T16:59:21+02:00"
 location:
   country: "HU"
 identifiers:
@@ -92,9 +92,9 @@ A hatályos szolgáltatói és adatkezelői adatok elsődleges forrása a [WikiA
 
 Várhelyi Csanád saját egyéni vállalkozói szakmai tevékenysége külön szerepkör. Olyan önálló megbízásban járhat el szolgáltatóként, amelynek ajánlata vagy szerződése őt kifejezetten szolgáltatóként azonosítja; ez nem teszi őt a WikiAI.hu általános üzemeltetőjévé vagy általános számlakibocsátójává.
 
-### Molnár András – külső szakmai partner
+### Simon Imre – külső informatikai és technológiai szakmai partner
 
-[**Molnár András**](https://www.wikiai.hu/szakertok/molnar-andras/) nem alapító és nem belső munkatárs. Külső szakmai partnerként vállalati AI-, Context Engineering-, SAP Support- és kapcsolódó technológiai projektekhez kapcsolódhat.
+[**Simon Imre**](https://www.wikiai.hu/szakertok/simon-imre/) a debreceni INF-GROUP Kft. tulajdonosa és ügyvezetője. Vállalkozása biztosítja a WikiAI.hu webtárhely-szolgáltatását, valamint Várhelyi Csanád webfejlesztési ügyfelei számára tárhelyszolgáltatást és domainregisztrációs technikai támogatást nyújt. Simon Imre önálló külső szakmai partner, nem a WikiAI.hu alapítója, tulajdonosa vagy belső munkatársa.
 
 ## Szerkesztőségi és kereskedelmi működés
 
