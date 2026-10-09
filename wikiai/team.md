@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-09T14:25:47+00:00"
-synced_at: "2026-10-09T14:26:31+00:00"
+source_last_modified: "2026-10-09T14:30:12+00:00"
+synced_at: "2026-10-09T14:30:35+00:00"
 ---
 
 # Munkatársaink
@@ -61,15 +61,15 @@ A WikiAI.hu alapítójaként a partneri és üzleti kapcsolatok, az online reput
 
 A WikiAI.hu belső szakmai csapata mellett önálló külső technológiai partnerrel is együttműködik. Simon Imre az INF-GROUP Kft. képviseletében biztosítja az informatikai infrastruktúrához kapcsolódó szakmai hátteret; nem a WikiAI.hu belső munkatársa.
 
-[![Simon Imre, az INF-GROUP Kft. tulajdonosa és ügyvezetője, a WikiAI.hu külső informatikai szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/10/simon-imre-inf-group-kft-it-infrastruktura-adatbiztonsag-wikiaihu.png)](https://www.infgroup.hu/)
+[![Simon Imre, az INF-GROUP Kft. tulajdonosa és ügyvezetője, a WikiAI.hu külső informatikai szakmai partnere](https://www.wikiai.hu/wp-content/uploads/2026/10/simon-imre-inf-group-kft-it-infrastruktura-adatbiztonsag-wikiaihu.png)](https://www.wikiai.hu/szakertok/simon-imre/)
 
-## Simon Imre
+## [Simon Imre](https://www.wikiai.hu/szakertok/simon-imre/)
 
 INF-GROUP Kft. tulajdonosa és ügyvezetője · Vállalati IT-infrastruktúra · Rendszergazdai szolgáltatások · Adatbiztonság · Külső szakmai partner
 
 Simon Imre debreceni informatikai szakember, az INF-GROUP Kft. tulajdonosa és ügyvezetője. Szakterülete a vállalati számítógépek és szerverek karbantartása, a hálózatok üzemeltetése, a rendszergazdai felügyelet, valamint a biztonságos adattárolás. Vállalkozása a WikiAI.hu webtárhely-szolgáltatója, emellett Várhelyi Csanád webfejlesztési ügyfelei számára tárhelyet és domainregisztrációs támogatást biztosít.
 
-[INF-GROUP Kft. hivatalos weboldala →](https://www.infgroup.hu/)
+[Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/simon-imre/) · [INF-GROUP Kft. hivatalos weboldala →](https://www.infgroup.hu/)
 
 ## Két egymást kiegészítő belső szerep
 
