@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-10-09T16:59:21+02:00"
+last_updated: "2026-10-09T16:59:30+02:00"
 location:
   country: "HU"
 identifiers:
@@ -255,9 +255,9 @@ A jelenlegi WikiAI.hu szervezeti és jogi oldalak szerint a platform alapítója
 
 Várhelyi Csanád a WikiAI.hu **felelős szerkesztője és vezető szerkesztőségi szerzője**. A szerkesztőségi kutatásért, forrásellenőrzésért és szakmai pontosságért felel.
 
-### Molnár András a WikiAI.hu munkatársa vagy alapítója?
+### Hogyan kapcsolódik Simon Imre és az INF-GROUP Kft. a WikiAI.hu-hoz?
 
-Nem. Molnár András külső szakmai partnerként kapcsolódhat vállalati AI-, Context Engineering- és SAP Support-feladatokhoz.
+Simon Imre a debreceni INF-GROUP Kft. tulajdonosa és ügyvezetője. A társaság a WikiAI.hu külső informatikai és technológiai szakmai partnereként webtárhely-szolgáltatást biztosít, és Várhelyi Csanád webfejlesztési ügyfeleinek tárhely- és domainregisztrációs technikai támogatást nyújt. Ez önálló vállalkozások közötti együttműködés, nem WikiAI.hu-munkaviszony vagy tulajdonosi kapcsolat.
 
 ### Megvásárolható a Vállalkozások rovatba kerülés?
 
