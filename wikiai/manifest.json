@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-10-09T15:12:12.094Z",
+    "last_updated": "2026-10-09T15:25:14+00:00",
     "generator": "WikiAI GitHub Knowledge Sync 0.1.3",
     "scope": "WikiAI.hu organization, services, pricing, team and contact knowledge",
     "documents": [
@@ -35,7 +35,8 @@
             "document_type": "team_directory",
             "path": "wikiai/team.md",
             "canonical_url": "https://www.wikiai.hu/szakertok/",
-            "wordpress_post_id": 22
+            "wordpress_post_id": 22,
+            "jsonld_path": "wikiai/team.jsonld"
         },
         {
             "document_type": "contact",
@@ -67,7 +68,30 @@
             "canonical_url": "https://www.wikiai.hu/szakertok/simon-imre/",
             "wordpress_post_id": 1334,
             "name": "Simon Imre",
-            "relationship_to_wikiai": "external_professional_partner"
+            "relationship_to_wikiai": "external_professional_partner",
+            "jsonld_path": "wikiai/people/simon-imre.jsonld"
+        }
+    ],
+    "structured_graphs": [
+        {
+            "document_type": "team_directory_jsonld",
+            "path": "wikiai/team.jsonld",
+            "canonical_url": "https://www.wikiai.hu/szakertok/",
+            "source": "WordPress HFCM #7"
+        },
+        {
+            "document_type": "person_profile_jsonld",
+            "path": "wikiai/people/simon-imre.jsonld",
+            "canonical_url": "https://www.wikiai.hu/szakertok/simon-imre/",
+            "wordpress_post_id": 1334,
+            "source": "WordPress HFCM #10"
+        },
+        {
+            "document_type": "platform_profile_jsonld",
+            "path": "wikiai/wikiai-hu.jsonld",
+            "canonical_url": "https://www.wikiai.hu/wikiai-hu/",
+            "wordpress_post_id": 637,
+            "source": "WordPress HFCM #31"
         }
     ]
 }
