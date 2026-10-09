@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T07:40:10+00:00"
-synced_at: "2026-10-09T10:41:24+00:00"
+source_last_modified: "2026-10-09T14:11:33+00:00"
+synced_at: "2026-10-09T14:11:53+00:00"
 ---
 
 # Munkatársaink
