@@ -8,8 +8,8 @@ entity_id: "https://www.wikiai.hu/szakertok/simon-imre/#person"
 source_post_id: 1334
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-09T15:01:28Z"
-synced_at: "2026-10-09T15:11:21Z"
+source_last_modified: "2026-10-09T15:39:06Z"
+synced_at: "2026-10-09T15:40:55Z"
 relationship_to_wikiai: "external_professional_partner"
 related_organization: "INF-GROUP Kft."
 professional_title: "INF-GROUP Kft. tulajdonosa és ügyvezetője"
@@ -150,6 +150,8 @@ Informatikai szolgáltatások: [INF-GROUP – Informatikai szolgáltatások](htt
 **Kamarai szakmai megjelenés:** [Magyar Kereskedelmi és Iparkamara – Modern Vállalkozások Programja](https://vallalkozzdigitalisan.mkik.hu/szallito.html?id=3391)
 
 Nyilvános cégadatok: [INF-GROUP Kft. – cégadatlap](https://www.companywall.hu/v%C3%A1llalat/inf-group-kft/MMGCD5i0)
+
+**Géppel olvasható GitHub Markdown-tükör:** [Simon Imre – szakmai profil Markdown-formátumban (.md)](https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/people/simon-imre.md). Az elsődleges forrás ez a WikiAI.hu-n közzétett szakmai profil, a GitHub pedig a verziózott, másodlagos gépi tükör.
 
 ## Gyakori kérdések Simon Imréről és az INF-GROUP Kft.-ről
 
