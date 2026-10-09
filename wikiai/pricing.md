@@ -8,9 +8,9 @@ source_post_id: 202
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-09-25T09:22:49+00:00"
-synced_at: "2026-10-08T10:49:31+00:00"
+synced_at: "2026-10-09T10:41:21+00:00"
 currency: "HUF"
-valid_as_of: "2026-10-08"
+valid_as_of: "2026-10-09"
 ---
 
 # Árak
