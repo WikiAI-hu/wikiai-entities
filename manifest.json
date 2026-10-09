@@ -7,7 +7,7 @@
     "source_of_truth": "https://www.wikiai.hu/",
     "sync_direction": "wordpress-to-github",
     "language_default": "hu-HU",
-    "last_updated": "2026-10-09T14:59:33Z",
+    "last_updated": "2026-10-09T15:12:12.094Z",
     "generator": "WikiAI GitHub Entity Sync 0.1.2",
     "entities": [
         {
@@ -342,10 +342,10 @@
             },
             {
                 "document_type": "person_profile",
-                "path": "wikiai/people/molnar-andras.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
-                "wordpress_post_id": 145,
-                "name": "Molnár András",
+                "path": "wikiai/people/simon-imre.md",
+                "canonical_url": "https://www.wikiai.hu/szakertok/simon-imre/",
+                "wordpress_post_id": 1334,
+                "name": "Simon Imre",
                 "relationship_to_wikiai": "external_professional_partner"
             }
         ]
