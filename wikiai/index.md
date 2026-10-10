@@ -6,7 +6,7 @@ status: "published"
 canonical_url: "https://www.wikiai.hu/"
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-synced_at: "2026-10-09T14:54:35+00:00"
+synced_at: "2026-10-10T10:44:39+00:00"
 ---
 
 # WikiAI.hu – public knowledge mirror
@@ -27,14 +27,11 @@ A WikiAI.hu / WordPress az elsodleges forras. A GitHub masodlagos publikacios es
 
 - [Varhelyi Csanad](people/varhelyi-csanad.md)
 - [Varhelyi Viktoria](people/varhelyi-viktoria.md)
-- [Simon Imre](people/simon-imre.md)
+- [Molnar Andras](people/molnar-andras.md)
 
 ## Gepi index
 
 - [WikiAI manifest](manifest.json)
-- [Munkatarsaink JSON-LD](team.jsonld)
-- [Simon Imre JSON-LD](people/simon-imre.jsonld)
-- [WikiAI.hu platform JSON-LD](wikiai-hu.jsonld)
 
 ## Entitashatar
 
