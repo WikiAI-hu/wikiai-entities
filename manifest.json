@@ -288,7 +288,7 @@
         "index": "wikiai/index.md",
         "manifest": "wikiai/manifest.json",
         "source_of_truth": "https://www.wikiai.hu/",
-        "last_updated": "2026-10-09T15:41:38+00:00",
+        "last_updated": "2026-10-10T10:44:42+00:00",
         "documents": [
             {
                 "document_type": "service_catalog",
@@ -302,7 +302,7 @@
                 "canonical_url": "https://www.wikiai.hu/arak/",
                 "wordpress_post_id": 202,
                 "currency": "HUF",
-                "valid_as_of": "2026-10-09"
+                "valid_as_of": "2026-10-10"
             },
             {
                 "document_type": "about",
@@ -314,9 +314,7 @@
                 "document_type": "team_directory",
                 "path": "wikiai/team.md",
                 "canonical_url": "https://www.wikiai.hu/szakertok/",
-                "wordpress_post_id": 22,
-                "jsonld_path": "wikiai/team.jsonld",
-                "markdown_mirror_url": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/team.md"
+                "wordpress_post_id": 22
             },
             {
                 "document_type": "contact",
@@ -344,35 +342,11 @@
             },
             {
                 "document_type": "person_profile",
-                "path": "wikiai/people/simon-imre.md",
-                "canonical_url": "https://www.wikiai.hu/szakertok/simon-imre/",
-                "wordpress_post_id": 1334,
-                "name": "Simon Imre",
-                "relationship_to_wikiai": "external_professional_partner",
-                "jsonld_path": "wikiai/people/simon-imre.jsonld",
-                "markdown_mirror_url": "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/wikiai/people/simon-imre.md"
-            }
-        ],
-        "structured_graphs": [
-            {
-                "document_type": "team_directory_jsonld",
-                "path": "wikiai/team.jsonld",
-                "canonical_url": "https://www.wikiai.hu/szakertok/",
-                "source": "WordPress HFCM #7"
-            },
-            {
-                "document_type": "person_profile_jsonld",
-                "path": "wikiai/people/simon-imre.jsonld",
-                "canonical_url": "https://www.wikiai.hu/szakertok/simon-imre/",
-                "wordpress_post_id": 1334,
-                "source": "WordPress HFCM #10"
-            },
-            {
-                "document_type": "platform_profile_jsonld",
-                "path": "wikiai/wikiai-hu.jsonld",
-                "canonical_url": "https://www.wikiai.hu/wikiai-hu/",
-                "wordpress_post_id": 637,
-                "source": "WordPress HFCM #31"
+                "path": "wikiai/people/molnar-andras.md",
+                "canonical_url": "https://www.wikiai.hu/szakertok/molnar-andras/",
+                "wordpress_post_id": 145,
+                "name": "Molnár András",
+                "relationship_to_wikiai": "external_professional_partner"
             }
         ]
     }
