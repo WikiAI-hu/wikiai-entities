@@ -8,7 +8,7 @@ source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
 source_last_modified: "2026-10-11T09:47:02+00:00"
-synced_at: "2026-10-11T10:31:41+00:00"
+synced_at: "2026-10-11T10:42:56+00:00"
 relationship_to_wikiai: "founder"
 professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 ---
