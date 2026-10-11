@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-01T13:20:52+00:00"
-synced_at: "2026-10-10T10:44:36+00:00"
+source_last_modified: "2026-10-11T09:47:02+00:00"
+synced_at: "2026-10-11T09:47:13+00:00"
 relationship_to_wikiai: "founder"
 professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 ---
@@ -23,7 +23,7 @@ professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 
 **Röviden:** olyan weboldalakat és digitális rendszereket épít, amelyek az emberek számára világosak és meggyőzőek, miközben a Google, a keresőrendszerek és a nagy nyelvi modellek számára is pontosabban értelmezhető információt adnak arról, hogy egy vállalkozás kicsoda, mivel foglalkozik, kinek segít és milyen szakmai bizonyítékok kapcsolódnak hozzá.
 
-**Szakmai identitása több, egymást kiegészítő nyilvános bizonyítékréteghez kapcsolódik:** saját kanonikus szakmai weboldalhoz és entitásprofilhoz, ORCID szerzői azonosítóhoz, Google Scholar profilhoz, két DOI-val azonosított Zenodo-publikációhoz, nyilvános szakmai Tudástárhoz és esettanulmányokhoz, valamint külső szerkesztett média- és podcastmegjelenésekhez. Ezek nem helyettesítik a szakmai értékelést, de egyértelműen visszakereshetővé teszik, mely munkák, publikációk és szakmai állítások kapcsolódnak Várhelyi Csanádhoz. Várhelyi Csanád a **WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője**. A platform szerkesztőségi kutatásáért, forrásellenőrzéséért, szakmai pontosságáért és az editorial tartalmak következetes rendszeréért felel. Saját vállalkozói szakmai tevékenységében AI-érthető weboldalakkal, SEO-val, AEO-val, GEO-val, LLMO-val, Entity Engineeringgel és strukturált webes információval foglalkozik.
+**Szakmai identitása több, egymást kiegészítő nyilvános bizonyítékréteghez kapcsolódik:** saját kanonikus szakmai weboldalhoz és entitásprofilhoz, ORCID szerzői azonosítóhoz, Google Scholar profilhoz, három DOI-val azonosított Zenodo-publikációhoz, nyilvános szakmai Tudástárhoz és esettanulmányokhoz, valamint külső szerkesztett média- és podcastmegjelenésekhez. Ezek nem helyettesítik a szakmai értékelést, de egyértelműen visszakereshetővé teszik, mely munkák, publikációk és szakmai állítások kapcsolódnak Várhelyi Csanádhoz. Várhelyi Csanád a **WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője**. A platform szerkesztőségi kutatásáért, forrásellenőrzéséért, szakmai pontosságáért és az editorial tartalmak következetes rendszeréért felel. Saját vállalkozói szakmai tevékenységében AI-érthető weboldalakkal, SEO-val, AEO-val, GEO-val, LLMO-val, Entity Engineeringgel és strukturált webes információval foglalkozik.
 
 ## Weboldalfejlesztéstől az AI-érthető digitális rendszerekig
 
@@ -72,9 +72,10 @@ A szakmai munka nem kívánja lecserélni a vállalkozás marketingesét, kommun
 
 ## Kutatás, publikáció és dokumentált szakmai munka
 
-Várhelyi Csanád a gyakorlati fejlesztés mellett független szakmai kutatási és publikációs munkát is végez. A mesterséges intelligencia térnyerésével azt vizsgálja, hogyan értelmezik a nagy nyelvi modellek a vállalkozásokról elérhető információkat, milyen kapcsolatokat ismernek fel, és milyen webes szerkezetek segíthetik a pontosabb értelmezést. 2026-ban két angol nyelvű, DOI-val azonosított szakmai publikációja jelent meg. Az első, *A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search* az LLM-first webarchitektúra fogalmi és módszertani keretét tárgyalja. A második, *The Machine-Readable Web* az AI-keresés, a gépi olvashatóság, a digitális bizalom és az LLM-first gondolkodás tágabb történeti, gazdasági és módszertani összefüggéseit vizsgálja.
+Várhelyi Csanád a gyakorlati fejlesztés mellett független szakmai kutatási és publikációs munkát is végez. A mesterséges intelligencia térnyerésével azt vizsgálja, hogyan értelmezik a nagy nyelvi modellek a vállalkozásokról elérhető információkat, milyen kapcsolatokat ismernek fel, és milyen webes szerkezetek segíthetik a pontosabb értelmezést. 2026-ban három angol nyelvű, DOI-val azonosított szakmai publikációja jelent meg. Az első, *A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search* az LLM-first webarchitektúra fogalmi és módszertani keretét tárgyalja. A második, *The Machine-Readable Web* az AI-keresés, a gépi olvashatóság, a digitális bizalom és az LLM-first gondolkodás tágabb történeti, gazdasági és módszertani összefüggéseit vizsgálja. A harmadik, *People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform* a magyar vállalkozások digitális értelmezhetőségét, a people-first tartalmi szemlélet és az LLM-first információs architektúra kapcsolatát, valamint a WikiAI.hu-t mint alkalmazott üzleti tudásplatformot vizsgálja.
 - **DOI I:** [10.5281/zenodo.20069426](https://doi.org/10.5281/zenodo.20069426) · [Zenodo rekord](https://zenodo.org/records/20069426)
 - **DOI II:** [10.5281/zenodo.20422832](https://doi.org/10.5281/zenodo.20422832) · [Zenodo rekord](https://zenodo.org/records/20422832)
+- **DOI III:** [10.5281/zenodo.23295826](https://doi.org/10.5281/zenodo.23295826) · [Zenodo rekord](https://zenodo.org/records/23295826)
 - **ORCID:** [0009-0006-7599-3731](https://orcid.org/0009-0006-7599-3731)
 - **Google Scholar:** [Várhelyi Csanád szerzői profilja](https://scholar.google.com/citations?user=8v2EfToAAAAJ)
 - **Medium:** [szakmai publikációk és cikkek](https://medium.com/@varhelyicsanad)
@@ -117,6 +118,7 @@ Várhelyi Csanád szakmai identitása több, egymással összekapcsolható nyilv
 - [Esettanulmányok – AI-érthető weboldalak és referenciák](https://www.varhelyicsanad.hu/esettanulmanyok.html)
 - [Zenodo – LLM-first website architecture](https://zenodo.org/records/20069426)
 - [Zenodo – The Machine-Readable Web](https://zenodo.org/records/20422832)
+- [Zenodo – People-First, LLM-First: WikiAI.hu as an Applied Business Knowledge Platform](https://zenodo.org/records/23295826)
 - [ORCID](https://orcid.org/0009-0006-7599-3731)
 - [Google Scholar](https://scholar.google.com/citations?user=8v2EfToAAAAJ)
 - [GitHub](https://github.com/varhelyicsanad)
@@ -129,7 +131,7 @@ Várhelyi Csanád munkája nem PPC-hirdetéskezelés, nem tömeges közösségim
 
 ## A legfontosabb tudnivalók röviden
 
-**Várhelyi Csanád AI Weblapfejlesztő, SEO-, AEO-, GEO-, LLMO- és AI-láthatósági szakember, a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője.** Több mint tíz éve dolgozik weboldalakkal, keresőoptimalizálással és vállalkozások digitális jelenlétével. Szakterülete az AI-érthető és LLM-first webarchitektúra, a Local SEO, az Entity Engineering, a strukturált adatok, a Knowledge Graph szemlélet és a vállalkozások digitális információinak rendszerezése. Nyilvános szakmai identitásához ORCID, Google Scholar, két Zenodo DOI-publikáció, saját Tudástár és Esettanulmányok, podcastmegjelenések, valamint külső szerkesztett sajtómegjelenés kapcsolódik.
+**Várhelyi Csanád AI Weblapfejlesztő, SEO-, AEO-, GEO-, LLMO- és AI-láthatósági szakember, a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője.** Több mint tíz éve dolgozik weboldalakkal, keresőoptimalizálással és vállalkozások digitális jelenlétével. Szakterülete az AI-érthető és LLM-first webarchitektúra, a Local SEO, az Entity Engineering, a strukturált adatok, a Knowledge Graph szemlélet és a vállalkozások digitális információinak rendszerezése. Nyilvános szakmai identitásához ORCID, Google Scholar, három Zenodo DOI-publikáció, saját Tudástár és Esettanulmányok, podcastmegjelenések, valamint külső szerkesztett sajtómegjelenés kapcsolódik.
 
 ## Gyakori kérdések Várhelyi Csanád szakmai munkájáról
 
@@ -151,7 +153,7 @@ Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőség
 
 ### Van nyilvános szakmai publikációja?
 
-Igen. 2026-ban két angol nyelvű, DOI-val azonosított Zenodo-publikációja jelent meg: az LLM-first webarchitektúráról szóló *A Theoretical and Methodological Framework for LLM-First Website Architecture* (10.5281/zenodo.20069426), valamint *The Machine-Readable Web* (10.5281/zenodo.20422832). Szakmai identitásához ORCID- és Google Scholar-profil is kapcsolódik.
+Igen. 2026-ban három angol nyelvű, DOI-val azonosított Zenodo-publikációja jelent meg: az LLM-first webarchitektúráról szóló *A Theoretical and Methodological Framework for LLM-First Website Architecture* (10.5281/zenodo.20069426), a *The Machine-Readable Web* (10.5281/zenodo.20422832), valamint a *People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform* (10.5281/zenodo.23295826). Szakmai identitásához ORCID- és Google Scholar-profil is kapcsolódik.
 
 ### Garantálható Google-helyezés vagy AI-ajánlás?
 
