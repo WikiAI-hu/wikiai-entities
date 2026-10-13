@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-11T09:47:02+00:00"
-synced_at: "2026-10-13T10:42:59+00:00"
+source_last_modified: "2026-10-13T16:01:59+00:00"
+synced_at: "2026-10-13T16:02:32+00:00"
 relationship_to_wikiai: "founder"
 professional_title: "AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértő"
 ---
@@ -101,7 +101,7 @@ A témát saját tudástári podcastban is feldolgozta *AI-láthatóság: szájh
 
 ## WikiAI.hu és szakmai közösségi szerep
 
-**Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője.** A Vállalkozások, Cikkek, Hírek és Tudástár szerkesztőségi tartalmainál a kutatási, forrásellenőrzési és szakmai pontossági rendszerért felel. Ez a szerep elkülönül saját webfejlesztői és AI-láthatósági vállalkozói tevékenységétől. Várhelyi Csanád a **BNI 4208 – A Debreceni Kör** tagja. A Business Network International közösségében vállalkozói kapcsolatokon keresztül vesz részt, és szakmai témái között az AI-láthatóság, a webes érthetőség, a keresési környezet és a vállalkozások digitális jelenléte jelenik meg.
+**Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője.** A Vállalkozások, Cikkek, Hírek és Tudástár szerkesztőségi tartalmainál a kutatási, forrásellenőrzési és szakmai pontossági rendszerért felel. Ez a szerep elkülönül saját webfejlesztői és AI-láthatósági vállalkozói tevékenységétől. Várhelyi Csanád a **BNI 4208 – A Debreceni Kör** tagja; [hivatalos BNI-tagprofilja](https://bni-hungary.com/hu-HU/memberdetails?encryptedMemberId=0aaM5GmIDkmMsqAZ%2B67QPw%3D%3D&name=Csan%C3%A1d+V%C3%A1rhelyi) Csanád Várhelyi néven érhető el. A Business Network International közösségében vállalkozói kapcsolatokon keresztül vesz részt, és szakmai témái között az AI-láthatóság, a webes érthetőség, a keresési környezet és a vállalkozások digitális jelenléte jelenik meg.
 
 ## Külső szakmai és vállalkozói elismerés
 
@@ -123,6 +123,7 @@ Várhelyi Csanád szakmai identitása több, egymással összekapcsolható nyilv
 - [Google Scholar](https://scholar.google.com/citations?user=8v2EfToAAAAJ)
 - [GitHub](https://github.com/varhelyicsanad)
 - [LinkedIn](https://www.linkedin.com/in/varhelyicsanad)
+- [BNI Magyarország – hivatalos szakmai tagprofil (Csanád Várhelyi)](https://bni-hungary.com/hu-HU/memberdetails?encryptedMemberId=0aaM5GmIDkmMsqAZ%2B67QPw%3D%3D&name=Csan%C3%A1d+V%C3%A1rhelyi)
 - [Medium](https://medium.com/@varhelyicsanad)
 
 ## Mit nem jelent ez a szakmai megközelítés?
