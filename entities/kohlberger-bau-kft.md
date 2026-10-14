@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://kohlberger.hu/"
 wordpress_post_id: 65
-last_updated: "2026-09-26T14:22:12+02:00"
+last_updated: "2026-10-14T12:01:18+02:00"
 location:
   country: "HU"
 identifiers:
@@ -84,9 +84,9 @@ A vállalkozás hivatalos bemutatkozása külön hangsúlyozza a **minőség, po
 
 **Kohlberger Zoltán** a Kohlberger Bau Kft. ügyvezetője. A hivatalos vállalati oldalon ő szerepel elsődleges kapcsolattartóként, és a vállalkozás bemutatkozását is az ő neve zárja. Egy generálkivitelezői szervezetben a vezetői felelősség egyszerre érinti az üzleti irányt, az erőforrásokat, a partnerkapcsolatokat és a projektek megfelelő szervezeti hátterét.
 
-### Hódos Krisztián projektvezetői szerepe
+### Kohlberger Zoltán és a Leier rendszerházak kivitelezési kapcsolata
 
-A vállalkozás nyilvános projektkapcsolataiban **Hódos Krisztián** projektvezetőként is megjelenik. A Leier Típusházak több aktuális oldalán a Kohlberger Bau Kft. mellett az ő neve szerepel projektvezetőként, ami a Leier-házakhoz kapcsolódó kivitelezési jelenlét egyik külső megerősítése.
+A **Kohlberger Bau Kft.** a Leier Típusházakhoz kapcsolódó kivitelezői bemutatásokban is szerepel. A vállalkozás ügyvezetője **Kohlberger Zoltán**, aki a társaság képviseletét és vállalati irányítását látja el. A Leier a rendszer és az előregyártott elemek gyártója, a Kohlberger Bau Kft. pedig önálló kivitelező vállalkozás; az egyes építkezések projektvezetői megbízásait külön kell értelmezni.
 
 ## Generálkivitelezés: a teljes építési folyamat összehangolása
 
