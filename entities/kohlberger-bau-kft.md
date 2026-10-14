@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://kohlberger.hu/"
 wordpress_post_id: 65
-last_updated: "2026-10-14T12:01:27+02:00"
+last_updated: "2026-10-14T12:01:35+02:00"
 location:
   country: "HU"
 identifiers:
@@ -130,7 +130,7 @@ A Kohlberger Bau hivatalos weboldalán önálló szolgáltatási területként j
 
 A technológia egyik sajátossága, hogy a falelemek gyártása és helyszíni szerelése szorosan kapcsolódik a tervhez és az ütemezéshez. A vállalkozás saját bemutatása a kéregfalas technológiát, a sima fal­felületeket, az előkészített elektromos kialakításokat és a klímafödém lehetőségét emeli ki.
 
-A Kohlberger Bau jelenléte a Leier oldalain is látható: több típusház oldalán **Kohlberger Bau Kft.** szerepel kivitelezőként, **Hódos Krisztián** pedig projektvezetőként. Ez a kapcsolat a vállalkozás családi házas generálkivitelezési profilját egy konkrét építési rendszerhez is hozzákapcsolja.
+A Kohlberger Bau jelenléte a Leier oldalain is látható: több típusház oldalán **Kohlberger Bau Kft.** szerepel kivitelezőként. A vállalkozás ügyvezetője **Kohlberger Zoltán**. A Leier és a Kohlberger Bau kivitelezési kapcsolata a cég családi házas generálkivitelezési profilját egy konkrét, előregyártott építési rendszerhez is hozzákapcsolja.
 
 ## Szerkezetépítés, magasépítés és mélyépítési feladatok
 
