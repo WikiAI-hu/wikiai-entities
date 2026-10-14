@@ -16,7 +16,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://kohlberger.hu/"
 wordpress_post_id: 65
-last_updated: "2026-10-14T12:01:18+02:00"
+last_updated: "2026-10-14T12:01:27+02:00"
 location:
   country: "HU"
 identifiers:
@@ -102,7 +102,7 @@ A cég hivatalos tájékoztatása szerint a kivitelezések alatt az **e-építé
 
 A **2025–2026-ban elérhető vállalati és partneri információk alapján** a Kohlberger Bau kivitelezési profilja továbbra is több, egymástól eltérő léptékű építési feladatot kapcsol össze. A családi ház, a többlakásos lakóépület, a felújítás és az ipari vagy intézményi munkakörnyezet műszakilag más feladat, a szervezési alapelv mégis közös: a terveket, szakembereket, anyagokat, munkafázisokat és határidőket egyetlen működő kivitelezési folyamattá kell összehangolni.
 
-A lakossági oldalon a vállalkozás hagyományos falazóelemekkel készülő családi házak generálkivitelezésével és **Leier előregyártott rendszerházak kivitelezésével** is foglalkozik. Az előregyártott technológia gyorsíthatja és kiszámíthatóbbá teheti a szerkezetépítés egyes szakaszait, de nem váltja ki a helyszíni projektvezetést: az alapozást, az elemek fogadását és szerelését, a szakági munkákat, a tetőt és a befejező munkákat továbbra is ugyanahhoz a műszaki tervhez és ütemezéshez kell igazítani. A Leier nyilvános típusház-oldalain a Kohlberger Bau Kft. kivitelezőként, Hódos Krisztián pedig projektvezetőként jelenik meg.
+A lakossági oldalon a vállalkozás hagyományos falazóelemekkel készülő családi házak generálkivitelezésével és **Leier előregyártott rendszerházak kivitelezésével** is foglalkozik. Az előregyártott technológia gyorsíthatja és kiszámíthatóbbá teheti a szerkezetépítés egyes szakaszait, de nem váltja ki a helyszíni projektvezetést: az alapozást, az elemek fogadását és szerelését, a szakági munkákat, a tetőt és a befejező munkákat továbbra is ugyanahhoz a műszaki tervhez és ütemezéshez kell igazítani. A Leier nyilvános típusház-oldalain a **Kohlberger Bau Kft.** kivitelezőként jelenik meg; a társaság ügyvezetője **Kohlberger Zoltán**.
 
 A 2025–2026-os szolgáltatási képben a **felújítás, homlokzati és utólagos hőszigetelés, valamint meglévő épületek korszerűsítése** is helyet kap. Ezeknél a projekteknél különösen fontos a meglévő szerkezetek valós állapotának felmérése, mert egy korábbi fal, födém, alap, rétegrend vagy gépészeti kialakítás jelentősen befolyásolhatja a tervezett új munkák sorrendjét és műszaki megoldását.
 
