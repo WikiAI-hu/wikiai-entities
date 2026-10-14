@@ -230,9 +230,6 @@
       "employee": [
         {
           "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#person-kohlberger-zoltan"
-        },
-        {
-          "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#person-hodos-krisztian"
         }
       ],
       "areaServed": [
@@ -307,18 +304,6 @@
       "jobTitle": "ügyvezető",
       "worksFor": {
         "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
-      }
-    },
-    {
-      "@type": "Person",
-      "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#person-hodos-krisztian",
-      "name": "Hódos Krisztián",
-      "jobTitle": "projektvezető",
-      "worksFor": {
-        "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
-      },
-      "subjectOf": {
-        "@id": "https://www.leier.hu/hu/tipushazak/berettyo-haz-4"
       }
     },
     {
@@ -1085,9 +1070,6 @@
       "about": [
         {
           "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#business"
-        },
-        {
-          "@id": "https://www.wikiai.hu/kohlberger-bau-kft/#person-hodos-krisztian"
         }
       ],
       "inLanguage": "hu-HU"
