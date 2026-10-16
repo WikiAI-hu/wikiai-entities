@@ -6,7 +6,7 @@ status: "published"
 canonical_url: "https://www.wikiai.hu/"
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-synced_at: "2026-10-15T10:42:25+00:00"
+synced_at: "2026-10-16T10:42:42+00:00"
 ---
 
 # WikiAI.hu – public knowledge mirror
@@ -27,7 +27,7 @@ A WikiAI.hu / WordPress az elsodleges forras. A GitHub masodlagos publikacios es
 
 - [Varhelyi Csanad](people/varhelyi-csanad.md)
 - [Varhelyi Viktoria](people/varhelyi-viktoria.md)
-- [Simon Imre – kulso szakmai partner](people/simon-imre.md)
+- [Molnar Andras](people/molnar-andras.md)
 
 ## Gepi index
 
