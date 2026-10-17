@@ -1,0 +1,24 @@
+name: Check WikiAI WordPress PHP snippets
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'wordpress/snippets/*.php'
+      - '.github/workflows/lint-wikiai-php.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  php-syntax:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify PHP interpreter
+        run: php -v
+      - name: Lint every versioned WordPress Code Snippet
+        run: |
+          find wordpress/snippets -type f -name '*.php' -print0 | sort -z | xargs -0 -r -n 1 php -l
