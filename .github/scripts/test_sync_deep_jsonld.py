@@ -106,13 +106,15 @@ class TestMirror(unittest.TestCase):
             base = Path(td)
             (base/'entities').mkdir()
             (base/'entities'/'pelda-vallalkozas.md').write_text('ok')
-            (base/'entities'/'pelda-vallalkozas.jsonld').write_text(json.dumps(sample(nodes=80)))
+            target = base/'entities'/'pelda-vallalkozas.jsonld'
+            target.write_text(json.dumps(sample(nodes=80)))
             fixture = base/'page.html'
             fixture.write_text(wrap(sample(nodes=14)))
             entry = {'canonical_url':CANON, 'machine_record':'entities/pelda-vallalkozas.md'}
             with patch.object(mod, 'ROOT', base):
+                managed = {'pelda-vallalkozas': {'sha256':mod.sha256(target.read_text())}}
                 with self.assertRaisesRegex(RuntimeError, 'shrank unexpectedly'):
-                    mod.sync_entry(entry, {}, '2026-10-17T12:00:00Z', fixture)
+                    mod.sync_entry(entry, managed, '2026-10-17T12:00:00Z', fixture)
 
     def test_slug_and_host_guards(self):
         with self.assertRaisesRegex(ValueError, 'canonical'):
