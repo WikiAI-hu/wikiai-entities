@@ -79,3 +79,17 @@ The WordPress pages and their active HFCM structured data are the first-party so
 - [Simon Imre person profile JSON-LD](wikiai/people/simon-imre.jsonld) — https://www.wikiai.hu/szakertok/simon-imre/
 
 Simon Imre and INF-GROUP Kft. are external IT infrastructure partners, not internal WikiAI.hu employees or owners.
+
+## Automated deep JSON-LD mirror
+
+The published business profiles in WordPress's **Vállalkozások** category are mirrored to GitHub in two formats:
+
+- Markdown by the existing WikiAI GitHub Entity Sync WordPress plugin.
+- Full Schema.org JSON-LD by a scheduled GitHub Actions job that validates the **publicly rendered HFCM source** before updating the GitHub mirror.
+
+The JSON-LD job is monitored per business, supports historic Schema.org variants, runs hourly and after manifest updates, and refuses destructive or conflicting changes. The WikiAI.hu first-party platform profile is a separate exception.
+
+- [Operational runbook](docs/jsonld-sync-system.md)
+- [Per-business synchronization report](jsonld-sync-status.json)
+- [GitHub Actions history](https://github.com/WikiAI-hu/wikiai-entities/actions/workflows/sync-deep-jsonld.yml)
+
