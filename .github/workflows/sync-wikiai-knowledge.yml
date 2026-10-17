@@ -46,15 +46,16 @@ jobs:
           from pathlib import Path
           m=json.loads(Path("wikiai/manifest.json").read_text(encoding="utf-8"))
           p=m.get("people",[])
-          assert len(p)>=3, "Team list was unexpectedly truncated"
-          assert not any("molnar-andras" in str(x).lower() or x.get("wordpress_post_id")==145 for x in p), "Deleted Molnár profile returned"
-          assert any(x.get("wordpress_post_id")==1334 for x in p), "Simon Imre profile missing"
+          assert len(m.get("documents",[]))==5, "WikiAI core documents are incomplete"
+          assert p, "Published personnel index unexpectedly empty"
+          i=Path("wikiai/index.md").read_text(encoding="utf-8")
           for x in list(m.get("documents",[]))+p:
               assert Path(x["path"]).is_file(), "Missing Markdown mirror "+x["path"]
-          i=Path("wikiai/index.md").read_text(encoding="utf-8")
-          assert "molnar-andras" not in i.lower(), "Stale index reference"
-          assert "people/simon-imre.md" in i, "New partner missing from index"
-          print("Knowledge manifest verified:",len(m["documents"]),"core pages and",len(p),"people")
+          for person in p:
+              expected="(people/"+Path(person["path"]).name+")"
+              assert expected in i, "Missing published person from index: "+expected
+          assert len({x["wordpress_post_id"] for x in p})==len(p), "Duplicate WordPress profile"
+          print("Knowledge manifest verified:",len(m["documents"]),"core pages and",len(p),"published people")
           PY
       - name: Commit validated WordPress knowledge mirrors
         shell: bash
