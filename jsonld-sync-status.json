@@ -53,12 +53,12 @@
     "hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen": {
       "status": "error",
       "source": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/",
-      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents"
+      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents; details: [{\"nodes\":36,\"article_id\":\"https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#article\",\"article_url\":null,\"article_main\":\"https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business\",\"page_id\":\"https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/\",\"page_url\":\"https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/\",\"page_main\":\"https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/#business\"}]"
     },
     "kohlberger-bau-kft": {
       "status": "error",
       "source": "https://www.wikiai.hu/kohlberger-bau-kft/",
-      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents"
+      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents; details: [{\"nodes\":108,\"article_id\":\"kb:article\",\"article_url\":null,\"article_main\":\"kb:business\",\"page_id\":\"kb:webpage\",\"page_url\":\"https://www.wikiai.hu/kohlberger-bau-kft/\",\"page_main\":\"kb:business\"}]"
     },
     "kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo": {
       "status": "ok",
@@ -122,7 +122,7 @@
     "varganya-etterem-matraszentimre": {
       "status": "error",
       "source": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
-      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents"
+      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents; details: [{\"nodes\":39,\"article_id\":\"https://www.wikiai.hu/varganya-etterem-matraszentimre/#article\",\"article_url\":\"https://www.wikiai.hu/varganya-etterem-matraszentimre/\",\"article_main\":null,\"page_id\":null,\"page_url\":null,\"page_main\":null}]"
     }
   }
 }
