@@ -94,18 +94,30 @@ jobs:
               problems.append("Entity directory request failed: "+str(exc))
               print("FAIL",problems[-1],file=sys.stderr)
 
-          try:
-              profile, headers = request("/entity/porvadaszok-matractisztitas-debrecen.html",
-                                         max_bytes=3000000)
-              verify(len(profile.encode("utf-8")) > 100000,
-                     "Porvadászok machine HTML generated from rich HFCM graph")
-              verify("porvadaszok" in profile.lower(), "Machine page contains business identity")
-              verify("application/ld+json" in profile, "Machine HTML contains JSON-LD")
-          except Exception as exc:
-              problems.append("Entity profile request failed: "+str(exc))
-              print("FAIL",problems[-1],file=sys.stderr)
+          # Audit every current WordPress business machine HTML, including future profiles.
+          from concurrent.futures import ThreadPoolExecutor, as_completed
+          def test_business(entry):
+              slug = entry["canonical_url"].rstrip("/").split("/")[-1]
+              html, headers = request("/entity/" + slug + ".html", max_bytes=3000000)
+              if len(html.encode("utf-8")) < 10000:
+                  raise ValueError("Machine record is suspiciously short")
+              if "application/ld+json" not in html.lower():
+                  raise ValueError("Machine record lacks JSON-LD")
+              if "https://www.wikiai.hu/" + slug + "/" not in html:
+                  raise ValueError("Canonical business link is absent")
+              return slug, len(html.encode("utf-8"))
 
-          for path in ["/wp-json/wikiai-hfcm/v1/list", "/wp-json/wikiai-hfcm/v1/snippet-chunk/40"]:
+          with ThreadPoolExecutor(max_workers=5) as pool:
+              futures = {pool.submit(test_business, item):item for item in business}
+              for future in as_completed(futures):
+                  slug = futures[future]["canonical_url"].rstrip("/").split("/")[-1]
+                  try:
+                      value = future.result()
+                      verify(True, f"Deep machine HTML valid for {slug} ({value[1]} bytes)")
+                  except Exception as exc:
+                      verify(False, f"Machine HTML failed for {slug}: {exc}")
+
+          for path in ["/wp-json/wikiai-hfcm/v1/list", "/wp-json/wikiai-hfcm/v1/snippet-chunk/40", "/wp-json/wikiai-hfcm-watchdog/v1/status"]:
               try:
                   request(path,max_bytes=30000)
                   problems.append("Security regression: anonymous HFCM source readable at "+path)
@@ -116,6 +128,15 @@ jobs:
               except Exception as exc:
                   problems.append("Cannot establish HFCM access policy: "+str(exc))
                   print("FAIL",problems[-1],file=sys.stderr)
+
+          # Temporary source inspector must remain disabled after maintenance.
+          try:
+              request("/wp-json/wikiai-code-audit/v1", max_bytes=30000)
+              verify(False, "Temporary Code Snippets source inspector is still reachable")
+          except HTTPError as exc:
+              verify(exc.code == 404, "Temporary source-inspection REST route is absent")
+          except Exception as exc:
+              verify(False, "Temporary source inspection route could not be checked: "+str(exc))
 
           summary = ["# WikiAI live machine delivery audit", "",
                      f"- Published external businesses: {len(business)}",
