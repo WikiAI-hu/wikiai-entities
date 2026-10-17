@@ -45,13 +45,13 @@ def fixtures(root):
         "schema_version":"1.0", "generator":"WikiAI GitHub Knowledge Sync 0.1.3",
         "last_updated":"2026-10-16T00:00:00Z",
         "documents":[], "people":[{
-            "document_type":"person_profile","name":"Molnár András",
-            "path":"wikiai/people/molnar-andras.md","canonical_url":"https://www.wikiai.hu/szakertok/molnar-andras/",
+            "document_type":"person_profile","name":"Korábbi Partner",
+            "path":"wikiai/people/korabbi-partner.md","canonical_url":"https://www.wikiai.hu/szakertok/korabbi-partner/",
             "wordpress_post_id":145,
         }],
     },ensure_ascii=False),encoding="utf-8")
     (root/"wikiai/index.md").write_text(
-        "# WikiAI.hu\n\n## Szemelyek\n\n- [Molnar Andras](people/molnar-andras.md)\n\n"
+        "# WikiAI.hu\n\n## Szemelyek\n\n- [Korabbi Partner](people/korabbi-partner.md)\n\n"
         "## Gepi index\n\n- [WikiAI manifest](manifest.json)\n",encoding="utf-8")
 
 
@@ -85,9 +85,9 @@ class KnowledgeTests(unittest.TestCase):
 
     def test_index_removes_deleted_person_and_adds_simon(self):
         p=mod.discover(pages())[1]
-        old="# WikiAI\n\n## Szemelyek\n\n- [Molnar Andras](people/molnar-andras.md)\n\n## Gepi index\n\nEnd\n"
+        old="# WikiAI\n\n## Szemelyek\n\n- [Korabbi Partner](people/korabbi-partner.md)\n\n## Gepi index\n\nEnd\n"
         new=mod.update_index(old,p)
-        self.assertNotIn("Molnar",new)
+        self.assertNotIn("korabbi-partner",new)
         self.assertIn("people/simon-imre.md",new)
         self.assertIn("people/varhelyi-csanad.md",new)
 
@@ -95,10 +95,10 @@ class KnowledgeTests(unittest.TestCase):
         docs,p=mod.discover(pages())
         roles={143:"founder",144:"cofounder",1334:"external_professional_partner"}
         out=mod.update_manifest(docs,p,roles,"2026-10-17T11:00:00+00:00",
-            {"people":[{"wordpress_post_id":145,"name":"Molnár András"}],"documents":[]})
+            {"people":[{"wordpress_post_id":145,"name":"Korábbi Partner"}],"documents":[]})
         self.assertEqual(len(out["people"]),3)
         self.assertEqual(out["people"][2]["name"],"Simon Imre")
-        self.assertNotIn("Molnár",json.dumps(out,ensure_ascii=False))
+        self.assertNotIn("Korábbi Partner",json.dumps(out,ensure_ascii=False))
 
     def test_source_modification_timestamp_equivalence(self):
         self.assertEqual(mod.source_modified_from_md(
@@ -125,7 +125,7 @@ class KnowledgeTests(unittest.TestCase):
                 m=json.loads((root/"wikiai/manifest.json").read_text())
                 self.assertEqual(len(m["people"]),3)
                 self.assertEqual(m["people"][-1]["name"],"Simon Imre")
-                self.assertNotIn("molnar", (root/"wikiai/index.md").read_text().lower())
+                self.assertNotIn("korabbi-partner", (root/"wikiai/index.md").read_text().lower())
                 state=json.loads((root/"wikiai/knowledge-sync-state.json").read_text())
                 self.assertEqual(len(state["managed"]),8)
                 self.assertIn("wikiai/people/simon-imre.md",state["managed"])
