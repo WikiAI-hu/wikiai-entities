@@ -151,18 +151,30 @@ def download_html(canonical):
 
 def validate_graph(doc, canonical):
     graph = doc.get("@graph")
-    if doc.get("@context") not in ("https://schema.org", "https://schema.org/"):
+    context = doc.get("@context")
+    def uses_schema(c):
+        if isinstance(c, str):
+            return c.rstrip("/") == "https://schema.org"
+        if isinstance(c, list):
+            return any(uses_schema(x) for x in c)
+        if isinstance(c, dict):
+            return uses_schema(c.get("@vocab"))
+        return False
+    if not uses_schema(context):
         return None
     if not isinstance(graph, list) or len(graph) < MIN_DEEP_NODES:
         return None
     if any(not isinstance(n, dict) for n in graph):
         return None
-    articles = [n for n in graph if n.get("@id") == canonical + "#article" and "Article" in node_types(n)]
-    pages = [n for n in graph if n.get("@id") == canonical + "#webpage" and "WebPage" in node_types(n)]
+    articles = [n for n in graph if "Article" in node_types(n) and
+                (n.get("url") == canonical or n.get("@id") == canonical + "#article" or
+                 n.get("@id", "").endswith(":article"))]
+    pages = [n for n in graph if "WebPage" in node_types(n) and
+             n.get("url") == canonical]
     if len(articles) != 1 or len(pages) != 1:
         return None
     article, page = articles[0], pages[0]
-    if article.get("url", canonical) != canonical or page.get("url") != canonical:
+    if article.get("url", canonical) != canonical:
         return None
     main_id = ref_id(article.get("mainEntity"))
     if not main_id or main_id != ref_id(page.get("mainEntity")):
@@ -220,6 +232,12 @@ def find_deep_graph(html, canonical):
                 "page_id": page.get("@id"),
                 "page_url": page.get("url"),
                 "page_main": ref_id(page.get("mainEntity")),
+                "context": str(doc.get("@context"))[:160],
+                "sample_nodes": [
+                    {"type": n.get("@type"), "id": n.get("@id"), "url": n.get("url"),
+                     "name": n.get("name"), "about": str(n.get("about"))[:120]}
+                    for n in ns[:8] if isinstance(n, dict)
+                ],
             })
         raise ValueError(
             f"Expected one valid HFCM deep graph in <head>, found {len(matches)} "
@@ -256,11 +274,16 @@ def sync_entry(entry, managed, now, fixture=None):
         raise RuntimeError("Managed mirror changed outside sync; refusing overwrite: " + slug)
     if old_graph is not None:
         old_count = len(old_graph.get("@graph", []))
-        if old_count >= MIN_DEEP_NODES and new_count < max(MIN_DEEP_NODES, int(old_count * MIN_PREVIOUS_NODE_RATIO)):
-            raise RuntimeError(f"Graph shrank unexpectedly ({old_count} -> {new_count} nodes): {slug}")
         old_entity = prior_main_entity(old_graph, canonical)
         if old_entity and old_entity != result["business_id"]:
             raise RuntimeError("Business identity @id changed; manual review needed: " + slug)
+        if old_count >= MIN_DEEP_NODES and new_count < max(MIN_DEEP_NODES, int(old_count * MIN_PREVIOUS_NODE_RATIO)):
+            if state is not None:
+                raise RuntimeError(f"Managed graph shrank unexpectedly ({old_count} -> {new_count} nodes): {slug}")
+            result["warnings"].append(
+                f"Legacy GitHub snapshot had {old_count} nodes, validated live HFCM has {new_count}; "
+                "previous version remains in Git history"
+            )
     different = old_graph != graph
     if different:
         path.parent.mkdir(parents=True, exist_ok=True)
