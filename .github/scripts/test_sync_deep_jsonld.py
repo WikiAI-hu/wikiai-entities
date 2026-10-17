@@ -143,6 +143,31 @@ class TestMirror(unittest.TestCase):
                 self.assertEqual(result['change'], 'updated')
                 self.assertTrue(any('Legacy business' in x for x in result['warnings']))
 
+    def test_historic_restaurant_managed_identity_change_blocked(self):
+        with tempfile.TemporaryDirectory() as td:
+            base = Path(td)
+            (base/'entities').mkdir()
+            (base/'entities'/'pelda-vallalkozas.md').write_text('ok')
+            original = sample('https://restaurant.example/#restaurant')
+            original['@graph'] = [n for n in original['@graph'] if 'WebPage' not in mod.node_types(n)]
+            article = next(n for n in original['@graph'] if 'Article' in mod.node_types(n))
+            article.pop('mainEntity')
+            article['mainEntityOfPage'] = CANON
+            article['about'] = [{'@id': 'https://restaurant.example/#restaurant'}]
+            original['@graph'][2]['@type'] = 'Restaurant'
+            live = sample('https://different.example/#restaurant')
+            target = base/'entities'/'pelda-vallalkozas.jsonld'
+            target.write_text(json.dumps(original))
+            fixture = base/'live.html'
+            fixture.write_text(wrap(live))
+            entry = {'canonical_url':CANON, 'machine_record':'entities/pelda-vallalkozas.md'}
+            with patch.object(mod, 'ROOT', base):
+                prior = mod.prior_main_entity(original, CANON)
+                self.assertEqual(prior, 'https://restaurant.example/#restaurant')
+                managed = {'pelda-vallalkozas': {'sha256':mod.sha256(target.read_text())}}
+                with self.assertRaisesRegex(RuntimeError, 'Managed business identity'):
+                    mod.sync_entry(entry, managed, '2026-10-17T12:00:00Z', fixture)
+
     def test_historic_business_iri_change_name_mismatch_is_blocked(self):
         with tempfile.TemporaryDirectory() as td:
             base = Path(td)
