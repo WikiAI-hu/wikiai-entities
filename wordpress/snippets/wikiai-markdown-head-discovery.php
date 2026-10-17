@@ -1,9 +1,10 @@
 <?php
 /**
- * WikiAI Markdown Discovery Head v1.0.0
+ * WikiAI Markdown Discovery Head v1.1.0
  *
- * Outputs a GitHub Markdown alternate for existing and future business posts,
- * published staff/expert pages, and the five fixed organizational pages.
+ * Outputs GitHub Markdown alternates for published expert pages and
+ * five organizational pages. Business profiles already have discovery links
+ * from the active WikiAI entity layer; avoid duplicate head links.
  * The LLM Markdown plugin remains responsible for own-domain .md alternates.
  * The public GitHub mirror remains a secondary representation, never canonical.
  */
@@ -46,12 +47,10 @@ add_action( 'wp_head', static function () {
                 }
             }
         }
-    } elseif ( 'post' === $post->post_type && has_category( 8, $post ) ) {
-        // Business category #8; the existing Entity Sync mirrors these files.
-        $slug = (string) $post->post_name;
-        if ( preg_match( '~^[a-z0-9-]+$~', $slug ) ) {
-            $markdown_path = 'entities/' . $slug . '.md';
-        }
+    } elseif ( 'post' === $post->post_type && 637 === (int) $post->ID ) {
+        // The WikiAI.hu first-party profile is the one business exception.
+        // Other companies already emit an alternate through the entity layer.
+        $markdown_path = 'entities/wikiai-hu.md';
     }
 
     if ( '' === $markdown_path ) {
