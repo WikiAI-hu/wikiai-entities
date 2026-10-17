@@ -14,7 +14,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://porvadaszok.hu/"
 wordpress_post_id: 1517
-last_updated: "2026-10-17T10:31:05+02:00"
+last_updated: "2026-10-17T10:31:14+02:00"
 location:
   country: "HU"
 machine_attributes:
