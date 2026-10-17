@@ -60,3 +60,19 @@ The legacy plugin was **not** deactivated by the repository migration; this runb
 - [Knowledge index](https://github.com/WikiAI-hu/wikiai-entities/blob/main/wikiai/index.md)
 
 Canonical search-engine URLs remain the live WordPress pages, not GitHub Markdown links.
+
+
+## HTML HEAD Markdown discovery (2026-10-17)
+
+After uninstalling the old Knowledge Sync WordPress plugin, the corresponding site-side link discovery was moved to **Code Snippets #128: WikiAI - Global GitHub Markdown Head Discovery**, version 1.1.0. Its authoritative PHP source is versioned at [wordpress/snippets/wikiai-markdown-head-discovery.php](../wordpress/snippets/wikiai-markdown-head-discovery.php).
+
+- Published organizational pages #101, #202, #21, #22 and #23: GitHub mirror alternate links to their fixed Markdown files.
+- All published expert profiles under /szakertok/SLUG/: dynamically generated GitHub mirror alternate links to wikiai/people/SLUG.md.
+- Published companies in category #8: the existing WordPress WikiAI entity discovery layer retains its own correct GitHub mirror links. #128 **does not** duplicate those links. WikiAI first-party profile #637 is the exception covered by #128.
+- Code Snippets #123 (older manual team + Simon Imre Markdown link) was deactivated to prevent duplication and remains available for rollback.
+- Code Snippets #17 (own-domain Markdown eligibility) remains active, as does the LLM Markdown plugin. The own-domain per-company .md link is a separate representation; this document does not assert that every organizational page has an own-domain per-page .md endpoint.
+- WP Super Cache was cleared after code changes.
+
+**Verification:** GitHub Actions [Audit live WikiAI HTML Markdown links](https://github.com/WikiAI-hu/wikiai-entities/actions/workflows/audit-markdown-discovery.yml) downloaded live public HTML and checked each linked GitHub Markdown alternate in the HEAD. The first clean audit passed **26 of 26 published pages** with exactly one matching per-page GitHub Markdown link; no duplicate same-destination alternates. A scheduled daily audit helps detect future regressions.
+
+WordPress HTML remains canonical, GitHub Markdown remains an alternate public mirror, and the GitHub-side file synchronization is controlled by the independent Knowledge Mirror and Entity Mirror workflows.
