@@ -1,4 +1,4 @@
-name: Mirror WikiAI live HFCM deep JSON-LD
+name: Mirror all WikiAI business HFCM JSON-LD
 
 on:
   workflow_dispatch:
@@ -10,6 +10,7 @@ on:
       - 'manifest.json'
       - 'entities/*.md'
       - '.github/scripts/sync-deep-jsonld.py'
+      - '.github/scripts/test_sync_deep_jsonld.py'
       - '.github/workflows/sync-deep-jsonld.yml'
 
 permissions:
@@ -20,9 +21,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  sync:
+  synchronize:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 16
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,17 +31,50 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Synchronize from WikiAI public canonical pages
+      - name: Test all safety and compatibility checks
+        run: python -m unittest discover -s .github/scripts -p 'test_*.py' -v
+      - name: Fetch and validate every published business HFCM deep graph
         run: python .github/scripts/sync-deep-jsonld.py
-      - name: Commit validated changed mirrors
+      - name: Commit verified JSON-LD and audit report
         shell: bash
         run: |
-          git add -A -- 'entities/*.jsonld' jsonld-sync-manifest.json
+          git add -A -- 'entities/*.jsonld' jsonld-sync-manifest.json jsonld-sync-status.json
           if git diff --cached --quiet; then
-            echo 'No JSON-LD changes.'
+            echo 'All deep JSON-LD mirrors are already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Mirror validated live WikiAI HFCM JSON-LD'
-          git push
+          git commit -m 'Synchronize all validated WikiAI HFCM JSON-LD mirrors'
+          for retry in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Retry $retry: main moved during sync; rebasing"
+            git fetch origin main
+            git rebase origin/main
+          done
+          echo 'Could not safely push synchronized files' >&2
+          exit 1
+      - name: Show complete per-business health report
+        if: always()
+        shell: bash
+        run: |
+          if [ -f jsonld-sync-status.json ]; then
+            python - <<'PY'
+          import json, os
+          p = json.load(open('jsonld-sync-status.json', encoding='utf-8'))
+          summary = ['## WikiAI HFCM JSON-LD mirror health', '',
+                     '| Metric | Count |', '|---|---:|']
+          summary += [f'| {k} | {v} |' for k, v in p['counts'].items()]
+          summary += ['', '| Business | Status | Warnings / problem |', '|---|---|---|']
+          for key, data in p['profiles'].items():
+              detail = data.get('message') or '; '.join(data.get('warnings', [])) or '-'
+              detail = detail.replace('|', '\|').replace('\n', ' ')
+              summary.append(f'| {key} | {data["status"]} | {detail[:260]} |')
+          output = '\n'.join(summary) + '\n'
+          print(output)
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as f:
+              f.write(output)
+          PY
+          fi
+      - name: Fail the run if any business is not mirrored
+        run: python .github/scripts/sync-deep-jsonld.py --check-status
