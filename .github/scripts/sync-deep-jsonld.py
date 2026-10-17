@@ -149,6 +149,22 @@ def download_html(canonical):
         return html
 
 
+def expand_id(value, context):
+    """Resolve custom prefixes declared in this JSON-LD graph, not by guessing IDs."""
+    if not isinstance(value, str) or ":" not in value:
+        return value
+    prefix, remainder = value.split(":", 1)
+    contexts = context if isinstance(context, list) else [context]
+    for c in contexts:
+        if isinstance(c, dict) and prefix in c:
+            base = c[prefix]
+            if isinstance(base, str):
+                return base + remainder
+            if isinstance(base, dict) and isinstance(base.get("@id"), str):
+                return base["@id"] + remainder
+    return value
+
+
 def validate_graph(doc, canonical):
     graph = doc.get("@graph")
     context = doc.get("@context")
@@ -171,14 +187,31 @@ def validate_graph(doc, canonical):
                  n.get("@id", "").endswith(":article"))]
     pages = [n for n in graph if "WebPage" in node_types(n) and
              n.get("url") == canonical]
-    if len(articles) != 1 or len(pages) != 1:
+    if len(articles) != 1 or len(pages) > 1:
         return None
-    article, page = articles[0], pages[0]
+    article = articles[0]
     if article.get("url", canonical) != canonical:
         return None
-    main_id = ref_id(article.get("mainEntity"))
-    if not main_id or main_id != ref_id(page.get("mainEntity")):
-        return None
+    warnings = []
+    if len(pages) == 1:
+        main_id = ref_id(article.get("mainEntity"))
+        if not main_id or main_id != ref_id(pages[0].get("mainEntity")):
+            return None
+    else:
+        # Historic Vargánya-style Article: no ProfilePage and the restaurant
+        # is referenced via Article.about, with mainEntityOfPage a URL string.
+        if article.get("mainEntityOfPage") != canonical:
+            return None
+        about = article.get("about", [])
+        about = about if isinstance(about, list) else [about]
+        referenced = {ref_id(x) for x in about}
+        candidates = [n for n in graph if n.get("@id") in referenced
+                      and n.get("name") and set(node_types(n)) &
+                      {"Restaurant", "LocalBusiness", "Store", "Organization"}]
+        if len(candidates) != 1:
+            return None
+        main_id = candidates[0]["@id"]
+        warnings.append("Legacy Article without WebPage/mainEntity: business resolved from verified Article.about")
     business = [n for n in graph if n.get("@id") == main_id]
     if len(business) != 1 or not business[0].get("name"):
         return None
@@ -187,14 +220,13 @@ def validate_graph(doc, canonical):
     ids = [n["@id"] for n in graph if "@id" in n]
     if any(not isinstance(i, str) for i in ids) or len(ids) != len(set(ids)):
         raise ValueError("Duplicate or invalid @id in deep graph")
-    if not any(n.get("@id") == "https://www.wikiai.hu/#organization" for n in graph):
+    if not any(expand_id(n.get("@id"), context) == "https://www.wikiai.hu/#organization" for n in graph):
         return None
-    warnings = []
     if isinstance(article.get("mainEntityOfPage"), dict):
         warnings.append("Article.mainEntityOfPage is an object; review historical Google validation")
     editor_id = "https://www.varhelyicsanad.hu/#person"
     for role in ("author", "editor", "accountablePerson"):
-        if ref_id(article.get(role)) != editor_id:
+        if expand_id(ref_id(article.get(role)), context) != editor_id:
             warnings.append("Article." + role + " does not reference Várhelyi Csanád")
     full = normalize_json(doc)
     slug = urlsplit(canonical).path.strip("/")
