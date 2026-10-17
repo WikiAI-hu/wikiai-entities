@@ -1,6 +1,6 @@
 <?php
 /**
- * WikiAI HFCM read-only adapter 1.1.0.
+ * WikiAI HFCM read-only adapter 1.2.0.
  *
  * Supplies only the two authenticated legacy REST GET endpoints that the
  * existing Entity HTML Generator (#107) already consumes.
@@ -15,7 +15,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 add_action( 'rest_api_init', static function () {
     $can_read = static function () {
-        return current_user_can( 'manage_options' );
+        // Genuine server-side WP-Cron may call rest_do_request() internally.
+        // Anonymous external REST requests never run with DOING_CRON set.
+        return current_user_can( 'manage_options' ) ||
+            ( function_exists( 'wp_doing_cron' ) && wp_doing_cron() );
     };
 
     register_rest_route( 'wikiai-hfcm/v1', '/list', array(
