@@ -63,6 +63,14 @@ class KnowledgeTests(unittest.TestCase):
         self.assertEqual([p["id"] for p,_,_,_ in people],[143,144,1334])
         self.assertNotIn(145,[p["id"] for p,_,_,_ in people])
 
+    def test_future_personnel_changes_without_simon(self):
+        team = [p for p in pages() if p["id"] != 1334]
+        team.append(page(1880,"uj-tanacsado","Új tanácsadó",
+                         "https://www.wikiai.hu/szakertok/uj-tanacsado/"))
+        docs, people = mod.discover(team)
+        self.assertEqual([p["id"] for p,_,_,_ in people], [143,144,1880])
+        self.assertNotIn(1334,[p["id"] for p,_,_,_ in people])
+
     def test_absent_required_page_blocks(self):
         with self.assertRaisesRegex(RuntimeError,"Required"):
             mod.discover([p for p in pages() if p["id"]!=22])
