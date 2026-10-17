@@ -65,6 +65,33 @@ class TestMirror(unittest.TestCase):
         self.assertTrue(any('author' in x for x in result['warnings']))
         self.assertNotIn('author', d['@graph'][2])
 
+    def test_legacy_varganya_article_about_restaurant(self):
+        data = sample('https://restaurant.example/#restaurant')
+        data['@graph'] = [n for n in data['@graph'] if 'WebPage' not in mod.node_types(n)]
+        article = next(n for n in data['@graph'] if 'Article' in mod.node_types(n))
+        del article['mainEntity']
+        article['mainEntityOfPage'] = CANON
+        article['about'] = [{'@id': 'https://restaurant.example/#restaurant'}]
+        business = next(n for n in data['@graph'] if n.get('@id') == 'https://restaurant.example/#restaurant')
+        business['@type'] = 'Restaurant'
+        result = mod.find_deep_graph(wrap(data), CANON)
+        self.assertEqual(result['business_id'], business['@id'])
+        self.assertTrue(any('Legacy Article' in w for w in result['warnings']))
+
+    def test_kohlberger_compact_prefixes(self):
+        data = sample('kb:business')
+        data['@context'] = ['https://schema.org', {'kb': CANON + '#', 'wi': 'https://www.wikiai.hu/#', 'vc': 'https://www.varhelyicsanad.hu/#'}]
+        data['@graph'][0]['@id'] = 'wi:organization'
+        article = data['@graph'][2]
+        article['@id'] = 'kb:article'
+        del article['url']
+        for role in ('author','editor','accountablePerson'):
+            article[role] = {'@id':'vc:person'}
+        data['@graph'][1]['@id'] = 'kb:webpage'
+        result = mod.find_deep_graph(wrap(data), CANON)
+        self.assertEqual(result['business_id'], 'kb:business')
+        self.assertFalse(any('Article.author' in w for w in result['warnings']))
+
     def test_managed_file_guard_and_legacy_adoption(self):
         with tempfile.TemporaryDirectory() as td:
             base = Path(td)
