@@ -6,7 +6,7 @@
     "total": 17,
     "ok": 15,
     "error": 2,
-    "warnings": 7,
+    "warnings": 6,
     "excluded_first_party": 1
   },
   "profiles": {
@@ -43,9 +43,7 @@
       "source": "https://www.wikiai.hu/gold-ablak-kft/",
       "mirror": "entities/gold-ablak-kft.jsonld",
       "nodes": 45,
-      "warnings": [
-        "Legacy GitHub snapshot had 155 nodes, validated live HFCM has 45; previous version remains in Git history"
-      ]
+      "warnings": []
     },
     "gyemant-ingatlaniroda-salgotarjan": {
       "status": "ok",
@@ -69,7 +67,7 @@
     "kohlberger-bau-kft": {
       "status": "error",
       "source": "https://www.wikiai.hu/kohlberger-bau-kft/",
-      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents; details: [{\"nodes\":108,\"article_id\":\"kb:article\",\"article_url\":null,\"article_main\":\"kb:business\",\"page_id\":\"kb:webpage\",\"page_url\":\"https://www.wikiai.hu/kohlberger-bau-kft/\",\"page_main\":\"kb:business\",\"context\":\"['https://schema.org', {'kb': 'https://www.wikiai.hu/kohlberger-bau-kft/#', 'wi': 'https://www.wikiai.hu/#', 'vc': 'https://www.varhelyicsanad.hu/#'}]\",\"sample_nodes\":[{\"type\":\"Organization\",\"id\":\"wi:organization\",\"url\":\"https://www.wikiai.hu/\",\"name\":\"WikiAI.hu\",\"about\":\"None\"},{\"type\":\"WebSite\",\"id\":\"w"
+      "message": "Business identity @id changed; manual review needed: kohlberger-bau-kft"
     },
     "kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo": {
       "status": "ok",
@@ -133,7 +131,7 @@
     "varganya-etterem-matraszentimre": {
       "status": "error",
       "source": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
-      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents; details: [{\"nodes\":39,\"article_id\":\"https://www.wikiai.hu/varganya-etterem-matraszentimre/#article\",\"article_url\":\"https://www.wikiai.hu/varganya-etterem-matraszentimre/\",\"article_main\":null,\"page_id\":null,\"page_url\":null,\"page_main\":null,\"context\":\"https://schema.org\",\"sample_nodes\":[{\"type\":\"Organization\",\"id\":\"https://www.wikiai.hu/#organization\",\"url\":\"https://www.wikiai.hu/\",\"name\":\"WikiAI.hu\",\"about\":\"None\"},{\"type\":\"WebSite\",\"id\":\"https://www.wikiai.hu/#website\",\"url\":\"https://www.wikiai.hu/\",\"name\":\"Wiki"
+      "message": "Business identity @id changed; manual review needed: varganya-etterem-matraszentimre"
     }
   }
 }
