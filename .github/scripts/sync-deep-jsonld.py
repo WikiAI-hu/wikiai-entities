@@ -204,9 +204,27 @@ def find_deep_graph(html, canonical):
         if result:
             matches.append(result)
     if len(matches) != 1:
+        diagnostics = []
+        for doc in parser.docs[:4]:
+            ns = doc.get("@graph", [])
+            if not isinstance(ns, list):
+                diagnostics.append({"top_type": doc.get("@type"), "no_graph": True})
+                continue
+            article = next((n for n in ns if isinstance(n, dict) and "Article" in node_types(n)), {})
+            page = next((n for n in ns if isinstance(n, dict) and "WebPage" in node_types(n)), {})
+            diagnostics.append({
+                "nodes": len(ns),
+                "article_id": article.get("@id"),
+                "article_url": article.get("url"),
+                "article_main": ref_id(article.get("mainEntity")),
+                "page_id": page.get("@id"),
+                "page_url": page.get("url"),
+                "page_main": ref_id(page.get("mainEntity")),
+            })
         raise ValueError(
             f"Expected one valid HFCM deep graph in <head>, found {len(matches)} "
-            f"of {len(parser.docs)} head JSON-LD documents"
+            f"of {len(parser.docs)} head JSON-LD documents; details: "
+            + json.dumps(diagnostics, ensure_ascii=False, separators=(",", ":"))
         )
     return matches[0]
 
