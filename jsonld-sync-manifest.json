@@ -1,6 +1,6 @@
 {
-  "schema_version": "1.0",
-  "source_of_truth": "live WikiAI HFCM head",
+  "schema_version": "2.0",
+  "source_of_truth": "WikiAI live HFCM JSON-LD in <head>",
   "managed": {
     "porvadaszok-matractisztitas-debrecen": {
       "file": "entities/porvadaszok-matractisztitas-debrecen.jsonld",
@@ -8,6 +8,102 @@
       "sha256": "f2437995e568da1565eb9b35d5246981223c8f2e8c8d57034c7b26591ba3db55",
       "nodes": 38,
       "synced_at_utc": "2026-10-17T09:06:36+00:00"
+    },
+    "bipress-kft-bip-flex": {
+      "file": "entities/bipress-kft-bip-flex.jsonld",
+      "source_url": "https://www.wikiai.hu/bipress-kft-bip-flex/",
+      "sha256": "c22b99bf95e8d272f0c30edb52733bce211617777f0ca457ab972c8b28287f5b",
+      "nodes": 46,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "c22b99bf95e8d272f0c30edb52733bce211617777f0ca457ab972c8b28287f5b"
+    },
+    "bolyaki-antikvitas-es-muhely-hajduszoboszlo": {
+      "file": "entities/bolyaki-antikvitas-es-muhely-hajduszoboszlo.jsonld",
+      "source_url": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/",
+      "sha256": "1faf2187043ebdbdc816bf4b07e50a576292a95e7975ea5fb1aab393adbb8f99",
+      "nodes": 58,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "1faf2187043ebdbdc816bf4b07e50a576292a95e7975ea5fb1aab393adbb8f99"
+    },
+    "nyomdaipari-kkt-debrecen-cimkegyartas": {
+      "file": "entities/nyomdaipari-kkt-debrecen-cimkegyartas.jsonld",
+      "source_url": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/",
+      "sha256": "dcf45b82c1720eef21965ca9123127bcbd1d74796c32f5e76b41cc559dc9f660",
+      "nodes": 59,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "9fa8be6c8ebf878a8b0ef395bc9021d5c5c8c0ec1beb40d9bf960a1f9fb1533c"
+    },
+    "csarnok-gyarto-kft": {
+      "file": "entities/csarnok-gyarto-kft.jsonld",
+      "source_url": "https://www.wikiai.hu/csarnok-gyarto-kft/",
+      "sha256": "66e0b1dea40e8d54297e55fb5ac9e10c880df248f3f7afd392dfbb87ce78d0e4",
+      "nodes": 39,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "66e0b1dea40e8d54297e55fb5ac9e10c880df248f3f7afd392dfbb87ce78d0e4"
+    },
+    "europa-terv-kft-debrecen": {
+      "file": "entities/europa-terv-kft-debrecen.jsonld",
+      "source_url": "https://www.wikiai.hu/europa-terv-kft-debrecen/",
+      "sha256": "6aae97ef48a5861403d144b3965afdf08ff1c193430e2b7f9331ccf5bf8e3ac0",
+      "nodes": 31,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "5b31ad0418dab3a8d5c40367d5204229fb8175b52688825cd223eeb237284954"
+    },
+    "gyemant-ingatlaniroda-salgotarjan": {
+      "file": "entities/gyemant-ingatlaniroda-salgotarjan.jsonld",
+      "source_url": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/",
+      "sha256": "3199800e42314eedb6c5d58b2779f191ea80f67a57e50777ce12d2a784bdd177",
+      "nodes": 43,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "3199800e42314eedb6c5d58b2779f191ea80f67a57e50777ce12d2a784bdd177"
+    },
+    "kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo": {
+      "file": "entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.jsonld",
+      "source_url": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
+      "sha256": "59a92afeda1747100f93a01b1d0af7aeba8d8460c7d922de6f845f7a0a808d10",
+      "nodes": 36,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "59a92afeda1747100f93a01b1d0af7aeba8d8460c7d922de6f845f7a0a808d10"
+    },
+    "mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika": {
+      "file": "entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.jsonld",
+      "source_url": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/",
+      "sha256": "468c53828b212ca088365bb76e3bd48f551be677c4a28cdf822d9bd5f647377c",
+      "nodes": 49,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "468c53828b212ca088365bb76e3bd48f551be677c4a28cdf822d9bd5f647377c"
+    },
+    "nemethy-consulting-kft-nemethyne-nagy-judit": {
+      "file": "entities/nemethy-consulting-kft-nemethyne-nagy-judit.jsonld",
+      "source_url": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
+      "sha256": "33ed6b77fcceac37d2c63247899ae30690686650c2725d424a135017896ae08f",
+      "nodes": 126,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "33ed6b77fcceac37d2c63247899ae30690686650c2725d424a135017896ae08f"
+    },
+    "szines-pillanat-eskuvoi-fotozas-videozas": {
+      "file": "entities/szines-pillanat-eskuvoi-fotozas-videozas.jsonld",
+      "source_url": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/",
+      "sha256": "0b2d0cf2ce0a9da341b9aea7caf6e9d5691543ee55514b0bd421ab326032b62d",
+      "nodes": 46,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "0b2d0cf2ce0a9da341b9aea7caf6e9d5691543ee55514b0bd421ab326032b62d"
+    },
+    "tasca-ponte-debrecen": {
+      "file": "entities/tasca-ponte-debrecen.jsonld",
+      "source_url": "https://www.wikiai.hu/tasca-ponte-debrecen/",
+      "sha256": "fdb850db8ded7a200d1870bf8a7154cf03c2d973eac45e97389a49b80f09e70d",
+      "nodes": 33,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "fdb850db8ded7a200d1870bf8a7154cf03c2d973eac45e97389a49b80f09e70d"
+    },
+    "torok-es-tarsai-kft-tomitesgyar": {
+      "file": "entities/torok-es-tarsai-kft-tomitesgyar.jsonld",
+      "source_url": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/",
+      "sha256": "d1101fd5a7dd75ac37e75014ae8cbe14bcbc93440edada91c4151266efc3b971",
+      "nodes": 43,
+      "synced_at_utc": "2026-10-17T09:23:01+00:00",
+      "legacy_original_sha256": "d1101fd5a7dd75ac37e75014ae8cbe14bcbc93440edada91c4151266efc3b971"
     }
   }
 }

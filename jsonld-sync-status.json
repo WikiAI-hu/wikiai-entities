@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "source_of_truth": "WordPress/HFCM live <head> JSON-LD",
+  "policy": "Existing mirrors are enrolled after source validation; errors never overwrite good snapshots",
+  "counts": {
+    "total": 17,
+    "ok": 13,
+    "error": 4,
+    "warnings": 2,
+    "excluded_first_party": 1
+  },
+  "profiles": {
+    "bipress-kft-bip-flex": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/bipress-kft-bip-flex/",
+      "mirror": "entities/bipress-kft-bip-flex.jsonld",
+      "nodes": 46,
+      "warnings": []
+    },
+    "bolyaki-antikvitas-es-muhely-hajduszoboszlo": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/",
+      "mirror": "entities/bolyaki-antikvitas-es-muhely-hajduszoboszlo.jsonld",
+      "nodes": 58,
+      "warnings": []
+    },
+    "csarnok-gyarto-kft": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/csarnok-gyarto-kft/",
+      "mirror": "entities/csarnok-gyarto-kft.jsonld",
+      "nodes": 39,
+      "warnings": []
+    },
+    "europa-terv-kft-debrecen": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/europa-terv-kft-debrecen/",
+      "mirror": "entities/europa-terv-kft-debrecen.jsonld",
+      "nodes": 31,
+      "warnings": []
+    },
+    "gold-ablak-kft": {
+      "status": "error",
+      "source": "https://www.wikiai.hu/gold-ablak-kft/",
+      "message": "Graph shrank unexpectedly (155 -> 45 nodes): gold-ablak-kft"
+    },
+    "gyemant-ingatlaniroda-salgotarjan": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/",
+      "mirror": "entities/gyemant-ingatlaniroda-salgotarjan.jsonld",
+      "nodes": 43,
+      "warnings": []
+    },
+    "hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen": {
+      "status": "error",
+      "source": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/",
+      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents"
+    },
+    "kohlberger-bau-kft": {
+      "status": "error",
+      "source": "https://www.wikiai.hu/kohlberger-bau-kft/",
+      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents"
+    },
+    "kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/",
+      "mirror": "entities/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo.jsonld",
+      "nodes": 36,
+      "warnings": []
+    },
+    "mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika/",
+      "mirror": "entities/mia-trans-kft-nemzetkozi-kozuti-arufuvarozas-autoipari-logisztika.jsonld",
+      "nodes": 49,
+      "warnings": []
+    },
+    "nemethy-consulting-kft-nemethyne-nagy-judit": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/",
+      "mirror": "entities/nemethy-consulting-kft-nemethyne-nagy-judit.jsonld",
+      "nodes": 126,
+      "warnings": []
+    },
+    "nyomdaipari-kkt-debrecen-cimkegyartas": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/nyomdaipari-kkt-debrecen-cimkegyartas/",
+      "mirror": "entities/nyomdaipari-kkt-debrecen-cimkegyartas.jsonld",
+      "nodes": 59,
+      "warnings": []
+    },
+    "porvadaszok-matractisztitas-debrecen": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/",
+      "mirror": "entities/porvadaszok-matractisztitas-debrecen.jsonld",
+      "nodes": 38,
+      "warnings": [
+        "Deep graph lacks a direct GitHub Markdown mirror reference",
+        "Deep graph lacks a direct GitHub JSON-LD mirror reference"
+      ]
+    },
+    "szines-pillanat-eskuvoi-fotozas-videozas": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/",
+      "mirror": "entities/szines-pillanat-eskuvoi-fotozas-videozas.jsonld",
+      "nodes": 46,
+      "warnings": []
+    },
+    "tasca-ponte-debrecen": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/tasca-ponte-debrecen/",
+      "mirror": "entities/tasca-ponte-debrecen.jsonld",
+      "nodes": 33,
+      "warnings": []
+    },
+    "torok-es-tarsai-kft-tomitesgyar": {
+      "status": "ok",
+      "source": "https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/",
+      "mirror": "entities/torok-es-tarsai-kft-tomitesgyar.jsonld",
+      "nodes": 43,
+      "warnings": []
+    },
+    "varganya-etterem-matraszentimre": {
+      "status": "error",
+      "source": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+      "message": "Expected one valid HFCM deep graph in <head>, found 0 of 1 head JSON-LD documents"
+    }
+  }
+}

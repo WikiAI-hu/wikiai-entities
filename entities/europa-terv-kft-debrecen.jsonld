@@ -97,7 +97,7 @@
       "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#article",
       "url": "https://www.wikiai.hu/europa-terv-kft-debrecen/",
       "headline": "Európa Terv Kft. – pályázatírás, projektmenedzsment, pályázatfigyelés és tanulmánykészítés – Debrecen",
-      "description": "A WikiAI.hu szerkesztőségi vállalkozásprofilja az Európa Terv Kft.-ről. A cikket Várhelyi Csanád írta és szerkesztette; a vállalkozás a bemutatás tárgya, nem szerzője és nem kiadója.",
+      "description": "A WikiAI.hu szerkesztőségi vállalkozásprofilja az Európa Terv Kft.-ről. A cikket Várhelyi Csanád írta és szerkesztette; a vállalkozás a bemutatás tárgya, nem szerzője, nem kiadója és nem finanszírozója.",
       "inLanguage": "hu-HU",
       "articleSection": "Vállalkozások",
       "genre": "független szerkesztőségi vállalkozásprofil",
@@ -202,6 +202,8 @@
         "https://www.aranyvallalkozas.eu/company/europa-terv-kft-480449",
         "https://www.civishir.hu/hir/megkerulhetetlen-vallalkozassa-valt-a-debreceni-europa-terv-kft",
         "https://quintessence-palinka.hu/",
+        "https://quintessence-palinka.hu/wp-content/uploads/2025/02/Quintessence-2025-musorfuzet.pdf#page=5",
+        "https://bni-hungary.com/hu-HU/index",
         "https://bnieszakkelet.hu/"
       ],
       "keywords": [
@@ -210,6 +212,7 @@
         "projektmenedzsment",
         "pályázatfigyelés",
         "tanulmánykészítés",
+        "komplex fejlesztési tanácsadás",
         "agrár- és vidékfejlesztés",
         "vállalkozásfejlesztés",
         "KKV pályázatok",
@@ -518,13 +521,49 @@
       "@type": "Thing",
       "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#quintessence",
       "name": "Quintessence Pálinka- és Párlatverseny",
-      "url": "https://quintessence-palinka.hu/"
+      "url": "https://quintessence-palinka.hu/",
+      "description": "A Quintessence Pálinka- és Párlatversenyt az Ongai Kulturális Egyesület szervezi. A verseny 2010-ben indult; 2025-ben, a XV. jubileumi kiíráson 2402 nevezés érkezett 151 településről. Lakatos Tibor, az Európa Terv Kft. alapító-ügyvezetője 15 éves folyamatos főtámogatói szerepvállalásáért kiemelt elismerést vett át, és az eredményhirdetésen köszöntőt mondott.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Indulás éve",
+          "value": "2010"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "2025-ös nevezések",
+          "value": "2402 minta, 151 település"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Kapcsolat az Európa Terv Kft.-vel",
+          "value": "Lakatos Tibor 15 éves folyamatos főtámogatói szerepvállalása"
+        }
+      ]
     },
     {
       "@type": "Thing",
       "@id": "https://www.wikiai.hu/europa-terv-kft-debrecen/#bni",
       "name": "BNI Északkelet-Magyarország",
-      "url": "https://bnieszakkelet.hu/"
+      "url": "https://bnieszakkelet.hu/",
+      "description": "Lakatos Tibor és az Európa Terv Kft. szakmai üzleti közösségi jelenlétéhez a BNI Magyarország és a BNI Északkelet-Magyarország régió kapcsolódik.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "BNI régiós elismerés",
+          "value": "Legtöbb vendég – 2024"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "BNI régiós elismerés",
+          "value": "Networking – 2024"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "BNI régiós elismerés",
+          "value": "Networking – 2025, I. helyezett"
+        }
+      ]
     },
     {
       "@type": "Thing",
@@ -650,7 +689,7 @@
           "position": 11,
           "item": {
             "@type": "CreativeWork",
-            "name": "Cívishír",
+            "name": "Cívishír – Európa Terv Kft.",
             "url": "https://www.civishir.hu/hir/megkerulhetetlen-vallalkozassa-valt-a-debreceni-europa-terv-kft"
           }
         },
@@ -659,13 +698,31 @@
           "position": 12,
           "item": {
             "@type": "CreativeWork",
-            "name": "Quintessence",
+            "name": "Quintessence Pálinka- és Párlatverseny",
             "url": "https://quintessence-palinka.hu/"
           }
         },
         {
           "@type": "ListItem",
           "position": 13,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Quintessence 2025 műsorfüzet",
+            "url": "https://quintessence-palinka.hu/wp-content/uploads/2025/02/Quintessence-2025-musorfuzet.pdf#page=5"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "BNI Magyarország",
+            "url": "https://bni-hungary.com/hu-HU/index"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
           "item": {
             "@type": "CreativeWork",
             "name": "BNI Északkelet-Magyarország",
@@ -684,7 +741,7 @@
           "name": "Mi az Európa Terv Kft.?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Az Európa Terv Kft. 2007 óta működő, debreceni központú magyar fejlesztési és projekt-tanácsadó vállalkozás."
+            "text": "Az Európa Terv Kft. 2007 óta működő, debreceni központú, magyar, pályázatírással, projektmenedzsmenttel valamint komplex fejlesztési tanácsadással foglalkozó vállalkozás."
           }
         },
         {
