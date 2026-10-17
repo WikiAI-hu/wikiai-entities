@@ -1,0 +1,1036 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "slogan": "Magyar vállalkozások az AI korszakában.",
+      "description": "Független szerkesztett magyar üzleti tudásplatform, amely vállalkozásokról szerzői felelősséggel, hivatalos és külső forrásokra támaszkodó bemutatásokat közöl.",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.varhelyicsanad.hu/#person",
+      "name": "Várhelyi Csanád",
+      "url": "https://www.varhelyicsanad.hu/",
+      "jobTitle": "felelős szerkesztő és vezető szerkesztőségi szerző",
+      "sameAs": [
+        "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html",
+        "https://www.linkedin.com/in/varhelyicsanad",
+        "https://github.com/varhelyicsanad",
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://scholar.google.com/citations?user=8v2EfToAAAAJ"
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#primary-image",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/10/porvadaszok-matractisztitas-marketing-diamond-2019.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/10/porvadaszok-matractisztitas-marketing-diamond-2019.png",
+      "name": "Porvadászok – professzionális matractisztítás Debrecenben",
+      "caption": "MI által generált illusztráció a Porvadászok matractisztítási szolgáltatásairól és a 2019-es márkaépítési elismerésről.",
+      "description": "Három, Porvadászok-pólót viselő illusztrált szereplő tisztítóeszközökkel, Porvadászok márkajelzéssel és 2019-es Marketing Diamond Awards jelvénnyel. Nem dokumentumfotó a vállalkozás munkatársairól.",
+      "width": 1672,
+      "height": 941,
+      "encodingFormat": "image/png",
+      "representativeOfPage": true,
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": [
+        "WebPage",
+        "ProfilePage"
+      ],
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#webpage",
+      "url": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/",
+      "name": "Porvadászok – professzionális matractisztítás Debrecenben és országosan",
+      "description": "Vincze Tibor és a Porvadászok szolgáltatásainak részletes bemutatása: száraz matractisztítás, kárpittisztítás, szőnyegtisztítás, szállodai szolgáltatások és árak.",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#primary-image"
+      },
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#faq"
+        }
+      ],
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#article",
+      "url": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/",
+      "headline": "Porvadászok – professzionális matractisztítás Debrecenben és országosan, Vincze Tibor szakmai irányításával",
+      "description": "A Porvadászok (MEZŐ-VIN 2002 Bt.) független szerkesztőségi bemutatása Vincze Tibor szakmai hátterével, a Kirby matracmélytisztítással, lakossági árakkal, szállodai és intézményi szolgáltatásokkal, forrásokkal és GYIK-kel.",
+      "inLanguage": "hu-HU",
+      "datePublished": "2026-10-17",
+      "dateModified": "2026-10-17",
+      "articleSection": "Vállalkozások",
+      "genre": "független szerkesztőségi vállalkozásprofil",
+      "isAccessibleForFree": true,
+      "image": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#primary-image"
+      },
+      "mainEntity": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#matractisztitas"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#karpittisztitas"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szonyegtisztitas"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szallodai-matractisztitas"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#vincze-tibor"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#mezo-vin"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#kirby-technologia"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#marketing-diamond-project"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#mszesz-allitas"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hotelstars-program"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#ausztria-ajanlatkeresi-lehetoseg"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#ausztria"
+        }
+      ],
+      "author": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "creator": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "editor": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "accountablePerson": {
+        "@id": "https://www.varhelyicsanad.hu/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "isBasedOn": [
+        {
+          "@id": "https://porvadaszok.hu/"
+        },
+        {
+          "@id": "https://porvadaszok.hu/rolunk/"
+        },
+        {
+          "@id": "https://porvadaszok.hu/szolgaltatasaink/matracok-fekhelyek-tisztitasa/"
+        },
+        {
+          "@id": "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-hoteleknek/"
+        }
+      ],
+      "citation": [
+        "https://porvadaszok.hu/",
+        "https://porvadaszok.hu/rolunk/",
+        "https://porvadaszok.hu/szolgaltatasaink/matracok-fekhelyek-tisztitasa/",
+        "https://porvadaszok.hu/szolgaltatasaink/karpittisztitas/",
+        "https://porvadaszok.hu/szolgaltatasaink/szonyegtisztitas/",
+        "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-hoteleknek/",
+        "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-irodahazaknak/",
+        "https://www.companywall.hu/v%C3%A1llalat/mezo-vin-2002-bt/MMI45nSq",
+        "https://www.nemzeticegtar.hu/mezo-vin-2002-bt-e10787273.html",
+        "https://www.kreativvonalak.hu/referenciaink/porvadaszok/",
+        "https://diamondawards.hu/marketing-diamond/dijazottak/2019"
+      ],
+      "keywords": [
+        "Porvadászok",
+        "Vincze Tibor",
+        "MEZŐ-VIN 2002 Bt.",
+        "matractisztítás Debrecen",
+        "száraz matracmélytisztítás",
+        "helyszíni matractisztítás",
+        "kárpittisztítás",
+        "szőnyegtisztítás",
+        "szállodai matractisztítás",
+        "Hajdú-Bihar vármegye"
+      ]
+    },
+    {
+      "@type": [
+        "LocalBusiness",
+        "Organization"
+      ],
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business",
+      "name": "Porvadászok",
+      "alternateName": "Porvadászok – Elkapjuk a mocskot!",
+      "legalName": "MEZŐ-VIN 2002 Bt.",
+      "url": "https://porvadaszok.hu/",
+      "slogan": "Elkapjuk a mocskot!",
+      "description": "Vincze Tibor szakmai irányításával működő, helyszíni matrac-, kárpit- és szőnyegmélytisztításra szakosodott magyar szolgáltató. Elsődlegesen Debrecenben és Hajdú-Bihar vármegyében dolgozik, nagyobb üzleti munkákat országosan is vállal.",
+      "telephone": "+36309469067",
+      "email": "info@porvadaszok.hu",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Petőfi utca 19.",
+        "addressLocality": "Pocsaj",
+        "postalCode": "4125",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "ügyfélszolgálat és ajánlatkérés",
+          "telephone": "+36309469067",
+          "email": "info@porvadaszok.hu",
+          "availableLanguage": "hu"
+        }
+      ],
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag"
+        }
+      ],
+      "paymentAccepted": "készpénz, banki átutalás",
+      "sameAs": [
+        "https://www.facebook.com/porvadaszok/"
+      ],
+      "hasOfferCatalog": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szolgaltatas-katalogus"
+      },
+      "makesOffer": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#egyszemelyes-matrac-ar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#ketszemelyes-matrac-ar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#gyermekmatrac-ar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#fedomatrac-ar"
+        }
+      ],
+      "knowsAbout": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szaraz-matracmelytisztitas"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#kirby-technologia"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#poratka-szennyezodesek"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szallodai-matractisztitas"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#article"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#webpage"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#marketing-diamond-project"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#mezo-vin",
+      "name": "MEZŐ-VIN 2002 Bt.",
+      "description": "A Porvadászok márka Vincze Tibor által megadott vállalkozási háttere.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Petőfi utca 19.",
+        "addressLocality": "Pocsaj",
+        "postalCode": "4125",
+        "addressRegion": "Hajdú-Bihar",
+        "addressCountry": "HU"
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "Porvadászok",
+        "url": "https://porvadaszok.hu/"
+      },
+      "subjectOf": [
+        "https://www.companywall.hu/v%C3%A1llalat/mezo-vin-2002-bt/MMI45nSq",
+        "https://www.nemzeticegtar.hu/mezo-vin-2002-bt-e10787273.html"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#vincze-tibor",
+      "name": "Vincze Tibor",
+      "jobTitle": "szakmai vezető",
+      "worksFor": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "description": "A Porvadászokhoz kapcsolódó szakmai szereplő. 2006-tól mélytisztító berendezésekkel foglalkozott, 2008 óta főként matrac-, kárpit- és szőnyegtisztítást végez.",
+      "knowsAbout": [
+        "száraz matracmélytisztítás",
+        "Kirby tisztítóberendezések használata",
+        "kárpittisztítás",
+        "szőnyegtisztítás"
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#article"
+        },
+        "https://porvadaszok.hu/rolunk/"
+      ]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szolgaltatas-katalogus",
+      "name": "Porvadászok – lakossági és üzleti tisztítási szolgáltatások",
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "name": "Lakossági szolgáltatások",
+          "itemListElement": [
+            {
+              "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#matractisztitas"
+            },
+            {
+              "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#karpittisztitas"
+            },
+            {
+              "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szonyegtisztitas"
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "name": "Üzleti és intézményi szolgáltatások",
+          "itemListElement": [
+            {
+              "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szallodai-matractisztitas"
+            },
+            {
+              "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#irodai-textiltisztitas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#matractisztitas",
+      "name": "Helyszíni, száraz matracmélytisztítás Debrecenben",
+      "serviceType": "száraz matracmélytisztítás",
+      "provider": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "url": "https://porvadaszok.hu/szolgaltatasaink/matracok-fekhelyek-tisztitasa/",
+      "description": "Helyszíni, alapértelmezetten kétoldalas matractisztítás Kirby berendezésekkel, a matrac átáztatása nélkül. Tibor szakmai tájékoztatása szerint egy átlagos lakossági matrac tisztítása kb. 30 perc; a matrac a kezelés után azonnal használható. A matracnak a kezelés előtt száraznak kell lennie. Alapértelmezett oldalak: mindkét oldal. Előkészület: ágynemű levétele és a matrac hozzáférhetősége. Távolabbi lakossági kiszállás: 100 km felett legalább 8 matrac; közeli megrendelések összevonhatók; jellemzően üzemanyagköltség.",
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#debrecen"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+        }
+      ],
+      "offers": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#egyszemelyes-matrac-ar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#ketszemelyes-matrac-ar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#gyermekmatrac-ar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#fedomatrac-ar"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#egyszemelyes-matrac-ar",
+      "name": "Egyszemélyes matrac kétoldalas tisztítása",
+      "itemOffered": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#matractisztitas"
+      },
+      "offeredBy": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "price": 6000,
+      "priceCurrency": "HUF",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": 6000,
+        "priceCurrency": "HUF",
+        "unitText": "darab",
+        "valueAddedTaxIncluded": true
+      },
+      "description": "A vállalkozás 2026 októberében megadott lakossági bruttó matractisztítási díja; távolabbi kiszállásnál külön útiköltség merülhet fel."
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#ketszemelyes-matrac-ar",
+      "name": "Kétszemélyes matrac kétoldalas tisztítása",
+      "itemOffered": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#matractisztitas"
+      },
+      "offeredBy": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "price": 12000,
+      "priceCurrency": "HUF",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": 12000,
+        "priceCurrency": "HUF",
+        "unitText": "darab",
+        "valueAddedTaxIncluded": true
+      },
+      "description": "A vállalkozás 2026 októberében megadott lakossági bruttó matractisztítási díja; távolabbi kiszállásnál külön útiköltség merülhet fel."
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#gyermekmatrac-ar",
+      "name": "Gyermekmatrac tisztítása",
+      "itemOffered": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#matractisztitas"
+      },
+      "offeredBy": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "price": 3000,
+      "priceCurrency": "HUF",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": 3000,
+        "priceCurrency": "HUF",
+        "unitText": "darab",
+        "valueAddedTaxIncluded": true
+      },
+      "description": "A vállalkozás 2026 októberében megadott lakossági bruttó matractisztítási díja; távolabbi kiszállásnál külön útiköltség merülhet fel."
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#fedomatrac-ar",
+      "name": "Fedőmatrac tisztítása",
+      "itemOffered": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#matractisztitas"
+      },
+      "offeredBy": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "price": 6000,
+      "priceCurrency": "HUF",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": 6000,
+        "priceCurrency": "HUF",
+        "unitText": "darab",
+        "valueAddedTaxIncluded": true
+      },
+      "description": "A vállalkozás 2026 októberében megadott lakossági bruttó matractisztítási díja; távolabbi kiszállásnál külön útiköltség merülhet fel."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#karpittisztitas",
+      "name": "Helyszíni kárpittisztítás",
+      "serviceType": "kárpittisztítás",
+      "provider": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "url": "https://porvadaszok.hu/szolgaltatasaink/karpittisztitas/",
+      "description": "Kanapék, ülőgarnitúrák, fotelek, étkező- és irodai székek, puffok és egyéb kárpitozott bútorok helyszíni tisztítása; jellemzően darabáras elszámolással.",
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szonyegtisztitas",
+      "name": "Helyszíni szőnyeg- és padlószőnyeg-tisztítás",
+      "serviceType": "szőnyegtisztítás, padlószőnyeg-tisztítás",
+      "provider": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "url": "https://porvadaszok.hu/szolgaltatasaink/szonyegtisztitas/",
+      "description": "Lakossági szőnyegek és irodai padlószőnyegek helyszíni mélytisztítása; a szőnyegtisztítás díja általában négyzetméter alapú.",
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szallodai-matractisztitas",
+      "name": "Országos szállodai és intézményi matractisztítás",
+      "serviceType": "szállodai, kollégiumi és intézményi matractisztítás",
+      "provider": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "url": "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-hoteleknek/",
+      "description": "Magyarországon legalább 10 szobára kiterjedő megrendelésnél vállalt B2B matractisztítás. A vállalkozás szerint egy átlagos, kétmatracos szoba kb. 15 perc; a matracok azonnal használhatók. Hotelstars programban szereplő szálláshelyeknek kedvezőbb egyedi árajánlat lehetséges. Országos B2B megrendelési minimum: legalább 10 szoba. Átlagos tisztítási kapacitás: kb. 15 perc egy kétmatracos szobában. Hotelstars-kapcsolat: A programban részt vevő szálláshelyek számára kedvezőbb ár lehetséges, nem hivatalos Hotelstars-partnerségi állítás. Munkaszervezés: helyszíni szállodai munkatársakkal, előre egyeztetett ütemezésben.",
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag"
+        }
+      ],
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "szállodák, panziók, apartmanházak, munkásszállók, kollégiumok, szociális és egészségügyi intézmények"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#irodai-textiltisztitas",
+      "name": "Irodai kárpit- és padlószőnyeg-tisztítás",
+      "serviceType": "irodai és intézményi textilfelület-tisztítás",
+      "provider": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "url": "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-irodahazaknak/",
+      "description": "Irodaházak padlószőnyegeinek, tárgyalószékeinek, ügyfélszékeinek és más kárpitozott bútorainak helyszíni tisztítása, egyedi egyeztetéssel.",
+      "areaServed": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag"
+        }
+      ]
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#debrecen",
+      "name": "Debrecen",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#pocsaj",
+      "name": "Pocsaj",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajduboszormeny",
+      "name": "Hajdúböszörmény",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+      }
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdunanas",
+      "name": "Hajdúnánás",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "containedInPlace": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag"
+      }
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag",
+      "name": "Magyarország",
+      "identifier": "HU"
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#ausztria",
+      "name": "Ausztria",
+      "identifier": "AT"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#foldrajzi-fokusz",
+      "name": "Porvadászok – földrajzi szolgáltatási területek és feltételek",
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Elsődleges lakossági terület – Debrecen",
+          "item": {
+            "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#debrecen"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Lakossági terület – Hajdú-Bihar vármegye",
+          "item": {
+            "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hajdu-bihar"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Országos intézményi és nagyobb megrendelések, mennyiségi feltétellel",
+          "item": {
+            "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#magyarorszag"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#ausztria-ajanlatkeresi-lehetoseg",
+      "name": "Ausztriai nagyobb szálláshelyi matractisztítási ajánlatkérés",
+      "description": "Egyedi egyeztetéssel, legalább 100 matrac esetén vizsgálható osztrák B2B megrendelési lehetőség. A vállalkozás tájékoztatása szerint Ausztriában még nem végzett munkát; lakossági megrendelést ott nem vállal."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#szaraz-matracmelytisztitas",
+      "name": "száraz matracmélytisztítás",
+      "description": "Matrac átáztatása nélkül, speciális gépi mechanikus hatással végzett por- és részecske-eltávolítás; nem azonos fertőtlenítéssel."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#poratka-szennyezodesek",
+      "name": "Poratkákhoz kapcsolódó szennyeződések",
+      "description": "A fekhelyekben felhalmozódó, poratkákkal és poratka-allergénekkel összefüggő részecskék, amelyek mennyiségének csökkentése a mechanikus mélytisztítás egyik célja."
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#kirby-technologia",
+      "name": "Kirby tisztítóberendezések",
+      "description": "A Porvadászok által használt amerikai Kirby gépekre és vibrációs, kefés tisztítási megoldásaira vonatkozó technológiai hivatkozás; teljesítményértékek és tanúsítványok nem kerültek önállóan igazolásra.",
+      "url": "https://kirby.com/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#kreativ-vonalak",
+      "name": "Kreatív Vonalak Kft.",
+      "url": "https://www.kreativvonalak.hu/",
+      "description": "A Porvadászok 2019-es márkaépítési és arculati projektjének megvalósítója és a Marketing Diamond pályamunka benyújtója."
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#marketing-diamond-project",
+      "name": "Porvadászok – Elkapjuk a mocskot! márkaépítése",
+      "url": "https://www.kreativvonalak.hu/referenciaink/porvadaszok/",
+      "description": "A Kreatív Vonalak Kft. Porvadászok-márkaépítési projektje, amely a 2019-es Marketing Diamond Awards Márkaépítés kategóriájában elismerésben részesült. Ez kommunikációs, nem matractisztítási műszaki elismerés.",
+      "creator": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#kreativ-vonalak"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "award": "Marketing Diamond Awards 2019 – Márkaépítés kategória",
+      "citation": "https://diamondawards.hu/marketing-diamond/dijazottak/2019"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#mszesz-allitas",
+      "name": "A szállodaszövetségi elfogadásra vonatkozó vállalkozói közlés",
+      "url": "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-hoteleknek/",
+      "description": "A Porvadászok hivatalos szállodai oldala szerint a vállalkozás által használt tisztítógépeket a Magyar Szállodák és Éttermek Szövetsége elfogadta. A független igazoló tanúsítvány nincs csatolva a WikiAI-profilhoz; az állítás nem szállodai díj vagy Hotelstars-minősítés.",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+        },
+        {
+          "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#kirby-technologia"
+        }
+      ]
+    },
+    {
+      "@type": "Thing",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#hotelstars-program",
+      "name": "Hotelstars Union – magyarországi szállodaminősítési program",
+      "url": "https://www.hotelstars.eu/hungary/",
+      "description": "A szálláshelyek minősítésére vonatkozó program. A Porvadászok közlése szerint a programban szereplő szálláshelyek kedvezőbb matractisztítási ajánlatot kaphatnak; ez nem jelenti a Porvadászok szállodai minősítését vagy hivatalos partnerségét."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#faq",
+      "name": "Gyakori kérdések – Porvadászok matractisztítás",
+      "url": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#porvadaszok-gyakori-kerdesek-a-porvadaszokrol",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#webpage"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Ki végzi a matractisztítást Debrecenben a Porvadászoknál?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A szolgáltatás Vincze Tibor szakmai irányításával, elsősorban alvállalkozók közreműködésével működik. Időpontot telefonon vagy a porvadaszok.hu weboldalon keresztül lehet kérni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mióta foglalkozik Vincze Tibor matractisztítással?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A mélytisztító berendezésekkel kapcsolatos szakmai előzmény 2006-ra, a professzionális matrac- és textiltisztítás fő tevékenységként történő végzése pedig 2008-ra nyúlik vissza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Milyen matracokat lehet tisztíttatni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Porvadászok rugós, zsákrugós, memóriahabos, latex-, hideghabos, szivacs-, boxspring-, fedő- és gyermekmatracok tisztítását is vállalja. A matrac állapotát a munkavégzés előtt ellenőrzik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ki kell venni a matracot az ágykeretből?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A tisztítás helyszínen, a matrac helyén elvégezhető. Az ügyfélnek az ágyneműt kell eltávolítania és a hozzáférést biztosítania."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mindkét oldalát megtisztítják?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A kétoldalas matractisztítás automatikusan az alap szolgáltatás része."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi ideig tart a matractisztítás?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Egy átlagos lakossági matrac tisztítása körülbelül 30 percet vesz igénybe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor lehet újra aludni a matracon?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A száraz mélytisztítás után a matrac azonnal használható, legfeljebb rövid átszellőztetés válhat szükségessé."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "A tisztítás eltávolítja a poratkákat és az allergéneket?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A technológia célja a por és a poratkákhoz kapcsolódó szennyeződések eltávolítása, illetve csökkentése. A teljes allergénmentesség vagy meghatározott egészségügyi eredmény azonban külön vizsgálat nélkül nem garantálható."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Segíthet a tisztítás a nyugodtabb alvásban?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A tisztább fekhely hozzájárulhat a kellemesebb, komfortosabb alvókörnyezethez. A matractisztítás ugyanakkor nem tekinthető alvászavar vagy allergiás betegség kezelésének."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Eltávolítható a vizeletszag a matracból?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A vállalkozás tapasztalatai szerint a kellemetlen szag sok esetben kezelhető. A régi, beivódott vizeletfolt ugyanakkor a tisztítás után is látható maradhat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Tisztítható a gyermekmatrac és a memóriahabos matrac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Mindkét matractípus szerepel a Porvadászok által vállalt felületek között."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mi a különbség a háztartási porszívózás és a Porvadászok eljárása között?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Porvadászok speciális Kirby gépekkel, vibrációs és kefés mélytisztítási eljárással dolgozik. Vincze Tibor tapasztalata szerint ez a technológia mélyebb tisztításra alkalmas a hagyományos háztartási vagy bérelhető berendezéseknél."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyibe kerül egy kétszemélyes matrac tisztítása Debrecenben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "12 000 Ft, az aktuális megadott bruttó díjszabás alapján. Debrecenben és közvetlen vonzáskörzetében nincs külön kiszállási díj."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállalnak egyetlen matracot is Debrecenben?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. Egyetlen egyszemélyes matrac tisztítása is megrendelhető."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hajdúszoboszlóra, Mikepércsre, Ebesre és Nyíregyházára is kiszállnak?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, ezekről a településekről is lehet tisztítást egyeztetni. A konkrét feltételeket a helyszín alapján pontosítják."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mikor szükséges legalább nyolc matrac?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A lakossági kiszállásnál 100 kilométer feletti távolság esetén legalább nyolc matracra vonatkozó megrendelés szükséges. A mennyiség több közeli címen teljesítendő munka összevonásával is elérhető."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállalnak nagyobb szállodai matractisztítást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A Porvadászok országosan is vállal üzleti matractisztítást, legalább tíz szoba esetén. Harminc, száz vagy ennél több matrac tisztítása is megszervezhető."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Mennyi idő alatt tisztítanak ki egy szállodai szobát?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Egy átlagos, kétmatracos szoba tisztítása körülbelül 15 percet vesz igénybe."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kell várni a szállodai matracok használatával?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A száraz mélytisztítás után a fekhelyek azonnal újra használhatók. A szobák visszarendezését a szálláshely munkatársaival együttműködve szervezik meg."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lehet rendszeres intézményi tisztítást kérni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen. A Porvadászok előre ütemezett, rendszeres vagy éves szerződéses matractisztítási programokat is vállal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállalnak idősek otthonában matractisztítást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Igen, a szociális intézmények is a lehetséges megrendelők közé tartoznak. Az adott intézményre vonatkozó higiéniai és munkavégzési követelményeket előzetesen egyeztetni kell."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ausztriában is végeznek matractisztítást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ausztriában még nem történt korábbi munkavégzés, de a Porvadászok legalább 100 matracot érintő üzleti vagy intézményi megkereséseket egyedi egyeztetés alapján megvizsgál. Lakossági ausztriai kiszállást nem vállal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Vállalnak autókárpit-tisztítást vagy keménypadló-tisztítást?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nem. A vállalkozás matracok, kárpitok, szőnyegek és padlószőnyegek tisztításával foglalkozik."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan lehet fizetni?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Készpénzzel vagy banki átutalással. A vállalkozás számlát állít ki."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hogyan lehet időpontot módosítani?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Az időpontot előzetes jelzéssel lehet módosítani vagy lemondani. Célszerű a változást legalább az előző napon jelezni."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/#forrasindex",
+      "name": "A Porvadászok vállalkozásprofiljához kapcsolódó nyilvános hivatkozások",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Porvadászok – hivatalos honlap",
+          "url": "https://porvadaszok.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Porvadászok – szakmai bemutatkozás",
+          "url": "https://porvadaszok.hu/rolunk/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Matracok és fekhelyek tisztítása",
+          "url": "https://porvadaszok.hu/szolgaltatasaink/matracok-fekhelyek-tisztitasa/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Kárpittisztítás",
+          "url": "https://porvadaszok.hu/szolgaltatasaink/karpittisztitas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Szőnyegtisztítás",
+          "url": "https://porvadaszok.hu/szolgaltatasaink/szonyegtisztitas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Hoteleknek kínált szolgáltatások",
+          "url": "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-hoteleknek/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Irodaházak tisztítása",
+          "url": "https://porvadaszok.hu/szolgaltatasaink/megoldasaink-irodahazaknak/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Porvadászok – Facebook",
+          "url": "https://www.facebook.com/porvadaszok/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "MEZŐ-VIN 2002 Bt. – CompanyWall cégadatlap",
+          "url": "https://www.companywall.hu/v%C3%A1llalat/mezo-vin-2002-bt/MMI45nSq"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "MEZŐ-VIN 2002 Bt. – Nemzeti Cégtár",
+          "url": "https://www.nemzeticegtar.hu/mezo-vin-2002-bt-e10787273.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Kreatív Vonalak – Porvadászok referencia",
+          "url": "https://www.kreativvonalak.hu/referenciaink/porvadaszok/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Marketing Diamond Awards – 2019 díjazottak",
+          "url": "https://diamondawards.hu/marketing-diamond/dijazottak/2019"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Kirby – gyártói weboldal",
+          "url": "https://kirby.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Hotelstars Hungary",
+          "url": "https://www.hotelstars.eu/hungary/"
+        }
+      ]
+    }
+  ]
+}
