@@ -6,7 +6,7 @@
     "total": 17,
     "ok": 17,
     "error": 0,
-    "warnings": 9,
+    "warnings": 8,
     "excluded_first_party": 1
   },
   "profiles": {
@@ -137,8 +137,7 @@
       "nodes": 39,
       "warnings": [
         "Legacy Article without WebPage/mainEntity: business resolved from verified Article.about",
-        "Deep graph lacks a direct GitHub Markdown mirror reference",
-        "Legacy business @id changed from https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant to https://www.matraietterem.hu/#restaurant; verified same business name, source is live WordPress; review historic authority"
+        "Deep graph lacks a direct GitHub Markdown mirror reference"
       ]
     }
   }
