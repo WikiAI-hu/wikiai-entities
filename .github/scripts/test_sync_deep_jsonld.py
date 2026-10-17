@@ -128,6 +128,36 @@ class TestMirror(unittest.TestCase):
                 self.assertEqual(result['change'], 'updated')
                 self.assertEqual(len(json.loads(target.read_text())['@graph']), 16)
 
+    def test_historic_business_iri_change_with_same_name_is_migrated(self):
+        with tempfile.TemporaryDirectory() as td:
+            base = Path(td)
+            (base/'entities').mkdir()
+            (base/'entities'/'pelda-vallalkozas.md').write_text('ok')
+            old = sample(CANON + '#restaurant')
+            (base/'entities'/'pelda-vallalkozas.jsonld').write_text(json.dumps(old))
+            fixture = base/'site.html'
+            fixture.write_text(wrap(sample('https://restaurant.example/#restaurant')))
+            entry = {'canonical_url':CANON, 'machine_record':'entities/pelda-vallalkozas.md'}
+            with patch.object(mod, 'ROOT', base):
+                result = mod.sync_entry(entry, {}, '2026-10-17T12:00:00Z', fixture)
+                self.assertEqual(result['change'], 'updated')
+                self.assertTrue(any('Legacy business' in x for x in result['warnings']))
+
+    def test_historic_business_iri_change_name_mismatch_is_blocked(self):
+        with tempfile.TemporaryDirectory() as td:
+            base = Path(td)
+            (base/'entities').mkdir()
+            (base/'entities'/'pelda-vallalkozas.md').write_text('ok')
+            old = sample(CANON + '#restaurant')
+            old['@graph'][3]['name'] = 'Másik vállalkozás'
+            (base/'entities'/'pelda-vallalkozas.jsonld').write_text(json.dumps(old))
+            fixture = base/'site.html'
+            fixture.write_text(wrap(sample('https://restaurant.example/#restaurant')))
+            entry = {'canonical_url':CANON, 'machine_record':'entities/pelda-vallalkozas.md'}
+            with patch.object(mod, 'ROOT', base):
+                with self.assertRaisesRegex(RuntimeError, 'without matching entity name'):
+                    mod.sync_entry(entry, {}, '2026-10-17T12:00:00Z', fixture)
+
     def test_shrinking_old_graph_requires_manual_review(self):
         with tempfile.TemporaryDirectory() as td:
             base = Path(td)
