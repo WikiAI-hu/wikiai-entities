@@ -25,9 +25,9 @@ A WikiAI.hu / WordPress az elsodleges forras. A GitHub masodlagos publikacios es
 
 ## Szemelyek
 
-- [Varhelyi Csanad](people/varhelyi-csanad.md)
-- [Varhelyi Viktoria](people/varhelyi-viktoria.md)
-- [Molnar Andras](people/molnar-andras.md)
+- [Várhelyi Csanád](people/varhelyi-csanad.md)
+- [Várhelyi Viktória](people/varhelyi-viktoria.md)
+- [Simon Imre](people/simon-imre.md)
 
 ## Gepi index
 

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "ok": true,
+  "published_core_documents": 5,
+  "published_people": 3,
+  "published_wordpress_page_count": 16,
+  "updated_paths": [
+    "wikiai/index.md",
+    "wikiai/manifest.json"
+  ],
+  "orphan_managed_markdown": [],
+  "orphan_unmanaged_markdown": [],
+  "indexed_people": [
+    {
+      "id": 143,
+      "name": "Várhelyi Csanád",
+      "path": "wikiai/people/varhelyi-csanad.md",
+      "role": "founder"
+    },
+    {
+      "id": 144,
+      "name": "Várhelyi Viktória",
+      "path": "wikiai/people/varhelyi-viktoria.md",
+      "role": "cofounder"
+    },
+    {
+      "id": 1334,
+      "name": "Simon Imre",
+      "path": "wikiai/people/simon-imre.md",
+      "role": "external_professional_partner"
+    }
+  ],
+  "policy": "All people from published WordPress profile pages; nonexistent/unpublished pages never appear in manifest"
+}
