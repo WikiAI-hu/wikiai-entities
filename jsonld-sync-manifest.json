@@ -104,6 +104,22 @@
       "nodes": 43,
       "synced_at_utc": "2026-10-17T09:23:01+00:00",
       "legacy_original_sha256": "d1101fd5a7dd75ac37e75014ae8cbe14bcbc93440edada91c4151266efc3b971"
+    },
+    "gold-ablak-kft": {
+      "file": "entities/gold-ablak-kft.jsonld",
+      "source_url": "https://www.wikiai.hu/gold-ablak-kft/",
+      "sha256": "c1130149bf5d25d215458137c95e8bb89df5273633e0307093bd38923aa56790",
+      "nodes": 45,
+      "synced_at_utc": "2026-10-17T09:26:43+00:00",
+      "legacy_original_sha256": "e1e6e1a12e8ad91cc684c526924935d72bcad5572df4b4d8fd471f61d4f48fc9"
+    },
+    "hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen": {
+      "file": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld",
+      "source_url": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/",
+      "sha256": "454c5fd250cc35c6a5641bd6e1fececf2361e39a4544de1dab26993a2ae5d36a",
+      "nodes": 36,
+      "synced_at_utc": "2026-10-17T09:26:43+00:00",
+      "legacy_original_sha256": "b887dc6f666ade8512a3c37647ae563abd04a613559c5aade546ac20aa76f23e"
     }
   }
 }
