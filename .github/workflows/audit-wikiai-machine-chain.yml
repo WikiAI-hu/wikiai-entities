@@ -1,0 +1,131 @@
+name: Audit WikiAI live llms and machine entity chain
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '39 5 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'wordpress/snippets/wikiai-virtual-llms-txt.php'
+      - 'wordpress/snippets/wikiai-hfcm-readonly-adapter.php'
+      - '.github/workflows/audit-wikiai-machine-chain.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  live-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check actual public responses from the production site
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import sys
+          from pathlib import Path
+          from urllib.parse import urlparse
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError
+
+          BASE = "https://www.wikiai.hu"
+          manifest = json.loads(Path("manifest.json").read_text(encoding="utf-8"))
+          business = [e for e in manifest["entities"] if e.get("status") == "published"
+                      and e.get("canonical_url") != BASE + "/wikiai-hu/"]
+
+          def request(path, max_bytes=4000000):
+              url = BASE + path
+              req = Request(url, headers={
+                  "User-Agent": "WikiAI-LLMS-And-Entity-Audit/1.0",
+                  "Accept": "text/html,text/plain,application/json",
+                  "Cache-Control": "no-cache",
+              })
+              with urlopen(req, timeout=40) as response:
+                  data = response.read(max_bytes+1)
+                  assert response.status == 200, f"HTTP {response.status}: {url}"
+                  assert len(data) <= max_bytes, "Response exceeds safety limit"
+                  assert urlparse(response.geturl()).netloc == "www.wikiai.hu", "Unexpected redirect"
+                  return data.decode("utf-8", "replace"), response.headers
+
+          problems = []
+          def verify(condition, message):
+              if condition:
+                  print("PASS",message)
+              else:
+                  print("FAIL",message,file=sys.stderr)
+                  problems.append(message)
+
+          try:
+              llms, llms_headers = request("/llms.txt?wikiai_live_audit=1")
+              verify(llms.lstrip().startswith("# WikiAI.hu"), "The virtual llms.txt is live")
+              verify("text/plain" in llms_headers.get("Content-Type",""), "Virtual llms.txt is plain text")
+              verify(llms.count("WikiAI Machine Entity HTML index") == 1,
+                     "Exactly one explicit /entity/ directory link in llms.txt")
+              verify("https://www.wikiai.hu/entity/" in llms, "Entity index URL present")
+              verify("wikiai/people/simon-imre.md" in llms, "Current published Simon Imre profile present")
+              verify("wikiai/people/varhelyi-csanad.md" in llms, "Current Várhelyi Csanád profile present")
+              verify("wikiai/people/varhelyi-viktoria.md" in llms, "Current Várhelyi Viktória profile present")
+              verify("molnar-andras" not in llms.lower() and "molnár andrás" not in llms.lower(),
+                     "Retired profile is absent")
+              for entry in business:
+                  slug = entry["canonical_url"].rstrip("/").split("/")[-1]
+                  path = "entities/" + slug + ".jsonld"
+                  verify(path in llms, f"Published business JSON-LD in llms.txt: {slug}")
+              if "Warning:" in llms or "Fatal error:" in llms:
+                  verify(False, "PHP warning/error must not appear in llms.txt")
+          except Exception as exc:
+              problems.append("Virtual llms.txt request failed: "+str(exc))
+              print("FAIL",problems[-1],file=sys.stderr)
+
+          try:
+              directory, headers = request("/entity/",max_bytes=2000000)
+              verify("porvadaszok-matractisztitas-debrecen.html" in directory,
+                     "Machine entity directory includes Porvadászok")
+              verify("europa-terv-kft-debrecen.html" in directory,
+                     "Machine entity directory includes Európa Terv")
+          except Exception as exc:
+              problems.append("Entity directory request failed: "+str(exc))
+              print("FAIL",problems[-1],file=sys.stderr)
+
+          try:
+              profile, headers = request("/entity/porvadaszok-matractisztitas-debrecen.html",
+                                         max_bytes=3000000)
+              verify(len(profile.encode("utf-8")) > 100000,
+                     "Porvadászok machine HTML generated from rich HFCM graph")
+              verify("porvadaszok" in profile.lower(), "Machine page contains business identity")
+              verify("application/ld+json" in profile, "Machine HTML contains JSON-LD")
+          except Exception as exc:
+              problems.append("Entity profile request failed: "+str(exc))
+              print("FAIL",problems[-1],file=sys.stderr)
+
+          for path in ["/wp-json/wikiai-hfcm/v1/list", "/wp-json/wikiai-hfcm/v1/snippet-chunk/40"]:
+              try:
+                  request(path,max_bytes=30000)
+                  problems.append("Security regression: anonymous HFCM source readable at "+path)
+                  print("FAIL",problems[-1],file=sys.stderr)
+              except HTTPError as exc:
+                  verify(exc.code in (401,403),
+                         f"Admin-only HFCM source blocked anonymously: {path} (HTTP {exc.code})")
+              except Exception as exc:
+                  problems.append("Cannot establish HFCM access policy: "+str(exc))
+                  print("FAIL",problems[-1],file=sys.stderr)
+
+          summary = ["# WikiAI live machine delivery audit", "",
+                     f"- Published external businesses: {len(business)}",
+                     f"- Failed assertions: {len(problems)}", ""]
+          summary.extend("- FAIL: "+p for p in problems)
+          if not problems:
+              summary.append("- All live checks passed.")
+          Path("live-machine-audit-summary.md").write_text("\n".join(summary)+"\n",encoding="utf-8")
+          with open(__import__("os").environ["GITHUB_STEP_SUMMARY"],"a",encoding="utf-8") as out:
+              out.write("\n".join(summary)+"\n")
+          if problems:
+              sys.exit(1)
+          PY
