@@ -144,8 +144,8 @@ def discover(pages):
             raise RuntimeError("Missing/inconsistent expert title for " + slug)
         role = ROLES.get(p["id"], "external_professional_partner")
         people.append((p, "person_profile", "wikiai/people/" + slug + ".md", role))
-    if len(people) < 3 or not any(p["id"] == 1334 for p, _, _, _ in people):
-        raise RuntimeError("Incomplete team: expected published core profiles and Simon Imre")
+    if not people:
+        raise RuntimeError("No published expert profiles found; refusing to empty the public roster")
     people.sort(key=lambda t: (0 if t[0]["id"] == 143 else 1 if t[0]["id"] == 144 else 2,
                                cleaned_title(t[0]["title"]["rendered"]).casefold()))
     return docs, people
@@ -295,6 +295,10 @@ def main():
             changed.append(rel)
         else:
             role = declared_role
+            if doctype == "person_profile" and old is not None and metadata["id"] not in ROLES:
+                old_role = re.search(r'^relationship_to_wikiai:\s*["\x27]?([^"\x27\n]+)', old, re.M)
+                if old_role:
+                    role = old_role.group(1).strip()
             unchanged.append(rel)
         if doctype == "person_profile":
             roles[metadata["id"]] = role
