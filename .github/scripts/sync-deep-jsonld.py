@@ -281,10 +281,23 @@ def find_deep_graph(html, canonical):
 
 
 def prior_main_entity(graph, canonical):
+    """Resolve both ordinary and historical Article.about business identities."""
     try:
         nodes = graph.get("@graph", [])
-        articles = [n for n in nodes if n.get("@id") == canonical + "#article"]
-        return ref_id(articles[0].get("mainEntity")) if len(articles) == 1 else None
+        articles = [n for n in nodes if "Article" in node_types(n) and
+                    (n.get("url") == canonical or n.get("@id") == canonical + "#article" or
+                     n.get("@id", "").endswith(":article"))]
+        if len(articles) != 1:
+            return None
+        direct = ref_id(articles[0].get("mainEntity"))
+        if direct:
+            return direct
+        about = articles[0].get("about", [])
+        about = about if isinstance(about, list) else [about]
+        ids = {ref_id(item) for item in about}
+        named = [n for n in nodes if n.get("@id") in ids and n.get("name") and
+                 set(node_types(n)) & {"Restaurant", "LocalBusiness", "Store", "Organization"}]
+        return named[0]["@id"] if len(named) == 1 else None
     except (AttributeError, IndexError, TypeError):
         return None
 
