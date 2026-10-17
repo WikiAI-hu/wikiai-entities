@@ -1,0 +1,83 @@
+name: Mirror WikiAI organizational knowledge from WordPress
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/sync-wikiai-knowledge.py'
+      - '.github/scripts/test_sync_wikiai_knowledge.py'
+      - '.github/workflows/sync-wikiai-knowledge.yml'
+      - 'wikiai/manifest.json'
+      - 'wikiai/index.md'
+      - 'wikiai/people/*.md'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wikiai-organizational-knowledge-mirror
+  cancel-in-progress: false
+
+jobs:
+  synchronize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 16
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install exact HTML-to-Markdown dependency
+        run: python -m pip install markdownify==1.2.3
+      - name: Test dynamic personnel and safety rules
+        run: python -m unittest discover -s .github/scripts -p 'test_sync_wikiai_knowledge.py' -v
+      - name: Synchronize live published WordPress pages
+        run: python .github/scripts/sync-wikiai-knowledge.py
+      - name: Enforce knowledge manifest integrity
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          m=json.loads(Path("wikiai/manifest.json").read_text(encoding="utf-8"))
+          p=m.get("people",[])
+          assert len(p)>=3, "Team list was unexpectedly truncated"
+          assert not any("molnar-andras" in str(x).lower() or x.get("wordpress_post_id")==145 for x in p), "Deleted Molnár profile returned"
+          assert any(x.get("wordpress_post_id")==1334 for x in p), "Simon Imre profile missing"
+          for x in list(m.get("documents",[]))+p:
+              assert Path(x["path"]).is_file(), "Missing Markdown mirror "+x["path"]
+          i=Path("wikiai/index.md").read_text(encoding="utf-8")
+          assert "molnar-andras" not in i.lower(), "Stale index reference"
+          assert "people/simon-imre.md" in i, "New partner missing from index"
+          print("Knowledge manifest verified:",len(m["documents"]),"core pages and",len(p),"people")
+          PY
+      - name: Commit validated WordPress knowledge mirrors
+        shell: bash
+        run: |
+          git add -A -- wikiai/index.md wikiai/manifest.json wikiai/knowledge-sync-state.json wikiai/knowledge-sync-status.json \
+            wikiai/services.md wikiai/pricing.md wikiai/about.md wikiai/team.md wikiai/contact.md wikiai/people/
+          if git diff --cached --quiet; then
+            echo 'Knowledge mirrors already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Mirror current WikiAI pages and active expert profiles'
+          for retry in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            echo "Remote updated concurrently; retry $retry from latest main"
+            git fetch origin main
+            git reset --hard origin/main
+            python .github/scripts/sync-wikiai-knowledge.py
+            git add -A -- wikiai/index.md wikiai/manifest.json wikiai/knowledge-sync-state.json wikiai/knowledge-sync-status.json \
+              wikiai/services.md wikiai/pricing.md wikiai/about.md wikiai/team.md wikiai/contact.md wikiai/people/
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Mirror current WikiAI pages and active expert profiles'
+          done
+          echo 'Could not push knowledge mirrors without conflict' >&2
+          exit 1
