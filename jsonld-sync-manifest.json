@@ -120,6 +120,22 @@
       "nodes": 36,
       "synced_at_utc": "2026-10-17T09:26:43+00:00",
       "legacy_original_sha256": "b887dc6f666ade8512a3c37647ae563abd04a613559c5aade546ac20aa76f23e"
+    },
+    "kohlberger-bau-kft": {
+      "file": "entities/kohlberger-bau-kft.jsonld",
+      "source_url": "https://www.wikiai.hu/kohlberger-bau-kft/",
+      "sha256": "d124b44091374c443eddca70f4d0f085595d8c2491f15deb0e2577677331ace4",
+      "nodes": 108,
+      "synced_at_utc": "2026-10-17T09:31:04+00:00",
+      "legacy_original_sha256": "4dd9fe6e24fa6d691ec951b07311a5397f05a5dff8b088f33fee5ee72b56e930"
+    },
+    "varganya-etterem-matraszentimre": {
+      "file": "entities/varganya-etterem-matraszentimre.jsonld",
+      "source_url": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+      "sha256": "ec06f8c01885f1fb72fd4ba4127dc980dd91ec6451d06a33c7b213b4f944f791",
+      "nodes": 39,
+      "synced_at_utc": "2026-10-17T09:31:04+00:00",
+      "legacy_original_sha256": "5fb270bfbbc8edf62e6b57c5b1f2264e579f097b75a6cb27c21e67ebf9095078"
     }
   }
 }

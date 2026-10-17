@@ -4,9 +4,9 @@
   "policy": "Existing mirrors are enrolled after source validation; errors never overwrite good snapshots",
   "counts": {
     "total": 17,
-    "ok": 15,
-    "error": 2,
-    "warnings": 6,
+    "ok": 17,
+    "error": 0,
+    "warnings": 9,
     "excluded_first_party": 1
   },
   "profiles": {
@@ -65,9 +65,11 @@
       ]
     },
     "kohlberger-bau-kft": {
-      "status": "error",
+      "status": "ok",
       "source": "https://www.wikiai.hu/kohlberger-bau-kft/",
-      "message": "Business identity @id changed; manual review needed: kohlberger-bau-kft"
+      "mirror": "entities/kohlberger-bau-kft.jsonld",
+      "nodes": 108,
+      "warnings": []
     },
     "kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo": {
       "status": "ok",
@@ -129,9 +131,15 @@
       "warnings": []
     },
     "varganya-etterem-matraszentimre": {
-      "status": "error",
+      "status": "ok",
       "source": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
-      "message": "Business identity @id changed; manual review needed: varganya-etterem-matraszentimre"
+      "mirror": "entities/varganya-etterem-matraszentimre.jsonld",
+      "nodes": 39,
+      "warnings": [
+        "Legacy Article without WebPage/mainEntity: business resolved from verified Article.about",
+        "Deep graph lacks a direct GitHub Markdown mirror reference",
+        "Legacy business @id changed from https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant to https://www.matraietterem.hu/#restaurant; verified same business name, source is live WordPress; review historic authority"
+      ]
     }
   }
 }
