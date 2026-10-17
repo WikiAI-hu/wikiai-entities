@@ -1,6 +1,6 @@
 <?php
 /**
- * WikiAI HFCM read-only adapter 1.0.0.
+ * WikiAI HFCM read-only adapter 1.1.0.
  *
  * Supplies only the two authenticated legacy REST GET endpoints that the
  * existing Entity HTML Generator (#107) already consumes.
@@ -61,6 +61,18 @@ add_action( 'rest_api_init', static function () {
                 return new WP_Error( 'wikiai_hfcm_missing',
                     'The requested HFCM script does not exist.', array( 'status' => 404 ) );
             }
+
+            // HFCM stores these scripts HTML-escaped on this site. The existing
+            // Entity Generator expects literal <script> tags. Decode the *whole*
+            // snippet BEFORE slicing so HTML entities never split across chunks.
+            // Leave already decoded source untouched.
+            if (
+                false === stripos( $source, '<script' ) &&
+                false !== stripos( $source, '&lt;script' )
+            ) {
+                $source = html_entity_decode( $source, ENT_QUOTES | ENT_HTML5, 'UTF-8' );
+            }
+
             if ( function_exists( 'mb_substr' ) ) {
                 $total = mb_strlen( $source, 'UTF-8' );
                 $chunk = mb_substr( $source, $offset, $length, 'UTF-8' );
