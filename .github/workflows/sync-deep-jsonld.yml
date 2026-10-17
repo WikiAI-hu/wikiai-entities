@@ -48,11 +48,19 @@ jobs:
           git commit -m 'Synchronize all validated WikiAI HFCM JSON-LD mirrors'
           for retry in 1 2 3; do
             if git push origin HEAD:main; then exit 0; fi
-            echo "Retry $retry: main moved during sync; rebasing"
+            echo "Retry $retry: main changed during sync; replaying from latest source"
             git fetch origin main
-            git rebase origin/main
+            git reset --hard origin/main
+            python -m unittest discover -s .github/scripts -p 'test_*.py' -q
+            python .github/scripts/sync-deep-jsonld.py
+            git add -A -- 'entities/*.jsonld' jsonld-sync-manifest.json jsonld-sync-status.json
+            if git diff --cached --quiet; then
+              echo 'Remote already contains current valid mirrors.'
+              exit 0
+            fi
+            git commit -m 'Synchronize all validated WikiAI HFCM JSON-LD mirrors'
           done
-          echo 'Could not safely push synchronized files' >&2
+          echo 'Could not safely push synchronized files after three attempts' >&2
           exit 1
       - name: Show complete per-business health report
         if: always()
@@ -68,7 +76,7 @@ jobs:
           summary += ['', '| Business | Status | Warnings / problem |', '|---|---|---|']
           for key, data in p['profiles'].items():
               detail = data.get('message') or '; '.join(data.get('warnings', [])) or '-'
-              detail = detail.replace('|', '\|').replace('\n', ' ')
+              detail = detail.replace('|', '&#124;').replace('\n', ' ')
               summary.append(f'| {key} | {data["status"]} | {detail[:260]} |')
           output = '\n'.join(summary) + '\n'
           print(output)
