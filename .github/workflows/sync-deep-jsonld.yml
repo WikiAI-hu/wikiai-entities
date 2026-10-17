@@ -1,0 +1,46 @@
+name: Mirror WikiAI live HFCM deep JSON-LD
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'manifest.json'
+      - 'entities/*.md'
+      - '.github/scripts/sync-deep-jsonld.py'
+      - '.github/workflows/sync-deep-jsonld.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wikiai-deep-jsonld-mirror
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Synchronize from WikiAI public canonical pages
+        run: python .github/scripts/sync-deep-jsonld.py
+      - name: Commit validated changed mirrors
+        shell: bash
+        run: |
+          git add -A -- 'entities/*.jsonld' jsonld-sync-manifest.json
+          if git diff --cached --quiet; then
+            echo 'No JSON-LD changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Mirror validated live WikiAI HFCM JSON-LD'
+          git push
