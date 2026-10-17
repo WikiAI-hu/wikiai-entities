@@ -234,7 +234,8 @@ def validate_graph(doc, canonical):
         warnings.append("Deep graph lacks a direct GitHub Markdown mirror reference")
     if "entities/" + slug + ".jsonld" not in full:
         warnings.append("Deep graph lacks a direct GitHub JSON-LD mirror reference")
-    return {"doc": doc, "nodes": len(graph), "business_id": main_id, "warnings": warnings}
+    return {"doc": doc, "nodes": len(graph), "business_id": main_id,
+            "business_name": business[0]["name"], "warnings": warnings}
 
 
 def find_deep_graph(html, canonical):
@@ -307,8 +308,16 @@ def sync_entry(entry, managed, now, fixture=None):
     if old_graph is not None:
         old_count = len(old_graph.get("@graph", []))
         old_entity = prior_main_entity(old_graph, canonical)
-        if old_entity and old_entity != result["business_id"]:
-            raise RuntimeError("Business identity @id changed; manual review needed: " + slug)
+        if old_entity and expand_id(old_entity, old_graph.get("@context")) != expand_id(result["business_id"], graph.get("@context")):
+            old_business = next((n for n in old_graph.get("@graph", []) if n.get("@id") == old_entity), {})
+            if not old_business.get("name") or old_business["name"].strip().casefold() != result["business_name"].strip().casefold():
+                raise RuntimeError("Business identity changed without matching entity name; manual review needed: " + slug)
+            if state is not None:
+                raise RuntimeError("Managed business identity @id changed; manual review needed: " + slug)
+            result["warnings"].append(
+                "Legacy business @id changed from " + str(old_entity) + " to " +
+                str(result["business_id"]) + "; verified same business name, source is live WordPress; review historic authority"
+            )
         if old_count >= MIN_DEEP_NODES and new_count < max(MIN_DEEP_NODES, int(old_count * MIN_PREVIOUS_NODE_RATIO)):
             if state is not None:
                 raise RuntimeError(f"Managed graph shrank unexpectedly ({old_count} -> {new_count} nodes): {slug}")
