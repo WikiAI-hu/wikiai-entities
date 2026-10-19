@@ -37,7 +37,7 @@ CORE = [
     (22, "team_directory", "wikiai/team.md", "szakertok"),
     (23, "contact", "wikiai/contact.md", "kapcsolat"),
 ]
-ROLES = {143: "founder", 144: "cofounder"}
+ROLES = {143: "responsible_editor", 144: "founder"}
 DOCS_MIN = 7
 USER_AGENT = "WikiAI-Knowledge-Mirror/1.0 (+https://github.com/WikiAI-hu/wikiai-entities)"
 
@@ -164,7 +164,7 @@ def page_details(meta):
 
 def profile_role(record, body):
     role = record[3]
-    if role in ("founder", "cofounder"):
+    if role in ("founder", "cofounder", "responsible_editor"):
         return role
     if re.search(r'data-entity-role=["\x27]external-professional-partner["\x27]', body, re.I):
         return "external_professional_partner"
@@ -287,6 +287,12 @@ def main():
                 raise RuntimeError("Out-of-band change to a managed Markdown file: " + rel)
         current_mod = iso_gmt(metadata["modified_gmt"])
         needs_rendering = old is None or source_modified_from_md(old) != current_mod
+        # Role changes are metadata changes: refresh the frontmatter even if WordPress
+        # content and its modified timestamp did not change.
+        if doctype == "person_profile" and metadata["id"] in ROLES and old is not None:
+            old_role = re.search(r'^relationship_to_wikiai:\s*["\x27]?([^"\x27\n]+)', old, re.M)
+            if old_role is None or old_role.group(1).strip() != declared_role:
+                needs_rendering = True
         if needs_rendering:
             page = page_details(metadata)
             role = profile_role(record, page["content"]["rendered"]) if doctype == "person_profile" else None
