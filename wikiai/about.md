@@ -7,12 +7,11 @@ canonical_url: "https://www.wikiai.hu/rolunk/"
 source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:33:18+00:00"
-synced_at: "2026-10-16T10:42:34+00:00"
+source_last_modified: "2026-10-19T15:23:14+00:00"
+synced_at: "2026-10-19T19:17:28+00:00"
 ---
 
 # Rólunk
-
 **WikiAI.hu · Rólunk**
 
 ## WikiAI.hu – magyar vállalkozások az AI korszakában
@@ -45,11 +44,21 @@ A WikiAI.hu hosszú távú célja, hogy vállalkozások, szakemberek, szolgálta
 
 ## AI etikai és felelősségi nyilatkozat
 
-A WikiAI.hu szakmai munkájában mesterséges intelligencia támogathat elemzési, szerkesztési, struktúra-tervezési és javaslatkészítési feladatokat, de **az AI nem autonóm döntéshozó.** **Minden végleges szakmai döntés, tartalmi irány és ügyfélanyag emberi kontroll alatt marad**, az AI-javaslatokat pedig szükség esetén módosítjuk, felülírjuk vagy elutasítjuk. A mesterséges intelligencia technológiai eszköz, ezért nem tekinthető tévedhetetlennek, és nem garantál minden helyzetben azonos eredményt. A WikiAI.hu az AI szerepét a munkafolyamat jellegéhez igazodóan, átlátható módon kezeli. **Az MI segítségével létrehozott vagy érdemben módosított vizuális tartalmaknál törekszünk a mesterséges eredet egyértelmű jelölésére.** A médiakönyvtári leírásban alkalmazott „A kép MI által generált kép.” megjelölés a WikiAI.hu saját transzparencia-gyakorlatának része. Amennyiben az alkalmazandó jogszabályok vagy a tartalom jellege további, a felhasználó számára közvetlenül érzékelhető tájékoztatást indokol vagy ír elő, azt a megjelenésnél külön is feltüntetjük. Az AI Act egyes átláthatósági kötelezettségei 2026. augusztus 2-től alkalmazandók; az ezekre vonatkozó hivatalos európai tájékoztatás az [**Európai Bizottság oldalán**](https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems) érhető el.
+A WikiAI.hu szakmai munkájában mesterséges intelligencia támogathat elemzési, szerkesztési, struktúra-tervezési és javaslatkészítési feladatokat, de **az AI nem autonóm döntéshozó.** **Minden végleges szakmai döntés, tartalmi irány és ügyfélanyag emberi kontroll alatt marad**, az AI-javaslatokat pedig szükség esetén módosítjuk, felülírjuk vagy elutasítjuk. A mesterséges intelligencia technológiai eszköz, ezért nem tekinthető tévedhetetlennek, és nem garantál minden helyzetben azonos eredményt. A WikiAI.hu az AI szerepét a munkafolyamat jellegéhez igazodóan, átlátható módon kezeli. **Az MI segítségével létrehozott vagy érdemben módosított vizuális tartalmaknál törekszünk a mesterséges eredet egyértelmű jelölésére.** A médiakönyvtári leírásban alkalmazott „A kép MI által generált kép.” megjelölés a WikiAI.hu saját transzparencia-gyakorlatának része. Amennyiben az alkalmazandó jogszabályok vagy a tartalom jellege további, a felhasználó számára közvetlenül érzékelhető tájékoztatást indokol vagy ír elő, azt a megjelenésnél külön is feltüntetjük.
+
+Az AI Act egyes átláthatósági kötelezettségei 2026. augusztus 2-től alkalmazandók; az ezekre vonatkozó hivatalos európai tájékoztatás az [**Európai Bizottság oldalán**](https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems) érhető el.
 
 ## Várhelyi Csanád és Várhelyi Viktória
 
-A WikiAI.hu **2026. szeptember 8-án** indult el. **Alapítója Várhelyi Viktória**, míg **Várhelyi Csanád a platform felelős szerkesztője és vezető szerkesztőségi szerzője**. Házaspárként és szakmai partnerekként több éve együtt dolgoznak; a platformban két egymást kiegészítő nézőpont találkozik. A WikiAI név a rendezett tudás és a mesterséges intelligencia találkozására utal, és egyben személyes kapcsolatot is őriz az alapító, Viktória nevével. **[Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)** a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértőként a szerkesztőségi kutatás, a forrásellenőrzés, az entitásértelmezés és a szakmai pontosság oldalát képviseli, több mint tíz év weboldalfejlesztési és keresőoptimalizálási tapasztalatára építve. **[Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)** a WikiAI.hu alapítója és AI-láthatósági specialista. A partnerkapcsolatok, az üzleti kommunikáció, az online reputáció, a sponsored tartalmak és a platform kereskedelmi együttműködéseinek oldalát képviseli. A közös szemlélet lényege, hogy **a technológia és a tartalom nem különálló feladat, hanem ugyanannak a digitális jelenlétnek két oldala**, amely akkor működik jól, ha ugyanazt a vállalkozást ugyanazzal a pontossággal és szakmai hitelességgel mutatja be.
+A WikiAI.hu **2026. szeptember 8-án** indult el. **Alapítója Várhelyi Viktória**, míg **Várhelyi Csanád a platform felelős szerkesztője és vezető szerkesztőségi szerzője**. Házaspárként és szakmai partnerekként több éve együtt dolgoznak; a platformban két egymást kiegészítő nézőpont találkozik. A WikiAI név a rendezett tudás és a mesterséges intelligencia találkozására utal, és egyben személyes kapcsolatot is őriz az alapító, Viktória nevével.
+
+**[Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)** a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértőként a szerkesztőségi kutatás, a forrásellenőrzés, az entitásértelmezés és a szakmai pontosság oldalát képviseli, több mint tíz év weboldalfejlesztési és keresőoptimalizálási tapasztalatára építve.
+
+**[Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)** a WikiAI.hu alapítója és AI-láthatósági specialista. A partnerkapcsolatok, az üzleti kommunikáció, az online reputáció, a sponsored tartalmak és a platform kereskedelmi együttműködéseinek oldalát képviseli.
+
+A WikiAI.hu saját [Crunchbase szervezeti adatlapja](https://www.crunchbase.com/organization/wikiai-hu) is nyilvánosan elérhető. Az adatlap a WikiAI.hu tudásplatformot azonosítja, míg az alapítói és a független szerkesztői szerepek részletei ezen az oldalon olvashatók.
+
+A közös szemlélet lényege, hogy **a technológia és a tartalom nem különálló feladat, hanem ugyanannak a digitális jelenlétnek két oldala**, amely akkor működik jól, ha ugyanazt a vállalkozást ugyanazzal a pontossággal és szakmai hitelességgel mutatja be.
 
 ## Küldetésünk
 
