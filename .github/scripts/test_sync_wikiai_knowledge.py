@@ -93,12 +93,20 @@ class KnowledgeTests(unittest.TestCase):
 
     def test_manifest_uses_dynamic_people(self):
         docs,p=mod.discover(pages())
-        roles={143:"founder",144:"cofounder",1334:"external_professional_partner"}
+        roles={143:"responsible_editor",144:"founder",1334:"external_professional_partner"}
         out=mod.update_manifest(docs,p,roles,"2026-10-17T11:00:00+00:00",
             {"people":[{"wordpress_post_id":145,"name":"Korábbi Partner"}],"documents":[]})
         self.assertEqual(len(out["people"]),3)
         self.assertEqual(out["people"][2]["name"],"Simon Imre")
         self.assertNotIn("Korábbi Partner",json.dumps(out,ensure_ascii=False))
+
+    def test_founder_editor_roles_are_not_reversed(self):
+        docs, people = mod.discover(pages())
+        roles = {r[0]["id"]: r[3] for r in people}
+        self.assertEqual(roles[143], "responsible_editor")
+        self.assertEqual(roles[144], "founder")
+        self.assertEqual(mod.profile_role(people[0], "<p>Independent editor</p>"), "responsible_editor")
+        self.assertEqual(mod.profile_role(people[1], "<p>Founder</p>"), "founder")
 
     def test_source_modification_timestamp_equivalence(self):
         self.assertEqual(mod.source_modified_from_md(
