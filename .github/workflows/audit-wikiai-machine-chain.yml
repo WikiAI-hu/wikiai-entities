@@ -30,10 +30,11 @@ jobs:
           import json
           import re
           import sys
+          import time
           from pathlib import Path
           from urllib.parse import urlparse
           from urllib.request import Request, urlopen
-          from urllib.error import HTTPError
+          from urllib.error import HTTPError, URLError
 
           BASE = "https://www.wikiai.hu"
           manifest = json.loads(Path("manifest.json").read_text(encoding="utf-8"))
@@ -47,12 +48,27 @@ jobs:
                   "Accept": "text/html,text/plain,application/json",
                   "Cache-Control": "no-cache",
               })
-              with urlopen(req, timeout=40) as response:
-                  data = response.read(max_bytes+1)
-                  assert response.status == 200, f"HTTP {response.status}: {url}"
-                  assert len(data) <= max_bytes, "Response exceeds safety limit"
-                  assert urlparse(response.geturl()).netloc == "www.wikiai.hu", "Unexpected redirect"
-                  return data.decode("utf-8", "replace"), response.headers
+              for attempt in range(4):
+                  try:
+                      with urlopen(req, timeout=40) as response:
+                          data = response.read(max_bytes+1)
+                          assert response.status == 200, f"HTTP {response.status}: {url}"
+                          assert len(data) <= max_bytes, "Response exceeds safety limit"
+                          assert urlparse(response.geturl()).netloc == "www.wikiai.hu", "Unexpected redirect"
+                          return data.decode("utf-8", "replace"), response.headers
+                  except HTTPError as exc:
+                      # Authentication failures remain immediate and visible for the security checks.
+                      if exc.code not in (429, 500, 502, 503, 504) or attempt == 3:
+                          raise
+                      delay = 3 * (2 ** attempt)
+                      print(f"RETRY {url}: transient HTTP {exc.code}, {delay}s", file=sys.stderr)
+                      time.sleep(delay)
+                  except (URLError, TimeoutError) as exc:
+                      if attempt == 3:
+                          raise
+                      delay = 3 * (2 ** attempt)
+                      print(f"RETRY {url}: {type(exc).__name__}, {delay}s", file=sys.stderr)
+                      time.sleep(delay)
 
           problems = []
           def verify(condition, message):
@@ -107,7 +123,8 @@ jobs:
                   raise ValueError("Canonical business link is absent")
               return slug, len(html.encode("utf-8"))
 
-          with ThreadPoolExecutor(max_workers=5) as pool:
+          # Avoid a burst of concurrent checks overwhelming the WordPress host/WAF.
+          with ThreadPoolExecutor(max_workers=2) as pool:
               futures = {pool.submit(test_business, item):item for item in business}
               for future in as_completed(futures):
                   slug = futures[future]["canonical_url"].rstrip("/").split("/")[-1]
