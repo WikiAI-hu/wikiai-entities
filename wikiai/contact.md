@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/kapcsolat/"
 source_post_id: 23
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-20T15:42:25+00:00"
-synced_at: "2026-10-20T15:49:00+00:00"
+source_last_modified: "2026-10-20T17:38:43+00:00"
+synced_at: "2026-10-20T17:40:03+00:00"
 ---
 
 # Kapcsolat
@@ -55,6 +55,8 @@ Szerkesztőségi tartalommal, helyesbítéssel vagy forráskérdéssel kapcsolat
 A WikiAI.hu országos fókuszú platform, ezért Magyarország teljes területéről fogadunk megkereséseket. A kapcsolattartás elsődlegesen online és telefonon történik.
 
 **Személyes egyeztetés kizárólag előzetes megbeszélés alapján lehetséges.** Időpont-egyeztetéshez írjon az [info@wikiai.hu](mailto:info@wikiai.hu) e-mail-címre.
+
+**Üzemeltetői székhely és szerkesztőségi iroda:** 4200 Hajdúszoboszló, Déryné utca 3. A WikiAI.hu helyszíne az [OpenStreetMap térképi adatlapján](https://www.openstreetmap.org/node/14303812090) is megtekinthető. A személyes egyeztetés továbbra is előzetes időpont-egyeztetéshez kötött.
 
 ## Szakmai kapcsolattartók
 
