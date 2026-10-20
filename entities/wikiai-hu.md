@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-10-09T16:59:30+02:00"
+last_updated: "2026-10-20T17:42:30+02:00"
 location:
   country: "HU"
 identifiers:
@@ -50,7 +50,7 @@ A WikiAI.hu 2026. szeptember 8-án indult. **Alapítója Várhelyi Viktória**, 
 
 ## WikiAI.hu – gyors áttekintés
 
-  Mi a WikiAI.hu? Magyar szerkesztett üzleti tudás- és AI-láthatósági platform. Indulás 2026. szeptember 8. Alapító Várhelyi Viktória Üzemeltető és szolgáltató Várhelyi Viktória egyéni vállalkozó Felelős szerkesztő Várhelyi Csanád Elsődleges működési terület Magyarország Szerkesztőségi rovatok Vállalkozások, Cikkek, Hírek és Tudástár Fizetett tartalom helye Posztok rovat, egyértelmű kereskedelmi jelöléssel Hivatalos weboldal [www.wikiai.hu](https://www.wikiai.hu/) Központi kapcsolat [info@wikiai.hu](mailto:info@wikiai.hu) · [+36 70 778 4012](tel:+36707784012)
+  Mi a WikiAI.hu? Magyar szerkesztett üzleti tudás- és AI-láthatósági platform. Indulás 2026. szeptember 8. Alapító Várhelyi Viktória Üzemeltető és szolgáltató Várhelyi Viktória egyéni vállalkozó Felelős szerkesztő Várhelyi Csanád Elsődleges működési terület Magyarország Szerkesztőségi rovatok Vállalkozások, Cikkek, Hírek és Tudástár Fizetett tartalom helye Posztok rovat, egyértelmű kereskedelmi jelöléssel Hivatalos weboldal [www.wikiai.hu](https://www.wikiai.hu/) Központi kapcsolat [info@wikiai.hu](mailto:info@wikiai.hu) · elsődleges mobil: [+36 70 226 4545](tel:+36702264545) · másodlagos mobil: [+36 70 778 4012](tel:+36707784012)
 
 ## Mi a WikiAI.hu?
 
