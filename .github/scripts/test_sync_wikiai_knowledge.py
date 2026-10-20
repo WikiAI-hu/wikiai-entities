@@ -130,6 +130,52 @@ class KnowledgeTests(unittest.TestCase):
                 self.assertEqual(len(state["managed"]),8)
                 self.assertIn("wikiai/people/simon-imre.md",state["managed"])
 
+    def test_stale_first_party_roles_rebuild_even_without_timestamp_change(self):
+        """Wrong publisher/editor role must not survive an otherwise unchanged page."""
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            fixtures(root)
+            old_roles = {
+                "wikiai/people/varhelyi-csanad.md": "founder",
+                "wikiai/people/varhelyi-viktoria.md": "cofounder",
+            }
+            for relpath, old_role in old_roles.items():
+                p = root / relpath
+                old = p.read_text(encoding="utf-8")
+                p.write_text(old.replace(
+                    'source_last_modified:',
+                    'relationship_to_wikiai: "' + old_role + '"\nsource_last_modified:',
+                    1), encoding="utf-8")
+
+            def fake_get_json(part, query):
+                if part == "pages":
+                    return pages()
+                if part in ("pages/143", "pages/144"):
+                    post_id = int(part.split("/")[1])
+                    page_data = next(x for x in pages() if x["id"] == post_id)
+                    page_data["content"] = {
+                        "rendered": "<article><h2>Validated expert profile</h2><p>" +
+                                    ("Published factual biography. " * 18) +
+                                    "</p></article>"
+                    }
+                    return page_data
+                raise AssertionError("Unexpected page content request " + part)
+
+            with patch.object(mod, "ROOT", root), \
+                 patch.object(mod, "STATE", root / "wikiai/knowledge-sync-state.json"), \
+                 patch.object(mod, "STATUS", root / "wikiai/knowledge-sync-status.json"), \
+                 patch.object(mod, "KNOWLEDGE_MANIFEST", root / "wikiai/manifest.json"), \
+                 patch.object(mod, "INDEX", root / "wikiai/index.md"), \
+                 patch.object(mod, "get_json", side_effect=fake_get_json):
+                mod.main()
+                person = (root / "wikiai/people/varhelyi-csanad.md").read_text(encoding="utf-8")
+                founder = (root / "wikiai/people/varhelyi-viktoria.md").read_text(encoding="utf-8")
+                self.assertIn('relationship_to_wikiai: "responsible_editor"', person)
+                self.assertIn('relationship_to_wikiai: "founder"', founder)
+                status = json.loads((root / "wikiai/knowledge-sync-status.json").read_text())
+                self.assertIn("wikiai/people/varhelyi-csanad.md", status["updated_paths"])
+                self.assertIn("wikiai/people/varhelyi-viktoria.md", status["updated_paths"])
+
     def test_non_partner_must_not_be_invented(self):
         p=page(4567,"uj-szakerto","Új szakértő",
                "https://www.wikiai.hu/szakertok/uj-szakerto/")
