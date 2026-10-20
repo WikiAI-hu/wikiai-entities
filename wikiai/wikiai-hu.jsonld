@@ -23,9 +23,14 @@
       "address": {
         "@id": "https://www.wikiai.hu/wikiai-hu/#deryne-address"
       },
-      "contactPoint": {
-        "@id": "https://www.wikiai.hu/#commercial-contact"
-      },
+      "contactPoint": [
+        {
+          "@id": "https://www.wikiai.hu/#contact"
+        },
+        {
+          "@id": "https://www.wikiai.hu/#commercial-contact"
+        }
+      ],
       "areaServed": {
         "@id": "https://www.wikiai.hu/wikiai-hu/#hungary"
       },
@@ -61,7 +66,9 @@
         "https://www.youtube.com/@wikiai-hu",
         "https://github.com/WikiAI-hu",
         "https://www.google.com/maps?cid=6341027299872024739",
-        "https://www.google.com/search?kgmid=/g/11nw114f0r&q=WikiAI.hu"
+        "https://www.google.com/search?kgmid=/g/11nw114f0r&q=WikiAI.hu",
+        "https://www.crunchbase.com/organization/wikiai-hu",
+        "https://huggingface.co/wikiaihu"
       ],
       "hasOfferCatalog": {
         "@id": "https://www.wikiai.hu/wikiai-hu/#service-catalog"
@@ -118,7 +125,8 @@
       ],
       "logo": {
         "@id": "https://www.wikiai.hu/#logo"
-      }
+      },
+      "telephone": "+36702264545"
     },
     {
       "@type": "WebSite",
@@ -273,9 +281,9 @@
     {
       "@type": "ContactPoint",
       "@id": "https://www.wikiai.hu/#commercial-contact",
-      "contactType": "general, business and partner inquiries",
+      "contactType": "secondary telephone contact (business and partner inquiries)",
       "email": "info@wikiai.hu",
-      "telephone": "+36 70 778 4012",
+      "telephone": "+36707784012",
       "areaServed": "HU",
       "availableLanguage": "hu"
     },
@@ -1071,6 +1079,15 @@
       "name": "INF-GROUP Kft.",
       "url": "https://www.infgroup.hu/",
       "description": "Debreceni informatikai szolgáltató: vállalati IT-infrastruktúra, rendszergazdai szolgáltatások, számítógép-, szerver- és hálózatüzemeltetés, adatbiztonság és webtárhely-szolgáltatás."
+    },
+    {
+      "@type": "ContactPoint",
+      "@id": "https://www.wikiai.hu/#contact",
+      "contactType": "primary telephone contact",
+      "telephone": "+36702264545",
+      "email": "info@wikiai.hu",
+      "areaServed": "HU",
+      "availableLanguage": "hu"
     }
   ]
 }
