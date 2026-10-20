@@ -166,7 +166,8 @@ class KnowledgeTests(unittest.TestCase):
                  patch.object(mod, "STATUS", root / "wikiai/knowledge-sync-status.json"), \
                  patch.object(mod, "KNOWLEDGE_MANIFEST", root / "wikiai/manifest.json"), \
                  patch.object(mod, "INDEX", root / "wikiai/index.md"), \
-                 patch.object(mod, "get_json", side_effect=fake_get_json):
+                 patch.object(mod, "get_json", side_effect=fake_get_json), \
+                 patch.object(mod, "markdownify", side_effect=lambda html, **kwargs: "Verified biography " + "words " * 80):
                 mod.main()
                 person = (root / "wikiai/people/varhelyi-csanad.md").read_text(encoding="utf-8")
                 founder = (root / "wikiai/people/varhelyi-viktoria.md").read_text(encoding="utf-8")
