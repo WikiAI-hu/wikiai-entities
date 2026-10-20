@@ -235,6 +235,12 @@ jobs:
                       "machine labels": "elsődleges mobil" in machine_text and "másodlagos mobil" in machine_text,
                       "schema not missing": record.get("schema_status") == "ok",
                   }
+                  if page == "/kapcsolat/":
+                      osm_url = "https://www.openstreetmap.org/node/14303812090"
+                      checks["public OpenStreetMap office link"] = osm_url in public_html
+                      checks["machine OpenStreetMap office mention"] = "openstreetmap" in machine_text
+                      with open("wikiai/contact.md", encoding="utf-8") as mirror_file:
+                          checks["GitHub Markdown office map link"] = osm_url in mirror_file.read()
                   try:
                       generated = datetime.fromisoformat(record["generated_at"].replace("Z", "+00:00"))
                       modified = datetime.fromisoformat(record["modified_at"].replace("Z", "+00:00"))
