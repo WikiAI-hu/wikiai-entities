@@ -1,0 +1,141 @@
+name: WikiAI public privacy and security exposure checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '43 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  protect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Reject credentials and private files in public mirror
+        shell: bash
+        run: |
+          python - <<'PY'
+          import pathlib
+          import re
+          import subprocess
+          import sys
+
+          banned_files = re.compile(
+              r'(^|/)(?:\.env(?:\.|$)|wp-config\.php$|id_rsa$|id_ed25519$)'
+              r'|(?:^|/)[^/]+\.(?:pem|p12|pfx|sqlite|sql|bak|key)$',
+              re.I
+          )
+          rules = {
+              "private key": re.compile(r'-----BEGIN (?:[A-Z ]+ )?PRIVATE KEY-----'),
+              "GitHub token": re.compile(r'(?:gh[pousr]_[A-Za-z0-9]{25,}|github_pat_[A-Za-z0-9_]{30,})'),
+              "OpenAI key": re.compile(r'\bsk-(?:proj-)?[A-Za-z0-9_-]{25,}\b'),
+              "Google API key": re.compile(r'\bAIza[A-Za-z0-9_-]{35}\b'),
+              "AWS access key": re.compile(r'\b(?:AKIA|ASIA)[A-Z0-9]{16}\b'),
+              "hardcoded WordPress secret": re.compile(
+                  r'(?:DB_PASSWORD|AUTH_KEY|SECURE_AUTH_KEY|LOGGED_IN_KEY|NONCE_KEY|'
+                  r'AUTH_SALT|SECURE_AUTH_SALT|LOGGED_IN_SALT|NONCE_SALT)\s*[,=:]\s*'
+                  r'["\x27][^"\x27\s]{8,}["\x27]', re.I
+              ),
+          }
+          paths = [p.decode("utf-8") for p in subprocess.check_output(
+              ["git", "ls-files", "-z"]).split(b"\0") if p]
+          findings = []
+          for name in paths:
+              if banned_files.search(name) and not name.lower().endswith(".env.example"):
+                  findings.append((name, "private configuration or backup filename"))
+              file = pathlib.Path(name)
+              if not file.is_file() or file.stat().st_size > 4_000_000:
+                  continue
+              body = file.read_text(encoding="utf-8", errors="replace")
+              for kind, rx in rules.items():
+                  if rx.search(body):
+                      findings.append((name, kind))
+          for name, kind in findings:
+              print("FAIL", name, ":", kind, "(sensitive value never printed)", file=sys.stderr)
+          print(f"Scanned {len(paths)} versioned public files; findings: {len(findings)}")
+          if findings:
+              sys.exit(1)
+          PY
+      - name: Verify private WordPress endpoints are not anonymously readable
+        shell: bash
+        run: |
+          python - <<'PY'
+          import sys
+          import time
+          from urllib.error import HTTPError, URLError
+          from urllib.request import Request, urlopen
+
+          base = "https://www.wikiai.hu"
+          protected = [
+              "/wp-json/wikiai-hfcm/v1/list",
+              "/wp-json/wikiai-hfcm/v1/snippet-chunk/8",
+              "/wp-json/wikiai-hfcm-watchdog/v1/status",
+              "/wp-json/wikiai-entity/v2/status/143",
+              "/wp-json/wikiai-entity/v2/discovery-status",
+              "/wp-json/wikiai-entity/v2/hfcm-auto/status",
+              "/wp-json/wp-agent/v1/site-state",
+              "/wp-json/wp-agent/v1/seo-meta/143",
+              "/wp-json/code-snippets/v1/snippets",
+              "/wp-json/wp/v2/pages/143?context=edit",
+              "/wp-json/wp/v2/settings",
+              "/wp-json/wp/v2/plugins",
+              "/wp-json/wp/v2/users?context=edit",
+          ]
+          leaks = [
+              ("/.env", (b"DB_PASSWORD=", b"APP_KEY=", b"SECRET_KEY=")),
+              ("/.git/config", (b"[core]", b"[remote ")),
+              ("/wp-config.php", (b"DB_PASSWORD", b"AUTH_KEY")),
+              ("/wp-content/debug.log", (b"PHP Warning", b"PHP Fatal", b"PHP Notice", b"WordPress database error")),
+          ]
+          def get(path):
+              req = Request(base + path, headers={
+                  "User-Agent": "WikiAI-Public-Privacy-Audit/1.0",
+                  "Accept": "*/*", "Cache-Control": "no-cache"
+              })
+              for attempt in range(3):
+                  try:
+                      with urlopen(req, timeout=30) as response:
+                          return response.status, response.read(8192)
+                  except HTTPError as exc:
+                      if exc.code not in (429, 500, 502, 503, 504) or attempt == 2:
+                          return exc.code, b""
+                  except (URLError, TimeoutError):
+                      if attempt == 2:
+                          raise
+                  time.sleep(2 ** attempt + 2)
+          failures = []
+          for path in protected:
+              try:
+                  status, _ = get(path)
+                  if status not in (401, 403, 404):
+                      failures.append((path, "unauthenticated status " + str(status)))
+                      print("FAIL", path, "returned", status, file=sys.stderr)
+                  else:
+                      print("PASS protected", path, status)
+              except Exception as exc:
+                  failures.append((path, "network check incomplete: "+type(exc).__name__))
+          for path, markers in leaks:
+              try:
+                  status, body = get(path)
+                  if status == 200 and any(marker in body for marker in markers):
+                      failures.append((path, "potentially exposed server-side information"))
+                      print("FAIL sensitive content is accessible at", path, file=sys.stderr)
+                  else:
+                      print("PASS file exposure", path, status)
+              except Exception as exc:
+                  failures.append((path, "network check incomplete: "+type(exc).__name__))
+          print("Public privacy audit:", len(protected), "admin REST URLs and", len(leaks), "sensitive file paths; failures:",len(failures))
+          if failures:
+              sys.exit(1)
+          PY
