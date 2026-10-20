@@ -222,10 +222,16 @@ def validate_graph(doc, canonical):
         raise ValueError("Duplicate or invalid @id in deep graph")
     if not any(expand_id(n.get("@id"), context) == "https://www.wikiai.hu/#organization" for n in graph):
         return None
-    if isinstance(article.get("mainEntityOfPage"), dict):
-        warnings.append("Article.mainEntityOfPage is an object; review historical Google validation")
+    # Schema.org permits an @id reference object for Article.mainEntityOfPage.
+    main_page_ref = article.get("mainEntityOfPage")
+    if isinstance(main_page_ref, dict) and not ref_id(main_page_ref):
+        warnings.append("Article.mainEntityOfPage object lacks an @id")
     editor_id = "https://www.varhelyicsanad.hu/#person"
     for role in ("author", "editor", "accountablePerson"):
+        # Publisher/editor/accountability fields are optional in Schema.org;
+        # report incorrect explicit attribution, not merely absent optional fields.
+        if role != "author" and article.get(role) is None:
+            continue
         if expand_id(ref_id(article.get(role)), context) != editor_id:
             warnings.append("Article." + role + " does not reference Várhelyi Csanád")
     full = normalize_json(doc)
