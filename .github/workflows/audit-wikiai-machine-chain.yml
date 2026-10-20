@@ -241,6 +241,27 @@ jobs:
                       checks["machine OpenStreetMap office mention"] = "openstreetmap" in machine_text
                       with open("wikiai/contact.md", encoding="utf-8") as mirror_file:
                           checks["GitHub Markdown office map link"] = osm_url in mirror_file.read()
+                  if page in ("/rolunk/", "/wikiai-hu/"):
+                      directory_links = {
+                          "Arany Oldalak": "https://aranyoldalak.hu/wikiai-hu.htm",
+                          "Cylex": "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html",
+                          "OpenStreetMap": "https://www.openstreetmap.org/node/14303812090",
+                      }
+                      for source_name, source_url in directory_links.items():
+                          checks["public " + source_name + " listing link"] = source_url in public_html
+                          checks["machine " + source_name + " mention"] = source_name.lower() in machine_text
+                      md_path = "wikiai/about.md" if page == "/rolunk/" else "entities/wikiai-hu.md"
+                      with open(md_path, encoding="utf-8") as mirror_file:
+                          md_text = mirror_file.read()
+                      for source_name, source_url in directory_links.items():
+                          checks["Markdown " + source_name + " listing link"] = source_url in md_text
+                  if page == "/wikiai-hu/":
+                      for source_name, source_url in {
+                          "Crunchbase": "https://www.crunchbase.com/organization/wikiai-hu",
+                          "Hugging Face": "https://huggingface.co/wikiaihu",
+                      }.items():
+                          checks["public " + source_name + " profile link"] = source_url in public_html
+                          checks["Markdown " + source_name + " profile link"] = source_url in md_text
                   try:
                       generated = datetime.fromisoformat(record["generated_at"].replace("Z", "+00:00"))
                       modified = datetime.fromisoformat(record["modified_at"].replace("Z", "+00:00"))
