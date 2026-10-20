@@ -28,10 +28,12 @@ jobs:
           python - <<'PY'
           import json
           import sys
+          import time
           from concurrent.futures import ThreadPoolExecutor, as_completed
           from html.parser import HTMLParser
           from pathlib import Path
           from urllib.parse import urlsplit
+          from urllib.error import HTTPError, URLError
           from urllib.request import Request, urlopen
 
           RAW = "https://raw.githubusercontent.com/WikiAI-hu/wikiai-entities/main/"
@@ -57,17 +59,34 @@ jobs:
                   "Accept": "text/html",
                   "Cache-Control": "no-cache",
               })
-              with urlopen(req, timeout=35) as response:
-                  html = response.read(4_000_001)
-                  if response.status != 200:
-                      raise ValueError("Unexpected HTTP status "+str(response.status))
-                  if len(html) > 4_000_000:
-                      raise ValueError("HTML exceeds 4MB limit")
-                  resolved = urlsplit(response.geturl())
-                  if resolved.scheme != "https" or resolved.netloc != "www.wikiai.hu" or resolved.path != urlsplit(url).path:
-                      raise ValueError("Untrusted redirect")
-                  if "html" not in response.headers.get("Content-Type","").lower():
-                      raise ValueError("Response not HTML")
+              # Transient origin/WAF responses must not look like broken Markdown links.
+              # Exhaust retries and FAIL the audit if the endpoint remains unavailable.
+              for attempt in range(4):
+                  try:
+                      with urlopen(req, timeout=35) as response:
+                          html = response.read(4_000_001)
+                          if response.status != 200:
+                              raise ValueError("Unexpected HTTP status "+str(response.status))
+                          if len(html) > 4_000_000:
+                              raise ValueError("HTML exceeds 4MB limit")
+                          resolved = urlsplit(response.geturl())
+                          if resolved.scheme != "https" or resolved.netloc != "www.wikiai.hu" or resolved.path != urlsplit(url).path:
+                              raise ValueError("Untrusted redirect")
+                          if "html" not in response.headers.get("Content-Type","").lower():
+                              raise ValueError("Response not HTML")
+                      break
+                  except HTTPError as exc:
+                      if exc.code not in (429, 500, 502, 503, 504) or attempt == 3:
+                          raise
+                      delay = 3 * (2 ** attempt)
+                      print(f"RETRY {url}: HTTP {exc.code}, sleeping {delay}s", file=sys.stderr)
+                      time.sleep(delay)
+                  except (URLError, TimeoutError) as exc:
+                      if attempt == 3:
+                          raise
+                      delay = 3 * (2 ** attempt)
+                      print(f"RETRY {url}: {type(exc).__name__}, sleeping {delay}s", file=sys.stderr)
+                      time.sleep(delay)
               parser = HeadLinks()
               parser.feed(html.decode("utf-8", "replace"))
               wanted = RAW+relpath
@@ -90,7 +109,8 @@ jobs:
               raise RuntimeError("Suspiciously incomplete set of profiles")
           output = []
           errors = []
-          with ThreadPoolExecutor(max_workers=5) as pool:
+          # Lower concurrency to avoid burst-triggered shared-host/WAF throttling.
+          with ThreadPoolExecutor(max_workers=2) as pool:
               jobs = {pool.submit(inspect, item):item for item in targets}
               for task in as_completed(jobs):
                   try:
