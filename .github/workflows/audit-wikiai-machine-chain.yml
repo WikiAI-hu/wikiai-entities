@@ -190,6 +190,8 @@ jobs:
               "/suti-tajekoztato/": 448,
               "/ai-atlathatosag-szerzoi-jogok/": 452,
               "/wikiai-hu/": 637,
+              "/arak/": 202,
+              "/faq/": 47,
           }
           PRIMARY = "+36702264545"
           SECONDARY = "+36707784012"
