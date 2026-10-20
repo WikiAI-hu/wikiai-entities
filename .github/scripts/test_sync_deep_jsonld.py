@@ -79,6 +79,12 @@ class TestMirror(unittest.TestCase):
             for warning in result['warnings']
         ))
 
+    def test_mainentityofpage_object_without_id_warns(self):
+        data = sample()
+        data['@graph'][2]['mainEntityOfPage'] = {'@type': 'WebPage'}
+        result = mod.find_deep_graph(wrap(data), CANON)
+        self.assertTrue(any('mainEntityOfPage object lacks an @id' in x for x in result['warnings']))
+
     def test_explicit_wrong_editor_is_flagged(self):
         data = sample()
         data['@graph'][2]['editor'] = {'@id': 'https://example.com/#different-person'}
