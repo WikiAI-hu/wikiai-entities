@@ -65,6 +65,26 @@ class TestMirror(unittest.TestCase):
         self.assertTrue(any('author' in x for x in result['warnings']))
         self.assertNotIn('author', d['@graph'][2])
 
+    def test_valid_mainentityofpage_reference_and_optional_editor_fields(self):
+        data = sample()
+        article = data['@graph'][2]
+        article['mainEntityOfPage'] = {'@id': CANON}
+        del article['editor']
+        del article['accountablePerson']
+        result = mod.find_deep_graph(wrap(data), CANON)
+        self.assertFalse(any(
+            'Article.mainEntityOfPage' in warning or
+            'Article.editor' in warning or
+            'Article.accountablePerson' in warning
+            for warning in result['warnings']
+        ))
+
+    def test_explicit_wrong_editor_is_flagged(self):
+        data = sample()
+        data['@graph'][2]['editor'] = {'@id': 'https://example.com/#different-person'}
+        result = mod.find_deep_graph(wrap(data), CANON)
+        self.assertTrue(any('Article.editor' in warning for warning in result['warnings']))
+
     def test_legacy_varganya_article_about_restaurant(self):
         data = sample('https://restaurant.example/#restaurant')
         data['@graph'] = [n for n in data['@graph'] if 'WebPage' not in mod.node_types(n)]
