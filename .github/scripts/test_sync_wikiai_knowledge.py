@@ -93,7 +93,7 @@ class KnowledgeTests(unittest.TestCase):
 
     def test_manifest_uses_dynamic_people(self):
         docs,p=mod.discover(pages())
-        roles={143:"founder",144:"cofounder",1334:"external_professional_partner"}
+        roles={143:"responsible_editor",144:"founder",1334:"external_professional_partner"}
         out=mod.update_manifest(docs,p,roles,"2026-10-17T11:00:00+00:00",
             {"people":[{"wordpress_post_id":145,"name":"Korábbi Partner"}],"documents":[]})
         self.assertEqual(len(out["people"]),3)
