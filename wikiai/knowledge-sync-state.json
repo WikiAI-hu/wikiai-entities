@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "source": "https://www.wikiai.hu/wp-json/wp/v2/pages",
   "managed": {
-    "wikiai/about.md": "caa33726134f034270bafc5884a913a0570ae1c2b643f67824e5b8bf63c9fde4",
-    "wikiai/contact.md": "c025c9c119c8476ba2dca288a8713416b2c78e4e8b3bba690b5958412e96dc23",
+    "wikiai/about.md": "7d7530b08155eee90eb8f8e9c63d461134806e5da694874404cb8e1ca0ee486c",
+    "wikiai/contact.md": "1f233aafa548e29f5c6634b8a25575fc9f7cadb4af8fea778d00001c1d09bc67",
     "wikiai/people/simon-imre.md": "8f4eb2965901e2b53748e87be596abe80735e1778716662c359c9279abd8accf",
     "wikiai/people/varhelyi-csanad.md": "e99948b4e8f9ae5e32dba74824308fbcbe8653688bef13b299d0b68eb1dbd1b2",
     "wikiai/people/varhelyi-viktoria.md": "6f2b7a94e8ceffad65c1950c53276112f084e627f9353336571454ba17696d3c",

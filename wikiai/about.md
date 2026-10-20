@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/rolunk/"
 source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-20T12:21:15+00:00"
-synced_at: "2026-10-20T13:30:32+00:00"
+source_last_modified: "2026-10-20T15:42:13+00:00"
+synced_at: "2026-10-20T15:49:00+00:00"
 ---
 
 # Rólunk
@@ -63,6 +63,8 @@ A WikiAI.hu **2026. szeptember 8-án** indult el. **Alapítója Várhelyi Viktó
 **[Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)** a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. AI Weblapfejlesztő & SEO, AEO, GEO, LLMO szakértőként a szerkesztőségi kutatás, a forrásellenőrzés, az entitásértelmezés és a szakmai pontosság oldalát képviseli, több mint tíz év weboldalfejlesztési és keresőoptimalizálási tapasztalatára építve.
 
 **[Várhelyi Viktória](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)** a WikiAI.hu alapítója és AI-láthatósági specialista. A partnerkapcsolatok, az üzleti kommunikáció, az online reputáció, a sponsored tartalmak és a platform kereskedelmi együttműködéseinek oldalát képviseli.
+
+**WikiAI.hu telefonos elérhetőségei (hívási sorrend):** **elsődleges mobil:** [+36 70 226 4545](tel:+36702264545); **másodlagos mobil:** [+36 70 778 4012](tel:+36707784012).
 
 A WikiAI.hu saját [Crunchbase szervezeti adatlapja](https://www.crunchbase.com/organization/wikiai-hu) is nyilvánosan elérhető. Az adatlap a WikiAI.hu tudásplatformot azonosítja, míg az alapítói és a független szerkesztői szerepek részletei ezen az oldalon olvashatók.
 

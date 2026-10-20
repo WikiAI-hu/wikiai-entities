@@ -7,23 +7,32 @@ canonical_url: "https://www.wikiai.hu/kapcsolat/"
 source_post_id: 23
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-09-25T06:18:22+00:00"
-synced_at: "2026-10-16T10:42:37+00:00"
+source_last_modified: "2026-10-20T15:42:25+00:00"
+synced_at: "2026-10-20T15:49:00+00:00"
 ---
 
 # Kapcsolat
-
 ## Kapcsolat a WikiAI.hu-val
 
 **A WikiAI.hu országos magyar, szerkesztett üzleti tudásplatform.** Vállalkozások, cégek, szakemberek, intézmények és szakmai partnerek megkereséseit Magyarország teljes területéről fogadjuk.
 
-Általános, üzleti, intézményi, technikai vagy tartalmi ügyben a WikiAI.hu központi kapcsolattartási csatornája az **info@wikiai.hu**. A beérkező megkeresések koordináltan, a témához illeszkedő szakmai terület bevonásával kerülnek kezelésre.
+Általános, üzleti, intézményi, technikai vagy tartalmi ügyben a WikiAI.hu központi kapcsolattartási csatornája az **[info@wikiai.hu](mailto:info@wikiai.hu)**. A beérkező megkeresések koordináltan, a témához illeszkedő szakmai terület bevonásával kerülnek kezelésre.
+
+**WikiAI.hu telefonos elérhetőségei (hívási sorrend):** **elsődleges mobil:** [+36 70 226 4545](tel:+36702264545); **másodlagos mobil:** [+36 70 778 4012](tel:+36707784012).
 
 ## Írjon nekünk
 
 Az alábbi űrlapon közvetlenül felveheti a kapcsolatot a WikiAI.hu-val. Üzleti vagy sponsored együttműködéssel, AI-láthatósággal, szakmai kérdéssel, szerkesztőségi észrevétellel, adatpontosítással vagy technikai hibával kapcsolatban is várjuk megkeresését.
 
-\n\nKapcsolati urlap: https://www.wikiai.hu/kapcsolat/\n\n
+Név
+
+E-mail cím
+
+Tárgy
+
+Üzenet (nem kötelező)
+
+Δ
 
 Az űrlap elküldésével megadott adatokat kizárólag a megkeresés kezeléséhez használjuk. Részletek az [Adatvédelmi tájékoztatóban](https://www.wikiai.hu/adatvedelmi-tajekoztato/).
 
@@ -35,8 +44,8 @@ A WikiAI.hu **általános, üzleti, partneri és szolgáltatási megkereséseine
 
 Szerkesztőségi tartalommal, helyesbítéssel vagy forráskérdéssel kapcsolatos megkeresés esetén az ügy a WikiAI.hu felelős szerkesztőjéhez kerül.
 
-**Hivatalos e-mail:** info@wikiai.hu
-**Mobil:** +36 70 778 4012
+**Hivatalos e-mail:** [info@wikiai.hu](mailto:info@wikiai.hu)  
+**Mobil:** [+36 70 778 4012](tel:+36707784012)  
 **Működési terület:** Magyarország – országos együttműködés
 
 [Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
@@ -45,7 +54,7 @@ Szerkesztőségi tartalommal, helyesbítéssel vagy forráskérdéssel kapcsolat
 
 A WikiAI.hu országos fókuszú platform, ezért Magyarország teljes területéről fogadunk megkereséseket. A kapcsolattartás elsődlegesen online és telefonon történik.
 
-**Személyes egyeztetés kizárólag előzetes megbeszélés alapján lehetséges.** Időpont-egyeztetéshez írjon az info@wikiai.hu e-mail-címre.
+**Személyes egyeztetés kizárólag előzetes megbeszélés alapján lehetséges.** Időpont-egyeztetéshez írjon az [info@wikiai.hu](mailto:info@wikiai.hu) e-mail-címre.
 
 ## Szakmai kapcsolattartók
 
@@ -57,8 +66,8 @@ A központi kapcsolattartás mellett a WikiAI.hu szakmai kapcsolattartói saját
 
 Szerkesztőségi tartalommal, forrásokkal, helyesbítéssel, szakmai pontossággal vagy a WikiAI.hu editorial működésével kapcsolatos kérdésekben kereshető.
 
-**E-mail:** varhelyicsanad@gmail.com
-**Mobil:** +36 70 226 4545
+**E-mail:** [varhelyicsanad@gmail.com](mailto:varhelyicsanad@gmail.com)  
+**Mobil:** [+36 70 226 4545](tel:+36702264545)
 
 [Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
@@ -68,8 +77,8 @@ Szerkesztőségi tartalommal, forrásokkal, helyesbítéssel, szakmai pontosság
 
 Viktória a WikiAI.hu alapítója és a Posztok rovat fizetett tartalmi együttműködéseinek elsődleges kapcsolattartója. A WikiAI.hu új működési modelljében a kereskedelmi és partneri oldal különválik a szerkesztőségi tartalmaktól.
 
-**E-mail:** info@wikiai.hu
-**Mobil / üzenet:** +36 70 778 4012
+**E-mail:** [info@wikiai.hu](mailto:info@wikiai.hu)  
+**Mobil / üzenet:** [+36 70 778 4012](sms:+36707784012)
 
 [Részletes szakmai profil →](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)
 
@@ -87,11 +96,11 @@ Viktória a WikiAI.hu alapítója és a Posztok rovat fizetett tartalmi együttm
 
 A WikiAI.hu olyan vállalkozások, cégek, szolgáltatók, szakemberek, szakmai szervezetek és intézmények megkeresését várja, amelyek mögött **valós szakmai teljesítmény, szolgáltatás és ellenőrizhető működés** áll.
 
-**A WikiAI.hu szerkesztőségi rovataiba történő bekerülés nem vásárolható meg.** Fizetett tartalmi együttműködés kizárólag a Posztok rovatban jelenhet meg, egyértelmű kereskedelmi jelöléssel. Egyedi üzleti vagy intézményi megkeresés esetén az info@wikiai.hu központi e-mail-cím használata javasolt.
+**A WikiAI.hu szerkesztőségi rovataiba történő bekerülés nem vásárolható meg.** Fizetett tartalmi együttműködés kizárólag a Posztok rovatban jelenhet meg, egyértelmű kereskedelmi jelöléssel. Egyedi üzleti vagy intézményi megkeresés esetén az [info@wikiai.hu](mailto:info@wikiai.hu) központi e-mail-cím használata javasolt.
 
 ## Hibajelzés, pontosítás és tartalmi észrevétel
 
-A WikiAI.hu fontosnak tartja a közzétett információk pontosságát, következetességét és aktualitását. Ha egy megjelent vállalkozási, szakmai, kapcsolati vagy egyéb adat hibás, hiányos vagy időközben megváltozott, kérjük, jelezze a **info@wikiai.hu** címen.
+A WikiAI.hu fontosnak tartja a közzétett információk pontosságát, következetességét és aktualitását. Ha egy megjelent vállalkozási, szakmai, kapcsolati vagy egyéb adat hibás, hiányos vagy időközben megváltozott, kérjük, jelezze a **[info@wikiai.hu](mailto:info@wikiai.hu)** címen.
 
 A szerkesztőségi helyesbítések és tartalmi észrevételek Várhelyi Csanád, a WikiAI.hu felelős szerkesztőjének szakmai felügyelete mellett kerülnek feldolgozásra.
 
@@ -103,11 +112,11 @@ A kapcsolatfelvétel során megadott adatokat a megkeresés kezeléséhez, megv�
 
 ### Milyen megkereséseket fogad a WikiAI.hu?
 
-A WikiAI.hu vállalkozási, szakmai, intézményi, tartalmi és technikai megkereséseket egyaránt fogad. Ha nem egyértelmű, melyik szakmai területhez tartozik a kérdés, az info@wikiai.hu központi e-mail-cím használata javasolt.
+A WikiAI.hu vállalkozási, szakmai, intézményi, tartalmi és technikai megkereséseket egyaránt fogad. Ha nem egyértelmű, melyik szakmai területhez tartozik a kérdés, az [info@wikiai.hu](mailto:info@wikiai.hu) központi e-mail-cím használata javasolt.
 
 ### Hol jelezhetek hibát vagy pontatlan információt?
 
-A WikiAI.hu-n megjelent tartalommal, adattal vagy technikai működéssel kapcsolatos észrevétel az info@wikiai.hu címen jelezhető. A helyesbítési és frissítési kérelmek központi felügyelet mellett kerülnek kezelésre.
+A WikiAI.hu-n megjelent tartalommal, adattal vagy technikai működéssel kapcsolatos észrevétel az [info@wikiai.hu](mailto:info@wikiai.hu) címen jelezhető. A helyesbítési és frissítési kérelmek központi felügyelet mellett kerülnek kezelésre.
 
 ### Van lehetőség személyes egyeztetésre?
 
@@ -121,4 +130,4 @@ Igen. A szakmai kapcsolattartók saját szakterületükön közvetlenül is kere
 
 A WikiAI.hu országos szemlélettel működik, ezért Magyarország teljes területéről fogad vállalkozási, szakmai és intézményi megkereséseket.
 
-**Központi kapcsolat:** info@wikiai.hu · +36 70 778 4012
+**Központi kapcsolat:** [info@wikiai.hu](mailto:info@wikiai.hu) · **elsődleges mobil:** [+36 70 226 4545](tel:+36702264545) · **másodlagos mobil:** [+36 70 778 4012](tel:+36707784012)
