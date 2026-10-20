@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-10-20T17:49:17+02:00"
+last_updated: "2026-10-20T19:44:37+02:00"
 location:
   country: "HU"
 identifiers:
@@ -224,6 +224,8 @@ A WikiAI.hu elsődleges hivatalos felülete a [www.wikiai.hu](https://www.wikiai
 - [Instagram](https://www.instagram.com/wikiai.hu/)
 - [YouTube](https://www.youtube.com/@wikiai-hu)
 - [GitHub](https://github.com/WikiAI-hu)
+
+**Szerkesztőségi iroda és térképi helyadat:** 4200 Hajdúszoboszló, Déryné utca 3. – [WikiAI.hu az OpenStreetMapen](https://www.openstreetmap.org/node/14303812090). Személyes egyeztetés kizárólag előzetes időpont-egyeztetéssel történik.
 
 Külső cég- és címtáradatok frissítése eltérő időben történhet. Ha egy külső profil és a WikiAI.hu hatályos jogi dokumentumai között üzemeltetői vagy kapcsolati eltérés van, az aktuális Impresszum és kapcsolódó jogi oldalak tekintendők elsődlegesnek.
 
