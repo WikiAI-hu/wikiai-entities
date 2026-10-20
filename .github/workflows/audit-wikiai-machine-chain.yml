@@ -167,3 +167,89 @@ jobs:
           if problems:
               sys.exit(1)
           PY
+
+      - name: Verify legal and public contact parity across HTML and machine records
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import sys
+          import time
+          from datetime import datetime
+          from urllib.error import HTTPError, URLError
+          from urllib.parse import urlsplit
+          from urllib.request import Request, urlopen
+
+          BASE = "https://www.wikiai.hu"
+          PAGES = {
+              "/rolunk/": 21,
+              "/kapcsolat/": 23,
+              "/impresszum/": 446,
+              "/adatvedelmi-tajekoztato/": 48,
+              "/altalanos-szerzodesi-feltetelek/": 49,
+              "/suti-tajekoztato/": 448,
+              "/ai-atlathatosag-szerzoi-jogok/": 452,
+              "/wikiai-hu/": 637,
+          }
+          PRIMARY = "+36702264545"
+          SECONDARY = "+36707784012"
+
+          def fetch(path):
+              req = Request(BASE + path, headers={
+                  "User-Agent": "WikiAI-Live-Fact-Consistency/1.0",
+                  "Accept": "text/html,application/json",
+                  "Cache-Control": "no-cache",
+              })
+              for attempt in range(4):
+                  try:
+                      with urlopen(req, timeout=38) as response:
+                          if urlsplit(response.geturl()).netloc != "www.wikiai.hu":
+                              raise RuntimeError("Unexpected redirect")
+                          return response.read(4_000_001).decode("utf-8", "replace")
+                  except HTTPError as exc:
+                      if exc.code not in (429, 500, 502, 503, 504) or attempt == 3:
+                          raise
+                  except (URLError, TimeoutError):
+                      if attempt == 3:
+                          raise
+                  time.sleep(2 ** attempt + 2)
+
+          problems = []
+          for page, post_id in PAGES.items():
+              try:
+                  public_html = fetch(page + "?wikiai_contact_consistency_check=1")
+                  record = json.loads(fetch(
+                      "/wp-content/uploads/wikiai-machine/v1/entries/post-" +
+                      str(post_id) + ".json"))
+                  machine_text = record.get("content_text", "").lower()
+                  checks = {
+                      "canonical URL": record.get("canonical_url") == BASE + page,
+                      "public primary data attribute": 'data-primary-telephone="' + PRIMARY + '"' in public_html,
+                      "public secondary data attribute": 'data-secondary-telephone="' + SECONDARY + '"' in public_html,
+                      "public primary telephone": "tel:" + PRIMARY in public_html,
+                      "public secondary telephone": "tel:" + SECONDARY in public_html,
+                      "machine primary phone": "+36 70 226 4545" in machine_text,
+                      "machine secondary phone": "+36 70 778 4012" in machine_text,
+                      "machine labels": "elsődleges mobil" in machine_text and "másodlagos mobil" in machine_text,
+                      "schema not missing": record.get("schema_status") == "ok",
+                  }
+                  try:
+                      generated = datetime.fromisoformat(record["generated_at"].replace("Z", "+00:00"))
+                      modified = datetime.fromisoformat(record["modified_at"].replace("Z", "+00:00"))
+                      checks["machine not older than published page"] = generated >= modified
+                  except (ValueError, TypeError, KeyError):
+                      checks["machine timestamps available"] = False
+                  for label, ok in checks.items():
+                      if not ok:
+                          problems.append(page + ": " + label)
+                          print("FAIL", page, label, file=sys.stderr)
+                  if all(checks.values()):
+                      print("PASS public HTML / machine parity", page)
+              except Exception as exc:
+                  problems.append(page + ": " + type(exc).__name__ + ": " + str(exc)[:160])
+                  print("FAIL", problems[-1], file=sys.stderr)
+          print("Audited", len(PAGES), "first-party pages for public HTML and machine record consistency;",
+                len(problems), "failures")
+          if problems:
+              sys.exit(1)
+          PY
