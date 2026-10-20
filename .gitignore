@@ -1,0 +1,38 @@
+# WikiAI public knowledge mirror: never stage local secrets or environment files
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+wp-config.php
+**/wp-config.php
+wp-config-*.php
+**/wp-config-*.php
+*.pem
+*.p12
+*.pfx
+*.key
+id_rsa
+id_ed25519
+
+# Private backups, databases and operational artifacts must never enter the public mirror
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+*.backup
+*.log
+*.zip
+*.tar.gz
+*.tgz
+private/
+secrets/
+backups/
+temp/
+*.swp
+.DS_Store
+
+# Live WordPress uploads are served from the website, not committed as source
+wp-content/uploads/
