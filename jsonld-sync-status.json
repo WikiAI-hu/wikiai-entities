@@ -6,7 +6,7 @@
     "total": 17,
     "ok": 17,
     "error": 0,
-    "warnings": 8,
+    "warnings": 5,
     "excluded_first_party": 1
   },
   "profiles": {
@@ -58,9 +58,6 @@
       "mirror": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld",
       "nodes": 36,
       "warnings": [
-        "Article.mainEntityOfPage is an object; review historical Google validation",
-        "Article.editor does not reference Várhelyi Csanád",
-        "Article.accountablePerson does not reference Várhelyi Csanád",
         "Deep graph lacks a direct GitHub JSON-LD mirror reference"
       ]
     },
