@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-10-20T17:42:30+02:00"
+last_updated: "2026-10-20T17:42:42+02:00"
 location:
   country: "HU"
 identifiers:
@@ -230,7 +230,8 @@ Külső cég- és címtáradatok frissítése eltérő időben történhet. Ha e
 ## Kapcsolat
 
 **Központi e-mail:** [info@wikiai.hu](mailto:info@wikiai.hu)
- **Telefon:** [+36 70 778 4012](tel:+36707784012)
+ **Elsődleges mobil:** [+36 70 226 4545](tel:+36702264545)
+ **Másodlagos mobil:** [+36 70 778 4012](tel:+36707784012)
  **Cím:** 4200 Hajdúszoboszló, Déryné utca 3., Magyarország
 
 Általános, üzleti és partneri megkeresések elsődleges kapcsolattartója Várhelyi Viktória. Szerkesztőségi, forrásellenőrzési, helyesbítési vagy szakmai szerkesztői ügyekben Várhelyi Csanád felelős szerkesztői szerepkörben jár el.
