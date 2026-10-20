@@ -282,3 +282,102 @@ jobs:
           if problems:
               sys.exit(1)
           PY
+- name: Verify live WikiAI editorial office JSON-LD across primary surfaces
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import sys
+          import time
+          from pathlib import Path
+          from urllib.parse import urlsplit
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError, URLError
+
+          BASE = "https://www.wikiai.hu"
+          EXPECTED = {"/": 30, "/kapcsolat/": 25, "/rolunk/": 41, "/wikiai-hu/": 46}
+          ORGANIZATION = "https://www.wikiai.hu/#organization"
+          PLACE = "https://www.wikiai.hu/#editorial-office"
+          MAP = "https://www.openstreetmap.org/node/14303812090"
+          LINKS = {
+              "https://aranyoldalak.hu/wikiai-hu.htm",
+              "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html",
+          }
+          SCRIPT = re.compile(r'(<script\b[^>]*>)(.*?)(</script\s*>)', re.I | re.S)
+          IS_JSONLD = re.compile(r'\btype\s*=\s*["\x27]application/ld\+json["\x27]', re.I)
+          mirror = json.loads(Path("wikiai/wikiai-hu.jsonld").read_text(encoding="utf-8"))
+          failures = []
+
+          def fetch(path):
+              url = BASE + path + ("&" if "?" in path else "?") + "wikiai_schema_audit=" + str(int(time.time()))
+              req = Request(url, headers={
+                  "User-Agent": "WikiAI-Schema-Consistency-Test/1.0",
+                  "Accept": "text/html",
+                  "Cache-Control": "no-cache",
+              })
+              for attempt in range(4):
+                  try:
+                      with urlopen(req, timeout=38) as response:
+                          if urlsplit(response.geturl()).netloc != "www.wikiai.hu":
+                              raise RuntimeError("Unexpected redirect host")
+                          return response.read(5_000_001).decode("utf-8", "replace")
+                  except HTTPError as exc:
+                      if exc.code not in (429, 500, 502, 503, 504) or attempt == 3:
+                          raise
+                  except (URLError, TimeoutError):
+                      if attempt == 3:
+                          raise
+                  time.sleep(2 ** attempt + 2)
+
+          for path, expected_nodes in EXPECTED.items():
+              try:
+                  html = fetch(path)
+                  graphs = []
+                  for m in SCRIPT.finditer(html):
+                      if not IS_JSONLD.search(m.group(1)):
+                          continue
+                      try:
+                          doc = json.loads(m.group(2))
+                      except json.JSONDecodeError:
+                          continue
+                      if isinstance(doc, dict) and isinstance(doc.get("@graph"), list):
+                          graphs.append(doc)
+                  matches = [
+                      doc for doc in graphs
+                      if any(isinstance(n, dict) and n.get("@id") == PLACE
+                             for n in doc["@graph"])
+                  ]
+                  if len(matches) != 1:
+                      raise ValueError("Expected exactly one office graph; found " + str(len(matches)))
+                  doc = matches[0]
+                  graph = doc["@graph"]
+                  if len(graph) != expected_nodes:
+                      raise ValueError("Graph count mismatch: " + str(len(graph)) + "/" + str(expected_nodes))
+                  ids = [n["@id"] for n in graph if isinstance(n, dict) and "@id" in n]
+                  if len(ids) != len(set(ids)):
+                      raise ValueError("Duplicate JSON-LD @id within graph")
+                  org = next(n for n in graph if n.get("@id") == ORGANIZATION)
+                  place = next(n for n in graph if n.get("@id") == PLACE)
+                  if org.get("telephone") != "+36702264545":
+                      raise ValueError("Incorrect organization telephone")
+                  if org.get("founder", {}).get("@id") != "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person":
+                      raise ValueError("Founder mismatch")
+                  if org.get("location") != {"@id": PLACE}:
+                      raise ValueError("Organization location missing")
+                  if not LINKS.issubset(set(org.get("sameAs", []))):
+                      raise ValueError("Organization directory profile links missing")
+                  if place.get("hasMap") != MAP:
+                      raise ValueError("Place.hasMap missing or different")
+                  address = place.get("address", {})
+                  if address.get("streetAddress") != "Déryné utca 3." or address.get("postalCode") != "4200" or address.get("addressLocality") != "Hajdúszoboszló" or address.get("addressCountry") != "HU":
+                      raise ValueError("Office address mismatch")
+                  if path == "/wikiai-hu/" and doc != mirror:
+                      raise ValueError("Public HFCM graph differs from GitHub JSON-LD mirror")
+                  print("PASS live office JSON-LD", path, "nodes", len(graph))
+              except Exception as exc:
+                  failures.append(path + " " + type(exc).__name__ + ": " + str(exc)[:200])
+                  print("FAIL live office JSON-LD", failures[-1], file=sys.stderr)
+          if failures:
+              sys.exit(1)
+          PY
