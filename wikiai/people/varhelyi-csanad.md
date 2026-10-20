@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-19T15:23:30+00:00"
-synced_at: "2026-10-19T19:17:28+00:00"
+source_last_modified: "2026-10-20T08:33:35+00:00"
+synced_at: "2026-10-20T09:59:39+00:00"
 relationship_to_wikiai: "founder"
 ---
 
@@ -21,7 +21,7 @@ relationship_to_wikiai: "founder"
 
 **Röviden:** olyan weboldalakat és digitális rendszereket épít, amelyek az emberek számára világosak és meggyőzőek, miközben a Google, a keresőrendszerek és a nagy nyelvi modellek számára is pontosabban értelmezhető információt adnak arról, hogy egy vállalkozás kicsoda, mivel foglalkozik, kinek segít és milyen szakmai bizonyítékok kapcsolódnak hozzá.
 
-**Szakmai identitása több, egymást kiegészítő nyilvános bizonyítékréteghez kapcsolódik:** saját kanonikus szakmai weboldalhoz és entitásprofilhoz, ORCID szerzői azonosítóhoz, Google Scholar profilhoz, három DOI-val azonosított Zenodo-publikációhoz, nyilvános szakmai Tudástárhoz és esettanulmányokhoz, valamint külső szerkesztett média- és podcastmegjelenésekhez. Ezek nem helyettesítik a szakmai értékelést, de egyértelműen visszakereshetővé teszik, mely munkák, publikációk és szakmai állítások kapcsolódnak Várhelyi Csanádhoz.
+**Szakmai identitása több, egymást kiegészítő nyilvános bizonyítékréteghez kapcsolódik:** saját kanonikus szakmai weboldalhoz és entitásprofilhoz, ORCID szerzői azonosítóhoz, OpenAlex szerzői profilhoz, Google Scholar profilhoz, három DOI-val azonosított Zenodo-publikációhoz, nyilvános szakmai Tudástárhoz és esettanulmányokhoz, valamint külső szerkesztett média- és podcastmegjelenésekhez. Ezek nem helyettesítik a szakmai értékelést, de egyértelműen visszakereshetővé teszik, mely munkák, publikációk és szakmai állítások kapcsolódnak Várhelyi Csanádhoz.
 
 Várhelyi Csanád a **WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője**. A platform szerkesztőségi kutatásáért, forrásellenőrzéséért, szakmai pontosságáért és az editorial tartalmak következetes rendszeréért felel. Saját vállalkozói szakmai tevékenységében AI-érthető weboldalakkal, SEO-val, AEO-val, GEO-val, LLMO-val, Entity Engineeringgel és strukturált webes információval foglalkozik.
 
@@ -101,6 +101,7 @@ Várhelyi Csanád a gyakorlati fejlesztés mellett független szakmai kutatási 
 - **DOI II:** [10.5281/zenodo.20422832](https://doi.org/10.5281/zenodo.20422832) · [Zenodo rekord](https://zenodo.org/records/20422832)
 - **DOI III:** [10.5281/zenodo.23295826](https://doi.org/10.5281/zenodo.23295826) · [Zenodo rekord](https://zenodo.org/records/23295826)
 - **ORCID:** [0009-0006-7599-3731](https://orcid.org/0009-0006-7599-3731)
+- **OpenAlex:** [Várhelyi Csanád szerzői profilja (A5135596920)](https://openalex.org/authors/A5135596920) · három kapcsolt Zenodo-publikáció
 - **Google Scholar:** [Várhelyi Csanád szerzői profilja](https://scholar.google.com/citations?user=8v2EfToAAAAJ)
 - **Medium:** [szakmai publikációk és cikkek](https://medium.com/@varhelyicsanad)
 - **Medium szakmai cikk:** [*WikiAI.hu: Helping Hungarian Businesses Be Understood in the Age of AI*](https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401c58a7)
