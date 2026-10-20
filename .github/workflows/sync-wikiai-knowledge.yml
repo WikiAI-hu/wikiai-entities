@@ -57,6 +57,22 @@ jobs:
           assert len({x["wordpress_post_id"] for x in p})==len(p), "Duplicate WordPress profile"
           print("Knowledge manifest verified:",len(m["documents"]),"core pages and",len(p),"published people")
           PY
+      - name: Validate published phone priorities in WordPress knowledge mirror
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          for path in ("wikiai/about.md", "wikiai/contact.md"):
+              body = Path(path).read_text(encoding="utf-8")
+              low = body.lower()
+              assert "70 226 4545" in body, f"Primary public phone missing: {path}"
+              assert "70 778 4012" in body, f"Secondary public phone missing: {path}"
+              assert "elsődleges mobil" in low and "másodlagos mobil" in low, (
+                  f"Explicit phone priority missing: {path}")
+              assert low.index("elsődleges mobil") < low.index("másodlagos mobil"), (
+                  f"Phone priority order wrong: {path}")
+              print("PASS public first-party phone hierarchy:", path)
+          PY
       - name: Commit validated WordPress knowledge mirrors
         shell: bash
         run: |
