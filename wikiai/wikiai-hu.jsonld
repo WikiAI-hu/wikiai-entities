@@ -68,7 +68,9 @@
         "https://www.google.com/maps?cid=6341027299872024739",
         "https://www.google.com/search?kgmid=/g/11nw114f0r&q=WikiAI.hu",
         "https://www.crunchbase.com/organization/wikiai-hu",
-        "https://huggingface.co/wikiaihu"
+        "https://huggingface.co/wikiaihu",
+        "https://aranyoldalak.hu/wikiai-hu.htm",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html"
       ],
       "hasOfferCatalog": {
         "@id": "https://www.wikiai.hu/wikiai-hu/#service-catalog"
@@ -126,7 +128,10 @@
       "logo": {
         "@id": "https://www.wikiai.hu/#logo"
       },
-      "telephone": "+36702264545"
+      "telephone": "+36702264545",
+      "location": {
+        "@id": "https://www.wikiai.hu/#editorial-office"
+      }
     },
     {
       "@type": "WebSite",
@@ -1088,6 +1093,20 @@
       "email": "info@wikiai.hu",
       "areaServed": "HU",
       "availableLanguage": "hu"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/#editorial-office",
+      "name": "WikiAI.hu szerkesztőségi iroda",
+      "url": "https://www.wikiai.hu/kapcsolat/",
+      "hasMap": "https://www.openstreetmap.org/node/14303812090",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Déryné utca 3.",
+        "postalCode": "4200",
+        "addressLocality": "Hajdúszoboszló",
+        "addressCountry": "HU"
+      }
     }
   ]
 }
