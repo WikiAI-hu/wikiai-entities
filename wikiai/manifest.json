@@ -7,7 +7,7 @@
   "source_of_truth": "https://www.wikiai.hu/",
   "sync_direction": "wordpress-to-github",
   "language_default": "hu-HU",
-  "last_updated": "2026-10-17T09:54:43+00:00",
+  "last_updated": "2026-10-20T13:30:32+00:00",
   "generator": "WikiAI GitHub Knowledge Mirror 1.0.0",
   "scope": "WikiAI.hu organization, services, pricing, team and contact knowledge",
   "documents": [
@@ -51,7 +51,7 @@
       "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
       "wordpress_post_id": 143,
       "name": "Várhelyi Csanád",
-      "relationship_to_wikiai": "founder"
+      "relationship_to_wikiai": "responsible_editor"
     },
     {
       "document_type": "person_profile",
@@ -59,7 +59,7 @@
       "canonical_url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
       "wordpress_post_id": 144,
       "name": "Várhelyi Viktória",
-      "relationship_to_wikiai": "cofounder"
+      "relationship_to_wikiai": "founder"
     },
     {
       "document_type": "person_profile",

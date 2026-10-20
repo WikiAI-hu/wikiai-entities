@@ -5,7 +5,10 @@
   "published_people": 3,
   "published_wordpress_page_count": 16,
   "updated_paths": [
-    "wikiai/people/varhelyi-csanad.md"
+    "wikiai/about.md",
+    "wikiai/manifest.json",
+    "wikiai/people/varhelyi-csanad.md",
+    "wikiai/people/varhelyi-viktoria.md"
   ],
   "orphan_managed_markdown": [],
   "orphan_unmanaged_markdown": [],
@@ -14,13 +17,13 @@
       "id": 143,
       "name": "Várhelyi Csanád",
       "path": "wikiai/people/varhelyi-csanad.md",
-      "role": "founder"
+      "role": "responsible_editor"
     },
     {
       "id": 144,
       "name": "Várhelyi Viktória",
       "path": "wikiai/people/varhelyi-viktoria.md",
-      "role": "cofounder"
+      "role": "founder"
     },
     {
       "id": 1334,

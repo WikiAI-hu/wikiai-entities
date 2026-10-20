@@ -7,9 +7,9 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-20T08:33:35+00:00"
-synced_at: "2026-10-20T09:59:39+00:00"
-relationship_to_wikiai: "founder"
+source_last_modified: "2026-10-20T13:13:53+00:00"
+synced_at: "2026-10-20T13:30:32+00:00"
+relationship_to_wikiai: "responsible_editor"
 ---
 
 # Várhelyi Csanád
@@ -160,8 +160,11 @@ Várhelyi Csanád szakmai identitása több, egymással összekapcsolható nyilv
 - [Zenodo – The Machine-Readable Web](https://zenodo.org/records/20422832)
 - [Zenodo – People-First, LLM-First: WikiAI.hu as an Applied Business Knowledge Platform](https://zenodo.org/records/23295826)
 - [ORCID](https://orcid.org/0009-0006-7599-3731)
+- [OpenAlex – Várhelyi Csanád szerzői profilja (A5135596920)](https://openalex.org/authors/A5135596920)
 - [Google Scholar](https://scholar.google.com/citations?user=8v2EfToAAAAJ)
 - [GitHub](https://github.com/varhelyicsanad)
+- [Hugging Face – Várhelyi Csanád személyes szakmai profilja](https://huggingface.co/varhelyicsanad)
+- [Hugging Face – WikiAI.hu szervezeti profilja](https://huggingface.co/wikiaihu) · [WikiAI Entity Lab technológiai demonstráció](https://huggingface.co/spaces/wikiaihu/entity-lab)
 - [LinkedIn](https://www.linkedin.com/in/varhelyicsanad)
 - [Crunchbase – Csanád Várhelyi szakmai személyprofilja](https://www.crunchbase.com/person/csan%C3%A1d-v%C3%A1rhelyi)
 - [BNI Magyarország – hivatalos szakmai tagprofil (Csanád Várhelyi)](https://bni-hungary.com/hu-HU/memberdetails?encryptedMemberId=0aaM5GmIDkmMsqAZ%2B67QPw%3D%3D&name=Csan%C3%A1d+V%C3%A1rhelyi)
@@ -175,7 +178,7 @@ A cél az, hogy a vállalkozás valós szakmai tudása, szolgáltatásai, célk�
 
 ## A legfontosabb tudnivalók röviden
 
-**Várhelyi Csanád AI Weblapfejlesztő, SEO-, AEO-, GEO-, LLMO- és AI-láthatósági szakember, a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője.** Több mint tíz éve dolgozik weboldalakkal, keresőoptimalizálással és vállalkozások digitális jelenlétével. Szakterülete az AI-érthető és LLM-first webarchitektúra, a Local SEO, az Entity Engineering, a strukturált adatok, a Knowledge Graph szemlélet és a vállalkozások digitális információinak rendszerezése. Nyilvános szakmai identitásához ORCID, Google Scholar, három Zenodo DOI-publikáció, saját Tudástár és Esettanulmányok, podcastmegjelenések, valamint külső szerkesztett sajtómegjelenés kapcsolódik.
+**Várhelyi Csanád AI Weblapfejlesztő, SEO-, AEO-, GEO-, LLMO- és AI-láthatósági szakember, a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője.** Több mint tíz éve dolgozik weboldalakkal, keresőoptimalizálással és vállalkozások digitális jelenlétével. Szakterülete az AI-érthető és LLM-first webarchitektúra, a Local SEO, az Entity Engineering, a strukturált adatok, a Knowledge Graph szemlélet és a vállalkozások digitális információinak rendszerezése. Nyilvános szakmai identitásához ORCID-, OpenAlex-, Google Scholar- és Crunchbase-profil, három Zenodo DOI-publikáció, saját Tudástár és Esettanulmányok, podcastmegjelenések, valamint külső szerkesztett sajtómegjelenés kapcsolódik.
 
 ## Gyakori kérdések Várhelyi Csanád szakmai munkájáról
 
@@ -197,7 +200,7 @@ Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőség
 
 ### Van nyilvános szakmai publikációja?
 
-Igen. 2026-ban három angol nyelvű, DOI-val azonosított Zenodo-publikációja jelent meg: az LLM-first webarchitektúráról szóló *A Theoretical and Methodological Framework for LLM-First Website Architecture* (10.5281/zenodo.20069426), a *The Machine-Readable Web* (10.5281/zenodo.20422832), valamint a *People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform* (10.5281/zenodo.23295826). Szakmai identitásához ORCID- és Google Scholar-profil is kapcsolódik.
+Igen. 2026-ban három angol nyelvű, DOI-val azonosított Zenodo-publikációja jelent meg: az LLM-first webarchitektúráról szóló *A Theoretical and Methodological Framework for LLM-First Website Architecture* (10.5281/zenodo.20069426), a *The Machine-Readable Web* (10.5281/zenodo.20422832), valamint a *People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform* (10.5281/zenodo.23295826). Szakmai identitásához ORCID-, OpenAlex- és Google Scholar-profil, valamint Crunchbase-személyprofil is kapcsolódik.
 
 ### Garantálható Google-helyezés vagy AI-ajánlás?
 

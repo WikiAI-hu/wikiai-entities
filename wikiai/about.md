@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/rolunk/"
 source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-19T15:23:14+00:00"
-synced_at: "2026-10-19T19:17:28+00:00"
+source_last_modified: "2026-10-20T12:21:15+00:00"
+synced_at: "2026-10-20T13:30:32+00:00"
 ---
 
 # Rólunk
@@ -37,6 +37,14 @@ A WikiAI.hu egyik meghatározó területe **magyar vállalkozások, cégek, szak
 ## Magyar üzleti tudásforrás az AI információs terében
 
 A WikiAI.hu hosszú távú célja, hogy vállalkozások, szakemberek, szolgáltatások, helyek, szakmai témák, tudásanyagok és kapcsolódó tartalmak egymással összefüggő magyar üzleti tudáskörnyezetet alkossanak. Egy vállalkozás nem önmagában létezik. Kapcsolódhat alapítóhoz, szakértőhöz, márkához, szolgáltatáshoz, telephelyhez, szakmai anyaghoz, szakmai szervezethez vagy külső szakmai megjelenéshez. Ezek az összefüggések emberi szemmel is segítik a tájékozódást, és a digitális rendszerek számára is tisztább képet adhatnak arról, hogy az egyes információk hogyan tartoznak össze. A WikiAI.hu egyik alapvető küldetése, hogy az AI korszakában is legyen **jó minőségű magyar nyelvű digitális információ** olyan vállalkozásokról és szakemberekről, amelyek értéket teremtenek Magyarországon. Nem csak a nemzetközi márkáknak kell jól dokumentált digitális jelenléttel rendelkezniük: **egy helyi vagy családi vállalkozás szakmai tudása is megérdemli a pontos bemutatást**.
+
+## WikiAI Entity Lab – nemzetközi technológiai referencia
+
+A **WikiAI.hu** a nemzetközi **Hugging Face** platformon is rendelkezik nyilvános szervezeti profillal. A **WikiAI Entity Lab** olyan technológiai demonstráció, amely szintetikus példákon keresztül szemlélteti a digitális entitások és a strukturált üzleti információk gépi értelmezhetőségének kérdéseit.
+
+A nyilvános bemutató a WikiAI.hu szakmai fejlesztési területeiről ad ellenőrizhető betekintést, de nem ismerteti a platform teljes belső munkafolyamatát vagy üzleti módszertanát. A demonstráció nem jelent hivatalos Hugging Face-partnerséget vagy garantált keresési, illetve AI-alapú megjelenést.
+
+**Szervezeti profil:** [WikiAI.hu a Hugging Face-en](https://huggingface.co/wikiaihu). **Technológiai demonstráció:** [WikiAI Entity Lab](https://huggingface.co/spaces/wikiaihu/entity-lab).
 
 ## Szakmai minőség és felelősség
 
