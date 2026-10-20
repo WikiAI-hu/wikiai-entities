@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/rolunk/"
 source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-20T15:42:13+00:00"
-synced_at: "2026-10-20T15:49:00+00:00"
+source_last_modified: "2026-10-20T17:53:00+00:00"
+synced_at: "2026-10-20T17:54:36+00:00"
 ---
 
 # Rólunk
@@ -69,6 +69,17 @@ A WikiAI.hu **2026. szeptember 8-án** indult el. **Alapítója Várhelyi Viktó
 A WikiAI.hu saját [Crunchbase szervezeti adatlapja](https://www.crunchbase.com/organization/wikiai-hu) is nyilvánosan elérhető. Az adatlap a WikiAI.hu tudásplatformot azonosítja, míg az alapítói és a független szerkesztői szerepek részletei ezen az oldalon olvashatók.
 
 A közös szemlélet lényege, hogy **a technológia és a tartalom nem különálló feladat, hanem ugyanannak a digitális jelenlétnek két oldala**, amely akkor működik jól, ha ugyanazt a vállalkozást ugyanazzal a pontossággal és szakmai hitelességgel mutatja be.
+
+## Külső adatlapok és gépi hivatkozások
+
+A WikiAI.hu szerkesztőségi irodája, nyilvános üzleti adatlapjai és gépi tartalomtükrei az alábbi külső felületeken is azonosíthatók. Ezek külön szolgáltatók rendszerei; az elsődleges, aktuális üzemeltetői és kapcsolattartási adatokat a [WikiAI.hu impresszuma](https://www.wikiai.hu/impresszum/) tartalmazza.
+
+- [OpenStreetMap – WikiAI.hu szerkesztőségi iroda](https://www.openstreetmap.org/node/14303812090) (4200 Hajdúszoboszló, Déryné utca 3.).
+- [Arany Oldalak – WikiAI.hu vállalkozási adatlap](https://aranyoldalak.hu/wikiai-hu.htm).
+- [Cylex – WikiAI.hu nyilvános adatlap](https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html).
+- [GitHub – WikiAI.hu nyilvános entitás- és tudástükör](https://github.com/WikiAI-hu/wikiai-entities).
+
+E külső hivatkozások azonosítható forrásokat jelölnek; önmagukban nem jelentenek keresőmotoros rangsorolási vagy AI-ajánlási garanciát.
 
 ## Küldetésünk
 
