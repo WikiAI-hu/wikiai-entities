@@ -62,7 +62,7 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
-          for path in ("wikiai/about.md", "wikiai/contact.md"):
+          for path in ("wikiai/about.md", "wikiai/contact.md", "wikiai/pricing.md"):
               body = Path(path).read_text(encoding="utf-8")
               low = body.lower()
               assert "70 226 4545" in body, f"Primary public phone missing: {path}"
