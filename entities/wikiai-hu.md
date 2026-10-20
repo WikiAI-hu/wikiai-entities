@@ -12,7 +12,7 @@ entity_id: "https://www.wikiai.hu/#organization"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 637
-last_updated: "2026-10-20T19:44:37+02:00"
+last_updated: "2026-10-20T19:51:34+02:00"
 location:
   country: "HU"
 identifiers:
@@ -224,6 +224,10 @@ A WikiAI.hu elsődleges hivatalos felülete a [www.wikiai.hu](https://www.wikiai
 - [Instagram](https://www.instagram.com/wikiai.hu/)
 - [YouTube](https://www.youtube.com/@wikiai-hu)
 - [GitHub](https://github.com/WikiAI-hu)
+- [Crunchbase – WikiAI.hu szervezeti profil](https://www.crunchbase.com/organization/wikiai-hu)
+- [Hugging Face – WikiAI.hu](https://huggingface.co/wikiaihu)
+- [Arany Oldalak – WikiAI.hu adatlap](https://aranyoldalak.hu/wikiai-hu.htm)
+- [Cylex – WikiAI.hu adatlap](https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html)
 
 **Szerkesztőségi iroda és térképi helyadat:** 4200 Hajdúszoboszló, Déryné utca 3. – [WikiAI.hu az OpenStreetMapen](https://www.openstreetmap.org/node/14303812090). Személyes egyeztetés kizárólag előzetes időpont-egyeztetéssel történik.
 
