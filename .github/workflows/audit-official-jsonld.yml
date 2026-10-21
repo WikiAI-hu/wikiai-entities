@@ -1,0 +1,33 @@
+name: Audit WikiAI official organization and office JSON-LD
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '26 5 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/audit-wikiai-office-jsonld.py'
+      - '.github/workflows/audit-official-jsonld.yml'
+      - 'wikiai/wikiai-hu.jsonld'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: wikiai-official-jsonld-audit
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out validated entity mirror
+        uses: actions/checkout@v4
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify cache-busted public HTML JSON-LD and GitHub mirror
+        run: python .github/scripts/audit-wikiai-office-jsonld.py
