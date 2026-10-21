@@ -130,7 +130,8 @@
         },
         {
           "@id": "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.md#document"
-        }
+        },
+        "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld"
       ],
       "potentialAction": {
         "@type": "ReadAction",

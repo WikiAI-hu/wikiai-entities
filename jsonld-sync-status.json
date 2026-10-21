@@ -6,7 +6,7 @@
     "total": 17,
     "ok": 17,
     "error": 0,
-    "warnings": 5,
+    "warnings": 0,
     "excluded_first_party": 1
   },
   "profiles": {
@@ -57,9 +57,7 @@
       "source": "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/",
       "mirror": "entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld",
       "nodes": 36,
-      "warnings": [
-        "Deep graph lacks a direct GitHub JSON-LD mirror reference"
-      ]
+      "warnings": []
     },
     "kohlberger-bau-kft": {
       "status": "ok",
@@ -101,10 +99,7 @@
       "source": "https://www.wikiai.hu/porvadaszok-matractisztitas-debrecen/",
       "mirror": "entities/porvadaszok-matractisztitas-debrecen.jsonld",
       "nodes": 38,
-      "warnings": [
-        "Deep graph lacks a direct GitHub Markdown mirror reference",
-        "Deep graph lacks a direct GitHub JSON-LD mirror reference"
-      ]
+      "warnings": []
     },
     "szines-pillanat-eskuvoi-fotozas-videozas": {
       "status": "ok",
@@ -131,11 +126,8 @@
       "status": "ok",
       "source": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
       "mirror": "entities/varganya-etterem-matraszentimre.jsonld",
-      "nodes": 39,
-      "warnings": [
-        "Legacy Article without WebPage/mainEntity: business resolved from verified Article.about",
-        "Deep graph lacks a direct GitHub Markdown mirror reference"
-      ]
+      "nodes": 40,
+      "warnings": []
     }
   }
 }

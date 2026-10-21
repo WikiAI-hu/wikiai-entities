@@ -84,7 +84,11 @@
       ],
       "datePublished": "2026-10-17",
       "dateModified": "2026-10-17",
-      "publishingPrinciples": "https://www.wikiai.hu/rolunk/"
+      "publishingPrinciples": "https://www.wikiai.hu/rolunk/",
+      "subjectOf": [
+        "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/porvadaszok-matractisztitas-debrecen.md",
+        "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/porvadaszok-matractisztitas-debrecen.jsonld"
+      ]
     },
     {
       "@type": "Article",

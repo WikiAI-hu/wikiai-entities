@@ -222,7 +222,10 @@
         {
           "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/#source-list"
         }
-      ]
+      ],
+      "mainEntity": {
+        "@id": "https://www.matraietterem.hu/#restaurant"
+      }
     },
     {
       "@type": "Restaurant",
@@ -848,6 +851,25 @@
         "@id": "https://www.wikiai.hu/#organization"
       },
       "description": "A WikiAI.hu Vargánya Étteremről szóló szerkesztőségi cikkének gépi JSON-LD tükre; nem sameAs kapcsolat."
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+      "url": "https://www.wikiai.hu/varganya-etterem-matraszentimre/",
+      "name": "Vargánya Étterem – WikiAI.hu",
+      "inLanguage": "hu-HU",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      },
+      "mainEntity": {
+        "@id": "https://www.matraietterem.hu/#restaurant"
+      },
+      "about": {
+        "@id": "https://www.matraietterem.hu/#restaurant"
+      },
+      "subjectOf": [
+        "https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/varganya-etterem-matraszentimre.md"
+      ]
     }
   ]
 }
