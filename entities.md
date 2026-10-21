@@ -5,7 +5,7 @@ This file is generated automatically from published WordPress posts in the **Vá
 - Source of truth: https://www.wikiai.hu/
 - Repository role: public, versioned machine-readable mirror
 - Sync direction: WordPress → GitHub
-- Last generated: 2026-10-21T07:58:47+00:00
+- Last generated: 2026-10-21T07:58:56+00:00
 
 ## Entities
 
