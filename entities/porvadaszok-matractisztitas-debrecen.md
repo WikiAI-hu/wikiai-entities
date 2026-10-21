@@ -14,7 +14,7 @@ publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 official_website: "https://porvadaszok.hu/"
 wordpress_post_id: 1517
-last_updated: "2026-10-17T10:31:14+02:00"
+last_updated: "2026-10-21T09:58:52+02:00"
 location:
   country: "HU"
 machine_attributes:
@@ -636,6 +636,8 @@ A Porvadászok mobil szolgáltatásként működik. A tisztításokat nem szemé
 - [Marketing Diamond Awards – 2019-es díjazottak](https://diamondawards.hu/marketing-diamond/dijazottak/2019)
 - [Kirby – tisztítógépek gyártójának weboldala](https://kirby.com/)
 - [Hotelstars Union – magyarországi szállodaminősítési program](https://www.hotelstars.eu/hungary/)
+
+**Nyilvános gépi adatmásolatok:** [GitHub Markdown](https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/porvadaszok-matractisztitas-debrecen.md) · [GitHub JSON-LD](https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/porvadaszok-matractisztitas-debrecen.jsonld). A szerkesztett bemutató elsődleges forrása ez a WikiAI.hu-oldal.
 
 **Bemutató:** WikiAI.hu · **Szerző és felelős szerkesztő:** Várhelyi Csanád
 
