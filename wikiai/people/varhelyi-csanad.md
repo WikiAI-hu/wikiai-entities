@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-21T17:08:00+00:00"
-synced_at: "2026-10-21T17:09:17.682Z"
+source_last_modified: "2026-10-21T17:10:32+00:00"
+synced_at: "2026-10-21T17:10:47.000Z"
 relationship_to_wikiai: "responsible_editor"
 ---
 
@@ -346,6 +346,10 @@ Az LLM-first weboldal-architektúráról, a gépileg olvasható webről és a ma
 - [BNI Magyarország – hivatalos szakmai tagprofil (Csanád Várhelyi)](https://bni-hungary.com/hu-HU/memberdetails?encryptedMemberId=0aaM5GmIDkmMsqAZ%2B67QPw%3D%3D&name=Csan%C3%A1d+V%C3%A1rhelyi)
 
 - [Medium](https://medium.com/@varhelyicsanad)
+- [Facebook – Várhelyi Csanád szakmai profilja](https://www.facebook.com/varhelyi.csanad)
+- [YouTube – Várhelyi Csanád szakmai csatornája](https://www.youtube.com/@venaidvcsanad)
+- [TikTok – Várhelyi Csanád](https://www.tiktok.com/@varhelyicsanad)
+- [X – Várhelyi Csanád](https://x.com/varhelyicsanad)
 
 A hivatkozások szerepe a **szakmai identitás és a szerzőség pontos, forrásalapú összekapcsolása**. Egy szakmai adatlap, DOI vagy Google-azonosító önmagában nem jelent hivatalos platformpartnerséget, független szakmai minősítést vagy garantált keresési eredményt.
 
