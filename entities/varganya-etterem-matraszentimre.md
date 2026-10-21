@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/varganya-etterem-matraszentimre/#restaurant"
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 75
-last_updated: "2026-09-25T19:59:25+02:00"
+last_updated: "2026-10-21T10:11:25+02:00"
 location:
   country: "HU"
 identifiers:
@@ -248,6 +248,8 @@ A Vargánya Étterem bemutatásához felhasználtuk az étteremről rendelkezés
 - [**Google Térkép**](https://www.google.com/maps?cid=18292804774410997775)
 - [**OpenStreetMap**](https://www.openstreetmap.org/node/11188881100)
 - [**Tripadvisor**](https://www.tripadvisor.com/Restaurant_Review-g1131875-d28090207-Reviews-Varganya_Etterem-Matraszentimre_Heves_County_Northern_Hungary.html)
+
+**Nyilvános gépi adatmásolatok:** [GitHub Markdown](https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/varganya-etterem-matraszentimre.md) · [GitHub JSON-LD](https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/varganya-etterem-matraszentimre.jsonld). A szerkesztett bemutató elsődleges forrása ez a WikiAI.hu-oldal.
 
 **Bemutató:** WikiAI.hu · **Szerző és felelős szerkesztő:** [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
