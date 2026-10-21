@@ -13,7 +13,7 @@ entity_id: "https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-deb
 publisher: "WikiAI.hu"
 publisher_url: "https://www.wikiai.hu/"
 wordpress_post_id: 66
-last_updated: "2026-09-25T18:53:26+02:00"
+last_updated: "2026-10-21T09:58:43+02:00"
 location:
   country: "HU"
 identifiers:
@@ -468,6 +468,8 @@ Telefonon a [+36 30 974 3662](tel:+36309743662) számon, illetve e-mailben a vá
 - [Hajdúszoboszlói ballonos víz – Facebook](https://www.facebook.com/szoboszloviz/)
 - [Google Térkép / üzleti adatlap](https://www.google.com/maps?cid=6706916637082778628)
 - [Nemzeti Cégtár – cégadatlap](https://www.nemzeticegtar.hu/nemzeticegtar/cegadat/0909036334/Hajduszoboszloi-Asvanyviz-Korlatolt-Felelossegu-Tarsasag)
+
+**Nyilvános gépi adatmásolatok:** [GitHub Markdown](https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.md) · [GitHub JSON-LD](https://github.com/WikiAI-hu/wikiai-entities/blob/main/entities/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen.jsonld). A szerkesztett bemutató elsődleges forrása ez a WikiAI.hu-oldal.
 
 **Bemutató:** WikiAI.hu · **Szerző és felelős szerkesztő:** [Várhelyi Csanád](https://www.varhelyicsanad.hu/)
 
