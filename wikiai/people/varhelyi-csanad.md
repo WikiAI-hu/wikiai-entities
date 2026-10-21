@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-20T15:01:20+00:00"
-synced_at: "2026-10-20T15:07:20+00:00"
+source_last_modified: "2026-10-21T15:23:00+00:00"
+synced_at: "2026-10-21T15:29:37.938Z"
 relationship_to_wikiai: "responsible_editor"
 ---
 
@@ -32,6 +32,26 @@ Várhelyi Csanád szakmai háttere a klasszikus weboldalfejlesztésből, a keres
 A [mesterséges intelligencia](https://en.wikipedia.org/wiki/Artificial_intelligence) és a [nagy nyelvi modellek](https://en.wikipedia.org/wiki/Large_language_model) elterjedésével ez a kérdés új dimenziót kapott. A hagyományos keresők mellett ma már AI-rendszerek is értelmeznek, összefoglalnak és kapcsolnak össze nyilvánosan elérhető vállalati információkat. Várhelyi Csanád munkája ezért a weboldal vizuális és üzleti minősége mellett arra is figyel, hogy az információs szerkezet következetes, egyértelmű és hosszú távon karbantartható legyen.
 
 A szakmai szemlélet alapja egyszerű: **először a vállalkozást kell megérteni, és csak utána lehet jó digitális rendszert építeni köré.** Mit kínál? Kinek teremt értéket? Miben különbözik? Milyen helyekhez, személyekhez, szolgáltatásokhoz, szakmai forrásokhoz és bizonyítékokhoz kapcsolódik? Ezekből az üzleti válaszokból épül fel a technikai architektúra.
+
+## Életrajz, tanulmányok és a szakmai identitás
+
+**Várhelyi Csanád (nemzetközi névsorrendben Csanád Várhelyi)** magyar webfejlesztő, keresőoptimalizálási és AI-láthatósági szakember, az LLM-first weboldal-architektúra és a géppel értelmezhető digitális jelenlét gyakorlati és módszertani kérdéseinek kutatója. Budapesten született; szakmai működésének jelenlegi regionális központja Hajdúszoboszló, Hajdú-Bihar vármegyében. Ügyfelekkel Debrecen és a környező térség mellett országosan, online együttműködésben is dolgozik.
+
+### Tanulmányok és szakmai alapok
+
+Középfokú tanulmányait a győri **Deák Ferenc Közgazdasági és Informatikai Szakközépiskolában** végezte, ahol érettségit szerzett. A budapesti **Ruander Oktatási Központban 2016-ban webfejlesztői képzésen** vett részt, amelynek lezárásaként Ruander Webfejlesztő Tanúsítványt szerzett. A képzéshez a HTML, CSS, JavaScript és a webes szabványok alapjai kapcsolódtak. Ezekre a technikai alapokra épült a weboldalfejlesztés, a keresőoptimalizálás és később a strukturált, AI-érthető digitális rendszerek felé forduló szakmai pályája.
+
+### A webfejlesztéstől az LLM-first szemléletig
+
+Több mint egy évtizedes szakmai tevékenysége a vállalkozások webes jelenlétének kialakításából, fejlesztéséből és keresési megtalálhatóságának javításából indult. A hagyományos webfejlesztési és SEO-feladatok mellett egyre nagyobb hangsúlyt kapott a tartalmak pontos jelentése, a keresőmotorok számára feldolgozható szerkezet, az egyértelmű szakmai fogalomhasználat, majd az entitásazonosítás, a Knowledge Graph és a nagy nyelvi modellek számára értelmezhető információs architektúra. Munkáját egyszerre jellemzi a gyakorlati webfejlesztés, a vállalkozói igények megértése és a nyilvánosan dokumentált szakmai kutatás.
+
+### Személy, szakmai tevékenység és a WikiAI.hu kapcsolata
+
+**Várhelyi Csanád személyes szakmai identitása nem azonos a WikiAI.hu szervezeti és kiadói identitásával.** Saját tevékenysége weboldalkészítéshez, SEO-hoz, helyi kereséshez, AEO-, GEO- és LLMO-szemlélethez, strukturált adatokhoz és entitásépítéshez kapcsolódik. A WikiAI.hu-n ettől elkülönülő szerepben felelős szerkesztő és vezető szerkesztőségi szerző; ez a kapcsolat a szakmai publikációk és forrásellenőrzési munka révén dokumentálható. Az egyéni szakmai szolgáltatói, a természetes személyi és a portál szerkesztőségi szerepét a nyilvános információkban következetesen külön kezeljük.
+
+### Dokumentált Google Tudáspanel-megjelenés
+
+**2026. október 18-án Várhelyi Csanád nevére a Google keresési felületén önálló szakmai információs panel megjelenését dokumentálták.** A felület a személy nevét, portréját és szakmai megnevezését kapcsolódó webes profilok környezetében mutatta. Erről a WikiAI.hu [Google Tudáspanel és Knowledge Graph című esettanulmánya](https://www.wikiai.hu/google-tudaspanel-knowledge-graph-varhelyi-csanad-esettanulmany/) részletesen beszámol; a vizsgálat a konkrét, 2026. október 18-i keresési állapotot rögzíti, nem ígéri a panel állandó megjelenését. A korábbi saját entitásrekordban rögzített **személyes Google Knowledge Graph-azonosító: `/g/11mzcpwnjr`**; ez elkülönül a szolgáltatói, térképes vagy cégprofilhoz kapcsolódó azonosítóktól. A személy szakmai identitásának elsődleges, hosszú távon karbantartott bemutatási helye a WikiAI.hu jelen profiloldala.
 
 ## Fő szakmai területek
 
@@ -108,6 +128,48 @@ Várhelyi Csanád a gyakorlati fejlesztés mellett független szakmai kutatási 
 
 A publikációs azonosítók nem minőségi garanciák és nem helyettesítik a szakmai értékelést. Jelentőségük abban van, hogy a gondolatok névhez, tartós azonosítóhoz és nyilvánosan visszakereshető forráshoz kapcsolhatók.
 
+## Válogatott referenciamunkák és dokumentált szakmai szereplések
+
+A Várhelyi Csanád korábbi személyes weboldalán és szakmai entitásprofiljában szereplő portfólió többféle iparág és szolgáltatási környezet webes felépítését mutatja be. A közös szemlélet a vállalkozás valós tevékenységének, szolgáltatásainak, működési területének és szakmai bizonyítékainak érthető összekapcsolása. Az alábbi válogatás a korábban nyilvánosan megnevezett munkákból származik; az egyes projektek pontos feladatköre eltérő, ezért a felsorolás nem állít azonos mélységű közreműködést minden esetben.
+
+### Nyilvánosan bemutatott munkák és kapcsolódó projektek
+
+- **[Senior Életcentrum](https://www.senioreletcentrum.hu/):** az információk és a szolgáltatási válaszok áttekinthető, felhasználóbarát rendszerezése.
+
+- **[Csarnok-Gyártó Kft. / csarnokgyártás Debrecenben](https://www.wikiai.hu/csarnok-gyarto-kft/):** ipari szolgáltatások, szakterület és területi relevancia következetes bemutatása.
+
+- **[Gold Ablak Kft.](https://www.wikiai.hu/gold-ablak-kft/):** nyílászárókkal kapcsolatos szolgáltatási és helyi keresési információk; külön nyilvános webes esettanulmányokkal.
+
+- **[Hajdúszoboszlói Ásványvíz Kft. / ballonos víz](https://www.wikiai.hu/hajduszoboszloi-asvanyviz-kft-ballonos-viz-debrecen/):** a kiszállítási szolgáltatás és a helyi működési terület digitális tisztázása.
+
+- **[MineriSalt / Mineris Health Kft.](https://www.minerisalt.hu/):** márka-, gyártói és termékinformációk rendezett webes bemutatásának szakmai kontextusa.
+
+- **[BIPRESS Kft. / BIP-FLEX](https://www.wikiai.hu/bipress-kft-bip-flex/):** B2B gyártói és ipari beszállítói tevékenység, szakterületek és termék-/szolgáltatáskapcsolatok.
+
+- **[Bolyáki Antikvitás és Műhely / Bolyáki Manufaktúra](https://www.wikiai.hu/bolyaki-antikvitas-es-muhely-hajduszoboszlo/):** kézműves, egyedi bútorgyártási és restaurálási szakmai identitás.
+
+- **[Kohlberger Bau Kft.](https://www.wikiai.hu/kohlberger-bau-kft/) és [Kohlberger Építőanyag Kft.](https://www.wikiai.hu/kohlberger-epitoanyag-kft-tuzep-hajduszoboszlo/):** építőipari, kivitelezési és kereskedelmi szolgáltatások digitális kontextusa.
+
+- **[Török és Társai Kft. / Tömítésgyár](https://www.wikiai.hu/torok-es-tarsai-kft-tomitesgyar/):** ipari gyártási és beszállítói szakmai információk.
+
+- **[Némethy Consulting Kft.](https://www.wikiai.hu/nemethy-consulting-kft-nemethyne-nagy-judit/):** többféle szakmai szolgáltatás következetes, egymástól megkülönböztethető digitális leírása.
+
+- **[Színes Pillanat](https://www.wikiai.hu/szines-pillanat-eskuvoi-fotozas-videozas/):** fotós és videós szolgáltatási portfólió, földrajzi és szakmai pozicionálás.
+
+- **[Gyémánt Ingatlaniroda](https://www.wikiai.hu/gyemant-ingatlaniroda-salgotarjan/):** helyi ingatlanpiaci és vállalkozási jelenlét.
+
+- **[Vargánya Étterem](https://www.wikiai.hu/varganya-etterem-matraszentimre/):** vendéglátóhelyi identitás, helyi relevancia és strukturált információs kapcsolatok.
+
+Bizonyos további munkák nyilvános részleteit a megbízói üzleti érdekek és titoktartási kötelezettségek védelme miatt nem teszi közzé. A nyilvános referenciák önmagukban sem jelentenek minden felsorolt vállalkozásra azonos szolgáltatási garanciát vagy független szakmai minősítést.
+
+### Szakmai előadások és vállalkozói ismeretterjesztés
+
+**Debrecen, 2025:** korábbi szakmai bemutatkozó anyaga szerint az Ász Rendezvényházban vállalkozóknak tartott előadást *„AI és Google – miért fontos a cég strukturált megjelenése”* témában. Az előadás a pontos cég- és szolgáltatási információk, a weboldalak gépi értelmezhetősége és a keresési környezet változásának üzleti összefüggéseit tárgyalta.
+
+**Hajdúszoboszló, 2025:** turisztikai szereplőknek szóló szakmai előadásában az AI, a Google, a szálláshelyi weboldalak és a helyi keresési jelenlét kapcsolatával foglalkozott. A példák a szállodák, turisztikai szolgáltatók, foglalási szándékok és a digitálisan egyértelmű szolgáltatásbemutatás kérdéseit érintették.
+
+**Nyilvános videós szakmai tartalom:** az AI-alapú keresést és az AI-láthatóságot bemutató rövid ismeretterjesztő videók külön is elérhetők: [AI-keresés és AI-láthatóság I.](https://youtube.com/shorts/G6gG1te_MCk), [AI-láthatóság II.](https://youtube.com/shorts/oUFbZ5FkS6U) és [AI-érthető weboldalak III.](https://youtube.com/shorts/yk7Fan-QHak). A későbbi HVTV-podcast és a városi lapban megjelent írás a profil külön médiarovatában szerepel.
+
 ## Média- és podcastmegjelenések
 
 Várhelyi Csanád szakmai témái saját publikációs felületeken és külső szerkesztett médiumokban is megjelentek. A források eltérő szerepet töltenek be: a saját tartalmak a szakmai álláspont részletes kifejtését, a külső médiamegjelenések pedig független szerkesztői kontextust adnak.
@@ -145,6 +207,30 @@ Várhelyi Csanád szakmai és vállalkozói tevékenységéhez 2026-ban **Arany 
 [Arany Vállalkozás 2026 – nyilvános díjoldal →](https://www.aranyvallalkozas.eu/company/varhelyi-csanad-ai-weblapfejleszto-seo-aeo-llmo-szakerto-726447)
 
 Az elismerés ezen a profiloldalon külső szakmai forrásként szerepel; nem jelent garantált keresési helyezést, AI-ajánlást vagy más platform által biztosított eredményt.
+
+## Szakmai megközelítés, bizonyítékok és digitális azonosíthatóság
+
+### Emberek, keresők és AI-rendszerek számára értelmezhető webes jelenlét
+
+Várhelyi Csanád webfejlesztési szemléletében egy jó digitális rendszernek három egymást kiegészítő követelménynek kell megfelelnie: az emberi olvasó érti a vállalkozás ajánlatát; a keresőmotor világos tartalmi, navigációs és technikai szerkezetet talál; a gépi feldolgozást végző rendszerek pedig pontosabb kapcsolatot tudnak kialakítani a cég, a szolgáltatások, a helyek, a szakmai szereplők és az ellenőrizhető források között. Ezt a szemléletet korábbi szakmai főoldalán azzal a gondolattal foglalta össze, hogy nem csupán marketingweboldalt, hanem érthető digitális tudásrendszert kíván létrehozni.
+
+Az **LLM-first webarchitektúra** nem jelenti a hagyományos keresőoptimalizálás, a gyors oldalbetöltés vagy a jó felhasználói élmény elhagyását. A tényszerű, jól szerkesztett magyar tartalom, a szemantikus HTML, a következetes információhierarchia, az egyértelmű URL-ek és a szabványos strukturált adatok egymásra épülnek. Az **Entity Engineering** a személyes és vállalkozási azonosítók, szerepek és kapcsolatok rendezését jelenti; a **Knowledge Graph** az ezek közötti, állításokkal és forrásokkal alátámasztható összefüggések megjelenítését. A GEO, AEO és LLMO a keresési és válaszadási környezet változásához kapcsolódó tervezési szempontok, nem a nagy nyelvi modellek működésének közvetlen irányítására szolgáló eszközök.
+
+### Együttműködés és a fejlesztési munka alapelvei
+
+A szakmai munkafolyamat kiindulása a vállalkozás tényleges működésének feltárása: mit nyújt, kiknek, milyen területen, melyek a releváns szolgáltatások, és mit lehet mindebből nyilvánosan igazolni. Ezt követi a fogalmak és a digitális identitás rendszerezése, a megjelenítés és a technikai felépítés összehangolása, végül a dokumentálható, fenntartható átadás. Az ügyfél saját szakterületének ismerője marad, a webfejlesztő feladata pedig annak közérthető és géppel is következetesen értelmezhető reprezentációja.
+
+A több iparágra kiterjedő munkákban hangsúlyos a pontos tényállítás, a valós forrás, a helyi relevancia, az üzleti titkok védelme és a hosszú távú használhatóság. A módszertani alapelvek nem jelentenek hivatalos Google-, OpenAI- vagy más platformpartneri minősítést, és nem garantálnak keresési helyezést, AI-idézést, Tudáspanelt vagy konkrét üzleti eredményt.
+
+### Szakmai névváltozatok és online forráskapcsolatok
+
+A magyar névsorrend szerinti **Várhelyi Csanád** és az angol nyelvű publikációkban használt **Csanád Várhelyi** ugyanannak a személynek a névformái. A szakmai cikkek, a Zenodo-DOI-k, az ORCID, az OpenAlex, a Google Scholar, a GitHub, a Medium, a LinkedIn és a WikiAI.hu személyes profilja ugyanennek a szakmai életműnek eltérő típusú nyilvános dokumentumai. A régi önálló domain és az ottani entitásrekord történeti szakmai forrás; a WikiAI.hu-n található portfólió a digitális identitás rendezett, továbbfejlesztett központi bemutatása.
+
+A korábbi entitásrekord az egyéb nyilvános üzleti és szakmai hivatkozások között a [Qjob](https://qjob.hu/user/305747), az [Agroinform](https://www.agroinform.hu/partner/adatlap-267094), a [Cylex](https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/v%C3%A1rhelyi-csan%C3%A1d-%E2%80%93-weboldalk%C3%A9sz%C3%ADt%C3%A9s-%C3%A9s-ai-l%C3%A1that%C3%B3s%C3%A1g-1164077.html) és az [Instagram](https://www.instagram.com/varhelyicsanad/) elérhetőségét is megnevezte. Ezek hivatkozási pontok, nem a szakmai teljesítmény vagy a személyazonosság önálló, minden körülmények között hitelesítő tanúsítványai. A személyhez kötődő Google Knowledge Graph-, ORCID- és szerzői azonosítókat elkülönítjük a korábbi egyéni vállalkozási, Google Maps-, Place ID- és adóazonosítóktól.
+
+### Nyilvánosan követhető szakmai szerzőség
+
+Az LLM-first weboldal-architektúráról, a gépileg olvasható webről és a magyar vállalkozások AI-korszakbeli digitális értelmezhetőségéről szóló, **2026-ban kiadott három Zenodo-publikáció**, valamint a kapcsolódó szakmai cikkek és források a profil publikációs rovatában érhetők el. A két korábbi írás közül az LLM-first webarchitektúra módszertani keretét tárgyaló mű 2026. május 7-i, a *The Machine-Readable Web* című mű 2026. május 28-i megjelenési dátummal szerepel a korábbi szerzői anyagokban. Az időben később megjelent, WikiAI.hu-t vizsgáló harmadik művet az újabb WikiAI-portfólió ugyancsak feltünteti. A DOI az alkotás azonosítását és visszakereshetőségét segíti, nem jelent önmagában független lektorálást vagy tudományos minősítést.
 
 ## Nyilvános szakmai források és azonosítók
 
