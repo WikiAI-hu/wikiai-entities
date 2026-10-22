@@ -1,0 +1,1750 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "mainEntity": {
+        "@type": "Person",
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
+        "name": "Várhelyi Csanád",
+        "alternateName": ["Csanád Várhelyi", "Csanad Varhelyi"],
+        "givenName": "Csanád",
+        "familyName": "Várhelyi",
+        "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        "jobTitle": [
+          "AI Website Developer",
+          "SEO, AEO, GEO and LLMO Specialist",
+          "AI Visibility Specialist",
+          "Responsible Editor and Lead Editorial Author at WikiAI.hu",
+          "AI-weboldalfejlesztő",
+          "SEO-, AEO-, GEO- és LLMO-szakértő",
+          "AI-láthatósági szakember",
+          "A WikiAI.hu felelős szerkesztője",
+          "A WikiAI.hu vezető szerkesztőségi szerzője",
+          "Egyéni vállalkozó"
+        ],
+        "description": "Várhelyi Csanád magyar webfejlesztő, SEO- és AI-láthatósági szakember, a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. Szakterülete az AI-érthető weboldalfejlesztés, az LLM-first webarchitektúra, a SEO, a Local SEO, az AEO, a GEO és az LLMO. Önálló szakmai kutatási és publikációs munkát is végez. A WikiAI.hu-n szerkesztőségi kutatással, forrásellenőrzéssel, szakmai pontossággal és a webarchitektúra fejlesztésével is foglalkozik. Ettől elkülönülő szerepben, egyéni vállalkozóként webfejlesztési, SEO- és AI-láthatósági szolgáltatásokat nyújt.",
+        "identifier": "wikiai-person-varhelyi-csanad",
+        "sameAs": [
+          "https://www.google.com/search?kgmid=/g/11mzcpwnjr",
+          "https://orcid.org/0009-0006-7599-3731",
+          "https://scholar.google.com/citations?user=8v2EfToAAAAJ",
+          "https://www.linkedin.com/in/varhelyicsanad",
+          "https://github.com/varhelyicsanad",
+          "https://medium.com/@varhelyicsanad",
+          "https://huggingface.co/varhelyicsanad",
+          "https://www.youtube.com/@venaidvcsanad",
+          "https://www.tiktok.com/@varhelyicsanad",
+          "https://x.com/varhelyicsanad",
+          "https://www.facebook.com/varhelyi.csanad",
+          "https://bni-hungary.com/hu-HU/memberdetails?encryptedMemberId=0aaM5GmIDkmMsqAZ%2B67QPw%3D%3D&name=Csan%C3%A1d+V%C3%A1rhelyi",
+          "https://www.crunchbase.com/person/csan%C3%A1d-v%C3%A1rhelyi",
+          "https://openalex.org/authors/A5135596920",
+          "https://www.instagram.com/varhelyicsanad/",
+          "https://qjob.hu/user/305747",
+          "https://joszaki.hu/szakember/varhelyi-csanad-weboldalkeszites-es-ai-lathatosag"
+        ],
+        "memberOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-4208"},
+        "mainEntityOfPage": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"},
+        "image": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#portrait"},
+        "birthDate": "1991-11-08",
+        "birthPlace": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-budapest"},
+        "nationality": {"@id": "https://www.wikiai.hu/#country-hungary"},
+        "workLocation": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#office"},
+        "affiliation": {"@id": "https://www.wikiai.hu/#organization"},
+        "hasCredential": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ruander-credential"},
+        "knowsAbout": [
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#webdev"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#local-seo"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#aeo"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#geo"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llmo"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#jsonld"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#knowledge-graph"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entity-engineering"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#structured-data"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#semantic-html"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#schema-org"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#core-web-vitals"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wordpress"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#accessibility"},
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Graphic design",
+          "Photography",
+          "Journalism",
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#editorial-research"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#source-checking"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-communication"}
+        ],
+        "subjectOf": [
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#hvtv-video"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper-article"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#kg-case-study"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#joszaki-profile"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wikiai-role-section"}
+        ],
+        "worksFor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+        "owns": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+        "colleague": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-viktoria"},
+        "hasOccupation": [
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-occupation"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo-occupation"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#research-occupation"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#editorial-occupation"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entrepreneur-occupation"}
+        ],
+        "alumniOf": [
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#school-deak-ferenc-gyor"},
+          {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#training-ruander"}
+        ],
+        "disambiguatingDescription": "Hungarian individual professional, independent researcher and author. The person, his active sole proprietorship and the WikiAI.hu publishing organization are related but distinct entities.",
+        "gender": "https://schema.org/Male",
+        "knowsLanguage": ["hu", "en"],
+        "email": "varhelyicsanad@gmail.com",
+        "telephone": "+36702264545",
+        "contactPoint": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-contact"}
+      },
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "publisher": {"@id": "https://www.wikiai.hu/#organization"},
+      "hasPart": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#publications-section"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#articles-section"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#references-section"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ethics"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#services-section"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#media-section"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wikiai-role-section"}
+      ],
+      "mentions": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#web-development-service"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility-service"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-4208"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-talk-2026-10-06"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#tourism-talk-2025"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-web-project"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#own-podcast"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-video-1"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-video-2"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-video-3"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#office"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+      ],
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "name": "Várhelyi Csanád – AI Weblapfejlesztő | WikiAI.hu",
+      "headline": "Várhelyi Csanád - AI Weblapfejlesztő, SEO, AEO, GEO, LLMO szakértő",
+      "description": "Várhelyi Csanád AI-weblapfejlesztő és SEO-, AEO-, GEO-, LLMO-szakértő, a WikiAI.hu felelős szerkesztője. LLM-first webarchitektúra és AI-láthatóság.",
+      "inLanguage": "hu-HU",
+      "dateCreated": "2026-09-09T11:12:51+02:00",
+      "dateModified": "2026-10-22T12:07:46+02:00",
+      "datePublished": "2026-09-09T11:12:51+02:00",
+      "isAccessibleForFree": true,
+      "isPartOf": {"@id": "https://www.wikiai.hu/#website"},
+      "primaryImageOfPage": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#primaryimage"},
+      "breadcrumb": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#breadcrumb"},
+      "citation": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#hvtv-video"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper-article"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#kg-case-study"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#arany-vallalkozas-page"},
+        "https://orcid.org/0009-0006-7599-3731",
+        "https://scholar.google.com/citations?user=8v2EfToAAAAJ",
+        "https://www.agroinform.hu/partner/adatlap-267094"
+      ],
+      "image": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#primaryimage"},
+      "alternateName": "Csanád Várhelyi - Professional profile and portfolio"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#primaryimage",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-csanad-ai-weblapfejleszto-wikiaihu.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/varhelyi-csanad-ai-weblapfejleszto-wikiaihu.png",
+      "width": 1672,
+      "height": 941,
+      "caption": "Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"}
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Kezdőlap",
+          "item": "https://www.wikiai.hu/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Munkatársaink",
+          "item": "https://www.wikiai.hu/szakertok/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Várhelyi Csanád",
+          "item": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.wikiai.hu/#website",
+      "url": "https://www.wikiai.hu/",
+      "name": "WikiAI.hu",
+      "alternateName": "WikiAI",
+      "inLanguage": "hu-HU",
+      "publisher": {"@id": "https://www.wikiai.hu/#organization"},
+      "editor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"}
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "foundingDate": "2026-09-08",
+      "founder": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-viktoria"},
+      "publishingPrinciples": "https://www.wikiai.hu/ai-atlathatosag-szerzoi-jogok/",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "alternateName": "WikiAI",
+      "description": "Magyar vállalkozások AI-láthatósági platformja.",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.wikiai.hu/#wikiai-logo-square",
+        "url": "https://www.wikiai.hu/wp-content/uploads/2026/09/wikiailogo2.png",
+        "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/09/wikiailogo2.png",
+        "width": 1254,
+        "height": 1254,
+        "caption": "WikiAI.hu",
+        "name": "WikiAI.hu – négyzetes szervezeti logó",
+        "encodingFormat": "image/png"
+      },
+      "sameAs": [
+        "https://www.facebook.com/wikiai.hu",
+        "https://www.linkedin.com/company/145186386/",
+        "https://www.instagram.com/wikiai.hu/",
+        "https://www.youtube.com/@wikiai-hu",
+        "https://github.com/WikiAI-hu",
+        "https://huggingface.co/wikiaihu"
+      ],
+      "address": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-address"},
+      "location": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#office"},
+      "member": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wikiai-editorial-role"}
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-viktoria",
+      "name": "Várhelyi Viktória",
+      "affiliation": {"@id": "https://www.wikiai.hu/#organization"},
+      "colleague": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"}
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service",
+      "name": "Várhelyi Csanád egyéni vállalkozó",
+      "legalName": "Várhelyi Csanád egyéni vállalkozó",
+      "description": "Active Hungarian sole proprietorship of Csanád Várhelyi, providing website development, SEO and AI visibility services under the WikiAI.hu public-facing brand. VAT status: alanyi adómentes (AAM). The business is distinct from the natural person and the WikiAI.hu publishing organization.",
+      "duns": "302346624",
+      "iso6523Code": "0060:302346624",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Hungarian sole proprietor registration number",
+          "name": "Egyéni vállalkozói nyilvántartási szám",
+          "value": "62144267"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "D-U-N-S",
+          "name": "D-U-N-S Number",
+          "value": "302346624"
+        }
+      ],
+      "founder": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "owner": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "areaServed": [
+        {"@id": "https://www.wikiai.hu/#country-hungary"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#county-hajdu-bihar"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-debrecen"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-hajduszoboszlo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-budapest"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-gyor"}
+      ],
+      "contactPoint": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-contact"},
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "award": "Arany Vállalkozás 2026",
+      "subjectOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#arany-vallalkozas-page"},
+      "hasOfferCatalog": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#service-catalog"},
+      "alternateName": ["Csanád Várhelyi - Sole proprietor", "Csanad Varhelyi - Sole proprietor"],
+      "taxID": "91944555-1-29",
+      "address": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-address"},
+      "location": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#office"},
+      "brand": {"@id": "https://www.wikiai.hu/#organization"},
+      "telephone": "+36702264545",
+      "email": "varhelyicsanad@gmail.com",
+      "sameAs": [
+        "https://www.agroinform.hu/partner/adatlap-267094",
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/v%C3%A1rhelyi-csan%C3%A1d-%E2%80%93-weboldalk%C3%A9sz%C3%ADt%C3%A9s-%C3%A9s-ai-l%C3%A1that%C3%B3s%C3%A1g-1164077.html"
+      ],
+      "ethicsPolicy": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ethics"},
+      "foundingDate": "2025-01-01",
+      "makesOffer": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-creation"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-development"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-seo-local"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-structured-data"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-ai-visibility"}
+      ],
+      "logo": {"@id": "https://www.wikiai.hu/#wikiai-logo-square"}
+    },
+    {
+      "@type": "PostalAddress",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-address",
+      "streetAddress": "Déryné utca 3.",
+      "addressLocality": "Hajdúszoboszló",
+      "addressRegion": "Hajdú-Bihar",
+      "postalCode": "4200",
+      "addressCountry": "HU"
+    },
+    {
+      "@type": "Place",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#office",
+      "name": "WikiAI.hu iroda",
+      "description": "Public office and the registered business address of Várhelyi Csanád egyéni vállalkozó; not a claim about the person's residential address.",
+      "address": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-address"},
+      "containedInPlace": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-hajduszoboszlo"}
+    },
+    {
+      "@type": "ContactPoint",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-contact",
+      "contactType": "Professional enquiries and project quotations",
+      "email": "varhelyicsanad@gmail.com",
+      "telephone": "+36702264545",
+      "availableLanguage": ["hu", "en"],
+      "areaServed": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
+    },
+    {
+      "@type": "BusinessAudience",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-audience",
+      "name": "Businesses seeking website development and AI visibility",
+      "audienceType": "Sole proprietors, SMEs, local service providers, B2B and B2C businesses, professional experts, tourism and hospitality businesses",
+      "geographicArea": {"@id": "https://www.wikiai.hu/#country-hungary"}
+    },
+    {
+      "@type": "ServiceChannel",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#online-service-channel",
+      "name": "Online professional consultation",
+      "serviceUrl": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "servicePhone": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-contact"},
+      "servicePostalAddress": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-address"},
+      "availableLanguage": ["hu", "en"]
+    },
+    {
+      "@type": "Occupation",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-occupation",
+      "name": "Web developer",
+      "description": "Website development and AI-readable information architecture for business websites.",
+      "occupationLocation": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "WordPress",
+        "Semantic HTML",
+        "Schema.org",
+        "JSON-LD",
+        "Entity disambiguation",
+        "Core Web Vitals optimization",
+        "LLM-first website architecture"
+      ],
+      "alternateName": ["Webfejlesztő", "AI Website Developer"],
+      "sameAs": "https://www.wikidata.org/wiki/Q6859454"
+    },
+    {
+      "@type": "Occupation",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo-occupation",
+      "name": "SEO specialist",
+      "alternateName": ["SEO-szakértő", "Search engine optimization specialist"],
+      "sameAs": "https://www.wikidata.org/wiki/Q4048723",
+      "occupationLocation": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "skills": [
+        "Technical SEO",
+        "Local SEO",
+        "Google Business Profile optimization",
+        "Search intent analysis",
+        "Structured content",
+        "Google Search Console"
+      ]
+    },
+    {
+      "@type": "Occupation",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#research-occupation",
+      "name": "Independent researcher and author",
+      "description": "Independent conceptual and methodological research on LLM-first website architecture, machine-readable information, AI-mediated search and digital trust; documented through the linked DOI publications.",
+      "disambiguatingDescription": "Independent professional research activity; no university appointment, institutional research employment or peer-review status is asserted.",
+      "skills": [
+        "Conceptual analysis",
+        "Methodological research",
+        "LLM-first website architecture",
+        "Machine-readable web",
+        "AI-mediated search",
+        "Digital trust"
+      ]
+    },
+    {
+      "@type": "Occupation",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#editorial-occupation",
+      "name": "Responsible editor and lead editorial author",
+      "description": "Editorial research, source checking and professional accuracy for WikiAI.hu; distinct from the author's sole-proprietor service activities. A WikiAI.hu Vállalkozások, Cikkek, Hírek és Tudástár tartalmainál szerkesztőségi kutatást, forrásellenőrzést és szakmai pontossági szempontokat képvisel; a platform webarchitektúrájának és AI-érthető információs rendszerének fejlesztésében is közreműködik.",
+      "occupationLocation": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "alternateName": [
+        "Felelős szerkesztő és vezető szerkesztőségi szerző",
+        "A WikiAI.hu felelős szerkesztője",
+        "A WikiAI.hu vezető szerkesztőségi szerzője"
+      ],
+      "skills": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#editorial-research"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#source-checking"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-communication"}
+      ]
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#school-deak-ferenc-gyor",
+      "name": "Deák Ferenc Közgazdasági és Informatikai Szakközépiskola",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Győr",
+        "addressCountry": "HU"
+      },
+      "location": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-gyor"}
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#training-ruander",
+      "name": "Ruander Oktatási Központ",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Budapest",
+        "addressCountry": "HU"
+      },
+      "location": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-budapest"}
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ruander-credential",
+      "name": "Ruander Webfejlesztő Tanúsítvány",
+      "description": "Web development training completed at Ruander Oktatási Központ in 2016, covering HTML, CSS, JavaScript and web standards.",
+      "recognizedBy": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#training-ruander"},
+      "credentialCategory": "Tanúsítvány",
+      "competencyRequired": ["HTML", "CSS", "JavaScript", "Web standards"]
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#service-catalog",
+      "name": "Webfejlesztési és AI-láthatósági szolgáltatások",
+      "itemListElement": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-creation"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-development"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-seo-local"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-structured-data"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-ai-visibility"}
+      ],
+      "numberOfItems": 5
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#web-development-catalog",
+      "name": "Weboldalkészítési és webfejlesztési ajánlatok",
+      "numberOfItems": 2,
+      "itemListElement": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-creation"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-development"}
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#web-development-service",
+      "name": "Weboldalkészítés és weboldalfejlesztés",
+      "serviceType": "Weboldalkészítés, WordPress-weboldalak fejlesztése és megújítása",
+      "provider": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "areaServed": [
+        {"@id": "https://www.wikiai.hu/#country-hungary"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#county-hajdu-bihar"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-hajduszoboszlo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-debrecen"}
+      ],
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "alternateName": "Website creation and development",
+      "description": "Új weboldalak készítése és meglévő weboldalak fejlesztése. A két szolgáltatás egyedi projektajánlat alapján érhető el.",
+      "hasOfferCatalog": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#web-development-catalog"},
+      "availableChannel": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#online-service-channel"},
+      "audience": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-audience"}
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#website-creation-service",
+      "name": "Weboldalkészítés",
+      "alternateName": "AI-readable website creation",
+      "serviceType": "New website creation",
+      "description": "Új, AI-érthető vállalkozási weboldalak készítése szemantikus HTML-lel, strukturált tartalommal és keresőbarát információs szerkezettel. A végleges díj egyedi projektajánlat és egyeztetés alapján alakul. Alanyi adómentes (AAM).",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "provider": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "brand": {"@id": "https://www.wikiai.hu/#organization"},
+      "areaServed": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "audience": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-audience"},
+      "availableChannel": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#online-service-channel"},
+      "offers": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-creation"}
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-creation",
+      "name": "Weboldalkészítés",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "itemOffered": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#website-creation-service"},
+      "seller": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "eligibleRegion": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "description": "Új, AI-érthető vállalkozási weboldalak készítése szemantikus HTML-lel, strukturált tartalommal és keresőbarát információs szerkezettel. A végleges díj egyedi projektajánlat és egyeztetés alapján alakul. Alanyi adómentes (AAM)."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#website-development-service",
+      "name": "Webfejlesztés",
+      "alternateName": "Website development and restructuring",
+      "serviceType": "Existing website development and restructuring",
+      "description": "Meglevő weboldalak fejlesztése, megújítása és tartalmi vagy technikai újrastrukturálása, WordPress-alapú honlapok esetében is. A végleges díj egyedi projektajánlat és egyeztetés alapján alakul. Alanyi adómentes (AAM).",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "provider": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "brand": {"@id": "https://www.wikiai.hu/#organization"},
+      "areaServed": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "audience": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-audience"},
+      "availableChannel": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#online-service-channel"},
+      "offers": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-development"}
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-website-development",
+      "name": "Webfejlesztés",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "itemOffered": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#website-development-service"},
+      "seller": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "eligibleRegion": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "description": "Meglevő weboldalak fejlesztése, megújítása és tartalmi vagy technikai újrastrukturálása, WordPress-alapú honlapok esetében is. A végleges díj egyedi projektajánlat és egyeztetés alapján alakul. Alanyi adómentes (AAM)."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo-local-service",
+      "name": "SEO és helyi SEO",
+      "alternateName": "Search engine optimization and local SEO",
+      "serviceType": "SEO, local SEO and Google Business Profile optimization",
+      "description": "Keresőoptimalizálás, helyi keresési jelenlét, Google Cégprofil-optimalizálás és a vállalkozási információk következetes bemutatása. Egyedi ajánlat alapján.",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "provider": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "brand": {"@id": "https://www.wikiai.hu/#organization"},
+      "areaServed": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "audience": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-audience"},
+      "availableChannel": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#online-service-channel"},
+      "offers": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-seo-local"}
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-seo-local",
+      "name": "SEO és helyi SEO",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "itemOffered": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo-local-service"},
+      "seller": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "eligibleRegion": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "description": "Egyedi projektajánlat alapján."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#structured-data-service",
+      "name": "Strukturált adatok és entitástisztázás",
+      "alternateName": "Structured data and entity clarity",
+      "serviceType": "Schema.org, JSON-LD and entity disambiguation",
+      "description": "Schema.org- és JSON-LD-jelölések, stabil entitásazonosítók, szemantikus HTML és a látható tartalommal egyező kapcsolati struktúra kialakítása. Egyedi ajánlat alapján.",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "provider": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "brand": {"@id": "https://www.wikiai.hu/#organization"},
+      "areaServed": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "audience": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-audience"},
+      "availableChannel": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#online-service-channel"},
+      "offers": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-structured-data"}
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-structured-data",
+      "name": "Strukturált adatok és entitástisztázás",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "itemOffered": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#structured-data-service"},
+      "seller": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "eligibleRegion": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "description": "Egyedi projektajánlat alapján."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility-service",
+      "name": "AI-láthatóság, AEO, GEO és LLMO",
+      "alternateName": "AI visibility, AEO, GEO and LLMO",
+      "serviceType": "AI visibility audit and LLM-first information architecture",
+      "description": "AI-láthatósági audit, AEO-, GEO-, LLMO- és LLM-first szemléletű webes fejlesztés. A szolgáltatás nem ígér garantált Google-helyezést, AI-ajánlást vagy tudáspanel-megjelenést. Egyedi ajánlat alapján.",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "provider": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "brand": {"@id": "https://www.wikiai.hu/#organization"},
+      "areaServed": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "audience": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#business-audience"},
+      "availableChannel": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#online-service-channel"},
+      "offers": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-ai-visibility"}
+    },
+    {
+      "@type": "Offer",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#offer-ai-visibility",
+      "name": "AI-láthatóság, AEO, GEO és LLMO",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "itemOffered": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility-service"},
+      "seller": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"},
+      "eligibleRegion": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "description": "Egyedi projektajánlat alapján."
+    },
+    {
+      "@type": "Country",
+      "@id": "https://www.wikiai.hu/#country-hungary",
+      "name": "Magyarország",
+      "alternateName": "Hungary",
+      "sameAs": "https://www.wikidata.org/wiki/Q28"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-budapest",
+      "name": "Budapest",
+      "sameAs": "https://www.wikidata.org/wiki/Q1781",
+      "containedInPlace": {"@id": "https://www.wikiai.hu/#country-hungary"}
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-hajduszoboszlo",
+      "name": "Hajdúszoboszló",
+      "sameAs": "https://www.wikidata.org/wiki/Q830404",
+      "containedInPlace": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#county-hajdu-bihar"}
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-debrecen",
+      "name": "Debrecen",
+      "sameAs": "https://www.wikidata.org/wiki/Q79880",
+      "containedInPlace": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#county-hajdu-bihar"}
+    },
+    {
+      "@type": "AdministrativeArea",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#county-hajdu-bihar",
+      "name": "Hajdú-Bihar vármegye",
+      "sameAs": "https://www.wikidata.org/wiki/Q185368",
+      "containedInPlace": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "alternateName": "Hajdú-Bihar County"
+    },
+    {
+      "@type": "City",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-gyor",
+      "name": "Győr",
+      "sameAs": "https://www.wikidata.org/wiki/Q134494",
+      "containedInPlace": {"@id": "https://www.wikiai.hu/#country-hungary"}
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-global",
+      "name": "Business Network International",
+      "alternateName": "BNI",
+      "url": "https://www.bni.com/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-region",
+      "name": "BNI Északkelet Egység",
+      "url": "https://bnieszakkelet.hu/",
+      "parentOrganization": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-global"}
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-4208",
+      "name": "BNI 4208 – A Debreceni Kör",
+      "parentOrganization": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-region"},
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "BNI chapter",
+        "value": "4208"
+      },
+      "areaServed": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-debrecen"}
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#publications-section",
+      "name": "Várhelyi Csanád - három DOI-szakmai publikáció",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"},
+      "mainEntity": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#research-publications"}
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#research-publications",
+      "name": "Várhelyi Csanád - három DOI-szakmai publikáció",
+      "numberOfItems": 3,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {"@id": "https://zenodo.org/records/20069426#publication"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {"@id": "https://zenodo.org/records/20422832#publication"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {"@id": "https://zenodo.org/records/23295826#publication"}
+        }
+      ]
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#articles-section",
+      "name": "Várhelyi Csanád – Medium- és LinkedIn-szakmai írások",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"},
+      "mainEntity": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#authored-articles"}
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#references-section",
+      "name": "Várhelyi Csanád – nyilvános referenciamunkák",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"},
+      "mainEntity": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-projects"}
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://zenodo.org/records/20069426#publication",
+      "url": "https://zenodo.org/records/20069426",
+      "name": "A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search",
+      "headline": "A Theoretical and Methodological Framework for LLM-First Website Architecture: Conceptual Clarification, Industry Positioning, and Application Directions in the Era of Generative Search",
+      "description": "English-language working paper and conceptual methodological framework on LLM-first website architecture, AI-readable websites, generative search, AEO, GEO, LLMO, Entity Engineering and Knowledge Graph integration.",
+      "inLanguage": "en",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "name": "DOI",
+        "value": "10.5281/zenodo.20069426",
+        "url": "https://doi.org/10.5281/zenodo.20069426"
+      },
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.20069426",
+        "https://zenodo.org/records/20069426"
+      ],
+      "isAccessibleForFree": true,
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#aeo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#geo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llmo"}
+      ],
+      "datePublished": "2026-05-07",
+      "version": "v1",
+      "genre": ["Working paper", "Conceptual and methodological framework"],
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "copyrightYear": 2026,
+      "copyrightHolder": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "encoding": {
+        "@type": "MediaObject",
+        "contentUrl": "https://zenodo.org/records/20069426/files/A%20Theoretical%20and%20Methodological%20Framework%20for%20LLM-First%20Website%20Architecture.pdf?download=1",
+        "encodingFormat": "application/pdf"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://zenodo.org/records/20422832#publication",
+      "url": "https://zenodo.org/records/20422832",
+      "name": "The Machine-Readable Web",
+      "headline": "The Machine-Readable Web",
+      "description": "English-language professional publication by Csanád Várhelyi on the machine-readable web, AI search, LLM-first thinking, digital trust and their broader methodological context.",
+      "inLanguage": "en",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "name": "DOI",
+        "value": "10.5281/zenodo.20422832",
+        "url": "https://doi.org/10.5281/zenodo.20422832"
+      },
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.20422832",
+        "https://zenodo.org/records/20422832"
+      ],
+      "isAccessibleForFree": true,
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#knowledge-graph"}
+      ],
+      "datePublished": "2026-05-28",
+      "alternativeHeadline": "A historical, economic, and methodological publication on AI search, large language models, and digital trust",
+      "genre": "Conceptual and methodological publication"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://zenodo.org/records/23295826#publication",
+      "url": "https://zenodo.org/records/23295826",
+      "name": "People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform",
+      "headline": "People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform",
+      "description": "English-language conceptual and applied report by Csanád Várhelyi on people-first content, LLM-first information architecture, digital entity uncertainty, Hungarian SMEs, AI-mediated search, digital trust and WikiAI.hu as an applied business knowledge platform.",
+      "inLanguage": "en",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "name": "DOI",
+        "value": "10.5281/zenodo.23295826",
+        "url": "https://doi.org/10.5281/zenodo.23295826"
+      },
+      "sameAs": [
+        "https://doi.org/10.5281/zenodo.23295826",
+        "https://zenodo.org/records/23295826"
+      ],
+      "isAccessibleForFree": true,
+      "about": [
+        {"@id": "https://www.wikiai.hu/#organization"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#geo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llmo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entity-engineering"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#knowledge-graph"}
+      ],
+      "datePublished": "2026-10-11",
+      "version": "1.0",
+      "genre": "Conceptual and applied professional report",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "citation": [
+        {"@id": "https://zenodo.org/records/20069426#publication"},
+        {"@id": "https://zenodo.org/records/20422832#publication"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401c58a7",
+      "headline": "WikiAI.hu: Helping Hungarian Businesses Be Understood in the Age of AI",
+      "url": "https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401c58a7",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "en",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+        {"@id": "https://www.wikiai.hu/#organization"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/v%C3%A1rhelyi-csan%C3%A1d-ai-%C3%A9rthet%C5%91-weboldal-architekt%C3%BAra-%C3%A9s-ai-l%C3%A1that%C3%B3s%C3%A1g-aeo-geo-llmo-magyarorsz%C3%A1gon-3b429905ebb5",
+      "headline": "AI-érthető weboldal-architektúra és AI-láthatóság (AEO, GEO, LLMO) Magyarországon",
+      "url": "https://medium.com/@varhelyicsanad/v%C3%A1rhelyi-csan%C3%A1d-ai-%C3%A9rthet%C5%91-weboldal-architekt%C3%BAra-%C3%A9s-ai-l%C3%A1that%C3%B3s%C3%A1g-aeo-geo-llmo-magyarorsz%C3%A1gon-3b429905ebb5",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/hogyan-%C3%ADrta-%C3%A1t-az-ai-keres%C3%A9s-a-weboldalak-szerep%C3%A9t-%C3%A9s-mit-jelent-ez-a-magyar-%C3%A9s-eur%C3%B3pai-67760bf3128d",
+      "headline": "Hogyan írta át az AI-keresés a weboldalak szerepét - és mit jelent ez a magyar és európai vállalkozásoknak?",
+      "url": "https://medium.com/@varhelyicsanad/hogyan-%C3%ADrta-%C3%A1t-az-ai-keres%C3%A9s-a-weboldalak-szerep%C3%A9t-%C3%A9s-mit-jelent-ez-a-magyar-%C3%A9s-eur%C3%B3pai-67760bf3128d",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"}
+      ],
+      "isBasedOn": {"@id": "https://zenodo.org/records/20422832#publication"},
+      "datePublished": "2026-05-31"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/ai-l%C3%A1that%C3%B3s%C3%A1g-2026-mi%C3%A9rt-nem-aj%C3%A1nlja-a-c%C3%A9ged-az-ai-d788ec563ea7",
+      "headline": "AI-láthatóság 2026: miért nem ajánlja a céged az AI?",
+      "url": "https://medium.com/@varhelyicsanad/ai-l%C3%A1that%C3%B3s%C3%A1g-2026-mi%C3%A9rt-nem-aj%C3%A1nlja-a-c%C3%A9ged-az-ai-d788ec563ea7",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/gold-ablak-kft-hogyan-lett-egy-wordpress-oldalb%C3%B3l-ai-%C3%A9rthet%C5%91-tiszta-kivitelez%C5%91-entit%C3%A1s-65e5365576a7",
+      "headline": "Gold Ablak Kft. - Hogyan lett egy WordPress-oldalból AI-érthető, tiszta kivitelező entitás?",
+      "url": "https://medium.com/@varhelyicsanad/gold-ablak-kft-hogyan-lett-egy-wordpress-oldalb%C3%B3l-ai-%C3%A9rthet%C5%91-tiszta-kivitelez%C5%91-entit%C3%A1s-65e5365576a7",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-goldablak"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#structured-data"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/kohlberger-bau-kft-hogyan-%C3%A9p%C3%BCl-fel-a-digit%C3%A1lis-bizalom-%C3%A9s-egy-tiszta-ai-entit%C3%A1s-az-%C3%A9p%C3%ADt%C5%91iparban-731386d5bbf2",
+      "headline": "Kohlberger Bau Kft. - Hogyan épül fel a digitális bizalom és egy tiszta AI-entitás az építőiparban?",
+      "url": "https://medium.com/@varhelyicsanad/kohlberger-bau-kft-hogyan-%C3%A9p%C3%BCl-fel-a-digit%C3%A1lis-bizalom-%C3%A9s-egy-tiszta-ai-entit%C3%A1s-az-%C3%A9p%C3%ADt%C5%91iparban-731386d5bbf2",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-kohlberger-bau"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entity-engineering"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/mi%C3%A9rt-nem-tal%C3%A1lj%C3%A1k-meg-a-v%C3%A1llalkoz%C3%A1sod-a-google-ben-akkor-sem-ha-van-weboldalad-da9da700021c",
+      "headline": "Miért nem találják meg a vállalkozásod a Google-ben (akkor sem, ha van weboldalad)?",
+      "url": "https://medium.com/@varhelyicsanad/mi%C3%A9rt-nem-tal%C3%A1lj%C3%A1k-meg-a-v%C3%A1llalkoz%C3%A1sod-a-google-ben-akkor-sem-ha-van-weboldalad-da9da700021c",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#webdev"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e",
+      "headline": "Mi az LLM-first weboldal-architektúra, és miért számít az AI korszakban?",
+      "url": "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"}
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.linkedin.com/pulse/chatgpt-m%C3%A1r-nem-csak-ai-eszk%C3%B6z-magyarorsz%C3%A1gon-bizalmi-csan%C3%A1d-v%C3%A1rhelyi-mcz1f/",
+      "headline": "A ChatGPT már nem csak AI-eszköz Magyarországon, hanem bizalmi kérdés is",
+      "url": "https://www.linkedin.com/pulse/chatgpt-m%C3%A1r-nem-csak-ai-eszk%C3%B6z-magyarorsz%C3%A1gon-bizalmi-csan%C3%A1d-v%C3%A1rhelyi-mcz1f/",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"}
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.linkedin.com/pulse/google-keres%C5%91-ai-v%C3%A1laszg%C3%A9pp%C3%A9-v%C3%A1lik-mi%C3%A9rt-nem-el%C3%A9g-t%C3%B6bb%C3%A9-v%C3%A1rhelyi-tbu5f/",
+      "headline": "A Google kereső AI-válaszgéppé válik: miért nem elég többé a hagyományos megközelítés?",
+      "url": "https://www.linkedin.com/pulse/google-keres%C5%91-ai-v%C3%A1laszg%C3%A9pp%C3%A9-v%C3%A1lik-mi%C3%A9rt-nem-el%C3%A9g-t%C3%B6bb%C3%A9-v%C3%A1rhelyi-tbu5f/",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"}
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#authored-articles",
+      "name": "Várhelyi Csanád – Medium- és LinkedIn-szakmai írások",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/wikiai-hungarian-businesses-age-of-ai-ce5d401c58a7"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/v%C3%A1rhelyi-csan%C3%A1d-ai-%C3%A9rthet%C5%91-weboldal-architekt%C3%BAra-%C3%A9s-ai-l%C3%A1that%C3%B3s%C3%A1g-aeo-geo-llmo-magyarorsz%C3%A1gon-3b429905ebb5"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/hogyan-%C3%ADrta-%C3%A1t-az-ai-keres%C3%A9s-a-weboldalak-szerep%C3%A9t-%C3%A9s-mit-jelent-ez-a-magyar-%C3%A9s-eur%C3%B3pai-67760bf3128d"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/ai-l%C3%A1that%C3%B3s%C3%A1g-2026-mi%C3%A9rt-nem-aj%C3%A1nlja-a-c%C3%A9ged-az-ai-d788ec563ea7"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/gold-ablak-kft-hogyan-lett-egy-wordpress-oldalb%C3%B3l-ai-%C3%A9rthet%C5%91-tiszta-kivitelez%C5%91-entit%C3%A1s-65e5365576a7"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/kohlberger-bau-kft-hogyan-%C3%A9p%C3%BCl-fel-a-digit%C3%A1lis-bizalom-%C3%A9s-egy-tiszta-ai-entit%C3%A1s-az-%C3%A9p%C3%ADt%C5%91iparban-731386d5bbf2"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/mi%C3%A9rt-nem-tal%C3%A1lj%C3%A1k-meg-a-v%C3%A1llalkoz%C3%A1sod-a-google-ben-akkor-sem-ha-van-weboldalad-da9da700021c"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {"@id": "https://medium.com/@varhelyicsanad/mi-az-llm-first-weboldal-architekt%C3%BAra-%C3%A9s-mi%C3%A9rt-sz%C3%A1m%C3%ADt-az-ai-korszakban-2312819ce64e"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {"@id": "https://www.linkedin.com/pulse/chatgpt-m%C3%A1r-nem-csak-ai-eszk%C3%B6z-magyarorsz%C3%A1gon-bizalmi-csan%C3%A1d-v%C3%A1rhelyi-mcz1f/"}
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {"@id": "https://www.linkedin.com/pulse/google-keres%C5%91-ai-v%C3%A1laszg%C3%A9pp%C3%A9-v%C3%A1lik-mi%C3%A9rt-nem-el%C3%A9g-t%C3%B6bb%C3%A9-v%C3%A1rhelyi-tbu5f/"}
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-projects",
+      "name": "Várhelyi Csanád – nyilvános referenciamunkák",
+      "numberOfItems": 14,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-senior",
+            "name": "Senior Életcentrum",
+            "url": "https://www.senioreletcentrum.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Informational website for senior services, with AEO and LLM-first information architecture.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-senior"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-csarnok",
+            "name": "Csarnok-Gyártó Kft.",
+            "url": "https://www.csarnokgyartasdebrecen.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Industrial and B2B service website for hall manufacturing, with SEO and GEO context.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-csarnok"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-goldablak",
+            "name": "Gold Ablak Kft.",
+            "url": "https://www.goldablak.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Local window and installation service website, with GEO, AEO and structured entity information.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-goldablak"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-asvanyviz",
+            "name": "Hajdúszoboszlói Ásványvíz Kft.",
+            "url": "https://www.ballonosvizdebrecen.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Local bottled-water delivery website serving Debrecen and its surroundings.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-asvanyviz"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-mineris",
+            "name": "MineriSalt / Mineris Health Kft.",
+            "url": "https://www.minerisalt.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Manufacturer and brand website with entity-based SEO and LLM-first information architecture.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-mineris"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-bipress",
+            "name": "BIPRESS Kft. / BIP-FLEX",
+            "url": "https://www.hidraulikatomlogyartas.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Industrial hydraulic hose manufacturing and B2B supplier website with AEO and LLMO context.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-bipress"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-bolyaki",
+            "name": "Bolyáki Antikvitás és Műhely",
+            "url": "https://www.egyedibutorgyartasbudapest.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Custom furniture and restoration website with structured service information and Budapest service-area relevance.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-bolyaki"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-kohlberger-bau",
+            "name": "Kohlberger Bau Kft.",
+            "url": "https://www.kohlbergerbaudebrecen.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Construction contractor website with SEO, GEO and local service context.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-kohlberger-bau"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-kohlberger-epitoanyag",
+            "name": "Kohlberger Építőanyag Kft.",
+            "url": "https://www.epitoanyagdebrecen.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Building-material supplier website with regional service information and local SEO context.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-kohlberger-epitoanyag"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-tomitesgyar",
+            "name": "Török és Társai Kft. / Tömítésgyár",
+            "url": "https://www.tomitesgyarmagyarorszag.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Gasket manufacturing and industrial B2B supplier website with entity-based SEO and LLM-first information architecture.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-tomitesgyar"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-nemethy",
+            "name": "Némethy Consulting Kft. / Némethyné Nagy Judit",
+            "url": "https://www.nemethynenagyjudit.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Financial advisory and related service website identifying Némethy Consulting Kft. and Némethyné Nagy Judit as distinct entities.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-nemethy"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-szines-pillanat",
+            "name": "Színes Pillanat",
+            "url": "https://www.szinespillanat.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Wedding photography and videography website with semantic HTML, structured data and local service information.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-szines-pillanat"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-gyemant",
+            "name": "Gyémánt Ingatlaniroda",
+            "url": "https://hevesnogradingatlanok.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Regional real-estate service website for Salgótarján, Nógrád and Heves.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-gyemant"}
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "WebSite",
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#reference-varganya",
+            "name": "Vargánya Étterem",
+            "url": "https://www.matraietterem.hu/",
+            "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+            "description": "Restaurant and tourism website for the Vargánya Étterem in Mátraszentimre.",
+            "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-varganya"}
+          }
+        }
+      ],
+      "description": "Válogatott, a profiloldalon hivatkozott webes referenciák; a közreműködés pontos feladatköre projektenként eltérő."
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#hvtv-video",
+      "name": "HVTV Podcast – AI-érthető weboldalak és a vállalkozások jövője",
+      "description": "Podcast interview with Csanád Várhelyi about AI-readable websites, AI visibility and business information. Running time: 8 minutes 54 seconds.",
+      "url": "https://www.youtube.com/watch?v=nFFLQn7L3T0",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#hvtv",
+        "name": "Hajdúszoboszlói Városi Televízió",
+        "alternateName": "HVTV",
+        "url": "https://hvtv.hu/",
+        "sameAs": ["https://www.facebook.com/hvtvszoboszlo"]
+      },
+      "isAccessibleForFree": true,
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "genre": "Podcastinterjú",
+      "datePublished": "2026-07-19",
+      "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"}
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper-article",
+      "name": "A keresés világa is megváltozott",
+      "headline": "A keresés világa is megváltozott",
+      "description": "External editorial coverage of Csanád Várhelyi and AI-mediated business search, published on page 4 of the August 2026 issue of the local newspaper.",
+      "inLanguage": "hu-HU",
+      "pagination": "4",
+      "isAccessibleForFree": true,
+      "author": {
+        "@type": "Person",
+        "name": "Bánhegyi Zoltán"
+      },
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper-2026-08"}
+    },
+    {
+      "@type": "PublicationIssue",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper-2026-08",
+      "name": "HAJDÚSZOBOSZLÓ városi lap – 2026. augusztusi szám",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper"}
+    },
+    {
+      "@type": "Periodical",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper",
+      "name": "HAJDÚSZOBOSZLÓ városi lap",
+      "url": "https://hajduszoboszlo.eu/Hszob/CPage.aspx?key=481",
+      "publisher": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#hvtv"}
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#arany-vallalkozas-page",
+      "url": "https://www.aranyvallalkozas.eu/company/varhelyi-csanad-ai-weblapfejleszto-seo-aeo-llmo-szakerto-726447",
+      "name": "Várhelyi Csanád – Arany Vállalkozás 2026",
+      "inLanguage": "hu-HU",
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#arany-vallalkozas",
+        "name": "Arany Vállalkozás",
+        "url": "https://www.aranyvallalkozas.eu/"
+      },
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"}
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#kg-case-study",
+      "headline": "Google Tudáspanel és Knowledge Graph – Várhelyi Csanád esettanulmány",
+      "url": "https://www.wikiai.hu/google-tudaspanel-knowledge-graph-varhelyi-csanad-esettanulmany/",
+      "inLanguage": "hu",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "publisher": {"@id": "https://www.wikiai.hu/#organization"},
+      "description": "A 2026. október 18-i, Várhelyi Csanád nevéhez kapcsolódó dokumentált Google Tudáspanel-megjelenés esettanulmánya.",
+      "name": "Google Tudáspanel és Knowledge Graph – Várhelyi Csanád esettanulmány"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ethics",
+      "name": "Saját etikai szabályom – Várhelyi Csanád",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-etikai-alapelvek",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "description": "Egy városban, egy üzleti területen egy közvetlen versenyhelyzetben álló vállalkozás képviselete; szelektív együttműködés, bizalmas üzleti tudás védelme, tiszta érdekviszonyok és felelős vállalások.",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"}
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-video-1",
+      "name": "AI-keresés és AI-láthatóság I.",
+      "url": "https://www.youtube.com/shorts/G6gG1te_MCk",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+      "genre": "Szakmai rövidvideó"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-video-2",
+      "name": "AI-láthatóság II.",
+      "url": "https://www.youtube.com/shorts/oUFbZ5FkS6U",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+      "genre": "Szakmai rövidvideó"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-video-3",
+      "name": "AI-érthető weboldalak III.",
+      "url": "https://www.youtube.com/shorts/yk7Fan-QHak",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+      "genre": "Szakmai rövidvideó"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#own-podcast",
+      "name": "AI-láthatóság: szájhagyománytól a ChatGPT-ajánlásig",
+      "genre": "Szakmai podcast",
+      "inLanguage": "hu-HU",
+      "creator": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"}
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-talk-2026-10-06",
+      "name": "Várhelyi Csanád szakmai főelőadása – BNI Északkelet Egység, Debrecen",
+      "genre": "Szakmai előadás",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+      "description": "Várhelyi Csanád a BNI Északkelet Egység 2026. október 6-i debreceni üzleti találkozójának főelőadója volt. A találkozó meghirdetett időpontja 8:15–10:00, helyszíne az Ász Rendezvényház, Debrecen, Böszörményi út. Az előadás az AI-keresésről és a vállalkozások digitális jelenlétéről szólt.",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#aeo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#geo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llmo"}
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#tourism-talk-2025",
+      "name": "Várhelyi Csanád 2025-ös szakmai előadása turisztikai vállalkozóknak Hajdúszoboszlón",
+      "genre": "Szakmai előadás",
+      "description": "Szállodaipari és turisztikai vállalkozóknak szóló szakmai előadás az AI, a Google és a helyi online láthatóság kapcsolatáról.",
+      "author": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU",
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo"}
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-web-project",
+      "name": "BNI Északkelet Egység – AI- és weboldalfejlesztési projekt",
+      "url": "https://bnieszakkelet.hu/",
+      "description": "Várhelyi Csanád projektfázisban lévő AI- és weboldalfejlesztési közreműködése.",
+      "contributor": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-region"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#webdev",
+      "name": "Website development",
+      "alternateName": ["Weboldalkészítés", "Webfejlesztés"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo",
+      "name": "Search engine optimization",
+      "alternateName": ["SEO", "Keresőoptimalizálás"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "sameAs": "https://www.wikidata.org/wiki/Q180711"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#local-seo",
+      "name": "Local search engine optimization",
+      "alternateName": ["Local SEO", "Helyi keresőoptimalizálás"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai",
+      "name": "Artificial intelligence",
+      "alternateName": ["AI", "Mesterséges intelligencia"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "sameAs": "https://www.wikidata.org/wiki/Q11660"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm",
+      "name": "Large language model",
+      "alternateName": ["LLM", "Nagy nyelvi modell"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "sameAs": "https://www.wikidata.org/wiki/Q115305900"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#aeo",
+      "name": "Answer Engine Optimization",
+      "alternateName": ["AEO", "Válaszalapú keresőoptimalizálás"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#geo",
+      "name": "Generative Engine Optimization",
+      "alternateName": ["GEO", "Generatív keresési optimalizálás"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "sameAs": "https://www.wikidata.org/wiki/Q134083964"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llmo",
+      "name": "Large Language Model Optimization",
+      "alternateName": ["LLMO"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "sameAs": "https://www.wikidata.org/wiki/Q135001754"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first",
+      "name": "LLM-first website architecture",
+      "alternateName": ["LLM-first webarchitektúra"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "description": "The professional methodology discussed in the linked DOI publications; not a formal Google certification or ranking guarantee.",
+      "subjectOf": [
+        {"@id": "https://zenodo.org/records/20069426#publication"},
+        {"@id": "https://zenodo.org/records/20422832#publication"},
+        {"@id": "https://zenodo.org/records/23295826#publication"}
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#jsonld",
+      "name": "JSON-LD",
+      "alternateName": ["JavaScript Object Notation for Linked Data"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "sameAs": "https://www.wikidata.org/wiki/Q6108942"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#knowledge-graph",
+      "name": "Knowledge graph",
+      "alternateName": ["Tudásgráf"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "sameAs": "https://www.wikidata.org/wiki/Q33002955"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entity-engineering",
+      "name": "Entity Engineering",
+      "alternateName": ["Entitásépítés"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility",
+      "name": "AI visibility",
+      "alternateName": ["AI-láthatóság"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#services-section",
+      "name": "Webfejlesztési és AI-láthatósági szolgáltatások",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"},
+      "mainEntity": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#service-catalog"}
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-senior",
+      "name": "Senior Életcentrum",
+      "url": "https://www.senioreletcentrum.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-csarnok",
+      "name": "Csarnok-Gyártó Kft.",
+      "url": "https://www.csarnokgyartasdebrecen.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-goldablak",
+      "name": "Gold Ablak Kft.",
+      "url": "https://www.goldablak.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-asvanyviz",
+      "name": "Hajdúszoboszlói Ásványvíz Kft.",
+      "url": "https://www.ballonosvizdebrecen.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-mineris",
+      "name": "Mineris Health Kft.",
+      "url": "https://www.minerisalt.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-bipress",
+      "name": "BIPRESS Kft.",
+      "url": "https://www.hidraulikatomlogyartas.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-bolyaki",
+      "name": "Bolyáki Antikvitás és Műhely",
+      "url": "https://www.egyedibutorgyartasbudapest.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-kohlberger-bau",
+      "name": "Kohlberger Bau Kft.",
+      "url": "https://www.kohlbergerbaudebrecen.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-kohlberger-epitoanyag",
+      "name": "Kohlberger Építőanyag Kft.",
+      "url": "https://www.epitoanyagdebrecen.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-tomitesgyar",
+      "name": "Török és Társai Kft. / Tömítésgyár",
+      "url": "https://www.tomitesgyarmagyarorszag.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-nemethy",
+      "name": "Némethy Consulting Kft.",
+      "url": "https://www.nemethynenagyjudit.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-szines-pillanat",
+      "name": "Színes Pillanat",
+      "url": "https://www.szinespillanat.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-gyemant",
+      "name": "Gyémánt Ingatlaniroda",
+      "url": "https://hevesnogradingatlanok.hu/"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#client-varganya",
+      "name": "Vargánya Étterem",
+      "url": "https://www.matraietterem.hu/"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#joszaki-profile",
+      "name": "Várhelyi Csanád - Weboldalkészítés és AI láthatóság",
+      "url": "https://joszaki.hu/szakember/varhelyi-csanad-weboldalkeszites-es-ai-lathatosag",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "inLanguage": "hu-HU"
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#media-section",
+      "name": "Médiamegjelenések és szakmai szereplések",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-media",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"},
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "citation": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#hvtv-video"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#city-paper-article"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#bni-talk-2026-10-06"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#tourism-talk-2025"}
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#structured-data",
+      "name": "Structured data",
+      "alternateName": ["Strukturált adatok"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#semantic-html",
+      "name": "Semantic HTML",
+      "alternateName": ["Szemantikus HTML"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#schema-org",
+      "name": "Schema.org vocabulary",
+      "alternateName": ["Schema.org"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#core-web-vitals",
+      "name": "Core Web Vitals",
+      "alternateName": "Webes alapmutatók",
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "description": "Performance work involving Largest Contentful Paint (LCP), Interaction to Next Paint (INP) and Cumulative Layout Shift (CLS)."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wordpress",
+      "name": "WordPress website development",
+      "alternateName": ["WordPress-fejlesztés"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#accessibility",
+      "name": "Web accessibility",
+      "alternateName": ["Akadálymentes webes hozzáférés"],
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"},
+      "description": "Accessibility-aware structure and development; no formal accessibility certification is asserted."
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary",
+      "name": "Professional topics of Csanád Várhelyi",
+      "description": "Publicly described professional topics; not certifications, institutional affiliations or platform endorsements.",
+      "hasDefinedTerm": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#webdev"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#seo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#local-seo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#aeo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#geo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llmo"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llm-first"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#jsonld"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#knowledge-graph"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entity-engineering"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#structured-data"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#semantic-html"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#schema-org"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#core-web-vitals"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wordpress"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#accessibility"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#editorial-research"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#source-checking"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-communication"}
+      ],
+      "creator": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"}
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#portrait",
+      "name": "Várhelyi Csanád profilképe",
+      "url": "https://www.wikiai.hu/wp-content/uploads/2026/10/ChatGPT-Image-2026.-jul.-5.-09_29_55.png",
+      "contentUrl": "https://www.wikiai.hu/wp-content/uploads/2026/10/ChatGPT-Image-2026.-jul.-5.-09_29_55.png",
+      "width": 1254,
+      "height": 1254,
+      "encodingFormat": "image/png",
+      "caption": "Várhelyi Csanád – webfejlesztő, SEO- és AI-láthatósági szakember, a WikiAI.hu felelős szerkesztője.",
+      "about": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "representativeOfPage": true
+    },
+    {
+      "@type": "OrganizationRole",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wikiai-editorial-role",
+      "name": "Várhelyi Csanád szerkesztőségi szerepe a WikiAI.hu-n",
+      "roleName": ["Felelős szerkesztő", "Vezető szerkesztőségi szerző"],
+      "member": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+      "description": "Várhelyi Csanád a WikiAI.hu felelős szerkesztőjeként és vezető szerkesztőségi szerzőjeként szerkesztőségi kutatással, forrásellenőrzéssel, szakmai tartalomalkotással és a közölt információk pontosságával foglalkozik. A szerep az egyéni vállalkozói szolgáltatási tevékenységtől elkülönül.",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-wikiai-bni"
+    },
+    {
+      "@type": "Occupation",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entrepreneur-occupation",
+      "name": "Egyéni vállalkozó – webfejlesztés, SEO és AI-láthatóság",
+      "alternateName": "Sole proprietor - website development, SEO and AI visibility",
+      "description": "Várhelyi Csanád egyéni vállalkozóként weboldalkészítési, webfejlesztési, keresőoptimalizálási, helyi SEO-, strukturáltadat- és AI-láthatósági szolgáltatásokat nyújt. Az egyéni vállalkozás azonosítói az önálló vállalkozási csomópontban szerepelnek; ez a szerep nem azonos a WikiAI.hu szerkesztőségi tisztségével.",
+      "occupationLocation": {"@id": "https://www.wikiai.hu/#country-hungary"},
+      "skills": [
+        "Weboldalkészítés",
+        "Weboldalfejlesztés",
+        "SEO",
+        "Local SEO",
+        "AEO",
+        "GEO",
+        "LLMO",
+        "Strukturált adatok",
+        "AI-láthatósági audit"
+      ]
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wikiai-role-section",
+      "name": "WikiAI.hu-s szerkesztői szerep és egyéni vállalkozói tevékenység",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-wikiai-bni",
+      "inLanguage": "hu-HU",
+      "isPartOf": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"},
+      "about": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"},
+        {"@id": "https://www.wikiai.hu/#organization"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"}
+      ],
+      "mentions": [
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#wikiai-editorial-role"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#editorial-occupation"},
+        {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#entrepreneur-occupation"}
+      ],
+      "description": "Várhelyi Csanád a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője. A platformon szerkesztőségi kutatással, forrásellenőrzéssel, szakmai ismeretterjesztéssel és a webarchitektúra fejlesztésével foglalkozik. Emellett önálló egyéni vállalkozóként webfejlesztési, SEO- és AI-láthatósági szolgáltatásokat nyújt. A természetes személy, az egyéni vállalkozás és a WikiAI.hu kiadói szervezete külön, egymáshoz kapcsolódó szereplő."
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#editorial-research",
+      "name": "Szerkesztőségi kutatás",
+      "alternateName": "Editorial research",
+      "description": "Vállalkozásokhoz és szakmai témákhoz kapcsolódó információk feltárása és szerkesztőségi feldolgozása.",
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#source-checking",
+      "name": "Forrásellenőrzés",
+      "alternateName": "Source checking",
+      "description": "A szakmai tartalomalkotáshoz felhasznált források és tényállítások ellenőrzése.",
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-communication",
+      "name": "Szakmai ismeretterjesztés",
+      "alternateName": "Professional knowledge communication",
+      "description": "Webfejlesztési, keresőoptimalizálási és AI-láthatósági ismeretek közérthető bemutatása vállalkozások és szakmai közönség számára.",
+      "inDefinedTermSet": {"@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"}
+    }
+  ]
+}
