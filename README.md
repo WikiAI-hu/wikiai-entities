@@ -77,6 +77,7 @@ The WordPress pages and their active HFCM structured data are the first-party so
 - [WikiAI.hu official platform JSON-LD](wikiai/wikiai-hu.jsonld) — https://www.wikiai.hu/wikiai-hu/
 - [Munkatársaink team JSON-LD](wikiai/team.jsonld) — https://www.wikiai.hu/szakertok/
 - [Simon Imre person profile JSON-LD](wikiai/people/simon-imre.jsonld) — https://www.wikiai.hu/szakertok/simon-imre/
+- [Várhelyi Csanád deep Person/ProfilePage JSON-LD snapshot](wikiai/people/varhelyi-csanad.jsonld) — https://www.wikiai.hu/szakertok/varhelyi-csanad/ (2026-10-22, active HFCM #42; manual snapshot, WordPress is canonical)
 
 Simon Imre and INF-GROUP Kft. are external IT infrastructure partners, not internal WikiAI.hu employees or owners.
 
