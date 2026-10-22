@@ -11,16 +11,16 @@ synced_at: "2026-10-16T10:42:42+00:00"
 
 # WikiAI.hu – public knowledge mirror
 
-Ez a konyvtar a WikiAI.hu sajat szervezeti, szolgaltatasi, kereskedelmi, szakertoi es kapcsolati informacioinak publikus, verziozott, gepileg olvashato Markdown-retege.
+Ez a könyvtár a WikiAI.hu saját szervezeti, szolgáltatási, kereskedelmi, szakértői és kapcsolati információinak nyilvános, verziózott, géppel olvasható Markdown-tükre.
 
-A WikiAI.hu / WordPress az elsodleges forras. A GitHub masodlagos publikacios es verziokoveto reteg.
+A WikiAI.hu WordPress-webhelye az elsődleges forrás. A GitHub másodlagos, verziókövetett publikációs tükör.
 
-## Fo dokumentumok
+## Fő dokumentumok
 
-- [Szolgaltatasok](services.md)
-- [Arak es csomagok](pricing.md)
-- [Rolunk](about.md)
-- [Munkatarsaink es szakmai partnereink](team.md)
+- [Szolgáltatások](services.md)
+- [Árak és csomagok](pricing.md)
+- [Rólunk](about.md)
+- [Munkatársaink és szakmai partnereink](team.md)
 - [Kapcsolat](contact.md)
 
 ## Szemelyek
@@ -33,6 +33,6 @@ A WikiAI.hu / WordPress az elsodleges forras. A GitHub masodlagos publikacios es
 
 - [WikiAI manifest](manifest.json)
 
-## Entitashatar
+## Entitáshatár
 
-A wikiai/ konyvtar a WikiAI.hu sajat szervezetet es szolgaltatasait irja le. A kulso, WikiAI.hu-n bemutatott vallalkozasok kulon az entities/ konyvtarban talalhatok.
+A `wikiai/` könyvtár a WikiAI.hu saját szervezetét és szolgáltatásait mutatja be. A portálon szereplő külső vállalkozások külön, az `entities/` könyvtárban találhatók.
