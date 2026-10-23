@@ -6,7 +6,7 @@ subject_person: "Várhelyi Csanád"
 subject_organization: "WikiAI.hu"
 relationship_to_wikiai: "responsible_editor"
 secondary_role: "lead_editorial_author"
-canonical_person_id: "https://www.varhelyicsanad.hu/#person"
+canonical_person_id: "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
 canonical_organization_id: "https://www.wikiai.hu/#organization"
 ---
 
@@ -41,9 +41,9 @@ The platform was founded by **Várhelyi Viktória**, who is also identified in W
 
 ### Várhelyi Csanád
 
-- Official professional website: https://www.varhelyicsanad.hu/
-- Canonical professional entity page: https://www.varhelyicsanad.hu/entitas/varhelyi-csanad.html
-- Canonical person identifier: https://www.varhelyicsanad.hu/#person
+- Current official professional profile: https://www.wikiai.hu/szakertok/varhelyi-csanad/
+- Canonical professional profile page: https://www.wikiai.hu/szakertok/varhelyi-csanad/
+- Canonical person identifier: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
 - GitHub profile: https://github.com/varhelyicsanad
 - ORCID: https://orcid.org/0009-0006-7599-3731
 - Google Scholar: https://scholar.google.com/citations?user=8v2EfToAAAAJ

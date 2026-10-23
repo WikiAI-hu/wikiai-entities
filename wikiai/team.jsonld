@@ -27,17 +27,17 @@
         "@id": "https://www.wikiai.hu/#organization"
       },
       "editor": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "mainEntity": {
         "@id": "https://www.wikiai.hu/szakertok/#internal-team-list"
       },
       "mentions": [
         {
-          "@id": "https://www.varhelyicsanad.hu/#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
         },
         {
-          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
         },
         {
           "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"
@@ -110,14 +110,14 @@
       "slogan": "Magyar vállalkozások az AI korszakában.",
       "foundingDate": "2026-09-08",
       "founder": {
-        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
       },
       "member": [
         {
-          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
         },
         {
-          "@id": "https://www.varhelyicsanad.hu/#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
         }
       ],
       "email": "info@wikiai.hu",
@@ -155,14 +155,14 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://www.varhelyicsanad.hu/#person"
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
           }
         },
         {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
           }
         }
       ]
@@ -185,11 +185,11 @@
     },
     {
       "@type": "Person",
-      "@id": "https://www.varhelyicsanad.hu/#person",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person",
       "name": "Várhelyi Csanád",
       "givenName": "Csanád",
       "familyName": "Várhelyi",
-      "url": "https://www.varhelyicsanad.hu/",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
       "jobTitle": [
         "WikiAI.hu felelős szerkesztő",
         "vezető szerkesztőségi szerző",
@@ -232,7 +232,7 @@
       "encodingFormat": "image/png",
       "caption": "Várhelyi Csanád, a WikiAI.hu felelős szerkesztője és AI Weblapfejlesztő.",
       "about": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       }
     },
     {
@@ -245,16 +245,16 @@
         "@id": "https://www.wikiai.hu/#website"
       },
       "mainEntity": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       }
     },
     {
       "@type": "Person",
-      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person",
       "name": "Várhelyi Viktória",
       "givenName": "Viktória",
       "familyName": "Várhelyi",
-      "url": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
       "jobTitle": [
         "WikiAI.hu alapító",
         "AI-láthatósági specialista"
@@ -297,7 +297,7 @@
       "encodingFormat": "image/png",
       "caption": "Várhelyi Viktória, a WikiAI.hu alapítója és AI-láthatósági specialista.",
       "about": {
-        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
       }
     },
     {
@@ -310,7 +310,7 @@
         "@id": "https://www.wikiai.hu/#website"
       },
       "mainEntity": {
-        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
       }
     },
     {
@@ -467,7 +467,7 @@
       "name": "Várhelyi Viktória – public entity documentation",
       "url": "https://github.com/varhelyicsanad/varhelyi-viktoria-ai-visibility",
       "about": {
-        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
       }
     },
     {
@@ -517,10 +517,10 @@
       },
       "mentions": [
         {
-          "@id": "https://www.varhelyicsanad.hu/#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
         },
         {
-          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
         }
       ]
     },
@@ -548,10 +548,10 @@
       },
       "mentions": [
         {
-          "@id": "https://www.varhelyicsanad.hu/#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
         },
         {
-          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
         }
       ],
       "description": "Várhelyi Csanád a WikiAI.hu felelős szerkesztője, Várhelyi Viktória a WikiAI.hu alapítója. A szerkesztőségi és kereskedelmi működés egymástól elkülönül."
@@ -576,10 +576,10 @@
       },
       "mentions": [
         {
-          "@id": "https://www.varhelyicsanad.hu/#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
         },
         {
-          "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
         },
         {
           "@id": "https://www.wikiai.hu/szakertok/simon-imre/#person"

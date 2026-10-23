@@ -59,3 +59,9 @@ If a previously published company disappears from the manifest, the mirror is fl
 ## Initial deployment
 
 2026-10-17: all **17 published external business profiles** reached a mirrored state with **0 blocking synchronization errors**. Non-blocking source-quality warnings are shown independently in the audit report.
+
+## Retired personal-domain identity transition (2026-10-23)
+
+The preferred editor identity is `https://www.wikiai.hu/szakertok/varhelyi-csanad/#person`, replacing historical `https://www.varhelyicsanad.hu/#person`. The validator treats the old form as a **deprecated source warning**, not as a different person; it never silently rewrites authoritative WordPress/HFCM JSON-LD. Update active HFCM source graphs to use the current Person ID, then let the hourly audited mirror synchronize. For any graph with a compact `vc:person` reference, update both the prefix mapping and the actual source identifier, preserving Schema.org graph identity consistency.
+
+Do not directly patch checksum-managed `entities/*.jsonld` snapshots to hide source-level inconsistencies. The unchanged legacy URLs remaining in these mirrors represent WordPress-originated data awaiting an upstream update.

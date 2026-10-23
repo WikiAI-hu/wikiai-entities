@@ -94,3 +94,15 @@ The JSON-LD job is monitored per business, supports historic Schema.org variants
 - [Per-business synchronization report](jsonld-sync-status.json)
 - [GitHub Actions history](https://github.com/WikiAI-hu/wikiai-entities/actions/workflows/sync-deep-jsonld.yml)
 
+
+## Retired personal-domain migration (2026-10-23)
+
+The former personal domain `varhelyicsanad.hu` has been retired and redirected. Current public professional Person IDs:
+
+- Várhelyi Csanád: `https://www.wikiai.hu/szakertok/varhelyi-csanad/#person` — https://www.wikiai.hu/szakertok/varhelyi-csanad/
+- Várhelyi Viktória: `https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person` — https://www.wikiai.hu/szakertok/varhelyi-viktoria/
+- WikiAI.hu organization: `https://www.wikiai.hu/#organization` (distinct from either person).
+
+**Important:** business `entities/*.jsonld` files and selected `entities/*.md` and `wikiai/people/*.md` documents are WordPress-generated mirrors. Do not perform a GitHub-only search-and-replace on managed mirrors: it can break checksum guards or be reverted at the next synchronization. Update the relevant WordPress/HFCM source first, then allow the audited synchronization to produce updated GitHub snapshots. The first-party `wikiai/wikiai-hu.jsonld` snapshot is likewise checked against the live HFCM graph.
+
+See [the migration runbook](docs/retired-domain-migration.md) for exact scope and next steps.
