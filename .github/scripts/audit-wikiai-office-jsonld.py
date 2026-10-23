@@ -18,7 +18,8 @@ DIRECTORIES = {
     "https://aranyoldalak.hu/wikiai-hu.htm",
     "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html",
 }
-FOUNDER = "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
+FOUNDER = "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person"
+LEGACY_FOUNDER = "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person"
 
 
 class HeadJsonLd(HTMLParser):
@@ -117,7 +118,10 @@ def validate(path, count, mirrored_graph):
         raise ValueError("Missing WikiAI Organization or Place")
     if org.get("telephone") != "+36702264545":
         raise ValueError("Organization telephone mismatch")
-    if org.get("founder", {}).get("@id") != FOUNDER:
+    founder_id = org.get("founder", {}).get("@id")
+    if founder_id == LEGACY_FOUNDER:
+        print("WARN", path, "uses retired founder Person ID; update the live WordPress/HFCM source to", FOUNDER, file=sys.stderr, flush=True)
+    elif founder_id != FOUNDER:
         raise ValueError("Organization founder mismatch")
     if org.get("location") != {"@id": PLACE}:
         raise ValueError("Organization.location mismatch")

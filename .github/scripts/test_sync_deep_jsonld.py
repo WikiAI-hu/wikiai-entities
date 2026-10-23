@@ -18,9 +18,9 @@ def sample(business_id=None, nodes=14, role_override=False):
         {'@type': 'Organization', '@id': 'https://www.wikiai.hu/#organization', 'name': 'WikiAI.hu'},
         {'@type': ['WebPage', 'ProfilePage'], '@id': CANON + '#webpage', 'url': CANON, 'mainEntity': {'@id': business_id}},
         {'@type': 'Article', '@id': CANON + '#article', 'url': CANON, 'mainEntity': {'@id': business_id},
-         'author': {'@id': 'https://www.varhelyicsanad.hu/#person'},
-         'editor': {'@id': 'https://www.varhelyicsanad.hu/#person'},
-         'accountablePerson': {'@id': 'https://www.varhelyicsanad.hu/#person'}},
+         'author': {'@id': 'https://www.wikiai.hu/szakertok/varhelyi-csanad/#person'},
+         'editor': {'@id': 'https://www.wikiai.hu/szakertok/varhelyi-csanad/#person'},
+         'accountablePerson': {'@id': 'https://www.wikiai.hu/szakertok/varhelyi-csanad/#person'}},
         {'@type': ['Organization', 'LocalBusiness'], '@id': business_id, 'name': 'Példa Vállalkozás'},
     ]
     for i in range(nodes - 4):
@@ -116,7 +116,18 @@ class TestMirror(unittest.TestCase):
         data['@graph'][1]['@id'] = 'kb:webpage'
         result = mod.find_deep_graph(wrap(data), CANON)
         self.assertEqual(result['business_id'], 'kb:business')
-        self.assertFalse(any('Article.author' in w for w in result['warnings']))
+        self.assertTrue(any('Article.author' in w and 'retired' in w for w in result['warnings']))
+
+    def test_canonical_csanad_person_id_no_deprecation_warning(self):
+        result = mod.find_deep_graph(wrap(sample()), CANON)
+        self.assertFalse(any('retired' in w for w in result['warnings']))
+
+    def test_retired_person_id_warns_without_rewriting_source(self):
+        data = sample()
+        data['@graph'][2]['author'] = {'@id': 'https://www.varhelyicsanad.hu/#person'}
+        result = mod.find_deep_graph(wrap(data), CANON)
+        self.assertTrue(any('Article.author' in w and 'retired' in w for w in result['warnings']))
+        self.assertEqual(data['@graph'][2]['author']['@id'], 'https://www.varhelyicsanad.hu/#person')
 
     def test_managed_file_guard_and_legacy_adoption(self):
         with tempfile.TemporaryDirectory() as td:

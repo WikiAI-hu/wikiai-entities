@@ -226,14 +226,17 @@ def validate_graph(doc, canonical):
     main_page_ref = article.get("mainEntityOfPage")
     if isinstance(main_page_ref, dict) and not ref_id(main_page_ref):
         warnings.append("Article.mainEntityOfPage object lacks an @id")
-    editor_id = "https://www.varhelyicsanad.hu/#person"
+    editor_id = "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+    legacy_editor_ids = {"https://www.varhelyicsanad.hu/#person"}
     for role in ("author", "editor", "accountablePerson"):
-        # Publisher/editor/accountability fields are optional in Schema.org;
-        # report incorrect explicit attribution, not merely absent optional fields.
+        # Respect live WordPress/HFCM data; report deprecated IDs without rewriting.
         if role != "author" and article.get(role) is None:
             continue
-        if expand_id(ref_id(article.get(role)), context) != editor_id:
-            warnings.append("Article." + role + " does not reference Várhelyi Csanád")
+        actual = expand_id(ref_id(article.get(role)), context)
+        if actual in legacy_editor_ids:
+            warnings.append("Article." + role + " uses retired personal-domain ID; update WordPress/HFCM to " + editor_id)
+        elif actual != editor_id:
+            warnings.append("Article." + role + " does not reference Várhelyi Csanád's current Person ID")
     full = normalize_json(doc)
     slug = urlsplit(canonical).path.strip("/")
     if "entities/" + slug + ".md" not in full:
