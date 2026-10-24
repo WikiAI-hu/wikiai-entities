@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-22T13:42:59+00:00"
-synced_at: "2026-10-22T14:00:51+00:00"
+source_last_modified: "2026-10-24T12:36:51+00:00"
+synced_at: "2026-10-24T14:28:51+00:00"
 relationship_to_wikiai: "responsible_editor"
 ---
 
@@ -20,6 +20,8 @@ relationship_to_wikiai: "responsible_editor"
 **Várhelyi Csanád magyar webfejlesztő, SEO- és AI-láthatósági szakember, a WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője.** Több mint tíz éve dolgozik vállalkozások digitális jelenlétével; szakterülete az AI-érthető weboldalfejlesztés, az LLM-first szemlélet és a keresési láthatóság.
 
 **Szakmai munkáját** nyilvános referenciák, három DOI-val azonosított publikáció, szerzői profilok, szakmai közösségi szereplések és médiaanyagok dokumentálják. A részletes bizonyítékok és hivatkozások az alábbi életrajzi, kutatási és portfóliófejezetekben érhetők el.
+
+**Weboldalkészítés és webfejlesztés:** céges honlapok, WordPress, SEO és AI-láthatóság Debrecenben, Hajdúszoboszlón, Hajdú-Bihar megyében és országosan online. [Részletes szolgáltatások és kapcsolatfelvétel →](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)
 
 ## Életrajz, tanulmányok és a szakmai identitás
 
@@ -81,6 +83,18 @@ A **[Google Tudáspanel és Knowledge Graph esettanulmány](https://www.wikiai.h
 - **SEO és helyi láthatóság:** a vállalkozás és szolgáltatásai könnyebb online megtalálhatóságának támogatása.
 - **AI-láthatósági fejlesztés:** világosabb szakmai bemutatkozás a keresési és AI-alapú tájékozódási környezetben.
 - **Digitális identitás és szakmai hitelesség:** rendezettebb, megbízhatóbban értelmezhető vállalkozási jelenlét.
+
+[![Weboldalkészítés és webfejlesztés témájú grafika laptoppal, WordPress-, SEO- és AI-láthatósági elemekkel.](https://www.wikiai.hu/wp-content/uploads/2026/10/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad-16x9-1-768x432.png)](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)
+
+Várhelyi Csanád · szakmai szolgáltatások
+
+### Weboldalkészítés és webfejlesztés – WordPress, SEO és AI-láthatóság
+
+Új céges weboldal, **landing oldal**, **WordPress-fejlesztés**, meglévő honlap felújítása és **AI-érthető online jelenlét**. A részletes, önálló szolgáltatási oldalon megtalálhatók a lehetőségek, a gyakori kérdések és a kapcsolatfelvételi adatok.
+
+[Szolgáltatási oldal megtekintése →](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)
+
+**Hajdúszoboszló · Debrecen · Hajdú-Bihar megye · országosan online**
 
 Az együttműködés **Magyarország egész területén**, online is megvalósulhat, és igény szerint **a digitális jelenlét folyamatos szakmai felügyeletére** is kiterjedhet. A projekt ütemezése és feltételei mindig egyedi egyeztetés tárgyát képezik. A fejlesztési munka **kiegészítheti az ügyfél meglévő marketingesének, kommunikációs szakemberének vagy fejlesztőjének munkáját**.
 
