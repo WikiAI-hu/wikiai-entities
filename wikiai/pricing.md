@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/arak/"
 source_post_id: 202
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-20T15:53:59+00:00"
-synced_at: "2026-10-20T15:55:44+00:00"
+source_last_modified: "2026-11-05T09:12:00+00:00"
+synced_at: "2026-11-05T10:46:05+00:00"
 currency: "HUF"
 ---
 
@@ -37,7 +37,7 @@ A hirdetés a WikiAI.hu kijelölt hirdetési felületein jelenik meg, és a hird
 
 ### AI-érthető képi + szöveges hirdetés
 
-25 000 Ft / 1 db hirdetés
+25 000 Ft / 1 db hirdetés / hó
 
 Egy önálló hirdetési megjelenés, amelyben a képi kreatív mellett rövid, olvasható szöveges bemutatás is segít egyértelművé tenni, hogy ki a hirdető, mivel foglalkozik és hová vezet a megjelenés.
 
