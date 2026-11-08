@@ -98,44 +98,91 @@ jobs:
               ("/wp-config.php", (b"DB_PASSWORD", b"AUTH_KEY")),
               ("/wp-content/debug.log", (b"PHP Warning", b"PHP Fatal", b"PHP Notice", b"WordPress database error")),
           ]
+          # Compare anonymous responses with a deliberately nonexistent REST route.
+          # Some CDNs return HTTP 200 with a generic HTML fallback instead of
+          # honoring a backend's 401/403/404. Do not treat a 200 as proof of
+          # leaked JSON, or a generic HTML fallback as proof of authorization.
+          from urllib.parse import urlsplit
+
           def get(path):
               req = Request(base + path, headers={
                   "User-Agent": "WikiAI-Public-Privacy-Audit/1.0",
-                  "Accept": "*/*", "Cache-Control": "no-cache"
+                  "Accept": "application/json",
+                  "Cache-Control": "no-cache",
               })
               for attempt in range(3):
                   try:
                       with urlopen(req, timeout=30) as response:
-                          return response.status, response.read(8192)
+                          body = response.read(65536)
+                          return (response.status, body, response.geturl(),
+                                  response.headers.get("Content-Type", ""))
                   except HTTPError as exc:
                       if exc.code not in (429, 500, 502, 503, 504) or attempt == 2:
-                          return exc.code, b""
+                          return (exc.code, b"", exc.geturl(),
+                                  exc.headers.get("Content-Type", ""))
                   except (URLError, TimeoutError):
                       if attempt == 2:
                           raise
                   time.sleep(2 ** attempt + 2)
+
+          def html_fallback(status, body, target, content_type):
+              if status != 200:
+                  return False
+              if "text/html" not in content_type.lower():
+                  return False
+              # A redirect to the site's home or login page is not a
+              # successful request for the protected REST resource.
+              final = urlsplit(target)
+              allowed = urlsplit(base)
+              return (
+                  final.scheme == "https"
+                  and final.netloc == allowed.netloc
+                  and final.path.rstrip("/") in ("", "/wp-login.php")
+                  and (b"<html" in body.lower() or b"<!doctype html" in body.lower())
+              )
+
           failures = []
+          inconclusive = []
           for path in protected:
               try:
-                  status, _ = get(path)
-                  if status not in (401, 403, 404):
-                      failures.append((path, "unauthenticated status " + str(status)))
-                      print("FAIL", path, "returned", status, file=sys.stderr)
-                  else:
+                  status, body, final_url, content_type = get(path)
+                  if status in (401, 403, 404):
                       print("PASS protected", path, status)
+                  elif html_fallback(status, body, final_url, content_type):
+                      # This is a block/fallback, not a test of backend permissions.
+                      inconclusive.append(path)
+                      print("INCONCLUSIVE HTML fallback", path,
+                            "final path", urlsplit(final_url).path)
+                  else:
+                      failures.append((path, "unexpected unauthenticated status " + str(status)))
+                      kind = "JSON" if "json" in content_type.lower() else "other"
+                      print("FAIL protected route", path, "status", status,
+                            "response type", kind, "final path",
+                            urlsplit(final_url).path, file=sys.stderr)
               except Exception as exc:
-                  failures.append((path, "network check incomplete: "+type(exc).__name__))
+                  failures.append((path, "network check incomplete: " + type(exc).__name__))
+                  print("FAIL network check", path, type(exc).__name__, file=sys.stderr)
+
           for path, markers in leaks:
               try:
-                  status, body = get(path)
+                  status, body, final_url, content_type = get(path)
                   if status == 200 and any(marker in body for marker in markers):
                       failures.append((path, "potentially exposed server-side information"))
                       print("FAIL sensitive content is accessible at", path, file=sys.stderr)
                   else:
                       print("PASS file exposure", path, status)
               except Exception as exc:
-                  failures.append((path, "network check incomplete: "+type(exc).__name__))
+                  failures.append((path, "network check incomplete: " + type(exc).__name__))
+                  print("FAIL network check", path, type(exc).__name__, file=sys.stderr)
+          print("Inconclusive HTML fallbacks:", len(inconclusive))
+          if inconclusive:
+              print("NOTE: Redirected HTML fallbacks did not expose REST JSON; "
+                    "verify backend access controls separately. Paths:",
+                    ", ".join(inconclusive))
           print("Public privacy audit:", len(protected), "admin REST URLs and", len(leaks), "sensitive file paths; failures:",len(failures))
           if failures:
               sys.exit(1)
+          if inconclusive:
+              print("FAIL-CLOSED: backend authorization could not be verified through the public edge.", file=sys.stderr)
+              sys.exit(2)
           PY
