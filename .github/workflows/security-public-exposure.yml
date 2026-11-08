@@ -102,7 +102,6 @@ jobs:
           # Some CDNs return HTTP 200 with a generic HTML fallback instead of
           # honoring a backend's 401/403/404. Do not treat a 200 as proof of
           # leaked JSON, or a generic HTML fallback as proof of authorization.
-          import hashlib
           from urllib.parse import urlsplit
 
           def get(path):
@@ -183,4 +182,7 @@ jobs:
           print("Public privacy audit:", len(protected), "admin REST URLs and", len(leaks), "sensitive file paths; failures:",len(failures))
           if failures:
               sys.exit(1)
+          if inconclusive:
+              print("FAIL-CLOSED: backend authorization could not be verified through the public edge.", file=sys.stderr)
+              sys.exit(2)
           PY
