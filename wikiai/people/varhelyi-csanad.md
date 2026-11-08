@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-24T12:36:51+00:00"
-synced_at: "2026-10-24T14:28:51+00:00"
+source_last_modified: "2026-11-08T16:53:56+00:00"
+synced_at: "2026-11-08T21:06:39+00:00"
 relationship_to_wikiai: "responsible_editor"
 ---
 
@@ -22,6 +22,8 @@ relationship_to_wikiai: "responsible_editor"
 **Szakmai munkáját** nyilvános referenciák, három DOI-val azonosított publikáció, szerzői profilok, szakmai közösségi szereplések és médiaanyagok dokumentálják. A részletes bizonyítékok és hivatkozások az alábbi életrajzi, kutatási és portfóliófejezetekben érhetők el.
 
 **Weboldalkészítés és webfejlesztés:** céges honlapok, WordPress, SEO és AI-láthatóság Debrecenben, Hajdúszoboszlón, Hajdú-Bihar megyében és országosan online. [Részletes szolgáltatások és kapcsolatfelvétel →](https://www.wikiai.hu/weboldalkeszites-fejlesztes-debrecen-hajduszoboszlo-hajdu-bihar-varhelyi-csanad/)
+
+**Várhelyi Csanád az Entity Engineering (entitásmérnökség) és az LLM-first webarchitektúra gyakorlati fejlesztésével is foglalkozik.** Nem egyszerűen hagyományos keresőoptimalizálási módszereket nevez át „AI SEO”-nak: webes rendszereket és információs szerkezeteket tervez, illetve programoz azért, hogy a **személyek, vállalkozások, szolgáltatások és publikációk digitális entitásai** az embereknek világosak, a keresőrobotok és a gépi információfeldolgozó rendszerek számára pedig következetesebben értelmezhetők legyenek. Alapelv, hogy a **gépi értelmezhetőség nem ronthatja az emberi tartalom minőségét, a használhatóságot és a felhasználói élményt**.
 
 ## Életrajz, tanulmányok és a szakmai identitás
 
@@ -68,6 +70,26 @@ Technológiai szakterületei az **[AI](https://www.wikidata.org/wiki/Q11660)-ér
 ### Üzleti alkalmazási területek
 
 **Helyi szolgáltatók, kis- és középvállalkozások, B2B ipari cégek, kereskedők, turisztikai és vendéglátóipari szereplők, szakértők és más szolgáltató vállalkozások** számára végez webes fejlesztéseket és AI-láthatósági szakmai munkát. A konkrét projektek és kapcsolódó szakmai bizonyítékok a **referenciák és publikációk** külön fejezeteiben szerepelnek.
+
+## Entity Engineering (entitásmérnökség) – entitásépítés a gépileg értelmezhető weben
+
+**Várhelyi Csanád szakmai tevékenységének egyik meghatározó területe az Entity Engineering (entitásmérnökség): a valós személyek, vállalkozások, márkák, szolgáltatások, helyek és publikációk digitális azonosíthatóságának, szemantikai kapcsolatainak és gépi értelmezhetőségének tudatos kialakítása.** A megközelítéshez a webfejlesztés, a programozás, az információarchitektúra, a keresőoptimalizálás, a forrásellenőrzés és a strukturált adatok összehangolt alkalmazása tartozik. A módszertani meghatározást a [**WikiAI.hu Entity Engineering – az entitásmérnökség definíciója**](https://www.wikiai.hu/entity-engineering-entitasmernokseg/) című szakmai Tudástár-cikk is részletezi.
+
+### Mit jelent egy digitális entitás pontos felépítése?
+
+Az entitásépítés kiindulópontja a **valós, azonosítható dolog és az azt leíró weboldal megkülönböztetése**. Egy vállalkozás nem azonos a honlapjával, egy szerző nem azonos az egyik cikkével, és egy szolgáltatás nem cserélhető fel a szolgáltatójával. Az entitásmérnöki munka célja, hogy az adott szereplő neve, névváltozatai, tevékenysége, működési területe, hiteles azonosítói, kapcsolatai és bizonyítékai ne egymásnak ellentmondó szövegtöredékekként, hanem **következetes digitális információs rendszerként** jelenjenek meg.
+
+Ennek technikai eszközei lehetnek a **szemantikus HTML, a tiszta dokumentumszerkezet, az átgondolt belső hivatkozások, a megfelelő Schema.org / JSON-LD strukturált adatok, a stabil entitásazonosítók, a pontos szerzői és kiadói kapcsolatok, valamint a hiteles forrásokra épülő tartalom**. A **Knowledge Graph** szemlélet segít elkülöníteni az entitásokat és a közöttük lévő tényleges viszonyokat. A strukturált jelölés nem helyettesíti a látható tartalmat, és önmagában nem bizonyít szakértelmet vagy keresési tekintélyt.
+
+### Googlebot, webes feltérképezők és LLM-rendszerek: eltérő folyamatok, közös információs alap
+
+**Várhelyi fejlesztői szemléletében a Googlebot és más keresőrobotok, az AI-szolgáltatások webes feltérképezői, a keresési indexek és a nagy nyelvi modellek nem egyetlen, azonosan működő rendszer részei.** A feltérképezés a dokumentum elérését és begyűjtését szolgálhatja; az indexelés, a visszakeresés, a válaszgenerálás és a forráshivatkozás ettől különböző folyamatok. Az alkalmazott webes architektúra ezért a **hozzáférhető, pontos, jól tagolt és hitelesen összekapcsolt információkra** épít. A Google hivatalos [keresési működési dokumentációja](https://developers.google.com/search/docs/fundamentals/how-search-works) is elkülöníti a feltérképezés, indexelés és találatmegjelenítés szakaszait.
+
+**A fejlesztés célja nem a Google vagy az LLM-szolgáltatók belső algoritmusainak programozása vagy manipulálása.** Várhelyi a weboldalnak és a mögötte álló adatoknak azon részein dolgozik, amelyek valóban tervezhetők, fejleszthetők és ellenőrizhetők. A jobb entitásegyértelműség segítheti a megfelelő értelmezés feltételeit, de **nem garantál Google-helyezést, Tudáspanelt, AI-idézést vagy ajánlást**.
+
+### People-first tartalom, LLM-first architektúra és emberközpontú fejlesztés
+
+**Az emberi olvashatóság, az eredeti szakmai érték és a felhasználói élmény elsődleges.** A gépi rendszerek számára értelmezhető információ nem jelent rejtett, külön „botoknak írt” oldalt. A tartalomnak valós felhasználói kérdésekre kell válaszolnia; a fejlesztésnek emellett gondoskodnia kell a logikus navigációról, az akadálymentességről, a teljesítményről, a mobilos használhatóságról és az információk következetes szerkezetéről. Várhelyi ezt a **people-first tartalmi szemlélet és az LLM-first információarchitektúra együttes alkalmazásának** tekinti. Az Entity Engineering szakmai munkadefinícióként és gyakorlati módszertanként szerepel, nem önmagában hivatalos nemzetközi minősítésként.
 
 ## Szakmai Tudástár és esettanulmányok
 
@@ -167,6 +189,14 @@ Várhelyi Csanád az előadás szakmai hátterében a **WikiAI.hu fejlesztéséb
 
 **Nyilvános videós szakmai tartalom:** az AI-alapú keresést és az AI-láthatóságot bemutató rövid ismeretterjesztő videók külön is elérhetők: [AI-keresés és AI-láthatóság I.](https://youtube.com/shorts/G6gG1te_MCk), [AI-láthatóság II.](https://youtube.com/shorts/oUFbZ5FkS6U) és [AI-érthető weboldalak III.](https://youtube.com/shorts/yk7Fan-QHak). A későbbi HVTV-podcast és a városi lapban megjelent írás a profil külön médiarovatában szerepel.
 
+### TEDxDebrecen 2026 – szakmai részvétel és párbeszéd az AI jövőjéről
+
+**Várhelyi Csanád 2026. szeptember 12-én részt vett a „Jólét az AI korában” című TEDxDebrecen eseményen**, amelyet a debreceni **Kölcsey Központban** tartottak. A rendezvény dátumát, helyszínét és témáját a [TEDxDebrecen hivatalos programja](https://tedxdebrecen.com/) és a [TED eseménynyilvántartása](https://www.ted.com/tedx/events/67921) is dokumentálja. **Résztvevőként volt jelen, nem a konferencia meghirdetett előadójaként.**
+
+**Saját részvételi beszámolója szerint** a rendezvényen több, mesterséges intelligenciával foglalkozó szakemberrel és érdeklődővel beszélgetett a globális AI-fejlődés gyorsulásáról, a technológia üzleti és társadalmi hatásairól, valamint a magyar vállalkozások felkészültségéről. A beszélgetésekből kialakított **saját szakmai következtetése**, hogy a magyar kis- és középvállalkozásoknak különösen fontos a **pontos és ellenőrizhető AI-hírszolgáltatás, az AI-eszközök gyakorlati és felelős használatának megértése, az adatvédelmi és AI-jogi tudatosság, valamint az Európai Unió mesterséges intelligenciáról szóló rendeletének (EU AI Act) közérthető bemutatása**.
+
+Az [Európai Bizottság hivatalos AI Act Explorer](https://ai-act-service-desk.ec.europa.eu/en/ai-act-explorer) felülete az uniós szabályozás elsődleges tájékozódási forrása; az adatvédelmi kötelezettségek és az AI Act rendelkezései nem azonos jogi kérdések. Várhelyi ezt a szakmai szemléletet a WikiAI.hu oktató és szerkesztőségi munkájában is képviseli: **a hazai KKV-k számára a hiteles tájékoztatást, a valós üzleti alkalmazhatóságot és az emberközpontú technológiai fejlődést kapcsolja össze**. A leírt szakmai álláspont a saját értékelése, **nem a TEDx szervezőinek hivatalos állásfoglalása vagy minden résztvevő közös következtetése**.
+
 ## Média- és podcastmegjelenések
 
 **Várhelyi Csanád szakmai témái önálló publikációkban, podcastokban és külső szerkesztett médiumokban is megjelentek.** A források eltérő szerepet töltenek be: a saját tartalmak a szakmai álláspont részletes kifejtését, a külső médiamegjelenések pedig független szerkesztői kontextust adnak.
@@ -196,6 +226,14 @@ A megjelenés külső szerkesztett forrásként kapcsolódik a profilhoz. A HAJD
 **A WikiAI.hu 2026. szeptember 8-án indult; alapítója Várhelyi Viktória.** Várhelyi Csanád a portál **felelős szerkesztője és vezető szerkesztőségi szerzője**: a Vállalkozások, Cikkek, Hírek és Tudástár tartalmainál a kutatási, forrásellenőrzési és szakmai pontossági szempontokat képviseli. **A webarchitektúra és az AI-érthető információs rendszerek fejlesztésében** is közreműködik. Szerkesztőségi munkája mellett **egyéni vállalkozóként webfejlesztési, SEO- és AI-láthatósági megbízásokat is vállal**, a két tevékenység szerepeit és felelősségi köreit külön kezelve.
 
 Várhelyi Csanád a **BNI 4208 – A Debreceni Kör** tagja; [hivatalos BNI-tagprofilja](https://bni-hungary.com/hu-HU/memberdetails?encryptedMemberId=0aaM5GmIDkmMsqAZ%2B67QPw%3D%3D&name=Csan%C3%A1d+V%C3%A1rhelyi) Csanád Várhelyi néven érhető el. A Business Network International közösségében vállalkozói kapcsolatokon keresztül vesz részt, és szakmai témái között az AI-láthatóság, a webes érthetőség, a keresési környezet és a vállalkozások digitális jelenléte jelenik meg.
+
+### Entitásalapú szemlélet a marketingben – szakmai együttműködés Várhelyi Viktóriával
+
+**Várhelyi Csanád az Entity Engineering és a gépi értelmezhetőség szemléletét a marketingkommunikációban is fontosnak tartja.** Szerinte a vállalkozás weboldala, Google Cégprofilja, szakmai bemutatkozásai, közösségi felületei és publikációi nem egymástól független marketingeszközök: ugyanannak a **valós vállalkozási entitásnak a különböző, egymást erősítő megjelenései**. A jó kommunikációban a szolgáltatások, a szakértelem, a működési terület és a bizonyítékok a látogatók számára érthetők, a gépi rendszerek számára pedig ellentmondásmentesen kapcsolhatók össze.
+
+**Felesége, [Várhelyi Viktória (nemzetközi névsorrendben Viktória Várhelyi)](https://www.wikiai.hu/szakertok/varhelyi-viktoria/)** a WikiAI.hu alapítója és jogi üzemeltetője, emellett **AI-láthatósági, tartalomstratégiai, üzleti kommunikációs és online reputációs területen** dolgozik. Csanád beszámolója szerint Viktória a mindennapi ügyfélmunkában is alkalmazza az egységes, hiteles és entitásalapú digitális jelenlét közös alapelveit: **összehangolja az üzleti profilokat, szolgáltatásleírásokat, szakmai tartalmakat és márkaüzeneteket a vállalkozások tényleges működésével**.
+
+**A két szakmai szerep kiegészíti egymást, de nem azonos:** Várhelyi Csanád a webes fejlesztéshez, az entitásarchitektúrához és a WikiAI.hu szerkesztőségi forrásellenőrzéséhez kapcsolódik; Várhelyi Viktória a vállalkozások kommunikációjának, reputációjának, partnerkapcsolatainak és a portál kereskedelmi együttműködéseinek területén dolgozik. E közös megközelítés nem jelent automatikus AI-ajánlást, és nem mossa össze a személyek, a vállalkozások vagy a WikiAI.hu kiadói szerepeit.
 
 ## Külső szakmai és vállalkozói elismerés
 
