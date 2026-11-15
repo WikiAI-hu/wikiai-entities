@@ -1,0 +1,82 @@
+name: Mirror AI Percek single WordPress article
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 */3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/sync-ai-percek.py'
+      - '.github/scripts/test_sync_ai_percek.py'
+      - '.github/workflows/sync-ai-percek.yml'
+  pull_request:
+    paths:
+      - '.github/scripts/sync-ai-percek.py'
+      - '.github/scripts/test_sync_ai_percek.py'
+      - '.github/workflows/sync-ai-percek.yml'
+
+concurrency:
+  group: wikiai-ai-percek-single-post-mirror
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run isolated podcast mirror tests
+        run: python -m unittest .github/scripts/test_sync_ai_percek.py -v
+
+  synchronize:
+    if: github.event_name != 'pull_request'
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify public WordPress article and mirror only post 1946
+        run: python .github/scripts/sync-ai-percek.py
+      - name: Commit validated AI Percek data only
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add -A -- wikiai/podcasts/ai-percek/
+          if git diff --cached --quiet; then
+            echo 'AI Percek machine mirror is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Mirror verified AI Percek episodes and transcripts from WordPress'
+          for retry in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo 'Validated WordPress podcast mirror published.'
+              exit 0
+            fi
+            echo "Retry ${retry}: main advanced; re-reading live WordPress source"
+            git fetch origin main
+            git reset --hard origin/main
+            python .github/scripts/sync-ai-percek.py
+            git add -A -- wikiai/podcasts/ai-percek/
+            if git diff --cached --quiet; then
+              echo 'Another run already synchronized this source.'
+              exit 0
+            fi
+            git commit -m 'Mirror verified AI Percek episodes and transcripts from WordPress'
+          done
+          echo 'Safe publish aborted after three failed pushes' >&2
+          exit 1
