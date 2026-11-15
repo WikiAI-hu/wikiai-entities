@@ -7,8 +7,8 @@
   "sync_direction": "wordpress-to-github",
   "wordpress_post_id": 1946,
   "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/",
-  "wordpress_modified": "2026-11-15T12:24:13",
-  "html_sha256": "6e4aa7a8c90145fb032155642a6a61d67b9eb5371f591229af5682b5056bd1a5",
+  "wordpress_modified": "2026-11-15T16:37:25",
+  "html_sha256": "8b55f4ea054debf81be50c8f739a938243d49d4cc3cc0ee59539a763ff86b780",
   "spotify_show_url": "https://open.spotify.com/show/0kBSFHE2qHO8xSzi7pB5BJ",
   "apple_podcasts_show_url": "https://podcasts.apple.com/podcast/id6834785544",
   "episodes": [
@@ -44,6 +44,17 @@
       "machine_record": "episodes/03.md",
       "transcript_mirror": "transcripts/03.md",
       "timestamped_paragraphs": 34
+    },
+    {
+      "number": 4,
+      "id": "epizod-04",
+      "name": "AI Percek #04 – SEO, Local SEO, AEO, GEO, LLMO: mit jelentenek valójában 2026-ban?",
+      "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-04",
+      "transcript_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-04",
+      "youtube_url": "https://www.youtube.com/watch?v=f6wsTK6thY4",
+      "machine_record": "episodes/04.md",
+      "transcript_mirror": "transcripts/04.md",
+      "timestamped_paragraphs": 68
     }
   ]
 }

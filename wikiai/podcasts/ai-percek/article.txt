@@ -11,7 +11,7 @@ Innen indult az AI Percek ötlete. A wikiAI.hu új szakmai podcast- és videóso
 
 Az AI Percek elsősorban embereknek készült – a hétköznapi tartalomfogyasztáshoz. Nem kell külön időpontot foglalni a tanulásra, és nem kell a monitor előtt ülni. Meghallgathatod a Spotify-on vagy az Apple Podcastson utazáskor, futás vagy edzés közben, egy séta alatt, házimunka mellett vagy akár csak kikapcsolódásként. Ha a képi világot is szeretnéd látni, a YouTube-on videóként nézheted meg az epizódokat.
 
-Már az első három AI Percek-epizód elérhető! Megismerheted a wikiAI.hu platformot, Várhelyi Csanád szakmai munkáját és azt is, miért fontos 2026-ban az AI-láthatóság a magyar vállalkozásoknak. Itt mindhárom YouTube-videót, a podcastplatformok elérhetőségét és a beszélgetések teljes, időjelöléses magyar átiratát megtalálod. Hallgasd, nézd vagy olvasd – ahogy neked a legkényelmesebb.
+Már négy AI Percek-epizód elérhető! Az első részben megismerheted a wikiAI.hu platformot, a másodikban Várhelyi Csanád szakmai munkáját, a harmadikban az AI-láthatóság jelentőségét. A negyedik adás pedig közérthetően tisztázza a SEO, Local SEO, AEO, GEO, LLMO, AIO, RAG, Zero-Click Search és Entity Engineering fogalmait. Itt megtalálod a videós sorozatot, a Spotify- és Apple Podcasts-elérhetőségeket, valamint mind a négy beszélgetés teljes, időjelöléses magyar átiratát. Hallgasd, nézd vagy olvasd – ahogy neked a legkényelmesebb.
 
 Miért indítottuk el az AI Percek podcastot?
 
@@ -29,7 +29,7 @@ A lényeg nem az, hogy minél több szakkifejezést jegyezz meg. Hanem hogy amik
 
 Rövid, lendületes beszélgetésekben gondolkodunk, felesleges körmondatok nélkül. Nem ígérünk mesterségesen sűrű megjelenést: olyan témákat hozunk, amelyek valóban segítenek eligazodni a gyorsan változó digitális világban.
 
-Az AI Percek eddigi epizódjai – a wikiAI.hu bemutatásától az AI-láthatóságig
+Az AI Percek epizódjai – a wikiAI.hu bemutatásától a SEO és az AI-keresés fogalmaiig
 
 AI Percek #01 – Bemutatkozik a wikiAI.hu
 
@@ -58,6 +58,40 @@ Hallhatunk egy hajdúszoboszlói szakemberkeresésről, egy AI-könyvtároshoz h
 Mit vihetsz magaddal ebből a részből? Egy cégvezetőnek érdemes megnéznie, hogy az online felületein valóban világos-e a vállalkozás tevékenysége, működési területe és szakmai háttere. Ez a vállalkozások AI-láthatóságának egyik legfontosabb kiindulópontja. A wikiAI.hu szerkesztett üzleti tudásplatformként a pontos vállalkozási információk bemutatását támogatja; Várhelyi Csanád szakmai munkája pedig a webfejlesztés, a SEO és az AI-érthető digitális jelenlét területeit kapcsolja össze.
 
 Nézd meg a 3. epizódot a YouTube-on · Olvasd el a teljes, időjelöléses magyar átiratot.
+
+AI Percek #04 – SEO, Local SEO, AEO, GEO, LLMO: mit jelentenek valójában 2026-ban?
+
+SEO, GEO, AEO, LLMO, AIO… ismerős az a pillanat, amikor egy ajánlatban több a rövidítés, mint az érthető magyarázat? A negyedik AI Percek-epizódban éppen ezt a digitális „betűlevest” tesszük rendbe. Nem programozói képzést tartunk, hanem cégvezetői szemmel nézzük meg, mi mit jelent, és miért lehet fontos a vállalkozások mindennapjaiban.
+
+A 21 perc 19 másodperces magyar beszélgetés a harmadik epizód AI-láthatósági témáját viszi tovább. A hagyományos Google-kereséstől indulunk, majd a helyi találatokon és a közvetlen válaszokon át eljutunk a generatív kereséshez, a nagy nyelvi modellekhez és a gépileg értelmezhető digitális identitás kérdéséhez. Hétköznapi példák segítenek abban, hogy a fogalmakat akkor is megértsd, ha nem vagy informatikus.
+
+Miről beszélgetünk a negyedik részben?
+
+SEO – keresőoptimalizálás: a weboldalak megtalálhatóságának alapvető területe; az AI-korszakban sem tűnt el.
+
+Local SEO – helyi keresőoptimalizálás: a földrajzilag releváns keresések, a helyi vállalkozások és a Google Cégprofil világa.
+
+AEO – válaszalapú optimalizálás: annak szemlélete, amikor a keresésnél már nemcsak egy linkre, hanem közvetlenül egy kérdés megválaszolására összpontosítunk.
+
+GEO – generatív keresési optimalizálás: a generált válaszokban megjelenő információk és forráshivatkozások kérdésköre.
+
+LLMO – nagy nyelvi modellekhez kapcsolódó optimalizálás: a vállalkozások és szakemberek AI-rendszerek általi értelmezhetőségére fókuszáló szakmai megközelítés.
+
+AIO és Google AI Overviews: miért kell tisztázni, mit ért valaki az AIO rövidítés alatt, és miben más a Google generált keresési összefoglalója?
+
+Zero-Click Search: amikor a felhasználó a keresési felületen kap választ, és nem feltétlenül nyit meg külön weboldalt.
+
+RAG – Retrieval-Augmented Generation: olyan AI-válaszadási megközelítés, amely külső vagy visszakeresett információkra is támaszkodhat.
+
+Entity Engineering – entitásmérnökség: a digitális szereplők, fogalmak és kapcsolataik következetes azonosíthatóságának szakmai nézőpontja.
+
+A fontos tanulság: ezek nem kilenc különálló „titkos trükköt” jelentenek. Egy részük bevett szakterület, más megnevezések még változó iparági fogalmak. Nincs olyan biztos kapcsoló, amely garantálná, hogy egy vállalkozást a Google vagy bármely AI-rendszer ajánlani fog. Az információk világos, hiteles és következetes bemutatása viszont az ügyfeleknek is értéket adhat.
+
+Az epizód szakmai hátteréhez a SEO, AEO, AIO és GEO különbségeit bemutató Tudástár-cikk, az Entity Engineering fogalmi áttekintése, valamint Várhelyi Csanád szakmai publikációi is kapcsolódnak. A podcast a nyilvános fogalmakat és üzleti összefüggéseket dolgozza fel, nem a belső fejlesztési módszertanokat.
+
+Nézd meg az AI Percek 4. epizódját a YouTube-on · Olvasd el a teljes, időjelöléses magyar átiratot.
+
+Hanganyagként a Spotify-on és az Apple Podcastson is követheted az AI Perceket.
 
 Mitől lesz igazán jó egy weboldal az AI korszakában?
 
@@ -121,9 +155,9 @@ A két epizódhoz magyar SRT-alapú, időjelöléses átirat tartozik. Ezek a sz
 
 Így az AI Percek egyszerre lehet videó, podcast és olvasható tudásanyag – három különböző felhasználási mód, egy közös szakmai tartalommal.
 
-Az AI Percek első három epizódjának teljes magyar átirata
+Az AI Percek első négy epizódjának teljes magyar átirata
 
-Mindhárom epizód teljes magyar szövege külön lenyitható, időjelölésekkel ellátott átiratként olvasható. Az SRT-feliratokból készült változatok lehetővé teszik, hogy a témákat visszakeresd, a fontos gondolatokat később újraolvasd, vagy a videó megtekintése nélkül is megismerd a beszélgetéseket.
+Mind a négy epizód teljes magyar szövege külön lenyitható, időjelölésekkel ellátott átiratként olvasható. Az SRT-feliratokból készült szövegek segítségével könnyen visszakeresheted a fontos fogalmakat és példákat, vagy a hanganyag meghallgatása nélkül is elolvashatod a beszélgetéseket.
 
 1. epizód – Bemutatkozik a wikiAI.hu (teljes, időjelöléses átirat)
 
@@ -259,6 +293,146 @@ Az alábbi szöveg a harmadik epizód feltöltött magyar SRT-feliratából kés
 
 [10:18] Vagy zavarában egyszerűen némán továbbgörgetne a legközelebbi versenytársadhoz? Hát igen, ez az a kérdés, amivel előbb utóbb minden cégvezetőnek szembe kell néznie. Nagyon szépen köszönjük, hogy ma is velünk tartottál ebben a felfedezésben. Reméljük tényleg rengeteg hasznos, azonnal alkalmazható gondolatot tudtál meríteni. AI percek. Érthető technológia, használható tudás néhány percben.
 
+4. epizód – SEO, Local SEO, AEO, GEO, LLMO és az AI-keresés fogalmai (teljes magyar átirat, 21:19)
+
+A negyedik AI Percek-epizód teljes, időjelöléses magyar szövegét a publikáláshoz előkészített SRT-feliratból állítottuk össze. A beszélgetés eredeti nyelvezetét megőriztük; a perc:másodperc jelölések segítségével a témák könnyen visszakereshetők.
+
+[00:00] Hát kinyitod kedd reggel a postaládádat. Szóval gyanútlanul kortyolod a kávét és bumm! Bumm, megérkezik a napi spam, ugye? De még milyen! Szó szerint arcodba csapódik egy falnyi marketinges betűleves. Olvasom az elsőt, hogy "Tisztelt Ügyvezető! Optimalizáljon azonnal AIO-ra."
+
+[00:18] Aha, a klasszikus riogatás. Igen, egy másik meg azzal jön, hogy a GEO a jövő, aki lemarad, kimarad. A harmadik e-mail meg egyenesen azzal fenyeget, hogyha, szóval ha nincs LLMO stratégiád, a versenytársaid holnapra letarolják a piacot. Hát ember legyen a talpán, aki ettől nem akarja azonnali hatállyal
+
+[00:35] kihúzni a routert a falból. Teljesen megértem. Ezek a hideghívások és az ilyen automata e-mailek elképesztően profin játszanak a FOMO-val, vagyis ezzel a lemaradástól való félelemmel. Abszolút, kiver tőle a víz. Mert a technológia tényleg rohamléptekkel változik, ezt ugye kár lenne tagadni, de a pánik sosem jó üzleti tanácsadó.
+
+[00:56] Különösen akkor nem, ha olyan mozaikszavakkal dobálóznak a levélben, amiknek a jelentésével, hát sokszor maguk az ajánlattevők sincsenek teljesen tisztában. Na és pont itt jön a képbe a mi mai küldetésünk. Üdvözlünk mindenkit az AI Percek legújabb elemzésében! A mai mélyfúrásunkban pont erről a tizenegy buzzwordről
+
+[01:15] fogjuk lerántani a leplet. Így van, és méghozzá egy nagyon biztos alapozással tesszük ezt. A wikiAI.hu tudástárának cikkei és Várhelyi Csanád publikációi alapján fogjuk mindezt kicsomagolni. Érthetően, magyarul, és ami a legfontosabb, cégvezetői szemmel.
+
+[01:32] Mielőtt ugyanis kifizetnél egy ügynökségnek több százezer forintot valami varázslatosnak tűnő AI optimalizációs csomagra, vegyünk egy mély levegőt. Egyébként ha emlékszel rá, meg persze a hallgatóink is emlékeznek, a harmadik elemzésünkben már lefektettünk egy baromi fontos alapelvet. A digitális kirakat problémájára gondolsz.
+
+[01:50] Pontosan. Akkor azt beszéltük meg, hogy 2026-ban már messze nem elég, ha van egy vizuálisan lenyűgöző, csodaszép, dizájnos weboldalad. Mert ha a háttérben futó információ nem értelmezhető a mesterséges intelligencia számára- Igen, akkor az olyan, mintha felépítenél egy gyönyörű, csillogó kirakatot egy teljesen kihalt utcában.
+
+[02:08] Lehet, hogy milliókat költöttél rá, de a kutya sem fog bemenni. Ez a tökéletes kiindulópont vára. Mert a kérdés ma már egyáltalán nem az, hogy létezel-e az interneten. Hanem? Hanem az, hogy a globális digitális gépezet érti-e, hogy te pontosan ki vagy, mit csinálsz és miben vagy hiteles. Ha ezt nem érti, akkor– szóval akkor egyszerűen láthatatlan maradsz a
+
+[02:28] következő generációs keresésekben. Hát ehhez viszont tényleg meg kell értenünk ezt a bizonyos betűlevest. Szóval én ma magamra öltöm a szkeptikus, sokat látott, de azért nagyon is kíváncsi magyar cégvezető szerepét. Én leszek az, aki megkérdőjelezi ezeket a hangzatos ígéreteket. Te pedig mint szakértőnk kérlek tegyél rendet a káoszban.
+
+[02:48] Állok elébe. De egy feltétellel pörgősen, felesleges kódolási útmutatók és technikai hókuszpókusz nélkül. Hétköznapi hazai vállalkozói példákkal világítsd meg, mi a valóság. Ígérjük meg most a hallgatónak, hogy egyetlen sor kódot sem fogunk felolvasni. Megígérem maximálisan.
+
+[03:06] Semmi szerverkonfiguráció, semmi programozás. Kizárólag arról fogunk beszélgetni, hogy mit jelentenek ezek a technológiai fogalmak a gyakorlatban, miért érintik közvetlenül a te bevételeidet, és hol találkozol velük? Tehát nincsenek garantált helyezések, se kitalált statisztikák Csak a tiszta logika.
+
+[03:24] Igen Remek, akkor kezdjük azzal, amit már mindenki ismer, vagy hát legalábbis azt hiszi, hogy ismeri. SEO. Keresőoptimalizálás. Olvasom a cikkeket, és minden második tech guru azzal hoz le anyagot, hogy a SEO halott, éljen az AI! Tényleg itt az ideje temetni a jó öreg keresőoptimalizálást?
+
+[03:43] Hát ezt a legkönnyebb megválaszolni. Egyáltalán nem. Aki ilyet állít, az egészen biztosan nem olvasta a Google Search Central hivatalos legfrissebb útmutatóit. Szóval maradt minden a régiben Nem teljesen, de a SEO az alapozás. Olyan ez, mint egy háznál a beton alap. Nem tűnt el, csak a környezete bővült ki.
+
+[04:02] Ühüm, értem. A Google folyamatosan kommunikálja, méghozzá feketén fehérén, hogy az új mesterséges intelligenciára épülő funkciók mind a klasszikus, jól strukturált, emberközpontú SEO-ra épülnek. Tehát ha a weboldalam egy káosz. Pontosan. Ha technikailag egy romhalmaz, ha lassan tölt be, és ha nem ad érdemi választ a
+
+[04:21] felhasználó problémájára, akkor nincs az az AI varázslat, ami megmenti. A gépnek is minőségi nyersanyagra van szüksége, hogy dolgozni tudjon. Jó, szóval az alapok maradnak, senki ne dobja ki a kukába a meglévő stratégiáját. De beszéljünk a helyi vállalkozásokról, mert ez rengeteg embert érint idehaza.
+
+[04:38] Ez így van. Itt a második fogalom: local SEO, vagyis helyi keresőoptimalizálás. Tegyük fel, hogy van egy ablakos vállalkozásom Debrecenben. Műanyag nyílászárókat építek, be-redőnyözök. Nekem tényleg ugyanazt a játékot kell játszanom az interneten, mint mondjuk egy országos webshopnak? Dehogyis!
+
+[04:56] És így szokott elvérezni nagyon sok hazai KKV. A te fegyvered debreceni vállalkozóként nem a globális forgalom, hanem a lokális relevancia. Ezt hogy érted? Képzeld el a szituációt! Valakinek betörik az ablaka Debrecenben. Fogja a telefonját és beírja, hogy ablakcsere gyorsan.
+
+[05:14] Aha. A keresőmotor tudja, hogy ennek az embernek nem egy budapesti nagykereskedés weboldalára van szüksége, hanem egy helyi szakira, aki mondjuk húsz percen belül odaér. Világos. A local SEO arról szól, hogy a digitális ökoszisztémában, és itt elsősorban a Google cégprofilodra gondolok, kristálytiszta
+
+[05:32] legyen a fizikai valóságod. Hol a székhelyed, pontosan meddig tart a szolgáltatási területed? Nyitva vagy-e szombaton? Ilyesmik. De várj egy kicsit. Régen az volt a divat, hogy ha mondjuk én Hajdúszoboszlón is vállalok munkát, akkor tele kellett spamelnem a weboldalamat azzal, hogy ablakcsere Hajdúszoboszló, ablakcsere Mikepércs.
+
+[05:51] Ezt csinálták az ügynökségek, nem? Hát ezt csinálták, de ma már azért komoly büntetés jár az algoritmusoktól. Nem spamelni kell. A cégprofilban kell pontosan definiálni a kiszállási területet, a weboldalon pedig hiteles referenciákat felmutatni ezekből a városokból. Aha, és a rendszer ezt összeköti.
+
+[06:09] Pontosan. A gép összeköti a pontokat. Ez teljesen logikus. Kezdjük az AEO-val, vagyis az Answer Engine Optimizationnel. Magyarul válaszmotor optimalizálás. Igen, az egész onnan indul, hogy az emberek már nem csak kulcsszavakat pötyögnek be, hogy mondjuk tetőfelújítás szabályok.
+
+[06:26] Ehelyett teljes mondatokban, sokszor élőszóban kérdeznek a telefonjuktól. Ahogy a Sirihez beszélnek. Pontosan. Milyen engedélyek kellenek egy családi ház tetőfelújításához 2026-ban? Az AEO arra fókuszál, hogy a te tartalmad annyira tiszta, jól tagolt és lényegre
+
+[06:44] törő legyen, hogy a keresőmotor ezt képes legyen egy az egyben kiemelni és azonnali válaszként felolvasni. Oké, ez így világos. Kell mondjuk egy nagyon jó, gyakran ismételt kérdések szekció, ami tényleg konkrétan válaszol is dolgokra. És mi a helyzet a GEO-val? Generative Engine Optimization.
+
+[07:01] Ez úgy hangzik, mint valami sci-fi film. Hát a neve talán, de valójában ez egy nagyon is létező, 2024 óta tudományos körökben is aktívan vizsgált fogalom. Na és mit takar? A GEO azt a folyamatot írja le, amikor egy generatív mesterséges intelligencia, mint a ChatGPT, vagy mondjuk a Google Gemini megpróbál
+
+[07:20] választ adni, és ehhez forrásokat keres. És a cél, hogy engem válasszon? Pontosan. A cél az, hogy amikor a gép szintetizálja a tudást a válaszhoz, a te weboldaladat emelje be megbízható hivatkozásként és megemlítsen téged. Álljunk meg egy pillanatra! Nekem ez úgy hangzik, mint a klasszikus PR, csak itt nem a helyi
+
+[07:39] újságírót próbálom rávenni, hogy írjon a cégemről, hanem a ChatGPT-t. De hogy a viharba dönt a gép? Ha a versenytársam is írt egy remek cikket a tetőfelújításról, meg én is, mi alapján választ a Gemini? Van erre valami titkos gomb? Hát látod, ez a legfontosabb kérdés az egészben. Nincs titkos gomb.
+
+[07:57] Nincs? Akkor mi van? Az AI a szintetizálás során megbízhatósági jeleket keres. Nézi, hogy az adott információ mennyire friss, mennyire egyezik más hiteles forrásokkal, és hogy a te weboldalad, a domained mögött van-e felépített szakmai autoritás. Vagyis nem elég, ha én verem a mellemet, hogy én vagyok a legjobb.
+
+[08:17] Egyáltalán nem. A digitális térben fellelhető egyéb adatoknak, cikkeknek, cégjegyzékeknek, szakmai említéseknek ezt oda is kell támasztaniuk. Ha te vagy a leghitelesebb csomópont abban a témában, az AI téged fog idézni. Akkor ez tényleg tulajdonképpen a hírnév digitalizálása.
+
+[08:35] Maximálisan. És ez egyébként át is vezet minket az LLMO-hoz, a Large Language Model Optimizationhöz. Ez miben más? Ez egy még tágabb megközelítés. Itt már nem csak egy konkrét kérdés megválaszolása a cél. A fókusz azon van, hogy a nagy nyelvi modellek egyáltalán pontosan,
+
+[08:53] következetesen értsék, ki a fene vagy te, hogy ne keverjenek össze mással. Mondj egy példát, kérlek! Miért keverne engem össze a gép bárkivel is? Mert a nyelv tele van kétértelműséggel. Tegyük fel, hogy a cégedet úgy hívják, hogy Alfa Kft. és ipari szoftvereket fejlesztesz.
+
+[09:10] Oké. De van egy Alfa nevű pékséghálózat is a szomszéd megyében, meg mondjuk egy Alfa autókölcsönző a városodban. Ja, értem már. Ha a digitális kommunikációd nem elég éles, ha a weben lévő adataid ellentmondásosak, a nyelvi modell egyszerűen összemos benneteket.
+
+[09:28] Az LLM szemlélet arra fókuszál, hogy a márkád körül minden információ olyan következetes legyen, hogy a gép számára a te identitásod kristálytiszta maradjon. Na és itt bújik ki belőlem a szkeptikus cégvezető. Bejön hozzám egy tanácsadó holnap, és azt mondja, "Főnök, megcsináljuk a GEO-t és az LLMO-t, és garantálom, hogy holnaptól a ChatGPT csak minket fog
+
+[09:49] ajánlani." Hol írom alá a szerződést? Sehol. Sőt, abban a pillanatban mutasd meg neki az ajtót. Komolyan? Halál komolyan. Ezt nagyon határozottan tisztáznunk kell minden hallgató számára. Az AEO, a GEO és az LLMO mind-mind iparági megközelítések, elméleti keretrendszerek.
+
+[10:07] Tehát nem hivatalos dolgok. Nem, ezek nem a Google vagy mondjuk az OpenAI egységes hivatalos szabványai. Nincs olyan beépített titkos kapcsoló az AI-ban, ami garantálná a megjelenésedet. A Google kifejezetten figyelmeztet, hogy az alaptalan trükközés helyett a hiteles tartalomra kell fókuszálni.
+
+[10:25] Ezek a rövidítések jól leírják a változást, de akinek ezt szerződésben garantálja az AI ajánlást, az egyszerűen hazudik. Nagyon fontos volt, hogy ezt így kerek perec kimondtuk, és ezzel szerintem rá is kanyarodhatunk a második nagy blokkunkra. Mert ha nincsenek titkos gombok, akkor valójában hogyan és miből
+
+[10:43] dolgozik ez az egész AI gépezet? Itt van rögtön a nyolcadik fogalmunk, amibe lépten nyomon belebotlok. AIO. Ez mit takar? Hát az AIO egy trükkös, kétarcú kifejezés, amivel nagyon kell vigyázni. Miért kétarcú? Mert széles értelemben jelentheti az Artificial Intelligence Optimizationt, vagyis általában mindent, amit azért teszel, hogy az AI megértsen.
+
+[11:05] Ez egy amolyan általános lufi, amibe az ügynökségek tényleg bármit belecsomagolhatnak. És mi a másik arca? A fontosabb, hogy a szakmában egyre gyakrabban a Google saját felületét, a Google AI Overviewst rövidítik vele. Ja, ez az a rész, amikor beírok valamit a Google-be, és még mielőtt látnám a megszokott kék linkeket, legfelül kapok egy sárgás szürkés dobozt egy hosszú
+
+[11:26] összefoglalóval, amit maga a gép írt. Pontosan ez az. Vagyis ha a jövőben egy árajánlatban az AIO szót látod, azonnal kérdezz vissza. Most általában az AI-ról beszélünk, vagy a Google konkrét találati funkciójára, az AI Overviewsra fókuszálunk? Ezt a kettőt élesen külön kell választani a fejünkben.
+
+[11:46] Értem. És ezzel el is érkeztünk ahhoz a ponthoz, amitől cégvezetőként szó szerint kiver a víz. Kilencedik fogalom: zero click search, vagyis kattintás nélküli keresés. Álljunk meg egy pillanatra és gondoljuk ezt végig. Jó, hallgatom a matekot. Kifizettem mondjuk kétmillió forintot egy díjnyertes weboldalra.
+
+[12:05] Fizetem a tárhelyet, a karbantartást, a drága szövegírókat. Ühüm. A felhasználó rákeres egy szakmai kérdésre, amire történetesen az én oldalam adja a legjobb választ. Erre a Google AI-ja szépen elolvassa a szövegemet, összefoglalja a képernyőn a felhasználónak- Aki bólogat, hogy köszi. Igen, bólint egyet, bezárja az ablakot és az életben
+
+[12:25] nem kattint át az én oldalamra. Semmi forgalom, semmi konverzió. Hát hogy a viharba csináljak én ebből pénzt? Ez egyszerűen a webes jelenlét halála. Teljesen megértem a frusztrációdat, és hidd el, ezzel a félelemmel messze nem vagy egyedül. A hagyományos digitális marketingben a kattintás volt a Szent Grál.
+
+[12:44] Hát persze, abból van a bevétel. De fel kell ismernünk a világ megváltozott. Az emberek azonnali választ akarnak. Ha valaki csak annyit akar tudni, hogy a te ablakos céged vállal-e munkát szombaton, és ezt az AI megmondja neki ott helyben, ott nincs szükség kattintásra. A probléma megoldódott. De hát így nem tudom lenyomni a torkán a drágább, prémium hőszigetelt
+
+[13:04] ablakomat a felugró reklámokkal. Hát igen, a direkt push marketing lehetősége azért jelentősen csökken. Ugyanakkor gondolj a márkaépítésre. Ha az AI téged jelöl meg forrásként abban a válaszdobozban, az elképesztő bizalmat épít. Bizalmat. Kattintás nélkül. Igen, mert a kutatások egyértelműen mutatják, hogy a
+
+[13:23] felhasználók megjegyzik a forrást akkor is, ha nem kattintanak azonnal. Amikor mondjuk három hét múlva tényleg ott áll a törött ablak előtt, és valós beruházásra van szükség, kire fog emlékezni? Arra, akit a gépi szakértőnek tartott. Na ez az. A zero click search nem a halál, hanem a láthatóság minőségi átalakulása.
+
+[13:44] Az üzleti láthatóság teljesen új értelmet nyer. A presztízsed nő, csak épp nem a Google Analytics forgalmi oszlopában látod másnap reggel. Az egy keserű pirula, de üzletileg valahol azért védhető. Viszont ha már az AI csak úgy válaszolgat helyettem, honnan a
+
+[14:01] csudából szedi az információt? Ez a következő nagy kérdés, igen. És legfőképp mi a garancia arra, hogy nem valami két évvel ezelőtti elavult árat mond be a cégemről, amitől aztán majd én magyarázkodhatok a vevőnek. És ezzel el is jutottunk a tizedik fogalomhoz. A RAG, vagyis Retrieval Augmented Generation.
+
+[14:19] Még kimondani is nyelvtörő. Pedig hidd el, ez a legfontosabb védőhálód. A generatív modellek, mint a ChatGPT alapjáraton arra lettek kiképezve, hogy jól hangzó szövegeket gyártsanak. Ha csak a betanított memóriájukra hagyatkoznának, simán kitalálnának neked egy fiktív szombati nyitvatartást, vagy ahogy a szakma mondja, hallucinálnának.
+
+[14:38] Igen, ezt sokat hallani. Na és a RAG, azaz a visszakereséssel támogatott válaszgenerálás pont ezt akadályozza meg. Én sok helyen úgy olvastam ezt a ragot, mintha a diák kinyithatná a tankönyvet vizsga közben. Szóval az AI fejből mondja meg a választ, vagy mi? Nem. És ez a szerencse.
+
+[14:56] Bár őszintén, ezt a tankönyves analógiát felejtsük el. A cég vezetői szemmel ez annyira nem pontos. Képzeld el inkább úgy, mintha az AI egy roppant intelligens, de a cégügyekben még zöldfülű vezetői asszisztens lenne. Oké, egy asszisztens. Amikor az ügyfél feltesz neki egy kérdést, ez az asszisztens
+
+[15:14] nem próbál meg emlékezetből a tavalyi céges pletykák alapján válaszolni. Ehelyett abban a másodpercben a RAG technológia segítségével rácsatlakozik az aktuális adatbázisokra, kiolvassa a te jól karbantartott weboldaladról a mai friss információt, és ezt a külső ellenőrzött tényt foglalja bele
+
+[15:35] a válaszába, hogy ne hallucináljon. Vagyis a RAG a híd a mesterséges szövegalkotó zsenialitás és a hideg, aktuális tények között. Így van. De, és itt jön a csavar: ez az asszisztens csak akkor tud jó adatot felolvasni, ha a te rendszeredben, a weboldaladon rend van.
+
+[15:53] Na, és ezen rá is tapintottál a lényegre. Mert honnan tudja ez az okos asszisztens vagy ez a nyitott tankönyv, hogy a cégem neve nem a termékem neve? Honnan tudja, hogy mondjuk én, Kovács János, a tulajdonos nem vagyok azonos magával az Ipari Kft.-vel? Pontosan erről van szó. Sokszor a húsvér ügyfelek is belekeverednek a cégstruktúrába, nemhogy
+
+[16:12] egy gép, ami csak adatokat szkennel, ugye? És itt érkeztünk el a tizenegyedik és talán legmélyebb fogalmunkhoz: Entity Engineering, azaz entitásmérnökség. És ez az a pont, ahol az egész mai beszélgetésünk, az összes eddigi betűleves értelmet nyer és összeér. Várhelyi Csanád, a wikiAI.hu felelős szerkesztője, aki maga is AI-láthatósági
+
+[16:34] szakember, nagyon tisztán definiálta ezt egy általa publikált munka definícióban. Mit is mondott pontosan? Hogy ez nem egyszerű kulcsszózás. Az entitásmérnökség arról szól, hogy kristálytisztán gépek számára is leírjuk, ki a személy, mi a jogi szervezet, mi a márka, és
+
+[16:52] ezek hogyan kapcsolódnak egymáshoz. Bontsuk ezt ki egy példán, jó? Tegyük fel, maradunk a B2B piacon a cégek közötti szolgáltatásoknál. Szuper! Képzelj el egy debreceni céget, ami ipari csarnokokat tervez és épít. Megvan. A valóságban több dolog is létezik itt. Van az alapító ügyvezető, a főmérnök.
+
+[17:11] Ő egy élő ember, egy személyentitás saját szakmai múlttal. Van a Kft., az a jogi szervezet, ami a szerződéseket köti és a számlát adja. Ez egy szervezet entitás. Világos. És mondjuk van egy saját fejlesztésű tetőszerkezetük, amit ők árulnak, ez pedig egy termékmárka entitás.
+
+[17:30] A hagyományos webes világban ezek az információk sokszor teljesen egybemosódnak, csak úgy ömlesztve rá vannak hányva egy rólunk oldalra, ugye? Aha. És amikor a RAG asszisztens jön, hogy kiolvassa az adatot, egyszerűen át tudja kibogozni a szálakat. Így van. Egy B2B szolgáltatónál pedig ez a bizalom alapja.
+
+[17:47] Az AI nem keverheti össze a referenciákat. Az Entity Engineering célja, hogy a gép pontosan értse a határokat, hogy az AI ne keverje össze az ügyvezető húsz évvel ezelőtti, mondjuk más cégnél szerzett referenciáit a jelenlegi Kft. teherbírásával. Tehát ha én mint B2B beszerző arra kérem a saját AI-mat, hogy
+
+[18:07] keressen egy megbízható csarnoképítőt- Akkor a te cégstruktúrádnak egyértelműnek kell lennie a gép számára, és a wikiAI.hu pont abban segít a magyar vállalkozásoknak, hogy ez a digitális identitás hiteles legyen és átmenjen a gép szűrőjén. Szóval ha jól értem, az entitásmérnökség tulajdonképpen azt
+
+[18:26] jelenti, hogy rendet rakok a műhelyben. Nagyon jó hasonlat. Olyan rendet, hogy amikor a mesterséges intelligencia vaktában benyúl az információért, ne egy rozsdás, összegabalyodott kábelköteget húzzon ki, hanem másodpercre pontosan azt az egy csatlakozót, amit keresett, szépen, világosan felcímkézve. Zseniális analógia, pontosan erről van szó, és ezért is utaltunk vissza
+
+[18:47] a műsor elején a harmadik adásunkra. A szép weboldal, a csillogó design, az az emberi szemnek szól. Igen, a kirakat. De az entitásmérnökség az a gépnek szól. A strukturált, tiszta adat a gépi megértést szolgálja, és 2026-ban ez a kettő csak kéz a kézben működhet.
+
+[19:05] Hú, hát ez egy elég intenzív gyorstalpaló volt, de úgy érzem, sokkal tisztább a kép. Azt hiszem, eljött az ideje, hogy egy kicsit hátralépjünk a fától és megnézzük az erdőt. Szóval, hogy összegezzük a hallgatóinknak a lényeget. Végigmentünk a SEO-n, tisztáztuk a lokális keresést, az AEO és a GEO illúzióit, beszéltünk a RAG-ról és az entitásmérnökségről.
+
+[19:26] Voltak itt fogalmak bőven. Bizony. De ha egyetlen egyenes, kemény üzleti üzenetet kellene ebből a betűlevesből kihámoznom, az az lenne: felejtsük el végre az algoritmusok meghekkelését. Nincs varázspálca. Nincs. És a legfontosabb jó tanács soha ne fizess senkinek, aki garantálja, hogy átveri neked az algoritmust.
+
+[19:44] A valódi cél egy tiszta, hiteles, ellenőrizhető digitális identitás, egy olyan alap, amit az ember és a gép is egyaránt félreértések nélkül megért. Nem a ChatGPT agyát kell becsapni, hanem a saját fizikai valóságunkat kell brutálisan átláthatóan digitalizálni. Pontosan ez a lényeg.
+
+[20:02] Mert ha ezt az alapozó munkát elvégzed, onnantól kezdve teljesen mindegy, hogy a techóriások holnap a Google AI Overviews-t tolják, a Gemini-t fejlesztik, vagy egy teljesen új rendszert dobnak piacra, a te adataid stabilak és gépi szinten is értelmezhetőek maradnak. Szuper összefoglaló! Zárásként pedig
+
+[20:21] Zárásként hadd dobjak be egy utolsó elgondolkodtató kérdést a hallgatóinknak. Kíváncsian várom. Cégvezetőként eddig azon dolgoztál, hogy a lehendő ügyfeled rátaláljon a weboldaladra és döntsön. De mi történik akkor, ha jövőre a te legnagyobb B2B partnered nem is maga keresgél a weben?
+
+[20:40] Mi van, ha az ő AI asszisztense tárgyal a te digitális jelenléteddel, még mielőtt ti ketten egyáltalán találkoznátok? Mennyire van ma felkészülve a te céged egy ilyen gép a géppel interjúra? Huhh, azt hiszem, ez a gondolat nem egy cégvezetőnek fog okozni néhány álmatlan percet ma este.
+
+[20:59] De pont azért vagyunk itt, hogy ne a pánik, hanem a megértés vezessen minket. Ha tetszett a mai mélyfúrásunk, és szeretnél még több ilyen letisztult elemzést hallani, kérlek kövesd az AI Percek műsorát a YouTube-on, a Spotify-on és az Apple Podcaston. Köszönjük, hogy ma is velünk tartottál! AI Percek: érthető technológia, használható tudás néhány percben.
+
 Hogyan készül az AI Percek?
 
 A podcast témáit a wikiAI.hu szakmai érdeklődése és a vállalkozások digitális kérdései adják. A beszélgetésekhez forrásanyagokat készítünk elő, amelyekből az AI segítségével magyar nyelvű, két műsorvezetős hanganyag születik. A videós változatokhoz AI-alapú vizuális elemek és szerkesztett hang társulnak.
@@ -285,7 +459,7 @@ Igen. A podcast hangalapú formátuma éppen arra jó, hogy utazás, séta, fut�
 
 Mit jelent a SEO, AEO, GEO és LLMO?
 
-A SEO a keresőoptimalizálás, az AEO a keresési kérdésekre adott válaszokhoz kapcsolódó optimalizálás, a GEO a generatív keresési környezetre való felkészülés, az LLMO pedig a nagy nyelvi modellek által értelmezhető információk szemlélete. Az AI Percek ezekről a fogalmakról külön, hétköznapi példákkal is szeretne beszélni.
+A SEO a hagyományos keresőoptimalizálás, az AEO a közvetlen válaszokra összpontosító megközelítés, a GEO a generatív keresési környezethez, az LLMO pedig a nagy nyelvi modellek információfeldolgozásához kapcsolódó szakmai szóhasználat. A negyedik AI Percek-epizódban hétköznapi példákkal külön is bemutatjuk őket, a Local SEO, AIO, RAG, Zero-Click és Entity Engineering fogalmakkal együtt.
 
 Ki áll az AI Percek szakmai háttere mögött?
 
@@ -295,9 +469,13 @@ Miért fontos az AI-láthatóság 2026-ban a vállalkozásoknak?
 
 Mert a Google AI-alapú keresési funkciói, a ChatGPT és más információs rendszerek megváltoztathatják, hogyan tájékozódnak az emberek a vállalkozásokról. A pontos szolgáltatási adatok, a világos weboldalszöveg és a következetes digitális identitás az ügyfeleknek és a gépi feldolgozásnak is segíthet. Erről szól az AI Percek harmadik epizódja.
 
+Milyen témákat dolgoz fel az AI Percek negyedik epizódja?
+
+A SEO, Local SEO, AEO, GEO, LLMO, AIO, Zero-Click Search, RAG és Entity Engineering jelentését tisztázza magyarul, üzleti példákkal. Nem fejlesztői útmutató, hanem segítség azoknak, akik szeretnék megérteni, miről beszélnek a keresőoptimalizálás és az AI-láthatóság szakemberei.
+
 Miért hasznos a teljes szöveges átirat?
 
-Mert gyorsan visszakereshetővé és olvashatóvá teszi a beszélgetésekben elhangzott fogalmakat, példákat és megállapításokat. A cikk mindhárom epizód teljes magyar, időjelöléses átiratát tartalmazza, így a videók szakmai tartalma szövegesen is elérhető.
+Mert gyorsan visszakereshetővé és olvashatóvá teszi a beszélgetésekben elhangzott fogalmakat, példákat és megállapításokat. A cikk mind a négy epizód teljes magyar, időjelöléses átiratát tartalmazza, így a podcast szakmai tartalma szövegesen is elérhető.
 
 Az AI Percek innen folytatódik
 
@@ -324,5 +502,7 @@ Entity Engineering – entitásmérnökség a gyakorlatban
 Google Search Central – AI-alapú keresési funkciók és weboldalak
 
 Google Search Central – hasznos, emberközpontú tartalom
+
+AI Percek – epizódok és átiratok
 
 Szerző és felelős szerkesztő: Várhelyi Csanád

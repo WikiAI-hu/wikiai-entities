@@ -23,6 +23,9 @@
         },
         {
           "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-03"
+        },
+        {
+          "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-04"
         }
       ]
     },
@@ -99,6 +102,31 @@
         "url": "https://www.youtube.com/watch?v=W_bZ6rvNk84",
         "embedUrl": "https://www.youtube.com/embed/W_bZ6rvNk84",
         "name": "AI Percek #03 – AI-láthatóság 2026: az AI érti a cégedet?"
+      }
+    },
+    {
+      "@type": "PodcastEpisode",
+      "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-04",
+      "name": "AI Percek #04 – SEO, Local SEO, AEO, GEO, LLMO: mit jelentenek valójában 2026-ban?",
+      "episodeNumber": 4,
+      "description": "SEO, GEO, AEO, LLMO, AIO… ismerős az a pillanat, amikor egy ajánlatban több a rövidítés, mint az érthető magyarázat? A negyedik AI Percek-epizódban éppen ezt a digitális „betűlevest” tesszük rendbe. Nem programozói képzést tartunk, hanem cégvezetői szemmel nézzük meg, mi mit jelent, és miért lehet fontos a vállalkozások mindennapjaiban. A 21 perc 19 másodperces magyar beszélgetés a harmadik epizód AI-láthatósági témáját viszi tovább. A hagyományos Google-kereséstől indulunk, majd a helyi találatokon és a közvetlen válaszokon át eljutunk a generatív kereséshez, a nagy nyelvi modellekhez és a gépileg értelmezhető digitális identitás kérdéséhez. Hétköznapi példák segítenek abban, hogy a fogalmakat akkor is megértsd, ha nem vagy informatikus. Miről beszélgetünk a negyedik részben? SEO – keresőoptimalizálás: a weboldalak megtalálhatóságának alapvető területe; az AI-korszakban sem tűnt el. Local SEO – helyi keresőoptimalizálás: a földrajzilag releváns keresések, a helyi vállalkozások és a Google Cégprofil világa. AEO – válaszalapú optimalizálás: annak szemlélete, amikor a keresésnél már nemcsak egy linkre, hanem közvetlenül egy kérdés megválaszolására összpontosítunk. GEO – generatív keresési optimalizálás: a generált válaszokban megjelenő információk és forráshivatkozások kérdésköre. LLMO – nagy nyelvi modellekhez kapcsolódó optimalizálás: a vállalkozások és szakemberek AI-rendszerek általi értelmezhetőségére fókuszáló szakmai megközelítés. AIO és Google AI Overviews: miért kell tisztázni, mit ért valaki az AIO rövidítés alatt, és miben más a Google generált keresési összefoglalója? Zero-Click Search: amikor a felhasználó a keresési felületen kap választ, és nem feltétlenül nyit meg külön weboldalt. RAG – Retrieval-Augmented Generation: olyan AI-válaszadási megközelítés, amely külső vagy visszakeresett információkra is támaszkodhat. Entity Engineering – entitásmérnökség: a digitális szereplők, fogalmak és kapcsolataik következetes azonosíthatóságának szakmai nézőpontja. A fontos tanulság: ezek nem kilenc különálló „titkos trükköt” jelentenek. Egy részük bevett szakterület, más megnevezések még változó iparági fogalmak. Nincs olyan biztos kapcsoló, amely garantálná, hogy egy vállalkozást a Google vagy bármely AI-rendszer ajánlani fog. Az információk világos, hiteles és következetes bemutatása viszont az ügyfeleknek is értéket adhat. Az epizód szakmai hátteréhez a ",
+      "inLanguage": "hu-HU",
+      "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-04",
+      "partOfSeries": {
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#podcast"
+      },
+      "transcript": {
+        "@type": "CreativeWork",
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-04",
+        "inLanguage": "hu-HU",
+        "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-04"
+      },
+      "associatedMedia": {
+        "@type": "VideoObject",
+        "@id": "https://www.youtube.com/watch?v=f6wsTK6thY4",
+        "url": "https://www.youtube.com/watch?v=f6wsTK6thY4",
+        "embedUrl": "https://www.youtube.com/embed/f6wsTK6thY4",
+        "name": "AI Percek #04 – SEO, Local SEO, AEO, GEO, LLMO: mit jelentenek valójában 2026-ban?"
       }
     }
   ]
