@@ -57,10 +57,8 @@ class TextOnly(HTMLParser):
 def visible_text(value: str) -> str:
     parser = TextOnly()
     parser.feed(value)
-    return re.sub(r"\n{3,}", "\n\n",
-                  "\n".join(" ".join(part.split()) if "\n" not in part else part
-                            for part in parser.parts).strip().splitlines()).strip()
-
+    lines = [" ".join(line.split()) for line in "".join(parser.parts).splitlines()]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip()
 
 def clean_inline(value: str) -> str:
     return re.sub(r"\s+", " ", visible_text(value)).strip()
