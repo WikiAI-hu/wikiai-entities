@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "PodcastSeries",
+      "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#podcast",
+      "name": "AI Percek",
+      "inLanguage": "hu-HU",
+      "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/",
+      "description": "A wikiAI.hu magyar nyelvű, közérthető szakmai podcastja a webfejlesztésről, a Google-keresésről és az AI-láthatóságról.",
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/"
+      },
+      "episode": [
+        {
+          "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-01"
+        },
+        {
+          "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-02"
+        },
+        {
+          "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-03"
+        }
+      ]
+    },
+    {
+      "@type": "PodcastEpisode",
+      "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-01",
+      "name": "AI Percek #01 – Bemutatkozik a wikiAI.hu",
+      "episodeNumber": 1,
+      "description": "Mi az a wikiAI.hu, és miért lehet fontos a magyar vállalkozások számára? A sorozat első részében bemutatjuk a platform gondolatát: a vállalkozásokról szóló hiteles, szerkesztett információk, üzleti profilok és szakmai tartalmak egy olyan rendszerben kapcsolódnak össze, amely az embereknek és a digitális rendszereknek is könnyebben értelmezhető. Szóba kerül, miért nem elég egy vállalkozásnak néhány elszórt online adatlap, miért fontos a következetes név, szolgáltatásleírás és szakmai háttér, és hogyan kapcsolódik ehhez a Google, a ChatGPT és a generatív keresés világa. Az első epizód megtekintése a YouTube-on · A teljes első rész szövege.",
+      "inLanguage": "hu-HU",
+      "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-01",
+      "partOfSeries": {
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#podcast"
+      },
+      "transcript": {
+        "@type": "CreativeWork",
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-01",
+        "inLanguage": "hu-HU",
+        "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-01"
+      },
+      "associatedMedia": {
+        "@type": "VideoObject",
+        "@id": "https://www.youtube.com/watch?v=ut7318DKfgo",
+        "url": "https://www.youtube.com/watch?v=ut7318DKfgo",
+        "embedUrl": "https://www.youtube.com/embed/ut7318DKfgo",
+        "name": "AI Percek #01 – Bemutatkozik a wikiAI.hu"
+      }
+    },
+    {
+      "@type": "PodcastEpisode",
+      "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-02",
+      "name": "AI Percek #02 – Várhelyi Csanád: webfejlesztés, SEO és AI-láthatóság",
+      "episodeNumber": 2,
+      "description": "Miért lehet egy weboldal technikailag hibátlan, mégis nehezen értelmezhető a keresési és AI-rendszerek számára? A második epizód Várhelyi Csanád szakmai munkáján keresztül mutatja meg, hogyan kapcsolódhat össze a weboldalkészítés, a technikai SEO, a helyi láthatóság, az LLM-first webarchitektúra és az Entity Engineering. A beszélgetés cégvezetői szemmel közelít: szó van WordPress- és egyedi fejlesztésekről, a Core Web Vitalsról, a strukturált adatokról, a gépileg olvasható tartalomról, valamint a szakmai kutatás és a gyakorlati B2B webfejlesztés kapcsolatáról. A példák ipari gyártási, építőipari és szolgáltatói helyzeteket is érintenek. A második epizód megtekintése a YouTube-on · A teljes második rész szövege.",
+      "inLanguage": "hu-HU",
+      "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-02",
+      "partOfSeries": {
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#podcast"
+      },
+      "transcript": {
+        "@type": "CreativeWork",
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-02",
+        "inLanguage": "hu-HU",
+        "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-02"
+      },
+      "associatedMedia": {
+        "@type": "VideoObject",
+        "@id": "https://www.youtube.com/watch?v=ZxaSz9kEI3c",
+        "url": "https://www.youtube.com/watch?v=ZxaSz9kEI3c",
+        "embedUrl": "https://www.youtube.com/embed/ZxaSz9kEI3c",
+        "name": "AI Percek #02 – Várhelyi Csanád: webfejlesztés, SEO és AI-láthatóság"
+      }
+    },
+    {
+      "@type": "PodcastEpisode",
+      "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-03",
+      "name": "AI Percek #03 – AI-láthatóság 2026: az AI érti a cégedet?",
+      "episodeNumber": 3,
+      "description": "Van egy jó vállalkozásod, gyönyörű weboldalad és elégedett ügyfeleid. De vajon az AI-rendszerek is értik, mivel foglalkozol? A harmadik epizódban ezt a kérdést járjuk körül: miért lehet 2026-ban üzletileg is fontos a pontos, egyértelmű és gépileg értelmezhető digitális jelenlét? A 10 perc 38 másodperces beszélgetésben hétköznapi példákon keresztül derül ki, miben különbözik a hagyományos Google-keresés az AI-alapú tájékozódástól. A műsorvezetők megmutatják, miért nem elég a legszebb digitális kirakat, ha a weboldalról nem derül ki világosan, ki áll mögötte, milyen szolgáltatásokat nyújt és hol működik. Hallhatunk egy hajdúszoboszlói szakemberkeresésről, egy AI-könyvtároshoz hasonlított keresési folyamatról és egy szemléletes éttermes példáról is. A közös tanulság: a jól használható dizájn mellett a hiteles, következetes információk is számítanak. Az epizód azt is tisztázza, hogy a Google-helyezés és az AI-ajánlás nem garantálható. Mit vihetsz magaddal ebből a részből? Egy cégvezetőnek érdemes megnéznie, hogy az online felületein valóban világos-e a vállalkozás tevékenysége, működési területe és szakmai háttere. Ez a vállalkozások AI-láthatóságának egyik legfontosabb kiindulópontja. A wikiAI.hu szerkesztett üzleti tudásplatformként a pontos vállalkozási információk bemutatását támogatja; Várhelyi Csanád szakmai munkája pedig a webfejlesztés, a SEO és az AI-érthető digitális jelenlét területeit kapcsolja össze. Nézd meg a 3. epizódot a YouTube-on · Olvasd el a teljes, időjelöléses magyar átiratot.",
+      "inLanguage": "hu-HU",
+      "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-03",
+      "partOfSeries": {
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#podcast"
+      },
+      "transcript": {
+        "@type": "CreativeWork",
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-03",
+        "inLanguage": "hu-HU",
+        "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-03"
+      },
+      "associatedMedia": {
+        "@type": "VideoObject",
+        "@id": "https://www.youtube.com/watch?v=W_bZ6rvNk84",
+        "url": "https://www.youtube.com/watch?v=W_bZ6rvNk84",
+        "embedUrl": "https://www.youtube.com/embed/W_bZ6rvNk84",
+        "name": "AI Percek #03 – AI-láthatóság 2026: az AI érti a cégedet?"
+      }
+    }
+  ]
+}

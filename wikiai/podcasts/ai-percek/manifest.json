@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "collection": "AI Percek",
+  "language": "hu-HU",
+  "publisher": "WikiAI.hu",
+  "source_of_truth": "WordPress",
+  "sync_direction": "wordpress-to-github",
+  "wordpress_post_id": 1946,
+  "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/",
+  "wordpress_modified": "2026-11-15T12:24:13",
+  "html_sha256": "6e4aa7a8c90145fb032155642a6a61d67b9eb5371f591229af5682b5056bd1a5",
+  "spotify_show_url": "https://open.spotify.com/show/0kBSFHE2qHO8xSzi7pB5BJ",
+  "apple_podcasts_show_url": "https://podcasts.apple.com/podcast/id6834785544",
+  "episodes": [
+    {
+      "number": 1,
+      "id": "epizod-01",
+      "name": "AI Percek #01 – Bemutatkozik a wikiAI.hu",
+      "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-01",
+      "transcript_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-01",
+      "youtube_url": "https://www.youtube.com/watch?v=ut7318DKfgo",
+      "machine_record": "episodes/01.md",
+      "transcript_mirror": "transcripts/01.md",
+      "timestamped_paragraphs": 12
+    },
+    {
+      "number": 2,
+      "id": "epizod-02",
+      "name": "AI Percek #02 – Várhelyi Csanád: webfejlesztés, SEO és AI-láthatóság",
+      "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-02",
+      "transcript_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-02",
+      "youtube_url": "https://www.youtube.com/watch?v=ZxaSz9kEI3c",
+      "machine_record": "episodes/02.md",
+      "transcript_mirror": "transcripts/02.md",
+      "timestamped_paragraphs": 17
+    },
+    {
+      "number": 3,
+      "id": "epizod-03",
+      "name": "AI Percek #03 – AI-láthatóság 2026: az AI érti a cégedet?",
+      "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-03",
+      "transcript_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-03",
+      "youtube_url": "https://www.youtube.com/watch?v=W_bZ6rvNk84",
+      "machine_record": "episodes/03.md",
+      "transcript_mirror": "transcripts/03.md",
+      "timestamped_paragraphs": 34
+    }
+  ]
+}

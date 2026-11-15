@@ -1,0 +1,328 @@
+Elindult az AI Percek: a wikiAI.hu podcastja a webfejlesztés és az AI-láthatóság világáról
+https://www.wikiai.hu/ai-percek-wikiai-podcast/
+
+WikiAI.hu · Tudástár · AI Percek · webfejlesztés és AI-láthatóság
+
+Mi történik, ha a következő ügyfeled már nem a Google találati listáját böngészi, hanem egyszerűen megkérdezi a ChatGPT-től vagy a Geminitől, kit érdemes felkeresnie? Vajon egyértelműen kiderül a vállalkozásodról, mivel foglalkozik, kinek segít és miért lehet jó választás?
+
+Ez nem csak a technológiai szakemberek kérdése. Egy építőipari vállalkozás, egy ipari beszállító, egy helyi szolgáltató vagy egy webáruház számára is egyre fontosabb, hogy az online jelenléte ne csak szép és működőképes, hanem világos, következetes és jól értelmezhető legyen.
+
+Innen indult az AI Percek ötlete. A wikiAI.hu új szakmai podcast- és videósorozatában a webfejlesztés, a Google-keresés, a mesterséges intelligencia és az üzleti digitális jelenlét világát hozzuk közelebb azokhoz is, akik nem technológiai szakemberek. Nem egy bonyolult előadást szeretnénk tartani, hanem egy jó beszélgetést indítani: olyat, ami érthető, élvezhető, és a következő munkanapon is adhat egy használható ötletet.
+
+Az AI Percek elsősorban embereknek készült – a hétköznapi tartalomfogyasztáshoz. Nem kell külön időpontot foglalni a tanulásra, és nem kell a monitor előtt ülni. Meghallgathatod a Spotify-on vagy az Apple Podcastson utazáskor, futás vagy edzés közben, egy séta alatt, házimunka mellett vagy akár csak kikapcsolódásként. Ha a képi világot is szeretnéd látni, a YouTube-on videóként nézheted meg az epizódokat.
+
+Már az első három AI Percek-epizód elérhető! Megismerheted a wikiAI.hu platformot, Várhelyi Csanád szakmai munkáját és azt is, miért fontos 2026-ban az AI-láthatóság a magyar vállalkozásoknak. Itt mindhárom YouTube-videót, a podcastplatformok elérhetőségét és a beszélgetések teljes, időjelöléses magyar átiratát megtalálod. Hallgasd, nézd vagy olvasd – ahogy neked a legkényelmesebb.
+
+Miért indítottuk el az AI Percek podcastot?
+
+Mert a mesterséges intelligencia elképesztő tempóban fejlődik, és közben a legtöbben egyszerű, jogos kérdéseket tesznek fel: „Mit jelent ez az egész az én munkámban? Miért beszél mindenki a SEO-ról és az AI-láthatóságról? És mi az, amivel nekem tényleg foglalkoznom kell?”
+
+Egy ügyvezetőnek nem kell webfejlesztővé válnia ahhoz, hogy jó kérdéseket tudjon feltenni a weboldaláról. Egy munkatársnak sem kell ismernie az összes angol rövidítést ahhoz, hogy megértse, miért fontosak a pontos szolgáltatásleírások, a Google Cégprofil vagy az AI által feldolgozható információk. Az AI Percek pont ezért jött létre: hogy az új technológiákról emberi nyelven lehessen tanulni.
+
+Nem tankönyvet olvasunk fel – hétköznapi példákat mesélünk
+
+Mit jelent például a SEO? Ha valaki Debrecenben szakembert keres, hogyan találhat rá egy vállalkozás weboldalára? Mire utal az AEO? Miért jó, ha egy weboldal világosan megválaszolja az ügyfelek gyakori kérdéseit? És hogyan kapcsolódnak ehhez az AI-alapú keresők, a GEO vagy az LLMO? Ezekről a fogalmakról úgy szeretnénk beszélni, hogy egy cégvezető, egy irodai munkatárs vagy egy pályakezdő is követni tudja – lehetőleg egy olyan példával, amit azonnal el tud képzelni.
+
+A későbbi részekben sorra vesszük a keresőoptimalizálás (SEO), a helyi SEO, a válaszalapú optimalizálás (AEO), a generatív keresésre való felkészülés (GEO), a nagy nyelvi modellekre fókuszáló megközelítések (LLMO), az LLM-first weboldalak, a strukturált adatok, a Knowledge Graph és az Entity Engineering világát. Megnézzük azt is, hogyan segíthetnek a jól szerkesztett tudásanyagok a RAG-alapú információfeldolgozásban, és miért fontos a sebesség, az átláthatóság meg a felhasználói élmény.
+
+A lényeg nem az, hogy minél több szakkifejezést jegyezz meg. Hanem hogy amikor legközelebb egy webfejlesztő, marketinges vagy AI-szakember ezekről beszél, pontosan tudd, miről van szó, miért fontos, és milyen kérdéseket érdemes feltenned.
+
+Rövid, lendületes beszélgetésekben gondolkodunk, felesleges körmondatok nélkül. Nem ígérünk mesterségesen sűrű megjelenést: olyan témákat hozunk, amelyek valóban segítenek eligazodni a gyorsan változó digitális világban.
+
+Az AI Percek eddigi epizódjai – a wikiAI.hu bemutatásától az AI-láthatóságig
+
+AI Percek #01 – Bemutatkozik a wikiAI.hu
+
+Mi az a wikiAI.hu, és miért lehet fontos a magyar vállalkozások számára? A sorozat első részében bemutatjuk a platform gondolatát: a vállalkozásokról szóló hiteles, szerkesztett információk, üzleti profilok és szakmai tartalmak egy olyan rendszerben kapcsolódnak össze, amely az embereknek és a digitális rendszereknek is könnyebben értelmezhető.
+
+Szóba kerül, miért nem elég egy vállalkozásnak néhány elszórt online adatlap, miért fontos a következetes név, szolgáltatásleírás és szakmai háttér, és hogyan kapcsolódik ehhez a Google, a ChatGPT és a generatív keresés világa.
+
+Az első epizód megtekintése a YouTube-on · A teljes első rész szövege.
+
+AI Percek #02 – Várhelyi Csanád: webfejlesztés, SEO és AI-láthatóság
+
+Miért lehet egy weboldal technikailag hibátlan, mégis nehezen értelmezhető a keresési és AI-rendszerek számára? A második epizód Várhelyi Csanád szakmai munkáján keresztül mutatja meg, hogyan kapcsolódhat össze a weboldalkészítés, a technikai SEO, a helyi láthatóság, az LLM-first webarchitektúra és az Entity Engineering.
+
+A beszélgetés cégvezetői szemmel közelít: szó van WordPress- és egyedi fejlesztésekről, a Core Web Vitalsról, a strukturált adatokról, a gépileg olvasható tartalomról, valamint a szakmai kutatás és a gyakorlati B2B webfejlesztés kapcsolatáról. A példák ipari gyártási, építőipari és szolgáltatói helyzeteket is érintenek.
+
+A második epizód megtekintése a YouTube-on · A teljes második rész szövege.
+
+AI Percek #03 – AI-láthatóság 2026: az AI érti a cégedet?
+
+Van egy jó vállalkozásod, gyönyörű weboldalad és elégedett ügyfeleid. De vajon az AI-rendszerek is értik, mivel foglalkozol? A harmadik epizódban ezt a kérdést járjuk körül: miért lehet 2026-ban üzletileg is fontos a pontos, egyértelmű és gépileg értelmezhető digitális jelenlét?
+
+A 10 perc 38 másodperces beszélgetésben hétköznapi példákon keresztül derül ki, miben különbözik a hagyományos Google-keresés az AI-alapú tájékozódástól. A műsorvezetők megmutatják, miért nem elég a legszebb digitális kirakat, ha a weboldalról nem derül ki világosan, ki áll mögötte, milyen szolgáltatásokat nyújt és hol működik.
+
+Hallhatunk egy hajdúszoboszlói szakemberkeresésről, egy AI-könyvtároshoz hasonlított keresési folyamatról és egy szemléletes éttermes példáról is. A közös tanulság: a jól használható dizájn mellett a hiteles, következetes információk is számítanak. Az epizód azt is tisztázza, hogy a Google-helyezés és az AI-ajánlás nem garantálható.
+
+Mit vihetsz magaddal ebből a részből? Egy cégvezetőnek érdemes megnéznie, hogy az online felületein valóban világos-e a vállalkozás tevékenysége, működési területe és szakmai háttere. Ez a vállalkozások AI-láthatóságának egyik legfontosabb kiindulópontja. A wikiAI.hu szerkesztett üzleti tudásplatformként a pontos vállalkozási információk bemutatását támogatja; Várhelyi Csanád szakmai munkája pedig a webfejlesztés, a SEO és az AI-érthető digitális jelenlét területeit kapcsolja össze.
+
+Nézd meg a 3. epizódot a YouTube-on · Olvasd el a teljes, időjelöléses magyar átiratot.
+
+Mitől lesz igazán jó egy weboldal az AI korszakában?
+
+Attól, hogy nemcsak látványos, hanem egyértelmű is. A látogató gyorsan megtalálja, amit keres; a keresőrobot fel tudja térképezni a fontos oldalakat; az információt feldolgozó rendszerek pedig következetes, pontos szöveget találnak a vállalkozásról.
+
+Képzelj el egy ipari beszállítót, amelynek gyönyörű weboldala van, de nem derül ki világosan, milyen termékeket gyárt, milyen iparágaknak szállít, és mely adatok kapcsolódnak valóban a céghez. A dizájn önmagában nem oldja meg ezt. Egy átgondolt információs szerkezet, jól megírt szolgáltatásoldalak, egyértelmű vállalati adatok és a hozzájuk illő strukturált jelölések viszont sokat javíthatnak a megérthetőségen.
+
+Ugyanez igaz egy építőipari vállalkozásra: a referenciák, a szolgáltatások, a megvalósított munkák és a valós működési terület más-más információt jelentenek. Ha ezeket helyesen különítjük el, egy érdeklődő is magabiztosabban tájékozódik. Egy helyi szolgáltatónál pedig a weboldal és a Google Cégprofil közötti következetesség lehet hasonlóan fontos.
+
+A modern webfejlesztés tehát nem a keresőnek írt kód és az embernek szóló tartalom versenye. A jó megoldás mindkettőt szolgálja.
+
+SEO, AEO, GEO, LLMO: mit jelentenek ezek a fogalmak egyszerűen?
+
+Ha úgy érzed, hogy minden héten megjelenik egy újabb hárombetűs rövidítés, nem vagy egyedül. A technológia gyorsan változik, de a legfontosabb kérdés ugyanaz marad: hogyan értheti meg egy érdeklődő – és az általa használt keresési rendszer –, hogy miben tud segíteni a vállalkozásod?
+
+Vegyünk egy hétköznapi példát: valaki nyílászárócserét tervez, és szeretne megbízható szolgáltatót találni. Nézzük meg, mit jelentenek a leggyakrabban emlegetett módszerek ebben a helyzetben.
+
+SEO – Search Engine Optimization, azaz keresőoptimalizálás. Segít abban, hogy a keresőmotor feltérképezhesse és megfelelően értelmezhesse a weboldalt. Például világos legyen, milyen ablakokat szerel be a vállalkozás, hol vállal munkát, és hol találhatók a szolgáltatási részletek.
+
+AEO – Answer Engine Optimization, vagyis válaszalapú optimalizálás. Itt a konkrét kérdésekre adott világos válasz a fontos. Például: „Mennyi ideig tart egy ablakcsere?” vagy „Mire kell készülni a helyszíni felmérésen?” Egy ilyen kérdéseket jól megválaszoló oldal az ügyfélnek is hasznos.
+
+GEO – Generative Engine Optimization, azaz generatív keresési optimalizálás. Azt vizsgálja, hogyan lehet a tartalom pontos, hiteles és értelmezhető a generatív keresési környezetben. Ha valaki egy AI-rendszertől kér összefoglalót a nyílászárócsere lehetőségeiről, az egyértelmű szolgáltatási és szakmai információknak itt is értékük van.
+
+LLMO – Large Language Model Optimization. Ez a megközelítés a nagy nyelvi modellek által értelmezhető digitális információkra figyel. Például következetesen ugyanazokkal a valós vállalati adatokkal, szakterületekkel és szakértői kapcsolatokkal mutatjuk be a szolgáltatót a saját weboldalán.
+
+AIO – AI Optimization. Egy tágabb, többféleképpen használt megnevezés arra, hogy a tartalmakat és folyamatokat az AI-környezetekre is felkészítsük. Nem önálló Google-rangsorolási szabvány.
+
+RAG – Retrieval-Augmented Generation, magyarul visszakereséssel támogatott szöveggenerálás. Képzeld el, hogy egy vállalati AI-asszisztens nem emlékezetből találgat, hanem előbb megkeresi a választ a hozzáférhető termékismertetőkben vagy tudásbázisban, és ezekből állít össze választ. Ehhez rendezett, pontos dokumentumokra van szükség.
+
+Az Entity Engineering, vagyis az entitásmérnökség kapcsolódik ehhez a képhez: segít tisztázni, hogy egy név egy vállalkozást, egy személyt vagy egy márkát jelöl, és ezek között milyen hiteles kapcsolatok vannak. A Knowledge Graph, azaz tudásgráf pedig az ilyen egyértelműen leírt elemek és kapcsolatok hálózataként képzelhető el.
+
+És mi köze ennek a weboldalfejlesztéshez? A szemantikus HTML, a helyes oldalstruktúra, a megfelelő Schema.org strukturált adatok, a következetes belső hivatkozások, a jól megírt szövegek és a gyors, használható weboldal mind azt segítik, hogy az információ rendezett és értékes legyen. Ez a Google-first, emberközpontú megközelítés alapja – nem egy varázskód, hanem következetes szakmai munka.
+
+Az AI Percek későbbi részeiben ezeket a kifejezéseket önállóan is kibontjuk, vállalkozói példákkal, a lehető legkevesebb szakzsargonnal. Ha valamelyik fogalom érdekel, addig is olvasd el az entitásmérnökség és az LLM-first webarchitektúra szakmai összefoglalóját.
+
+AI Percek a Spotify-on és az Apple Podcastson – szakmai tudás a saját ritmusodban
+
+A tanulásnak nem kell külön helyet szorítanod a naptáradban. Tudjuk, milyen egy sűrű hétköznap: munka, megbeszélések, ügyfelek, család, elintéznivalók. Néha az ember egyszerűen nem szeretne még egy hosszú videó elé leülni. Ezért készült az AI Percek olyan formátumban, amelyet könnyű beilleszteni az életbe.
+
+A rövid, magyar nyelvű epizódokat hallgathatod a Spotify-on vagy az Apple Podcastson, amikor éppen kényelmes. Nem kell hozzá webfejlesztőnek, marketingesnek vagy informatikusnak lenned. Elég a kíváncsiság.
+
+Vezetés és utazás közben: ha úton vagy egy ügyfélhez vagy munkába indulsz, a hanganyag kihangosítva vagy az autó hangrendszerén keresztül is hallgatható, a figyelmedet természetesen a közlekedésen tartva.
+
+Futás, séta és sportolás alatt: miközben mozogsz, egy rövid beszélgetés új ötleteket adhat arról, hogyan változik a Google vagy a mesterséges intelligencia világa.
+
+A hétköznapi teendők mellett: házimunka, könnyebb rutinmunka vagy ebédszünet idején is beleférhet néhány percnyi szakmai inspiráció.
+
+Kikapcsolódásként: nem minden epizódot kell tanulási céllal elindítani. Néha egyszerűen érdekes meghallgatni, merre tart a technológia.
+
+Önképzéshez és munkahelyi fejlődéshez: egy vállalkozó, ügyvezető, értékesítő, irodai munkatárs vagy marketinges közérthető magyarázatot kaphat azokra a fogalmakra, amelyekkel munkája során egyre gyakrabban találkozik.
+
+Lehet, hogy ma csak azt jegyzed meg, mit jelent a SEO. Holnap már azt is érted, miért beszélnek AEO-ról vagy GEO-ról. Később pedig könnyebben tudsz dönteni egy új weboldalról, egy Google Cégprofilról vagy egy AI-láthatósági fejlesztésről. Az AI Percek célja pontosan ez: a bonyolult technológiából érthető, a hétköznapokban használható tudást készíteni.
+
+Válaszd a neked kényelmes platformot: AI Percek – Spotify · AI Percek – Apple Podcasts. Ha inkább néznéd is a beszélgetések vizuális világát, az epizódokat a wikiAI.hu YouTube-csatornáján találod. Az oldalon lejjebb a teljes magyar átiratokat is elolvashatod.
+
+Miért tettük közzé a podcastok teljes szövegét is?
+
+Mert egy jó gondolatot nemcsak meghallgatni lehet, hanem később megkeresni, újraolvasni és továbbgondolni is. Ha például az LLM-first vagy a Knowledge Graph jelentése érdekel, nem kell végigpörgetned az egész videót: az átiratban közvetlenül is megtalálhatod a beszélgetés adott részét.
+
+A két epizódhoz magyar SRT-alapú, időjelöléses átirat tartozik. Ezek a szövegek segítik a hozzáférhetőséget, az olvasói tájékozódást, a témák visszakeresését és azt is, hogy a weboldal ne csak videóként, hanem szöveges szakmai forrásként legyen értelmezhető. Egy RAG-alapú rendszer számára is a hozzáférhető, világos, pontos szöveg jelenthet jó kiindulópontot.
+
+Így az AI Percek egyszerre lehet videó, podcast és olvasható tudásanyag – három különböző felhasználási mód, egy közös szakmai tartalommal.
+
+Az AI Percek első három epizódjának teljes magyar átirata
+
+Mindhárom epizód teljes magyar szövege külön lenyitható, időjelölésekkel ellátott átiratként olvasható. Az SRT-feliratokból készült változatok lehetővé teszik, hogy a témákat visszakeresd, a fontos gondolatokat később újraolvasd, vagy a videó megtekintése nélkül is megismerd a beszélgetéseket.
+
+1. epizód – Bemutatkozik a wikiAI.hu (teljes, időjelöléses átirat)
+
+[00:00] Hát, kezdjük is rögtön egy kérdéssel. Szóval képzeld el, hogy lehet egy magyar vállalkozás szakmailag egyszerűen kiváló úgy, hogy a digitális világ mondjuk szinte semmit sem tud róla. Hát ez egy nagyon kemény kérdés, de a rövid válasz az, hogy ma már aligha. Üdvözlünk ebben a mai mélyreható elemzésben. A témánk a wikiAI.hu nevű új magyar platform.
+
+[00:23] A forrásaink pedig magának a weboldalnak a publikus anyagai, illetve az AI Percek sorozat bemutatkozó jegyzetei. Így van. És a mai küldetésünk, hogy megértsük, miért is létfontosságú ma egy egységes digitális identitás a magyar vállalkozásoknak. Mert ugye a jelenlegi internetes jelenlét nagyon sok cégnél olyan, hát, mint egy teljesen szétszórt puzzle. Aha. Tehát van egy mondjuk egy elavult weboldal.
+
+[00:49] Pontosan. Egy régi weboldal, mellé egy Facebook-profil, meg egy, szóval egy Google Cégprofil, de ezek valahogy nem adnak ki egy teljes képet. És gondolom ezt a szétszórt jelenlétet váltaná fel ez az egységes digitális identitás, ugye? Így van. A wikiAI.hu egy üzleti tudás- és AI-láthatósági platform. De kifejezetten fontos már az elején leszögezni, hogy mi nem ez a platform.
+
+[01:11] Na várj, tehát akkor ez nem egy magyar Wikipédia? Egyáltalán nem Wikipédia, és nem is webshop, és végképp nem egy olyan egyszerű cégkatalógus, mint amik a kétezres években voltak. Aha, értem. Hanem akkor micsoda? Hát szerkesztett portrékat, szakmai cikkeket és híreket publikál. A cél az, hogy a cég valós tevékenysége tényleg megismerhető legyen a gépek számára.
+
+[01:34] Oké, de ezt azért bontsuk ki egy kicsit, mert sok cégvezető azt hiszi, hogy hát megvan a weboldalam, és a Google meg az algoritmusok mindent automatikusan értenek belőle. Szóval ez ma már nem így van? Hát ez az, ahol igazán érdekessé válik a dolog. A hagyományos Google-keresés meg a modern AI-modellek, mint mondjuk a ChatGPT, szóval ezek teljesen máshogy dolgozzák fel az adatokat.
+
+[01:56] Igen, a forrásban is voltak ilyen eléggé ijesztő mozaikszavak, hogy SEO, AEO, GEO, meg LLMO. Aha, de egyáltalán nem kell megijedni tőlük. A SEO-t ugye mindenki ismeri. A többi, az AEO az AI-keresőoptimalizálás, a GEO a generatív motorokra fókuszál, az LLMO meg a nagy nyelvi modellekre. Szóval a ChatGPT-szerű dolgokra. Így van. És ebben a világban az adatok minősége és ellenőrizhetősége a kulcs.
+
+[02:22] Már nagyon fontos korlátozást is kiemel a jegyzet. Mármint hogy nem ígérnek csodát? Pontosan. Nincs olyan, hogy garantált Google-helyezés, vagy valami automatikus AI-ajánlás. A fókusz a gépileg és emberileg is értelmezhető hiteles információn van. Na, akkor nézzük meg, hogyan fest ez a gyakorlatban. Képzelj el nekem egy évtizedes tapasztalattal rendelkező, hát mondjuk egy kiváló családi asztalosműhelyt.
+
+[02:46] Aha, egy nagyon jó példa. Akikről alig találni valami strukturált információt az interneten. Hogyan jelennek meg ők ezen a platformon, ami ugye alapvetően nem helyettesíti a saját weboldalukat? Hát a platform nagyon szigorúan elválasztja a tartalmakat. A szerkesztőségi, úgynevezett Vállalkozások rovatba oda egyszerűen nem lehet bekerülést vásárolni. Tényleg? Nem fizethetek azért, hogy bekerüljek a cikkek közé?
+
+[03:12] Nem. Mert ez adja a hitelesség alapját. Viszont ha valaki mondjuk hirdetni akar, a fizetett megjelenések egyértelműen elkülönítve a Posztok rovatban kapnak helyet. Aha, szóval a gép is látja a különbséget a tény és a reklám között. De milyen csapat képes egy ilyen rendszert működtetni, és egyáltalán szakmailag felügyelni? Ez egy nagyon fontos pont. A platform 2026. szeptember 8-án indult, és az alapítói szerepek nagyon tiszták.
+
+[03:38] Úgy tudom, Várhelyi Viktória alapító felel a partnerkapcsolatokért. Így van. Ő felel az üzleti kommunikációért és a partnerkapcsolatokért. A felelős szerkesztő pedig Várhelyi Csanád, aki lényegében a technológiai hátteret adja. Vagyis az AI-weboldalfejlesztést, meg azt a bizonyos entitásértelmezést, meg keresőoptimalizálást. Pontosan. Tehát tulajdonképpen az emberi kapcsolatépítés és a
+
+[04:01] kőkemény algoritmikus mérnökség találkozásáról beszélünk. Így tudnám én is a legjobban összefoglalni. A wikiAI.hu tehát nem egy újabb ilyen villogó reklámfelület, hanem a magyar vállalkozások hiteles digitális tudásbázisa. Szuper. A következő elemzéseinkben amúgy pontosan innen folytatjuk, a digitális vállalkozásfejlesztés és a mesterséges intelligencia ilyen teljesen gyakorlati kérdéseivel.
+
+[04:23] Úgyhogy mindenképp érdemes lesz visszatérni. Így van. De addig is, zárásként egy kis provokáció, gondolkodj el ezen. Ha egy mesterséges intelligencia ma, hát kizárólag a neten fellelhető nyilvános adatok alapján írna egy összefoglalót a te vállalkozásodról vagy a szakmai múltadról, vajon mennyire lenne pontos az a kép, amit a világnak mutat?
+
+2. epizód – Várhelyi Csanád, webfejlesztés és AI-láthatóság (teljes, időjelöléses átirat)
+
+[00:00] Hát képzeld el azt a helyzetet, hogy a Google holnap úgy dönt, hogy szóval soha többé nem küld látogatót a weboldaladra. Mhm, mert ő maga válaszolja meg. Pontosan, ő maga válaszolja meg a felhasználók kérdéseit. És ugye ez nem valami távoli sci-fi, ez a folyamat gyakorlatilag már javában zajlik. Szóval ha cégvezető vagy, neked is érdemes belegondolnod abba, hogy ma már egy vizuálisan gyönyörű, hibátlanul működő weboldal
+
+[00:23] önmagában egyáltalán nem garantálja, hogy létezel a digitális térben. Nem bizony. És hát pontosan ezért olyan izgalmas az a B2B szakmai portré, amit ma górcső alá veszünk. Ugye Várhelyi Csanád munkásságán keresztül azt fogjuk megvizsgálni, hogy mit csinál másképp egy olyan webfejlesztő, aki már nemcsak az emberekre fókuszál. Hanem a mesterséges intelligenciára is, ugye? Mint a ChatGPT vagy a Gemini.
+
+[00:47] Így van, hogy a rendszerek számára is értelmezhető legyen a digitális jelenlét. Hát igen, és itt ugye egy több mint tízéves tapasztalatról beszélünk a webfejlesztés és a SEO területén. Ami rögtön érdekes, hogy a bázis Hajdúszoboszló és Debrecen, szóval Hajdú-Bihar vármegye, de a jelenlétük abszolút országos. Mhm. És a technikai alapok eléggé masszívak, szóval céges weboldalak,
+
+[01:10] WordPress, landing oldalak, egyedi fejlesztések. Meg ugye a meglévő honlapok kőkemény felújítása és gyorsítása. Igen, a Core Web Vitals, a szemantikus HTML, meg persze a tökéletes UX. De hogy egy jó kis hasonlattal éljek, ma a weben hiába írsz egy zseniális, meggyőző bemutatkozást magyarul, ha az AI-szoftver, ami feldolgozza, az mondjuk csak japánul ért.
+
+[01:33] Hát igen, ez egy nagyon találó analógia. Mert ha nem beszéled a gép nyelvét, akkor bizony a kukában landol az egész anyagod. És szóval itt jön be a képbe az úgynevezett LLM-first megközelítés. Várj, az micsoda? A nagy nyelvi modellekre fókuszáló webarchitektúra. Pontosan az. Szóval Csanád a hagyományos optimalizálás mellett olyan újabb megközelítéseket is alkalmaz, mint az AEO, a GEO és az LLMO, ami…
+
+[01:56] Várj, álljunk meg egy szóra. A SEO-t azt még értem, de mik ezek a hárombetűs rövidítések? Ne dobálózzunk már ennyi mozaikszóval! Mit takarnak ezek valójában? Hát jogos, abszolút jogos a felvetés. Szóval az AEO az ugye az Answer Engine Optimization. Ez azt jelenti, hogy arra optimalizálunk, hogy a kereső ne csak egy linket adjon a felhasználónak, hanem mondjuk téged adjon meg azonnali kész válaszként. Aha, szóval te vagy maga a válasz.
+
+[02:20] Így van. A GEO és az LLMO pedig lényegében a generatív keresőkre és a nagy nyelvi modellekre való technikai felkészítést jelenti. Itt a fókusz az már egyáltalán nem a kulcsszavakon van. Hanem min? Hanem az úgynevezett entitásmérnökségen, tudod, angolul Entity Engineering. Ez pedig a tudásgráfokra épít, a Knowledge Graphra. Hú, hát ez azért eléggé elvontnak hangzik.
+
+[02:43] Hogy működik ez mechanikájában? Mert gondolom nem arról van szó, hogy beírjuk a kódba százszor, hogy mi vagyunk a legjobb cég. Hát egyáltalán nem erről van szó. Oké. Ahelyett, hogy kulcsszavakat szórnál el a szövegben, gépileg olvasható kódokat ágyazol be. Aha, mint valami láthatatlan címkéket? Igen, úgynevezett strukturált adatokat és sémajelöléseket raksz a weboldalad kódjába, amik olyanok, mint a rejtett digitális névkártyák.
+
+[03:08] Értem. És ezek a cégedet közvetlenül összekötik az elismert globális adatbázisokkal. Gyakorlatilag olyan adatszerkezeteket épít be, amikből az AI-rendszerek azonnal, kontextusában értik meg egy vállalkozás digitális identitását. Aha, értem. De várj, ha valaki ezt az egészet bevezeti, akkor ez azt jelenti, hogy garantáltan
+
+[03:30] az a cég lesz az AI első számú ajánlata? Nem, dehogyis! És ez egy kritikus pont. A források alapján egyértelmű, hogy Csanád sosem ad semmilyen helyezési vagy AI-ajánlási garanciát. Tehát nem is akarja manipulálni a rendszereket. Pontosan. Az egész a tiszta értelmezhetőségről szól, nem a trükközésről. Na ez nagyon korrekt. És ha már a gyakorlatnál tartunk,
+
+[03:52] nézzük meg a publikus B2B referenciákat a profiljából. Ott van rögtön az ipari gyártás és beszállítás. Igen, mondjuk a Csarnok-Gyártó Kft., vagy a BIP-FLEX hálózat mögött álló BIPRESS Kft. Meg a Török és Társai Kft., akiket ugye Tömítésgyárként is ismernek. Aztán ott van az építőipar. Aha, a Gold Ablak Kft. meg a Kohlberger cégek, szóval a Kohlberger Bau és a Kohlberger Építőanyag Kft.
+
+[04:18] És szolgáltatók is vannak a listán bőséggel, a Németi Konzálting Kft., a Minaris Health Kft., a Minaris Salt márkával, vagy épp a Hajdúszoboszlói Ásványvíz Kft. Így van. És akkor még nem is beszéltünk a titoktartással védett KKV-s és nemzetközi projektekről. Tudod egészségügyi, pénzügyi, jogi és gépjárműipari területeken. Ez elég komoly portfólió. De mi a szakmai biztosíték mindemögött?
+
+[04:43] Hát figyelj, például három darab 2026-os, DOI-azonosított Zenodo-publikáció. Várj, hivatalos publikációk? Miről pontosan? Kifejezetten az LLM-first webarchitektúráról és a gépileg olvasható webről. Meg persze rengeteg esettanulmány. Meg ahogy elnézem, ott az ORCID, a Google Scholar, az OpenAlex, a GitHub, sőt még Hugging Face profilja is van.
+
+[05:06] Ami azért sokat elárul az AI-fókuszról, ugye? És egy dokumentált Google Tudáspanellel is rendelkezik, plusz megkapta a 2026-os Arany Vállalkozás elismerést. Az nagyon szép. És ehhez jön még a BNI-tagság, meg az a debreceni BNI-főelőadás 2026. október hatodikán. Persze, és ne felejtsük el a HVTV-podcastszereplést és a helyi városi lapos megjelenéseket sem. Így van. Na de van itt még egy fontos szerepkör a végére.
+
+[05:33] Ő a wikiAI.hu felelős szerkesztője is. Igen, bár a profiljában ezt nagyon határozottan különválasztja az egyéni vállalkozói szolgáltatásaitól. És behoz egy iszonyatosan érdekes etikai szabályt is. Aha, hogy egy városban, egy üzleti területen kizárólag egyetlen vállalkozást képvisel. Bizony. És ha belegondolsz, ez hogyan védi a B2B ügyfelek exkluzív versenyelőnyét a piacon.
+
+[05:55] Nem csinál konkurenciát a saját megbízójának az AI-térben. Hát ez hatalmas előny, és tényleg egyedi hozzáállás. Szóval ez a rendszer mindent átalakít. Ami pedig elgondolkodtató, és ezt most neked, a hallgatónknak teszem fel, hogy vajon a te vállalkozásod digitális identitása elég tiszta ahhoz, hogy a jövő AI-rendszerei pontosan megértsék, mikor és kinek kell téged ajánlaniuk?
+
+[06:18] Hát igen, ezen tényleg érdemes rágódni egy kicsit. Mindenképp. Köszönjük, hogy ma is velünk tartottál ebben az elemzésben.
+
+3. epizód – AI-láthatóság 2026: az AI érti a cégedet? (teljes, időjelöléses magyar átirat)
+
+Az alábbi szöveg a harmadik epizód feltöltött magyar SRT-feliratából készült, a beszélgetés egészét követi 00:00-tól 10:38-ig. A beszélt nyelv természetes fordulatai megmaradtak.
+
+[00:00] Hát képzeld el a következőt Ugye kibérelsz egy mondjuk egy üzlethelyiséget a belváros legforgalmasabb utcáján. Kiteszel egy hatalmas világító cégert, a kirakatba meg beteszed a, hát a legszebb termékeidet. És szóval mindenki, aki elsétál előtte, az az első másodpercben pontosan tudja, hogy az ott mondjuk egy prémium pékség vagy egy ügyvédi iroda.
+
+[00:21] Persze, mert vizuális, meg azonnali az egész. Így van, egyértelmű. És a probléma csak az, hogy a mai közös felfedezésünkben pontosan ezt fogjuk megcáfolni. Legalábbis ami a 2026-os digitális teret illeti. Hát igen, a fizikai világban ez a cégér dolog évszázadok óta tökéletesen működik, de a digitális térben-
+
+[00:39] Ott már édeskevés, ugye? Abszolút. Ez a gyönyörű világító cégér önmagában már nem elég, főleg most 2026-ban. Na és pont ezt a jelenséget járjuk ma körbe. Mert szóval az a helyzet, te is biztos látod cégvezetőként, hogy lehet egy elképesztően profi csapatod. Lehetnek maximálisan elégedettek az ügyfeleid, sőt lehet egy mondjuk egy több
+
+[01:00] milliós gyönyörű weboldalad is, igaz? Aha, a legújabb dizájnnal igen. Pontosan. De amikor egy potenciális ügyfél megkérdezi mondjuk a ChatGPT-t vagy a Gemini-t, esetleg a Google AI-t, hogy ki tudna neki segíteni egy konkrét problémában- Akkor jön a hidegzuhany. Akkor a gép egyszerűen hát nem tudja megállapítani rólad,
+
+[01:20] hogy létezel, vagy hogy tudod egyáltalán mivel is foglalkozol. És ez valljuk be, egy cégvezető számára nem csak simán zavaró, hanem ez ma már kőkemény bevételkiesés. Ezt hívjuk mi igazából a mesterséges intelligencia korában digitális láthatatlanságnak. Szóval erről fogunk ma beszélni, mert ahogy a forrásainkból,
+
+[01:39] többek között a wikiAI.hu szakmai cikkeiből összeraktuk, a megoldás kulcsa az úgynevezett AI láthatóság. Így van. Ami hát szóval alapjaiban írta át a játékszabályokat a weben. Az egész igazából arról szól, hogy hogyan fordítjuk le a cég valós fizikai értékét-
+
+[01:57] Egy olyan nyelvre, amit a gépek is megértenek, ugye? Pontosan. Amit a gépek magabiztosan megértenek. Mert ez a szó, hogy magabiztos, ez nagyon fontos lesz még. Hát akkor figyelj, kezdjük az alapoknál, mert látnunk kell, hogyan jutottunk ide. Ugye nem is olyan régen még az volt a norma, hogy beírtam pár kulcsszót a Google-be. Mondjuk, hogy tetőfedő Debrecen.
+
+[02:14] Igen, tetőfedő Debrecen és a gép kidobott tíz kék linket, én meg rákattintottam arra, amelyik hát a legszimpatikusabb volt. Ehhez képest mi változott meg a háttérben ennyire drasztikusan? Hát a legnagyobb paradigmaváltás igazából magában a keresési szándék kifejezésében történt. Meg persze abban, ahogy a technológia válaszol.
+
+[02:31] Tehát már nem szavakat írunk be. Nem. A hagyományos találati listák, ahol elszigetelt szavakra vadásztunk, azok ma már csak a jéghegy csúcsát jelentik. Ugye megjelentek a Google AI Overviews összefoglalói. Aha, azok a dobozok legfelül. Pontosan. Meg a ChatGPT webes kereső funkciói, a Gemini intelligens válaszai. Szóval az emberek rájöttek, hogy már nem kell kulcsszavakra
+
+[02:50] butítaniuk a gondolataikat. Ma már kerek, természetes mondatokban fogalmazzák meg a problémájukat. Mondj egy példát kérlek, hogy ez hogy néz ki a gyakorlatban, mert ez fontos. Hát ahelyett, hogy valaki beírná, hogy tetőfedő Debrecen- Recen. Ma már kábé azt mondja a telefonjának, vagy gépeli be a prompt ablakba, hogy beázik a tetőm a kémény mellett.
+
+[03:08] Hajdúszoboszlón élek, és egy olyan szakembert keresek, aki a hétvégén is kijön Ja, és akinek vannak referenciái hasonló munkákról. Így van Teljesen specifikus. A gép feladata pedig már nem az, hogy linkeket adjon neked, hogy majd te kikeresed. Neki szintetizálnia kell az információt. Szóval konkrét megoldást kell szállítania erre a hát
+
+[03:26] nagyon is specifikus kontextusra. Olyan ez nekem, mint egy könyvtár, tudod? Hogy érted? Mintha régen egy hatalmas könyvtárban csak a csak a kartotékokat böngésztük volna kulcsszavak alapján, és reménykedtünk, hogy mondjuk a vízvezeték fiókban találunk valami hasznosat. Aha, igen, a jó öreg katalógus.
+
+[03:45] Ma viszont mintha leülnénk magával a könyvtárossal. Elmondjuk neki, hogy figyelj, csöpög a csap, a gyerek meg alszik a szomszéd szobában, és hát tőle várjuk, hogy pontosan azt a konkrét szerelőt hívja fel, aki csendben és gyorsan dolgozik. Ez egy nagyon találó analógia, tényleg. És igazából itt jön be a rendszer logikája.
+
+[04:02] Mert ez a könyvtáros, aki jelen esetben ugye a mesterséges intelligencia, csak akkor tud téged, mint szerelőt ajánlani, ha kristálytisztán érti a te kontextusodat is. Tehát hiába vagyok én a világ legcsengésebb szerelője. Így van, hiába. Ha ez az információ nincs egyértelműen a gép számára értelmezhető formában
+
+[04:22] rögzítve a weben, akkor az AI nem fogja tudni összepárosítani a te szolgáltatásodat az ügyfél problémájával. Egyszerűen átugrik rajtam. Átugrik, igen, mert számára, szóval számára kockázatos vagy. Várjál, várjál, kockázatos? Ezt hogy érted? Miért lennék kockázatos? Mert a nagy nyelvi modellek úgynevezett bizalmi pontszámokkal,
+
+[04:41] angolul confidence score-ral dolgoznak. Ha a gép nem biztos abban, hogy te valóban Hajdúszoboszlón dolgozol. Vagy hogy egyáltalán csöpögő csapokkal is foglalkozom. Pontosan. Akkor nem fog téged beletenni a válaszába, mert nem akar hallucinálni vagy rossz élményt adni a felhasználónak. Tehát a bizonytalanság a gép számára egyenlő a láthatatlansággal.
+
+[05:01] Hú, ez, ez nagyon fontos. És itt van egy mítosz, amit szerintem rögtön az elején el kell oszlatnunk, mert sokszor hallom cégvezetőktől. Mire gondolsz? Arra, hogy amikor AI láthatóságról beszélünk, akkor sokan rögtön azt hiszik, hogy valami, nem is tudom, valami trükkel bele kell hackelniük magukat a ChatGPT agyába.
+
+[05:19] Hogy minden áron, minden válaszban őt dicséri a gép. Ez hát egyáltalán lehetséges ez? Nem, egyáltalán nem. És ez talán az egyik legkárosabb tévhit ma a piacon. Egyetlen ügynökség vagy, vagy fejlesztő sem tud garantálni neked fix AI ajánlást, azt felejtsük el.
+
+[05:37] Tehát nem lehet megvenni az első helyet, mint mondjuk a Google Ads esetében? Nem lehet. Az AI láthatóság az nem valami agresszív marketing nyomulás. Ez sokkal inkább arról szól, hogy a rólad szóló nyilvános információk azok relevánsak legyenek. Hitelesek és logikusan strukturáltak, ugye? Így van, azonosíthatóak.
+
+[05:55] A cél a digitális identitásod tökéletes értelmezhetősége, nem pedig az, hogy valahogy manipuláljuk a rendszert. Jó, de várj egy picit, itt azért, itt azért van egy bökkenő. És most, most a magyar KKV vezetők nevében beszélek. Képzeld el, hogy épp most költöttem el kábé kétmillió forintot egy hipermodern, drága weboldalra.
+
+[06:14] Ühüm, egy nagyon szép, látványos oldalra. Igen, tele van gyönyörű, finom animációkkal, negyven megapixeles mosolygós fotókkal a csapatról, és van egy elképesztő drónvideó rögtön a nyitóoldalon. Akkor most azt akarod mondani, hogy ezt az egészet az AI egyszerűen nem is látja? Kidobtam a pénzem az ablakon?
+
+[06:31] Hát nem dobtad ki, ne ijedj meg. Azért ez megnyugtató. Nem dobtad ki, mert az emberi látogatóknak természetesen szükségük van erre a vizuális megerősítésre. Ez építi a bizalmat. De, és itt jön a "de", meg kell értened egy nagyon fájdalmas igazságot. Hallgatom. A gép szempontjából ez a csodálatos design, ez
+
+[06:50] szinte teljesen láthatatlan. Képzeld el a weboldaladat úgy, mintha egy, mondjuk egy gyönyörűen berendezett étterem lenne. Oké, étterem. Adom. A vendég, vagyis az emberi felhasználó besétál, látja a hangulatos fényeket, hallja a halk zenét, mosolyog rá a pincér. Ez, ez a design, az UI és az UX.
+
+[07:10] Ez kell az embernek. Oké, és kicsoda az AI ebben az éttermes sztoriban? Az AI Az AI a szigorú egészségügyi ellenőr. Ó, értem. Bizony. Őt egyáltalán nem érdekli a hangulatvilágítás meg a háttérzene. Ő egyenesen besétál a konyhába, kinyitja a hűtőt, és kizárólag az
+
+[07:31] összetevők címkéit nézi, a lejárati dátumokat, a tárolási struktúrát. Vagyis a gép adatot, struktúrát meg szemantikát olvas. Pontosan. Ha a te digitális konyhádban nincsenek egyértelműen felcímkézve az információk, mégpedig egy olyan szabványosított nyelven, amit ez az ellenőr megért.
+
+[07:50] Akkor hiába van nekem a legszebb éttermem. Hiába. A jelentésen csak annyi fog szerepelni, hogy értelmezhetetlen. Hú, ez, hát ez elég kemény. Tehát ha a nyitóoldalamon mondjuk csak olyan jól hangzó marketing szlogenek futnak szép nagy betűkkel, hogy mi megvalósítjuk az álmait.
+
+[08:07] Vagy hogy több évtizedes tapasztalat a kiválóság szolgálatában. Igen, ezek a klasszikusok. Akkor ezzel az AI egyszerűen nem tud mit kezdeni? Nem, mert mit jelent az, hogy megvalósítjuk az álmait? Egy gép számára semmit. Milyen álmot? Családi házat építesz, vagy esküvőt fotózol, esetleg esküvői tortát sütsz?
+
+[08:26] Vagy mondjuk pénzügyi tanácsadó vagyok. Ezt emberként a képekből kikövetkeztetem. Az ember igen, kitalálja. De a nagy nyelvi modelleknek matematikai egyértelműségre van szükségük. Magyarul, ha csak a szöveget nézed az oldaladon a képek nélkül, akkor ki kell derülnie már az első mondatokból, hogy ki vagy, mit csinálsz és hol.
+
+[08:44] Így van, ez az alap. Hát figyelj, lassan a végére érünk, úgyhogy szedjük össze a lényeget a hallgatónak. Ugye onnan indultunk, hogy miért nem elég ma már egy szép, de tartalmatlan digitális kirakat. Ühüm, a cégér. Aztán megértettük, hogy a felhasználók már teljes mondatokban mesélik el a gépnek a problémájukat.
+
+[09:03] Igen. És ugye az AI úgy működik, mint az egészségügyi ellenőr az étteremben. A struktúrát meg az adatot keresi, nem a szép színeket. És végül megnéztük, hogy az entitásépítés, az adatok következetessége az a biztos alap, amire építkeznünk kell. Szakmailag teljesen pontos az összefoglalás.
+
+[09:20] És tényleg a legfontosabb felismerés, amit ma a hallgatóknak magukkal kell vinniük, hogy a láthatóság 2026-ban az a kristálytiszta érthetőséggel egyenlő. Na és ahogy ígértem, a legvégére azért tartogattam egy provokatív gondolatot. Na halljuk. Amin érdemes egy kicsit elrágódnod, miután
+
+[09:37] kikapcsoltad ezt a műsort. Mert ha belegondolsz, nagyon is afelé haladunk, hogy akár egy-két éven belül a legjobb, leghatékonyabb, legfáradhatatlanabb értékesítőd nem egy ember lesz, akit te vettél fel. Hanem egy gép, ugye? Hanem egy autonóm AI asszisztens, igen. Aki mondjuk a te potenciális ügyfeleid beszerzéseit intézi a háttérben.
+
+[09:57] Na most ez az asszisztens sosem fog felhívni téged telefonon, hogy: "Helló, mit is csinálsz pontosan?" Hát nem, az biztos. Ő kizárólag arra a digitális lábnyomra, arra az entitásra fog támaszkodni, amit te felépítettél. Szóval kérdezd meg magadtól őszintén, ha ez az AI értékesítő mondjuk ma este elemezné a cégedet, vajon értené, hogy mi értéket kell választania?
+
+[10:18] Vagy zavarában egyszerűen némán továbbgörgetne a legközelebbi versenytársadhoz? Hát igen, ez az a kérdés, amivel előbb utóbb minden cégvezetőnek szembe kell néznie. Nagyon szépen köszönjük, hogy ma is velünk tartottál ebben a felfedezésben. Reméljük tényleg rengeteg hasznos, azonnal alkalmazható gondolatot tudtál meríteni. AI percek. Érthető technológia, használható tudás néhány percben.
+
+Hogyan készül az AI Percek?
+
+A podcast témáit a wikiAI.hu szakmai érdeklődése és a vállalkozások digitális kérdései adják. A beszélgetésekhez forrásanyagokat készítünk elő, amelyekből az AI segítségével magyar nyelvű, két műsorvezetős hanganyag születik. A videós változatokhoz AI-alapú vizuális elemek és szerkesztett hang társulnak.
+
+A műsorvezetők hangjai mesterséges intelligenciával készülnek; az AI Percek nem valódi interjúkat imitál, hanem szakmai témákat dolgoz fel beszélgetős formában. A wikiAI.hu-nál a szerkesztői háttér, a források és a tartalmak közérthetősége ugyanúgy fontos, mint a technológia. A részletek az AI-átláthatósági és szerzői jogi tájékoztatóban is megtalálhatók.
+
+Gyakori kérdések az AI Percekről
+
+Mi az AI Percek podcast?
+
+Az AI Percek a wikiAI.hu magyar nyelvű szakmai podcast- és YouTube-sorozata. Rövid, közérthető beszélgetésekben mutatja be, hogyan kapcsolódik össze a mesterséges intelligencia, a Google-keresés, a weboldalfejlesztés és a vállalkozások digitális jelenléte.
+
+Kinek szól az AI Percek?
+
+Vállalkozóknak, cégvezetőknek, marketingeseknek, értékesítőknek, irodai munkatársaknak és mindenkinek, aki szeretné megérteni az AI-korszak alapfogalmait. Előzetes informatikai tudás nem szükséges.
+
+Hol hallgatható az AI Percek?
+
+A podcast a Spotify-on és az Apple Podcastson érhető el. A videós epizódok a wikiAI.hu YouTube-csatornáján nézhetők meg.
+
+Lehet az AI Perceket vezetés, futás vagy edzés közben hallgatni?
+
+Igen. A podcast hangalapú formátuma éppen arra jó, hogy utazás, séta, futás, sportolás vagy hétköznapi teendők mellett is hallgatható legyen. Autóvezetésnél a hangos, képernyő nélküli lejátszást érdemes választani, a közlekedésre figyelve.
+
+Mit jelent a SEO, AEO, GEO és LLMO?
+
+A SEO a keresőoptimalizálás, az AEO a keresési kérdésekre adott válaszokhoz kapcsolódó optimalizálás, a GEO a generatív keresési környezetre való felkészülés, az LLMO pedig a nagy nyelvi modellek által értelmezhető információk szemlélete. Az AI Percek ezekről a fogalmakról külön, hétköznapi példákkal is szeretne beszélni.
+
+Ki áll az AI Percek szakmai háttere mögött?
+
+A sorozat a wikiAI.hu tudásplatformhoz kapcsolódik. Felelős szerkesztője Várhelyi Csanád, aki weboldalfejlesztéssel, keresőoptimalizálással és AI-láthatósággal foglalkozik. A beszélgető műsorvezetői hangok AI-generáltak.
+
+Miért fontos az AI-láthatóság 2026-ban a vállalkozásoknak?
+
+Mert a Google AI-alapú keresési funkciói, a ChatGPT és más információs rendszerek megváltoztathatják, hogyan tájékozódnak az emberek a vállalkozásokról. A pontos szolgáltatási adatok, a világos weboldalszöveg és a következetes digitális identitás az ügyfeleknek és a gépi feldolgozásnak is segíthet. Erről szól az AI Percek harmadik epizódja.
+
+Miért hasznos a teljes szöveges átirat?
+
+Mert gyorsan visszakereshetővé és olvashatóvá teszi a beszélgetésekben elhangzott fogalmakat, példákat és megállapításokat. A cikk mindhárom epizód teljes magyar, időjelöléses átiratát tartalmazza, így a videók szakmai tartalma szövegesen is elérhető.
+
+Az AI Percek innen folytatódik
+
+A mesterséges intelligencia nem vár arra, hogy mindannyian megtanuljuk a szakkifejezéseit. A Google-keresés, a weboldalak és az AI-eszközök folyamatosan változnak – mi pedig szeretnénk segíteni abban, hogy ez a változás ne távoli, érthetetlen technológia, hanem követhető, használható tudás legyen.
+
+A következő témáknál is ugyanaz lesz az alapelvünk: először érthetően elmondjuk, mi az adott fogalom, utána megmutatjuk, miért lehet fontos egy magyar vállalkozásnak vagy a munkatársainak. Beszélhetünk a Google helyi találatairól, a technikai SEO-ról, a ChatGPT és a Gemini keresési felhasználásáról, az AI-érthető weboldalakról, a strukturált adatokról, az AI-láthatóság méréséről és az új technológiák valós üzleti lehetőségeiről.
+
+Nem az a cél, hogy az AI Percek után mindenki fejlesztő legyen. Sokkal inkább az, hogy egy ügyvezető magabiztosabban tudjon dönteni, egy munkatárs könnyebben átlássa a digitális feladatait, és egy érdeklődő örömmel tanuljon valami újat.
+
+Ha ez a világ téged is érdekel, tarts velünk a Spotify-on, az Apple Podcastson vagy a YouTube-on. Nem kell kapkodni: hallgasd a saját tempódban, amikor neked jó.
+
+AI Percek – érthető technológia, használható tudás, néhány percben.
+
+Szakmai háttér és további olvasnivalók
+
+Várhelyi Csanád – szakértői profil és publikációk
+
+A wikiAI.hu üzleti tudásplatform bemutatása
+
+Mi az LLM-first weboldal-architektúra?
+
+Entity Engineering – entitásmérnökség a gyakorlatban
+
+Google Search Central – AI-alapú keresési funkciók és weboldalak
+
+Google Search Central – hasznos, emberközpontú tartalom
+
+Szerző és felelős szerkesztő: Várhelyi Csanád
