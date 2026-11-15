@@ -21,7 +21,7 @@ CANONICAL = "https://www.wikiai.hu/ai-percek-wikiai-podcast/"
 REST_BASE = "https://www.wikiai.hu/wp-json/wp/v2/posts/1946"
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / "wikiai" / "podcasts" / "ai-percek"
-YOUTUBE = re.compile(r"https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})")
+YOUTUBE = re.compile(r"https://www\.youtube\.com/watch\?v=([A-Za-z0-9_-]{11})(?![A-Za-z0-9_-])")
 EPISODE_HEADING = re.compile(
     r'<h3\b[^>]*\bid=["\']epizod-(\d{2})["\'][^>]*>(.*?)</h3>', re.I | re.S
 )
