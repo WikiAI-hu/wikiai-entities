@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-11-16T09:16:53+00:00"
-synced_at: "2026-11-16T09:32:56+00:00"
+source_last_modified: "2026-11-16T17:09:22+00:00"
+synced_at: "2026-11-16T20:23:58+00:00"
 relationship_to_wikiai: "responsible_editor"
 ---
 
