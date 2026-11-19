@@ -35,6 +35,8 @@ jobs:
         run: python -m unittest discover -s .github/scripts -p 'test_*.py' -v
       - name: Fetch and validate every published business HFCM deep graph
         run: python .github/scripts/sync-deep-jsonld.py
+      - name: Require all 17 source graphs valid before GitHub publication
+        run: python .github/scripts/sync-deep-jsonld.py --check-status
       - name: Commit verified JSON-LD and audit report
         shell: bash
         run: |
