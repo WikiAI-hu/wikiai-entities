@@ -59,10 +59,10 @@ class TestMirror(unittest.TestCase):
             result = mod.find_deep_graph(wrap(sample('https://other-brand.example/' + suffix)), CANON)
             self.assertIn(suffix, result['business_id'])
 
-    def test_csanad_role_warning_not_silent_override(self):
+    def test_missing_required_author_blocks_mirror(self):
         d = sample(role_override=True)
-        result = mod.find_deep_graph(wrap(d), CANON)
-        self.assertTrue(any('author' in x for x in result['warnings']))
+        with self.assertRaisesRegex(ValueError, 'Expected one valid HFCM'):
+            mod.find_deep_graph(wrap(d), CANON)
         self.assertNotIn('author', d['@graph'][2])
 
     def test_valid_mainentityofpage_reference_and_optional_editor_fields(self):
@@ -85,11 +85,11 @@ class TestMirror(unittest.TestCase):
         result = mod.find_deep_graph(wrap(data), CANON)
         self.assertTrue(any('mainEntityOfPage object lacks an @id' in x for x in result['warnings']))
 
-    def test_explicit_wrong_editor_is_flagged(self):
+    def test_unverified_editor_person_identity_blocks_mirror(self):
         data = sample()
         data['@graph'][2]['editor'] = {'@id': 'https://example.com/#different-person'}
-        result = mod.find_deep_graph(wrap(data), CANON)
-        self.assertTrue(any('Article.editor' in warning for warning in result['warnings']))
+        with self.assertRaisesRegex(ValueError, 'Expected one valid HFCM'):
+            mod.find_deep_graph(wrap(data), CANON)
 
     def test_legacy_varganya_article_about_restaurant(self):
         data = sample('https://restaurant.example/#restaurant')
@@ -114,20 +114,74 @@ class TestMirror(unittest.TestCase):
         for role in ('author','editor','accountablePerson'):
             article[role] = {'@id':'vc:person'}
         data['@graph'][1]['@id'] = 'kb:webpage'
+        data['@graph'].append({
+            '@type': 'Person', '@id': 'vc:person',
+            'name': 'Várhelyi Csanád', 'url': 'https://www.varhelyicsanad.hu/',
+        })
         result = mod.find_deep_graph(wrap(data), CANON)
         self.assertEqual(result['business_id'], 'kb:business')
-        self.assertTrue(any('Article.author' in w and 'retired' in w for w in result['warnings']))
+        self.assertFalse(any('retired' in w for w in result['warnings']))
 
     def test_canonical_csanad_person_id_no_deprecation_warning(self):
         result = mod.find_deep_graph(wrap(sample()), CANON)
         self.assertFalse(any('retired' in w for w in result['warnings']))
 
-    def test_retired_person_id_warns_without_rewriting_source(self):
+    def test_unresolved_historical_person_id_blocks_mirror(self):
         data = sample()
         data['@graph'][2]['author'] = {'@id': 'https://www.varhelyicsanad.hu/#person'}
+        with self.assertRaisesRegex(ValueError, 'Expected one valid HFCM'):
+            mod.find_deep_graph(wrap(data), CANON)
+
+    def test_historical_person_node_and_article_role_same_id_pass(self):
+        data = sample()
+        data['@graph'][2]['author'] = {'@id': 'https://www.varhelyicsanad.hu/#person'}
+        data['@graph'].append({
+            '@type': 'Person', '@id': 'https://www.varhelyicsanad.hu/#person',
+            'name': 'Várhelyi Csanád', 'url': 'https://www.varhelyicsanad.hu/',
+        })
         result = mod.find_deep_graph(wrap(data), CANON)
-        self.assertTrue(any('Article.author' in w and 'retired' in w for w in result['warnings']))
-        self.assertEqual(data['@graph'][2]['author']['@id'], 'https://www.varhelyicsanad.hu/#person')
+        self.assertEqual(result['nodes'], 15)
+        self.assertFalse(any('retired' in w for w in result['warnings']))
+
+    def test_same_id_wrong_person_name_blocks_mirror(self):
+        data = sample()
+        data['@graph'][2]['author'] = {'@id': 'https://www.varhelyicsanad.hu/#person'}
+        data['@graph'].append({
+            '@type': 'Person', '@id': 'https://www.varhelyicsanad.hu/#person',
+            'name': 'Different Editor', 'url': 'https://www.varhelyicsanad.hu/',
+        })
+        with self.assertRaisesRegex(ValueError, 'Expected one valid HFCM'):
+            mod.find_deep_graph(wrap(data), CANON)
+
+    def test_historical_person_with_unrelated_url_blocks_mirror(self):
+        data = sample()
+        data['@graph'][2]['author'] = {'@id': 'https://www.varhelyicsanad.hu/#person'}
+        data['@graph'].append({
+            '@type': 'Person', '@id': 'https://www.varhelyicsanad.hu/#person',
+            'name': 'Várhelyi Csanád', 'url': 'https://unrelated.example/',
+        })
+        with self.assertRaisesRegex(ValueError, 'Expected one valid HFCM'):
+            mod.find_deep_graph(wrap(data), CANON)
+
+    def test_all_versioned_business_mirrors_have_valid_editor_edges(self):
+        manifest = json.loads((mod.ROOT/'manifest.json').read_text(encoding='utf-8'))
+        checked = 0
+        total_roles = 0
+        for entry in manifest['entities']:
+            if entry.get('status') != 'published' or entry.get('canonical_url') == mod.FIRST_PARTY_EXCEPTION:
+                continue
+            canonical, slug = mod.parse_profile(entry)
+            mirror = mod.ROOT/'entities'/ (slug + '.jsonld')
+            doc = json.loads(mirror.read_text(encoding='utf-8'))
+            result = mod.validate_graph(doc, canonical)
+            self.assertIsNotNone(result, slug)
+            self.assertFalse(result['warnings'], slug)
+            articles = [n for n in doc['@graph'] if 'Article' in mod.node_types(n)]
+            total_roles += sum(articles[0].get(role) is not None
+                               for role in ('author','editor','accountablePerson'))
+            checked += 1
+        self.assertEqual(checked, 17)
+        self.assertEqual(total_roles, 49)
 
     def test_managed_file_guard_and_legacy_adoption(self):
         with tempfile.TemporaryDirectory() as td:

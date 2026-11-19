@@ -230,16 +230,32 @@ def validate_graph(doc, canonical):
     if isinstance(main_page_ref, dict) and not ref_id(main_page_ref):
         warnings.append("Article.mainEntityOfPage object lacks an @id")
     editor_id = "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
-    legacy_editor_ids = {"https://www.varhelyicsanad.hu/#person"}
+    historical_id = "https://www.varhelyicsanad.hu/#person"
+    # The historical Person IRI is still defined *inside* the published deep
+    # graphs. Repointing only Article roles would create dangling edges and
+    # silently change source identity. Accept it ONLY if the exact source node,
+    # person name and first-party/personal profile URL all verify.
+    historical_people = [
+        n for n in graph
+        if "Person" in node_types(n)
+        and expand_id(n.get("@id"), context) == historical_id
+        and isinstance(n.get("name"), str)
+        and n["name"].strip().casefold() == "várhelyi csanád".casefold()
+        and n.get("url") in (
+            "https://www.varhelyicsanad.hu/",
+            "https://www.wikiai.hu/szakertok/varhelyi-csanad/",
+        )
+    ]
+    legacy_verified = len(historical_people) == 1
     for role in ("author", "editor", "accountablePerson"):
-        # Respect live WordPress/HFCM data; report deprecated IDs without rewriting.
         if role != "author" and article.get(role) is None:
             continue
         actual = expand_id(ref_id(article.get(role)), context)
-        if actual in legacy_editor_ids:
-            warnings.append("Article." + role + " uses retired personal-domain ID; update WordPress/HFCM to " + editor_id)
-        elif actual != editor_id:
-            warnings.append("Article." + role + " does not reference Várhelyi Csanád's current Person ID")
+        if actual == editor_id:
+            continue  # Official WikiAI Person IRI is a known external target.
+        if actual == historical_id and legacy_verified:
+            continue  # Verified Person node: no broken internal identity edge.
+        return None  # Missing author, unknown person or unverified legacy ref.
     full = normalize_json(doc)
     slug = urlsplit(canonical).path.strip("/")
     if "entities/" + slug + ".md" not in full:
