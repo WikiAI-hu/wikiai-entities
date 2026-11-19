@@ -123,10 +123,13 @@ def parse_profile(entry):
     return url, slug
 
 
-def download_html(canonical):
-    # Cache-busting matters because HFCM changes need not invalidate WP page cache.
-    query = "wikiai_jsonld_sync=" + str(int(time.time()))
-    req = Request(canonical + "?" + query, headers={
+def download_html(canonical, cache_bust=True):
+    """Request the public canonical page; avoid trusting a single edge-cache variant."""
+    request_url = canonical
+    if cache_bust:
+        # A unique query avoids accidentally reusing an out-of-date HFCM page cache.
+        request_url += "?wikiai_jsonld_sync=" + str(time.time_ns())
+    req = Request(request_url, headers={
         "User-Agent": "WikiAI-JSONLD-Mirror/2.0 (+https://github.com/WikiAI-hu/wikiai-entities)",
         "Accept": "text/html",
         "Cache-Control": "no-cache",
@@ -259,6 +262,19 @@ def find_deep_graph(html, canonical):
             matches.append(result)
     if len(matches) != 1:
         diagnostics = []
+        if not parser.docs:
+            # A CDN/edge HTML fallback can return HTTP 200 with no JSON-LD.
+            # Log a non-sensitive fingerprint instead of printing page content.
+            low = html.lower()
+            head_end = low.find("</head>")
+            head = low[:head_end] if head_end >= 0 else low[:200000]
+            diagnostics.append({
+                "html_bytes": len(html.encode("utf-8")),
+                "html_sha256_prefix": sha256(html)[:16],
+                "head_script_tags": head.count("<script"),
+                "head_jsonld_mentions": head.count("application/ld+json"),
+                "wordpress_asset_present": "/wp-content/" in low,
+            })
         for doc in parser.docs[:4]:
             ns = doc.get("@graph", [])
             if not isinstance(ns, list):
@@ -289,6 +305,39 @@ def find_deep_graph(html, canonical):
     return matches[0]
 
 
+def fetch_verified_graph(canonical):
+    """Fail closed, but retry transient empty HTML and alternate cache variants.
+
+    Every attempt must independently pass the full HFCM graph validation.
+    Unverified responses are never used as the source for a GitHub mirror.
+    """
+    errors = []
+    modes = (True, False, True)
+    for attempt, cache_bust in enumerate(modes, start=1):
+        try:
+            graph = find_deep_graph(download_html(canonical, cache_bust=cache_bust), canonical)
+            if errors:
+                graph["warnings"].append(
+                    "Live HFCM source recovered on retry after invalid/empty HTML; "
+                    "investigate intermittent public edge/cache responses"
+                )
+                if not cache_bust:
+                    graph["warnings"].append(
+                        "Recovery used canonical HTML without cache-busting; verify WP cache freshness"
+                    )
+            return graph
+        except (OSError, RuntimeError, ValueError) as exc:
+            errors.append(
+                "attempt " + str(attempt) + (" (cache-bust)" if cache_bust else " (canonical)") +
+                ": " + type(exc).__name__ + ": " + str(exc)[:360]
+            )
+            if attempt < len(modes):
+                time.sleep(attempt)
+    raise RuntimeError(
+        "No validated live HFCM graph after 3 HTTP requests; " + " | ".join(errors)
+    )
+
+
 def prior_main_entity(graph, canonical):
     """Resolve both ordinary and historical Article.about business identities."""
     try:
@@ -317,8 +366,8 @@ def sync_entry(entry, managed, now, fixture=None):
     state = managed.get(slug)
     if not (ROOT / "entities" / (slug + ".md")).is_file():
         raise RuntimeError("Markdown mirror missing from manifest: " + slug)
-    html = fixture.read_text(encoding="utf-8") if fixture and fixture.exists() else download_html(canonical)
-    result = find_deep_graph(html, canonical)
+    result = (find_deep_graph(fixture.read_text(encoding="utf-8"), canonical)
+              if fixture and fixture.exists() else fetch_verified_graph(canonical))
     graph, new_count = result["doc"], result["nodes"]
     proposed = json.dumps(graph, ensure_ascii=False, indent=2) + "\n"
     old_text = path.read_text(encoding="utf-8") if path.exists() else None
@@ -451,8 +500,9 @@ def main():
     opt = args.parse_args()
     if opt.check_status:
         return check_status()
-    run_sync(opt.fixture_slug, opt.fixture_html)
-    return 0
+    counts = run_sync(opt.fixture_slug, opt.fixture_html)
+    # Do not publish an all-failed health report to GitHub as if sync succeeded.
+    return 1 if counts["error"] else 0
 
 
 if __name__ == "__main__":

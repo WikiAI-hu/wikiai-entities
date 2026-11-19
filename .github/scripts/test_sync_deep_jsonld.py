@@ -3,7 +3,7 @@ import json
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import call, patch
 
 P = Path(__file__).with_name('sync-deep-jsonld.py')
 spec = importlib.util.spec_from_file_location('wikiai_jsonld_sync', P)
@@ -240,6 +240,57 @@ class TestMirror(unittest.TestCase):
             mod.parse_profile({'canonical_url':'https://evil.com/pelda-vallalkozas/','machine_record':'entities/pelda-vallalkozas.md'})
         with self.assertRaisesRegex(ValueError, 'Manifest'):
             mod.parse_profile({'canonical_url':CANON,'machine_record':'entities/other.md'})
+
+
+    def test_retry_uses_canonical_html_only_after_validating_deep_graph(self):
+        """Recover a transient HTTP 200 page with no head JSON-LD."""
+        empty = '<html><head><title>Temporary edge page</title></head><body>Fallback</body></html>'
+        with patch.object(mod, 'download_html', side_effect=[empty, wrap(sample())]) as fetch, \
+                patch.object(mod.time, 'sleep') as pause:
+            result = mod.fetch_verified_graph(CANON)
+        self.assertEqual(result['nodes'], 14)
+        self.assertTrue(any('recovered on retry' in w for w in result['warnings']))
+        self.assertTrue(any('cache freshness' in w for w in result['warnings']))
+        self.assertEqual(fetch.call_args_list, [
+            call(CANON, cache_bust=True),
+            call(CANON, cache_bust=False),
+        ])
+        pause.assert_called_once_with(1)
+
+    def test_all_bad_edge_responses_fail_closed(self):
+        """An HTTP 200 fallback must never be committed as an empty mirror."""
+        fake = '<html><head><title>Temporary edge page</title></head><body>Fallback</body></html>'
+        with patch.object(mod, 'download_html', return_value=fake) as fetch, \
+                patch.object(mod.time, 'sleep') as pause:
+            with self.assertRaisesRegex(RuntimeError, 'No validated live HFCM graph'):
+                mod.fetch_verified_graph(CANON)
+        self.assertEqual(fetch.call_args_list, [
+            call(CANON, cache_bust=True),
+            call(CANON, cache_bust=False),
+            call(CANON, cache_bust=True),
+        ])
+        self.assertEqual(pause.call_args_list, [call(1), call(2)])
+
+    def test_invalid_graph_is_not_accepted_by_retry(self):
+        """Non-HFCM JSON-LD alone is insufficient for publishing."""
+        weak = wrap({'@context': 'https://schema.org', '@type': 'WebSite', 'name': 'WikiAI'})
+        with patch.object(mod, 'download_html', side_effect=[weak, weak, wrap(sample())]), \
+                patch.object(mod.time, 'sleep'):
+            graph = mod.fetch_verified_graph(CANON)
+        self.assertEqual(graph['nodes'], 14)
+
+    def test_html_error_has_safe_edge_fingerprint(self):
+        html = '<html><head><title>Edge</title></head><body>Fallback</body></html>'
+        with self.assertRaisesRegex(ValueError, 'html_sha256_prefix'):
+            mod.find_deep_graph(html, CANON)
+
+    def test_main_refuses_partial_or_failed_mirror(self):
+        with patch.object(mod, 'run_sync', return_value={'error': 17}), \
+                patch.object(mod.sys, 'argv', ['sync-deep-jsonld.py']):
+            self.assertEqual(mod.main(), 1)
+        with patch.object(mod, 'run_sync', return_value={'error': 0}), \
+                patch.object(mod.sys, 'argv', ['sync-deep-jsonld.py']):
+            self.assertEqual(mod.main(), 0)
 
 
 if __name__ == '__main__':
