@@ -64,6 +64,19 @@ class ParseTests(unittest.TestCase):
         self.assertEqual(episodes[-1]["youtube_url"],
                          "https://www.youtube.com/watch?v=abcdefghij5")
 
+    def test_public_rest_without_block_comments_keeps_primary_video(self):
+        markup = fixture(5).replace("<!-- wp:embed -->", "").replace(
+            "<!-- /wp:embed -->", ""
+        )
+        markup = markup.replace(
+            '<h2 id="teljes-atiratok">',
+            '<p><a href="https://www.youtube.com/watch?v=abcdefghij4">'
+            'Előző epizód</a></p><h2 id="teljes-atiratok">',
+        )
+        episodes = sync.extract_episodes(markup)
+        self.assertEqual(len(episodes), 5)
+        self.assertEqual(episodes[-1]["youtube_id"], "abcdefghij5")
+
     def test_multiple_embeds_fail_closed_even_if_external_links_exist(self):
         markup = fixture(5).replace(
             '<h2 id="teljes-atiratok">',
