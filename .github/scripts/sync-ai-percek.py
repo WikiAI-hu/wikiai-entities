@@ -96,11 +96,20 @@ def parse_episode(content: str, heading: re.Match, next_start: int) -> dict:
     suffix = f"{number:02d}"
     title = clean_inline(heading.group(2))
     segment = content[heading.end():next_start]
-    video = YOUTUBE.search(segment)
-    if not video:
+    # Only the episode's own WordPress video embed identifies its YouTube source.
+    # Ordinary hyperlinks (such as a link to the previous episode) are references.
+    embeds = re.findall(
+        r"<!--\s*wp:embed\b[\s\S]*?<!--\s*/wp:embed\s*-->",
+        segment, re.I,
+    )
+    if len(embeds) != 1:
+        raise ValueError(f"Episode {suffix} must contain exactly one YouTube embed")
+    video_ids = set(YOUTUBE.findall(embeds[0]))
+    if not video_ids:
         raise ValueError(f"Episode {suffix} is missing its embedded YouTube video")
-    if len(set(YOUTUBE.findall(segment))) != 1:
-        raise ValueError(f"Ambiguous videos in episode {suffix}")
+    if len(video_ids) != 1:
+        raise ValueError(f"Ambiguous embedded videos in episode {suffix}")
+    video_id = next(iter(video_ids))
     transcript_match = re.search(
         rf'<details\b[^>]*\bid=["\']atirat-{suffix}["\'][^>]*>(.*?)</details>',
         content, re.I | re.S,
@@ -124,8 +133,8 @@ def parse_episode(content: str, heading: re.Match, next_start: int) -> dict:
         "number": number, "id": f"epizod-{suffix}", "title": title,
         "canonical_url": CANONICAL + f"#epizod-{suffix}",
         "transcript_url": CANONICAL + f"#atirat-{suffix}",
-        "youtube_url": f"https://www.youtube.com/watch?v={video.group(1)}",
-        "youtube_id": video.group(1),
+        "youtube_url": f"https://www.youtube.com/watch?v={video_id}",
+        "youtube_id": video_id,
         "description": intro[:2400],
         "timed_transcript": timed,
     }
