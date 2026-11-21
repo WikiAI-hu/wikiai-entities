@@ -102,14 +102,22 @@ def parse_episode(content: str, heading: re.Match, next_start: int) -> dict:
         r"<!--\s*wp:embed\b[\s\S]*?<!--\s*/wp:embed\s*-->",
         segment, re.I,
     )
-    if len(embeds) != 1:
+    if len(embeds) > 1:
         raise ValueError(f"Episode {suffix} must contain exactly one YouTube embed")
-    video_ids = set(YOUTUBE.findall(embeds[0]))
-    if not video_ids:
-        raise ValueError(f"Episode {suffix} is missing its embedded YouTube video")
-    if len(video_ids) != 1:
-        raise ValueError(f"Ambiguous embedded videos in episode {suffix}")
-    video_id = next(iter(video_ids))
+    if embeds:
+        video_ids = set(YOUTUBE.findall(embeds[0]))
+        if not video_ids:
+            raise ValueError(f"Episode {suffix} is missing its embedded YouTube video")
+        if len(video_ids) != 1:
+            raise ValueError(f"Ambiguous embedded videos in episode {suffix}")
+        video_id = next(iter(video_ids))
+    else:
+        # Public REST rendering can strip WordPress block comments.
+        # The episode's primary watch URL precedes links to earlier episodes.
+        video = YOUTUBE.search(segment)
+        if not video:
+            raise ValueError(f"Episode {suffix} is missing its embedded YouTube video")
+        video_id = video.group(1)
     transcript_match = re.search(
         rf'<details\b[^>]*\bid=["\']atirat-{suffix}["\'][^>]*>(.*?)</details>',
         content, re.I | re.S,
