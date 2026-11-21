@@ -7,8 +7,8 @@
   "sync_direction": "wordpress-to-github",
   "wordpress_post_id": 1946,
   "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/",
-  "wordpress_modified": "2026-11-15T16:37:25",
-  "html_sha256": "8b55f4ea054debf81be50c8f739a938243d49d4cc3cc0ee59539a763ff86b780",
+  "wordpress_modified": "2026-11-21T13:16:35",
+  "html_sha256": "fd0904206e1ee18b806ec9ab7c9e04628f35e49917c2cd2ba6b378cd0e72c0a8",
   "spotify_show_url": "https://open.spotify.com/show/0kBSFHE2qHO8xSzi7pB5BJ",
   "apple_podcasts_show_url": "https://podcasts.apple.com/podcast/id6834785544",
   "episodes": [
@@ -55,6 +55,17 @@
       "machine_record": "episodes/04.md",
       "transcript_mirror": "transcripts/04.md",
       "timestamped_paragraphs": 68
+    },
+    {
+      "number": 5,
+      "id": "epizod-05",
+      "name": "AI Percek #05 – Miért a konkurenciádat ajánlja a ChatGPT? AI-hallucináció és digitális bizalom",
+      "canonical_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-05",
+      "transcript_url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-05",
+      "youtube_url": "https://www.youtube.com/watch?v=oLDEUGbBRfQ",
+      "machine_record": "episodes/05.md",
+      "transcript_mirror": "transcripts/05.md",
+      "timestamped_paragraphs": 35
     }
   ]
 }

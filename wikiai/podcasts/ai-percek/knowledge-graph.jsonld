@@ -26,6 +26,9 @@
         },
         {
           "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-04"
+        },
+        {
+          "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-05"
         }
       ]
     },
@@ -127,6 +130,31 @@
         "url": "https://www.youtube.com/watch?v=f6wsTK6thY4",
         "embedUrl": "https://www.youtube.com/embed/f6wsTK6thY4",
         "name": "AI Percek #04 – SEO, Local SEO, AEO, GEO, LLMO: mit jelentenek valójában 2026-ban?"
+      }
+    },
+    {
+      "@type": "PodcastEpisode",
+      "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-05",
+      "name": "AI Percek #05 – Miért a konkurenciádat ajánlja a ChatGPT? AI-hallucináció és digitális bizalom",
+      "episodeNumber": 5,
+      "description": "Mi történik, ha a ChatGPT megkérdezésekor nem a te cégedet ajánlják – vagy még rosszabb: a mesterséges intelligencia téves információt mond a vállalkozásodról? Lehet, hogy nem a szolgáltatásoddal van probléma, hanem a rólad elérhető adatok hiányosak, elavultak, vagy más cégek információival keverednek. Az AI Percek ötödik, 11 perc 24 másodperces epizódja ezt a helyzetet járja körül közérthetően. Az előző részben a SEO, Local SEO, AEO, GEO és LLMO fogalmait tisztáztuk. Most a ChatGPT, a Gemini és a Google AI-válaszainak megbízhatóságáról, az AI-hallucinációról és a digitális bizalomról beszélgetünk. Megnézzük, miért válhat egy cég online bemutatkozása félreérthetővé, és miért nem ugyanaz, ha egy AI megemlít, forrásként hivatkozik rád, vagy ténylegesen ajánl. Mit tudhatsz meg az ötödik epizódból? Mi az AI-hallucináció? Amikor egy rendszer magabiztosan közölhet téves vagy nem kellően alátámasztott információt. Miért térhetnek el az AI-válaszok? A ChatGPT, a Gemini és más kereső- vagy válaszrendszerek nem feltétlenül azonos információkból és azonos módon dolgoznak. Mit okozhat a pontatlan digitális identitás? Három szemléltető üzleti példa mutatja be az elavult címet, a hasonló nevű vállalkozások összekeverését és a téves szolgáltatásbesorolást. Mi a különbség a láthatósági szintek között? A webes elérhetőség, a keresőindexelés, az AI-említés, a forráshivatkozás, az ajánlás és az üzleti eredmény nem felcserélhető fogalmak. Miért számít a digitális bizalom? A vállalkozás neve, valódi tevékenysége, működési helye és ügyfélköre pontos, ellenőrizhető bemutatást érdemel. Van saját marketingesed és webfejlesztőd? Akkor nem feltétlenül új ügynökségre vagy új weboldalra van szükséged. Várhelyi Csanád AI-láthatósági szakértőként és tanácsadóként önálló auditot, szakmai helyzetértékelést és stratégiai fejlesztési tervet is kínálhat; a kivitelezés a vállalkozás saját csapatának kezében maradhat. Ez szakmai iránymutatás, nem garantált Google-helyezés vagy AI-ajánlás. Az adásban bemutatott céges helyzetek szemléltető példák. Az epizód célja a problémák és a fogalmak megértése, nem belső fejlesztési módszertanok bemutatása. Nézd meg az AI Percek 5. epizódját a YouTube-on · Olvasd el a teljes, időjelöléses magyar átiratot · Hallgasd meg az előző részt. Hanganyagként az AI Percek a Spotify-on és az Apple Podcastson is követhető.",
+      "inLanguage": "hu-HU",
+      "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-05",
+      "partOfSeries": {
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#podcast"
+      },
+      "transcript": {
+        "@type": "CreativeWork",
+        "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-05",
+        "inLanguage": "hu-HU",
+        "url": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#atirat-05"
+      },
+      "associatedMedia": {
+        "@type": "VideoObject",
+        "@id": "https://www.youtube.com/watch?v=oLDEUGbBRfQ",
+        "url": "https://www.youtube.com/watch?v=oLDEUGbBRfQ",
+        "embedUrl": "https://www.youtube.com/embed/oLDEUGbBRfQ",
+        "name": "AI Percek #05 – Miért a konkurenciádat ajánlja a ChatGPT? AI-hallucináció és digitális bizalom"
       }
     }
   ]
