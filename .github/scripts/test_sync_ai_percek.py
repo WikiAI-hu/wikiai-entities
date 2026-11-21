@@ -52,6 +52,27 @@ class ParseTests(unittest.TestCase):
         self.assertEqual(len(episodes), 4)
         self.assertEqual(episodes[-1]["id"], "epizod-04")
 
+    def test_previous_episode_link_does_not_override_embedded_video(self):
+        markup = fixture(5).replace(
+            '<h2 id="teljes-atiratok">',
+            '<p><a href="https://www.youtube.com/watch?v=abcdefghij4">'
+            'Hallgasd meg az előző részt</a></p>'
+            '<h2 id="teljes-atiratok">',
+        )
+        episodes = sync.extract_episodes(markup)
+        self.assertEqual(len(episodes), 5)
+        self.assertEqual(episodes[-1]["youtube_url"],
+                         "https://www.youtube.com/watch?v=abcdefghij5")
+
+    def test_multiple_embeds_fail_closed_even_if_external_links_exist(self):
+        markup = fixture(5).replace(
+            '<h2 id="teljes-atiratok">',
+            '<!-- wp:embed -->https://www.youtube.com/watch?v=abcdefghij4'
+            '<!-- /wp:embed --><h2 id="teljes-atiratok">',
+        )
+        with self.assertRaisesRegex(ValueError, "exactly one YouTube embed"):
+            sync.extract_episodes(markup)
+
     def test_missing_transcript_fails_closed(self):
         markup = fixture().replace('id="atirat-03"', 'id="wrong-03"')
         with self.assertRaisesRegex(ValueError, "no full timestamped transcript"):
