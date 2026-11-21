@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Offline regression tests for the AI Percek one-post public mirror."""
+# Manual read-only WordPress mirror refresh trigger: 2026-11-21 (AI Percek #05).
 from __future__ import annotations
 
 import importlib.util
