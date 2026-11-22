@@ -7,12 +7,11 @@ canonical_url: "https://www.wikiai.hu/szakertok/"
 source_post_id: 22
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-09T14:54:12+00:00"
-synced_at: "2026-10-16T10:42:35+00:00"
+source_last_modified: "2026-11-22T15:27:27+00:00"
+synced_at: "2026-11-22T18:29:17+00:00"
 ---
 
 # Munkatársaink
-
 **WikiAI.hu · Munkatársaink**
 
 ## A WikiAI.hu mögött álló szakmai csapat
@@ -39,9 +38,9 @@ Az AI-láthatóságról, weboldalfejlesztésről, keresési jelenlétről, szakm
 
 ## [Várhelyi Csanád](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
-Felelős szerkesztő · AI Weblapfejlesztő · SEO, AEO, GEO, LLMO és AI-láthatósági szakember
+AI-láthatósági szakértő és tanácsadó · AI Visibility Expert & Consultant | Mesterséges intelligencia szakember
 
-Több mint tíz éve foglalkozik weboldalakkal, keresőoptimalizálással és vállalkozások digitális jelenlétével. A WikiAI.hu-n a szerkesztőségi kutatásért, a forrásellenőrzésért és a szakmai pontosságért felel, emellett weboldalfejlesztési, keresési és AI-láthatósági szakmai munkát végez.
+Több mint tízéves webfejlesztési és keresőoptimalizálási tapasztalattal a magyar vállalkozások Google- és AI-láthatóságán dolgozik. Szakterülete a SEO, Local SEO, AEO, GEO, LLMO, Entity Engineering és az AI-érthető webarchitektúra. A WikiAI.hu felelős szerkesztője és vezető szerkesztőségi szerzője; önálló szakértői tanácsadást és auditot, igény szerint webfejlesztést is vállal.
 
 [Szakmai profil megtekintése →](https://www.wikiai.hu/szakertok/varhelyi-csanad/)
 
