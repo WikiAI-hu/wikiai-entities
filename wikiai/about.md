@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/rolunk/"
 source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-10-20T17:53:00+00:00"
-synced_at: "2026-10-20T17:54:36+00:00"
+source_last_modified: "2026-11-23T13:47:37+00:00"
+synced_at: "2026-11-23T20:07:03+00:00"
 ---
 
 # Rólunk
@@ -77,6 +77,7 @@ A WikiAI.hu szerkesztőségi irodája, nyilvános üzleti adatlapjai és gépi t
 - [OpenStreetMap – WikiAI.hu szerkesztőségi iroda](https://www.openstreetmap.org/node/14303812090) (4200 Hajdúszoboszló, Déryné utca 3.).
 - [Arany Oldalak – WikiAI.hu vállalkozási adatlap](https://aranyoldalak.hu/wikiai-hu.htm).
 - [Cylex – WikiAI.hu nyilvános adatlap](https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html).
+- [Verified on TechBehemoths](https://techbehemoths.com/company/wikiaihu).
 - [GitHub – WikiAI.hu nyilvános entitás- és tudástükör](https://github.com/WikiAI-hu/wikiai-entities).
 
 E külső hivatkozások azonosítható forrásokat jelölnek; önmagukban nem jelentenek keresőmotoros rangsorolási vagy AI-ajánlási garanciát.
