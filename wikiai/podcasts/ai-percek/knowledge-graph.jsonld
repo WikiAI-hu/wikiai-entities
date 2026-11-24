@@ -14,6 +14,11 @@
       "mainEntityOfPage": {
         "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/"
       },
+      "sameAs": [
+        "https://www.youtube.com/playlist?list=PLEVrt7LaCsgc",
+        "https://open.spotify.com/show/0kBSFHE2qHO8xSzi7pB5BJ",
+        "https://podcasts.apple.com/us/podcast/wikiai-hu-ai-percek/id6834785544"
+      ],
       "episode": [
         {
           "@id": "https://www.wikiai.hu/ai-percek-wikiai-podcast/#epizod-01"
