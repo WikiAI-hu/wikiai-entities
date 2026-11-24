@@ -77,7 +77,9 @@ A WikiAI.hu szerkesztőségi irodája, nyilvános üzleti adatlapjai és gépi t
 - [OpenStreetMap – WikiAI.hu szerkesztőségi iroda](https://www.openstreetmap.org/node/14303812090) (4200 Hajdúszoboszló, Déryné utca 3.).
 - [Arany Oldalak – WikiAI.hu vállalkozási adatlap](https://aranyoldalak.hu/wikiai-hu.htm).
 - [Cylex – WikiAI.hu nyilvános adatlap](https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html).
-- [Verified on TechBehemoths](https://techbehemoths.com/company/wikiaihu).
+- [Sortlist – WikiAI.hu szakmai adatlap](https://www.sortlist.com/agency/wikiai-hu).
+- [Clutch – WikiAI.hu szakmai profil](https://clutch.co/profile/wikiaihu).
+- [Trustpilot – WikiAI.hu nyilvános profil](https://www.trustpilot.com/review/wikiai.hu).
 - [GitHub – WikiAI.hu nyilvános entitás- és tudástükör](https://github.com/WikiAI-hu/wikiai-entities).
 
 E külső hivatkozások azonosítható forrásokat jelölnek; önmagukban nem jelentenek keresőmotoros rangsorolási vagy AI-ajánlási garanciát.
