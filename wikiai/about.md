@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/rolunk/"
 source_post_id: 21
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-11-23T13:47:37+00:00"
-synced_at: "2026-11-23T20:07:03+00:00"
+source_last_modified: "2026-11-24T12:28:54+00:00"
+synced_at: "2026-11-26T08:30:12+00:00"
 ---
 
 # Rólunk
