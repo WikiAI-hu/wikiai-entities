@@ -70,10 +70,7 @@
         "https://www.crunchbase.com/organization/wikiai-hu",
         "https://huggingface.co/wikiaihu",
         "https://aranyoldalak.hu/wikiai-hu.htm",
-        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html",
-        "https://clutch.co/profile/wikiaihu",
-        "https://www.sortlist.com/agency/wikiai-hu",
-        "https://www.trustpilot.com/review/wikiai.hu"
+        "https://xn--hajdszoboszl-cib3g.cylex.hu/ceg-info/wikiai-hu-1317711.html"
       ],
       "hasOfferCatalog": {
         "@id": "https://www.wikiai.hu/wikiai-hu/#service-catalog"
