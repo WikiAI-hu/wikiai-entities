@@ -35,7 +35,7 @@ A WikiAI.hu WordPress-webhelye az elsődleges forrás. A GitHub másodlagos, ver
 
 ## Személyes JSON-LD-tükör
 
-[Várhelyi Csanád – teljes személyes JSON-LD gráf](people/varhelyi-csanad.jsonld) · 118 csomópont, az aktív WikiAI.hu HFCM #42 2026. október 22-i tartalmi pillanatképe. A [WikiAI.hu hivatalos szakmai profilja](https://www.wikiai.hu/szakertok/varhelyi-csanad/) az elsődleges forrás. A JSON-LD pillanatkép jelenleg kézi egyeztetéssel frissül; a Markdown-profil automatikus WordPress-tükör.
+[Várhelyi Csanád – teljes személyes JSON-LD gráf](people/varhelyi-csanad.jsonld) · az élő [WikiAI.hu szakmai profil](https://www.wikiai.hu/szakertok/varhelyi-csanad/) ellenőrzött HFCM JSON-LD tükre. A JSON-LD és a Markdown külön, automatikus WordPress-forrású szinkronfolyamatban frissül. A saját [magyar](https://www.varhelyicsanad.hu/) és [angol](https://www.varhelyicsanad.hu/en/) referenciaoldal önálló LLM-first szakmai információforrás.
 
 ## Entitáshatár
 

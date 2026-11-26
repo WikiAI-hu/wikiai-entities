@@ -72,12 +72,12 @@ Canonical website: https://www.wikiai.hu/
 
 ## Structured JSON-LD mirrors
 
-The WordPress pages and their active HFCM structured data are the first-party source of truth. These versioned JSON-LD snapshots were verified against the live WikiAI.hu frontend on 2026-10-09. They are not a replacement for the canonical site and need re-synchronization after future WordPress/HFCM changes.
+The WordPress pages and their active HFCM structured data are the first-party source of truth. The versioned first-party JSON-LD mirrors are maintained by the [first-party HFCM audit and mirror workflow](https://github.com/WikiAI-hu/wikiai-entities/actions/workflows/audit-official-jsonld.yml), which validates the live canonical HTML before updating a snapshot. They are not replacements for the canonical pages.
 
 - [WikiAI.hu official platform JSON-LD](wikiai/wikiai-hu.jsonld) — https://www.wikiai.hu/wikiai-hu/
 - [Munkatársaink team JSON-LD](wikiai/team.jsonld) — https://www.wikiai.hu/szakertok/
 - [Simon Imre person profile JSON-LD](wikiai/people/simon-imre.jsonld) — https://www.wikiai.hu/szakertok/simon-imre/
-- [Várhelyi Csanád deep Person/ProfilePage JSON-LD snapshot](wikiai/people/varhelyi-csanad.jsonld) — https://www.wikiai.hu/szakertok/varhelyi-csanad/ (2026-10-22, active HFCM #42; manual snapshot, WordPress is canonical)
+- [Várhelyi Csanád deep Person/ProfilePage JSON-LD snapshot](wikiai/people/varhelyi-csanad.jsonld) — https://www.wikiai.hu/szakertok/varhelyi-csanad/ (automated validated live-source mirror)
 
 Simon Imre and INF-GROUP Kft. are external IT infrastructure partners, not internal WikiAI.hu employees or owners.
 
@@ -95,14 +95,14 @@ The JSON-LD job is monitored per business, supports historic Schema.org variants
 - [GitHub Actions history](https://github.com/WikiAI-hu/wikiai-entities/actions/workflows/sync-deep-jsonld.yml)
 
 
-## Retired personal-domain migration (2026-10-23)
+## Active personal reference domain (2026-11-25)
 
-The former personal domain `varhelyicsanad.hu` has been retired and redirected. Current public professional Person IDs:
+The October 2026 redirect migration was reversed. https://www.varhelyicsanad.hu/ and https://www.varhelyicsanad.hu/en/ are active Hungarian and English LLM-first personal reference pages. WikiAI.hu is the primary source for its own editorial profile and organizational information. Preserve the stable WikiAI identifiers and the explicitly connected personal-domain Person and business identifiers; do not globally rewrite either domain. Current WikiAI professional Person IDs:
 
 - Várhelyi Csanád: `https://www.wikiai.hu/szakertok/varhelyi-csanad/#person` — https://www.wikiai.hu/szakertok/varhelyi-csanad/
 - Várhelyi Viktória: `https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person` — https://www.wikiai.hu/szakertok/varhelyi-viktoria/
 - WikiAI.hu organization: `https://www.wikiai.hu/#organization` (distinct from either person).
 
-**Important:** business `entities/*.jsonld` files and selected `entities/*.md` and `wikiai/people/*.md` documents are WordPress-generated mirrors. Do not perform a GitHub-only search-and-replace on managed mirrors: it can break checksum guards or be reverted at the next synchronization. Update the relevant WordPress/HFCM source first, then allow the audited synchronization to produce updated GitHub snapshots. The first-party `wikiai/wikiai-hu.jsonld` snapshot is likewise checked against the live HFCM graph.
+**Important:** business `entities/*.jsonld` files and selected `entities/*.md` and `wikiai/people/*.md` documents are WordPress-generated mirrors. Do not perform a GitHub-only search-and-replace on managed mirrors: it can break checksum guards or be reverted at the next synchronization. Update the relevant WordPress/HFCM source first, then allow the audited synchronization to produce updated GitHub snapshots. The first-party JSON-LD workflow independently checks and mirrors the live organization, team and existing expert-profile graphs. Changed Markdown checksums trigger a fresh validated WordPress read, not blind checksum acceptance.
 
-See [the migration runbook](docs/retired-domain-migration.md) for exact scope and next steps.
+See [the historical migration record and current identity policy](docs/retired-domain-migration.md) for scope.

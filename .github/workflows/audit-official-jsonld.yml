@@ -1,18 +1,21 @@
-name: Audit WikiAI official organization and office JSON-LD
+name: Audit and mirror WikiAI first-party HFCM JSON-LD
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '26 5 * * *'
+    - cron: '35 * * * *'
   push:
     branches: [main]
     paths:
       - '.github/scripts/audit-wikiai-office-jsonld.py'
+      - '.github/scripts/test_audit_wikiai_office_jsonld.py'
       - '.github/workflows/audit-official-jsonld.yml'
       - 'wikiai/wikiai-hu.jsonld'
+      - 'wikiai/team.jsonld'
+      - 'wikiai/people/*.jsonld'
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: wikiai-official-jsonld-audit
@@ -21,13 +24,37 @@ concurrency:
 jobs:
   verify:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 16
     steps:
       - name: Check out validated entity mirror
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Install Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - name: Verify cache-busted public HTML JSON-LD and GitHub mirror
+      - name: Test first-party source validation
+        run: python -m unittest discover -s .github/scripts -p 'test_audit_wikiai_office_jsonld.py' -v
+      - name: Synchronize validated live HFCM graphs
+        run: python .github/scripts/audit-wikiai-office-jsonld.py --sync
+      - name: Verify exact live source and mirror parity
         run: python .github/scripts/audit-wikiai-office-jsonld.py
+      - name: Commit validated first-party mirrors
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for retry in 1 2 3; do
+            git add -- wikiai/wikiai-hu.jsonld wikiai/team.jsonld wikiai/people/simon-imre.jsonld wikiai/people/varhelyi-csanad.jsonld
+            if git diff --cached --quiet; then
+              echo 'First-party JSON-LD mirrors already current.'
+              exit 0
+            fi
+            git commit -m 'Mirror verified WikiAI organization, team and Person HFCM graphs'
+            if git push origin HEAD:main; then exit 0; fi
+            git fetch origin main
+            git reset --hard origin/main
+            python .github/scripts/audit-wikiai-office-jsonld.py --sync
+            python .github/scripts/audit-wikiai-office-jsonld.py
+          done
+          echo 'Could not publish validated first-party mirrors after three attempts' >&2
+          exit 1

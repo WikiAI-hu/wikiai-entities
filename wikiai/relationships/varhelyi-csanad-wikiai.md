@@ -41,7 +41,10 @@ The platform was founded by **Várhelyi Viktória**, who is also identified in W
 
 ### Várhelyi Csanád
 
-- Current official professional profile: https://www.wikiai.hu/szakertok/varhelyi-csanad/
+- Current WikiAI editorial professional profile: https://www.wikiai.hu/szakertok/varhelyi-csanad/
+- Own Hungarian LLM-first professional reference: https://www.varhelyicsanad.hu/
+- Own English LLM-first professional reference: https://www.varhelyicsanad.hu/en/
+- Own Person identifier: https://www.varhelyicsanad.hu/#person
 - Canonical professional profile page: https://www.wikiai.hu/szakertok/varhelyi-csanad/
 - Canonical person identifier: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
 - GitHub profile: https://github.com/varhelyicsanad
@@ -58,6 +61,10 @@ The platform was founded by **Várhelyi Viktória**, who is also identified in W
 2. **The Machine-Readable Web**  
    DOI: https://doi.org/10.5281/zenodo.20422832  
    Zenodo: https://zenodo.org/records/20422832
+
+3. **People-First, LLM-First: Digital Interpretability of Hungarian Enterprises in the Era of AI-Mediated Search: WikiAI.hu as an Applied Business Knowledge Platform**  
+   DOI: https://doi.org/10.5281/zenodo.23295826  
+   Zenodo: https://zenodo.org/records/23295826
 
 ## Public machine-readable layer
 

@@ -159,6 +159,8 @@ def page_details(meta):
         raise RuntimeError("Page disappeared before content fetch: " + str(meta["id"]))
     if canonical(value.get("link")) != canonical(meta["link"]):
         raise RuntimeError("Page URL changed during read: " + str(meta["id"]))
+    if value.get("slug") != meta.get("slug") or iso_gmt(value.get("modified_gmt")) < iso_gmt(meta["modified_gmt"]):
+        raise RuntimeError("Stale or inconsistent WordPress page response: " + str(meta["id"]))
     return value
 
 
@@ -280,17 +282,22 @@ def main():
         metadata, doctype, rel, declared_role = record
         dest = ROOT / rel
         old = dest.read_text(encoding="utf-8") if dest.exists() else None
+        # WordPress is authoritative. A changed mirror is not trusted or
+        # enrolled under a new hash: re-render from the published source.
+        out_of_band = False
         if rel in managed and old is not None:
             import hashlib
             checksum = hashlib.sha256(old.encode("utf-8")).hexdigest()
-            if checksum != managed[rel]:
-                raise RuntimeError("Out-of-band change to a managed Markdown file: " + rel)
+            out_of_band = checksum != managed[rel]
+            if out_of_band:
+                print("WARNING: regenerating out-of-band Markdown from WordPress: " + rel,
+                      file=sys.stderr, flush=True)
         current_mod = iso_gmt(metadata["modified_gmt"])
         old_role_matches = old is not None and (
             f'relationship_to_wikiai: {front_matter_value(declared_role)}' in old
         )
         needs_rendering = (
-            old is None or source_modified_from_md(old) != current_mod
+            old is None or out_of_band or source_modified_from_md(old) != current_mod
             or (
                 doctype == "person_profile"
                 and metadata["id"] in ROLES

@@ -1,38 +1,26 @@
-# Retired varhelyicsanad.hu domain – source-of-truth migration
+# Historical domain migration and current identity policy
 
-Date: 2026-10-23
+Original migration date: 2026-10-23. Superseded for the personal domain: 2026-11-25.
 
-## Current public identifiers
+The October redirect is historical, not current policy. The personal domain has been restored as an active Hungarian and English LLM-first professional reference. WikiAI.hu remains the authoritative publication source for its own editorial profiles and organization. GitHub is a versioned mirror, not an independent authority.
 
-- Várhelyi Csanád, Person: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
-- Várhelyi Csanád, expert profile: https://www.wikiai.hu/szakertok/varhelyi-csanad/
+## Stable public identifiers
+
+- Várhelyi Csanád, WikiAI Person: https://www.wikiai.hu/szakertok/varhelyi-csanad/#person
+- Várhelyi Csanád, WikiAI expert profile: https://www.wikiai.hu/szakertok/varhelyi-csanad/
+- Várhelyi Csanád, own Person: https://www.varhelyicsanad.hu/#person
+- Várhelyi Csanád, own business: https://www.varhelyicsanad.hu/#business
+- Own reference website: https://www.varhelyicsanad.hu/
+- English reference: https://www.varhelyicsanad.hu/en/
 - Várhelyi Viktória, Person: https://www.wikiai.hu/szakertok/varhelyi-viktoria/#person
-- Várhelyi Viktória, expert profile: https://www.wikiai.hu/szakertok/varhelyi-viktoria/
+- Várhelyi Viktória, profile: https://www.wikiai.hu/szakertok/varhelyi-viktoria/
 - WikiAI.hu, Organization: https://www.wikiai.hu/#organization
 - WikiAI.hu, WebSite: https://www.wikiai.hu/#website
 
-The two professionals are separate people. Várhelyi Viktória founded and operates the platform; Várhelyi Csanád is its responsible editor and lead editorial author, and has a separate independent professional-services role.
+Várhelyi Viktória founded and operates WikiAI.hu. Várhelyi Csanád is responsible editor and lead editorial author, and independently provides professional services. Do not conflate either person, the sole proprietorship, and the WikiAI publisher.
 
-## Updated directly in GitHub
+## Source and mirror policy
 
-- Manual public editor/platform relationship record.
-- Manual team JSON-LD identity references.
-- Documentation and compatibility-oriented audit/test expectations.
+Do not globally replace personal-domain IDs. The restored personal Person identifier is valid when linked to the same individual. The historical founder ID https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person is a separate legacy reference: the correct preferred founder identifier remains the WikiAI Viktória Person ID. If a legacy founder edge remains live, fix WordPress/HFCM upstream; mirror validators report it without silently altering the source.
 
-## Must be corrected upstream in WordPress/HFCM
-
-1. Find active WordPress HFCM scripts that still declare `varhelyicsanad.hu` for the above people; replace entity IDs and related public profile URLs in the **source** while retaining the actual business-specific entity IDs.
-2. Update WordPress page content links, including the Várhelyi Viktória profile and existing business article bylines.
-3. Verify that the published rendered Schema.org graph still has unique resolved `@id` values, consistent `author`, `editor`, `accountablePerson`, `founder` references, and unchanged legal owner/operator identity.
-4. For `wikiai/wikiai-hu.jsonld`, update the manually versioned snapshot only after its live WordPress/HFCM graph has been updated. The official-graph audit enforces exact equality.
-5. Let the business JSON-LD GitHub Actions mirror and the WordPress Markdown/organizational-knowledge mirrors refresh naturally. Review their sync status, error logs, and checksum state. Avoid direct edits to checksum-managed mirror files.
-6. Confirm redirects, canonical tags, structured data and accessible images on the live site. The GitHub changes alone do not change WordPress pages, HFCM source, or the domain redirect configuration.
-
-## Transitional legacy identifiers
-
-The following historical URLs may still legitimately be present in live-source mirrors, tests and compatibility validators **until the source changes**:
-
-- `https://www.varhelyicsanad.hu/#person`
-- `https://www.varhelyicsanad.hu/varhelyi-viktoria.html#person`
-
-These are **deprecated legacy references**, not the preferred person identifiers. Intentional handling in tests does not mean the retired domain remains a canonical website. This document tracks the upstream dependency; it is not a claim that a WordPress migration is already complete.
+The Markdown sync regenerates changed managed files from the published WordPress source; a hash mismatch must never be accepted blindly. The first-party HFCM sync checks the live official organization, team and existing expert-profile graphs and preserves their exact graph content. The business mirrors continue to use their separate validated workflow. No draft/private content should be mirrored. Verify exact GitHub read-back and Actions conclusions after each source change.

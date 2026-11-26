@@ -177,6 +177,48 @@ class KnowledgeTests(unittest.TestCase):
                 self.assertIn("wikiai/people/varhelyi-csanad.md", status["updated_paths"])
                 self.assertIn("wikiai/people/varhelyi-viktoria.md", status["updated_paths"])
 
+    def test_out_of_band_regenerated_only_from_verified_wordpress(self):
+        import hashlib
+        with tempfile.TemporaryDirectory() as td:
+            root = Path(td)
+            fixtures(root)
+            target = root / "wikiai/about.md"
+            state = root / "wikiai/knowledge-sync-state.json"
+            expected_hash = hashlib.sha256(target.read_bytes()).hexdigest()
+            state.write_text(json.dumps({"managed": {"wikiai/about.md": expected_hash}}))
+            tampered = target.read_text(encoding="utf-8") + "\nUNVERIFIED EDIT\n"
+            target.write_text(tampered, encoding="utf-8")
+
+            def fake_get_json(part, query):
+                if part == "pages":
+                    return pages()
+                if part == "pages/21":
+                    return dict(next(p for p in pages() if p["id"] == 21),
+                                content={"rendered": "<p>" + ("Published source. " * 30) + "</p>"})
+                raise AssertionError("Unexpected fetch: " + part)
+
+            def unavailable(part, query):
+                if part == "pages":
+                    return pages()
+                raise RuntimeError("Source unavailable")
+
+            with patch.object(mod, "ROOT", root), patch.object(mod, "STATE", state), \
+                 patch.object(mod, "STATUS", root / "wikiai/knowledge-sync-status.json"), \
+                 patch.object(mod, "KNOWLEDGE_MANIFEST", root / "wikiai/manifest.json"), \
+                 patch.object(mod, "INDEX", root / "wikiai/index.md"):
+                with patch.object(mod, "get_json", side_effect=unavailable):
+                    with self.assertRaisesRegex(RuntimeError, "Source unavailable"):
+                        mod.main()
+                self.assertEqual(target.read_text(encoding="utf-8"), tampered)
+                self.assertEqual(json.loads(state.read_text())["managed"]["wikiai/about.md"], expected_hash)
+                with patch.object(mod, "get_json", side_effect=fake_get_json), \
+                     patch.object(mod, "markdownify", return_value="Verified source " * 40):
+                    mod.main()
+            self.assertNotIn("UNVERIFIED EDIT", target.read_text(encoding="utf-8"))
+            self.assertIn("Verified source", target.read_text(encoding="utf-8"))
+            self.assertEqual(json.loads(state.read_text())["managed"]["wikiai/about.md"],
+                             hashlib.sha256(target.read_bytes()).hexdigest())
+
     def test_non_partner_must_not_be_invented(self):
         p=page(4567,"uj-szakerto","Új szakértő",
                "https://www.wikiai.hu/szakertok/uj-szakerto/")
