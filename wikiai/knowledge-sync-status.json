@@ -3,11 +3,8 @@
   "ok": true,
   "published_core_documents": 5,
   "published_people": 3,
-  "published_wordpress_page_count": 17,
-  "updated_paths": [
-    "wikiai/about.md",
-    "wikiai/people/varhelyi-csanad.md"
-  ],
+  "published_wordpress_page_count": 18,
+  "updated_paths": [],
   "orphan_managed_markdown": [],
   "orphan_unmanaged_markdown": [],
   "indexed_people": [
