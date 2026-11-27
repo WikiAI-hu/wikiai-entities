@@ -12,7 +12,7 @@
       "inLanguage": "hu-HU",
       "dateCreated": "2026-09-09T11:12:51+02:00",
       "datePublished": "2026-09-09T11:12:51+02:00",
-      "dateModified": "2026-11-25T20:36:44+01:00",
+      "dateModified": "2026-11-27T10:13:28+01:00",
       "isAccessibleForFree": true,
       "mainEntity": {
         "@type": "Person",
@@ -95,7 +95,15 @@
           "https://qjob.hu/user/305747",
           "https://ai-atlasz.hu/szakember/5bde5c4c-adfe-48ed-9b35-a7741ed91bf6",
           "https://joszaki.hu/szakember/varhelyi-csanad-weboldalkeszites-es-ai-lathatosag",
-          "https://www.producthunt.com/@csanad_varhelyi"
+          "https://www.producthunt.com/@csanad_varhelyi",
+          "https://profiles.wordpress.org/csanad/",
+          "https://gravatar.com/varhelyicsanad",
+          "https://www.xing.com/profile/Csanad_Varhelyi",
+          "https://substack.com/@varhelyicsanad",
+          "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi",
+          "https://independentresearcher.academia.edu/Csan%C3%A1dV%C3%A1rhelyi",
+          "https://dev.to/varhelyicsanad",
+          "https://about.me/varhelyi-csanad"
         ],
         "image": {
           "@type": "ImageObject",
@@ -283,6 +291,12 @@
           },
           {
             "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-activity-summary"
+          },
+          {
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-wikiai-schema-peek"
+          },
+          {
+            "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-fejlesztoi-profilok"
           }
         ],
         "knowsLanguage": [
@@ -401,6 +415,12 @@
         },
         {
           "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-sajto-partneri-felkeresek"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-wikiai-schema-peek"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-fejlesztoi-profilok"
         }
       ],
       "mentions": [
@@ -436,6 +456,15 @@
         },
         {
           "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#expertise-vocabulary"
+        },
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek/#software"
+        },
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek/#source-code"
+        },
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek/#web-demo"
         }
       ],
       "citation": [
@@ -470,7 +499,34 @@
         "https://scholar.google.com/citations?user=8v2EfToAAAAJ",
         "https://openalex.org/authors/A5135596920",
         "https://www.wikiai.hu/ai-lathatosagi-audit-2026-google-bing-chatgpt-meres/",
-        "https://www.wikiai.hu/person-entity-recognition-expert-recommendation-generative-search-hungary/"
+        "https://www.wikiai.hu/person-entity-recognition-expert-recommendation-generative-search-hungary/",
+        "https://www.wikiai.hu/wikiai-schema-peek/",
+        "https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/",
+        "https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh",
+        "https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek",
+        "https://github.com/WikiAI-hu/wikiai-schema-peek",
+        "https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek",
+        {
+          "@id": "https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering"
+        },
+        {
+          "@id": "https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9"
+        },
+        {
+          "@id": "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult"
+        },
+        {
+          "@id": "https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust"
+        },
+        {
+          "@id": "https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform"
+        },
+        {
+          "@id": "https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture"
+        },
+        {
+          "@id": "https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/"
+        }
       ]
     },
     {
@@ -680,6 +736,9 @@
         },
         {
           "@id": "https://www.varhelyicsanad.hu/en/#webpage"
+        },
+        {
+          "@id": "https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/"
         }
       ],
       "hasOfferCatalog": [
@@ -2433,6 +2492,11 @@
         {
           "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#llmo"
         }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture"
+        }
       ]
     },
     {
@@ -2471,6 +2535,11 @@
         },
         {
           "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#ai-visibility"
+        }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust"
         }
       ]
     },
@@ -2530,6 +2599,11 @@
         {
           "@id": "https://zenodo.org/records/20422832#publication"
         }
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform"
+        }
       ]
     },
     {
@@ -2555,6 +2629,14 @@
         },
         {
           "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#arany-vallalkozas-page"
+        },
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek/#software"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-wikiai-schema-peek"
         }
       ]
     },
@@ -3218,7 +3300,41 @@
         "https://orcid.org/0009-0006-7599-3731",
         "https://scholar.google.com/citations?user=8v2EfToAAAAJ",
         "https://openalex.org/authors/A5135596920",
-        "https://medium.com/@varhelyicsanad"
+        "https://medium.com/@varhelyicsanad",
+        "https://profiles.wordpress.org/csanad/",
+        "https://gravatar.com/varhelyicsanad",
+        "https://www.xing.com/profile/Csanad_Varhelyi",
+        "https://substack.com/@varhelyicsanad",
+        "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi",
+        "https://independentresearcher.academia.edu/Csan%C3%A1dV%C3%A1rhelyi",
+        "https://dev.to/varhelyicsanad",
+        "https://about.me/varhelyi-csanad",
+        {
+          "@id": "https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering"
+        },
+        {
+          "@id": "https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9"
+        },
+        {
+          "@id": "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult"
+        },
+        {
+          "@id": "https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust"
+        },
+        {
+          "@id": "https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform"
+        },
+        {
+          "@id": "https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture"
+        },
+        {
+          "@id": "https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-fejlesztoi-profilok"
+        }
       ]
     },
     {
@@ -3357,6 +3473,251 @@
             "@type": "Answer",
             "text": "Igen, Magyarország egész területéről kérhető online szakértői együttműködés. Személyes találkozó, workshop és előadás előzetes egyeztetéssel valósulhat meg, kiemelten Debrecenben, Hajdúszoboszlón és Hajdú-Bihar vármegyében, más térségekben egyedi felkérés alapján."
           }
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/wikiai-schema-peek/#software",
+      "name": "WikiAI Schema Peek",
+      "alternateName": "WikiAI Schema Peek – Entity Engineering & JSON-LD Inspector",
+      "url": "https://www.wikiai.hu/wikiai-schema-peek/",
+      "inLanguage": [
+        "hu",
+        "en"
+      ],
+      "description": "Ingyenes, magyar és angol nyelvű Chrome-bővítmény JSON-LD, Schema.org és deklarált entitáskapcsolatok helyi vizsgálatához. Nem teljes körű validátor, nem mér keresőhelyezést vagy AI-ajánlást. Platform: Google Chrome, Manifest V3.",
+      "creator": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.wikiai.hu/wikiai-schema-peek/"
+      },
+      "license": "https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/LICENSE.md",
+      "isAccessibleForFree": true,
+      "sameAs": [
+        "https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh",
+        "https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek"
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/"
+        }
+      ],
+      "version": "1.1.0",
+      "genre": [
+        "Google Chrome extension",
+        "Developer application",
+        "JSON-LD and Entity Engineering inspection tool"
+      ],
+      "citation": [
+        "https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh",
+        "https://raw.githubusercontent.com/WikiAI-hu/wikiai-schema-peek/main/downloads/WikiAI-Schema-Peek-1.1.0-Chrome.zip"
+      ]
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://www.wikiai.hu/wikiai-schema-peek/#source-code",
+      "name": "WikiAI Schema Peek – hivatalos forráskód",
+      "url": "https://github.com/WikiAI-hu/wikiai-schema-peek",
+      "codeRepository": "https://github.com/WikiAI-hu/wikiai-schema-peek",
+      "creator": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      },
+      "license": "https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/LICENSE.md",
+      "about": {
+        "@id": "https://www.wikiai.hu/wikiai-schema-peek/#software"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.wikiai.hu/wikiai-schema-peek/#web-demo",
+      "name": "WikiAI Schema Peek – online JSON-LD inspector",
+      "url": "https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek",
+      "inLanguage": [
+        "hu",
+        "en"
+      ],
+      "isAccessibleForFree": true,
+      "creator": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      },
+      "isBasedOn": {
+        "@id": "https://www.wikiai.hu/wikiai-schema-peek/#software"
+      },
+      "description": "A Chrome-bővítményhez kapcsolódó, külön webes demó, amely a felhasználó által beillesztett JSON-LD adatokat vizsgálja helyben. Nem tölti be a megadott weboldalt.",
+      "version": "1.1.0",
+      "genre": [
+        "Browser-based web application",
+        "Developer tool",
+        "JSON-LD inspection demo"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/",
+      "url": "https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/",
+      "name": "WikiAI Schema Peek: A Practical JSON-LD and Entity Engineering Tool for Chrome",
+      "inLanguage": "en-US",
+      "about": {
+        "@id": "https://www.wikiai.hu/wikiai-schema-peek/#software"
+      },
+      "author": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      },
+      "publisher": {
+        "@id": "https://www.wikiai.hu/#organization"
+      },
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/#website"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering",
+      "url": "https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering",
+      "name": "AI Visibility, Entity Engineering and the Future of Search – Csanád Várhelyi",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      }
+    },
+    {
+      "@type": "Article",
+      "@id": "https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9",
+      "url": "https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9",
+      "name": "Entity Engineering: Building Machine-Readable Websites with JSON-LD and LLM-First Architecture",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult",
+      "url": "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult",
+      "name": "Why AI Visibility Begins with Entity Engineering, Not Just SEO",
+      "inLanguage": "en",
+      "author": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      },
+      "genre": "Professional article published on Quora"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust",
+      "url": "https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust",
+      "name": "The Machine-Readable Web – Academia.edu",
+      "mainEntity": {
+        "@id": "https://zenodo.org/records/20422832#publication"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform",
+      "url": "https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform",
+      "name": "People-First, LLM-First – Academia.edu",
+      "mainEntity": {
+        "@id": "https://zenodo.org/records/23295826#publication"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture",
+      "url": "https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture",
+      "name": "A Theoretical and Methodological Framework for LLM-First Website Architecture – Academia.edu",
+      "mainEntity": {
+        "@id": "https://zenodo.org/records/20069426#publication"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/",
+      "url": "https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/",
+      "name": "Várhelyi Csanád AI Visibility Expert & Consultant – ProvenExpert szolgáltatói profil",
+      "about": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#professional-service"
+      }
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-wikiai-schema-peek",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-wikiai-schema-peek",
+      "name": "WikiAI Schema Peek – saját szakmai szoftverprojekt (2026)",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
+      },
+      "about": [
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek/#software"
+        },
+        {
+          "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+        }
+      ],
+      "mentions": [
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek/#source-code"
+        },
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek/#web-demo"
+        },
+        {
+          "@id": "https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/"
+        }
+      ],
+      "citation": [
+        "https://www.wikiai.hu/wikiai-schema-peek/",
+        "https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh",
+        "https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek",
+        "https://github.com/WikiAI-hu/wikiai-schema-peek",
+        "https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek",
+        "https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/"
+      ]
+    },
+    {
+      "@type": "WebPageElement",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-fejlesztoi-profilok",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#varhelyi-csanad-fejlesztoi-profilok",
+      "name": "Személyes szakmai és fejlesztői profilok",
+      "isPartOf": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
+      },
+      "about": {
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
+      },
+      "citation": [
+        "https://profiles.wordpress.org/csanad/",
+        "https://gravatar.com/varhelyicsanad",
+        "https://www.xing.com/profile/Csanad_Varhelyi",
+        "https://substack.com/@varhelyicsanad",
+        "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi",
+        "https://independentresearcher.academia.edu/Csan%C3%A1dV%C3%A1rhelyi",
+        "https://dev.to/varhelyicsanad",
+        "https://about.me/varhelyi-csanad",
+        {
+          "@id": "https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering"
+        },
+        {
+          "@id": "https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9"
+        },
+        {
+          "@id": "https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult"
+        },
+        {
+          "@id": "https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust"
+        },
+        {
+          "@id": "https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform"
+        },
+        {
+          "@id": "https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture"
+        },
+        {
+          "@id": "https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/"
         }
       ]
     }
