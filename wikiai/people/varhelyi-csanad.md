@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-11-25T19:36:44+00:00"
-synced_at: "2026-11-26T08:30:12+00:00"
+source_last_modified: "2026-11-26T13:58:56+00:00"
+synced_at: "2026-11-27T04:58:19+00:00"
 relationship_to_wikiai: "responsible_editor"
 ---
 
@@ -44,6 +44,7 @@ relationship_to_wikiai: "responsible_editor"
 [Szakmai életút](#varhelyi-csanad-biografia-2026)  
 [Kutatás és publikációk](#varhelyi-csanad-kutatas-publikacio)  
 [Referenciák](#varhelyi-csanad-referenciak-eloadasok-2026)  
+[Saját fejlesztés – WikiAI Schema Peek](#varhelyi-csanad-wikiai-schema-peek)  
 [Média és előadások](#varhelyi-csanad-media)  
 [Weboldalkészítés és fejlesztés](#varhelyi-csanad-weboldalkeszites-fejlesztes)  
 [Sajtó- és szakmai felkérések](#varhelyi-csanad-sajto-partneri-felkeresek)  
@@ -334,6 +335,18 @@ A **The Machine-Readable Web** az AI-keresés, a gépi olvashatóság, a digitá
 
 A szakmai portfólió **építőipari, ipari, kereskedelmi, tanácsadói, turisztikai és helyi szolgáltatói projekteket** fog össze. A közös megközelítés a vállalkozás valós tevékenységének, célpiacának, szolgáltatási területének és szakmai bizonyítékainak érthető bemutatása. A konkrét feladatköre és közreműködésének mélysége projektenként eltér.
 
+### WikiAI Schema Peek – saját szakmai szoftverprojekt (2026)
+
+A **[WikiAI Schema Peek](https://www.wikiai.hu/wikiai-schema-peek/)** Várhelyi Csanád szakmai koncepciója alapján, az ő kezdeményezésére és fejlesztési irányításával készült, AI-asszisztált programozással és dokumentált teszteléssel. A WikiAI.hu szakmai eszközprojektje az Entity Engineering, a technikai SEO és az LLM-first webarchitektúra gyakorlati alkalmazásához biztosít ingyenes vizsgálati eszközt. Az 1.1.0 verzió a JSON-LD-adatblokkokat, a Schema.org-szókészletet, a deklarált entitásazonosítókat és kapcsolatokat ellenőrzi a támogatott vizsgálati körben. A Chrome-bővítmény az aktuális böngészőlap adatait, a külön online demó a beillesztett JSON-LD adatokat vizsgálja; az eszköz nem mér keresőhelyezést vagy AI-ajánlást.
+
+- **[Hivatalos termékoldal, funkciók, használati útmutató és adatvédelem](https://www.wikiai.hu/wikiai-schema-peek/)**
+- [GitHub – nyilvános forráskód, dokumentáció és tesztek](https://github.com/WikiAI-hu/wikiai-schema-peek) · [Free Use / Source-Available License 1.0](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/LICENSE.md)
+- [Hugging Face – telepítés nélkül kipróbálható online demó](https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek)
+- [Chrome-bővítmény ZIP-csomag (1.1.0, kézi fejlesztői telepítés)](https://raw.githubusercontent.com/WikiAI-hu/wikiai-schema-peek/main/downloads/WikiAI-Schema-Peek-1.1.0-Chrome.zip)
+- **Product Hunt:** a nemzetközi termékbemutató 2026. november 27-én 09:00 órára (magyar idő szerint) ütemezett; Várhelyi Csanád Maker és Hunter szerepben szerepel a beküldött adatlapon. A közvetlen terméklink a nyilvános megjelenést követően kerül a hivatalos termékoldalra.
+
+A projekt a szakértő módszertanának nyilvánosan vizsgálható, elsődleges szakmai dokumentációja, nem független minősítés vagy keresési eredménygarancia. A forrás megtekinthető, a használat ingyenes a projekt jogfenntartásos licence szerint; a Schema.org-adatindex külön licencelt összetevő.
+
 ### Nyilvánosan bemutatott projektek
 
 **Kiemelt referenciák:** a [**Gold Ablak Kft.**](https://www.goldablak.hu/) nyílászáró- és kivitelezői jelenléte, valamint a [**Török és Társai Kft. – Tömítésgyár**](https://www.tomitesgyarmagyarorszag.hu/) ipari tömítésgyártási és beszállítói tevékenységének digitális bemutatása. A két projekt eltérő ügyféligényt és szakmai keresési környezetet képvisel.
@@ -432,6 +445,17 @@ Az oldal [**2027-es díjtáblázatai**](#varhelyi-csanad-arazas) 15 szakértői 
 
 ## Források és szakmai dokumentáció
 
+### Személyes szakmai és fejlesztői profilok
+
+Várhelyi Csanád személyes profiljai a fejlesztői munka, a termékbemutatók és a szakmai kapcsolatok további nyilvános forrásai:
+
+- [GitHub – Várhelyi Csanád fejlesztői profilja](https://github.com/varhelyicsanad)
+- [Hugging Face – Várhelyi Csanád személyes profilja](https://huggingface.co/varhelyicsanad)
+- [Product Hunt – Csanád Várhelyi Maker profilja](https://www.producthunt.com/@csanad_varhelyi)
+- [LinkedIn – Várhelyi Csanád szakmai profilja](https://www.linkedin.com/in/varhelyicsanad/)
+
+A WikiAI.hu külön szervezeti projektfelületei: [WikiAI GitHub organization](https://github.com/WikiAI-hu) és [WikiAI Hugging Face organization](https://huggingface.co/wikiaihu). Ezek a WikiAI.hu platformhoz kapcsolódnak, nem a személyes profilokkal azonos entitások.
+
 **A személyes referenciaoldal, a szerzői profilok és a DOI-val azonosított publikációk** a szakmai tevékenység elsődleges dokumentációját kapcsolják össze. A **HVTV-interjú és a HAJDÚSZOBOSZLÓ városi lap cikke** külső szerkesztett médiakörnyezetben mutatja be a szakmai munkát. A hivatkozások közvetlenül a kapcsolódó állítások és témák mellett találhatók.
 
 A **WikiAI.hu szakértői profilja** az emberi tájékozódást szolgáló szakmai bemutatkozás. A [**saját magyar referenciaoldal**](https://www.varhelyicsanad.hu/) és annak [angol változata](https://www.varhelyicsanad.hu/en/) részletes módszertani, szolgáltatási és gépi dokumentációt ad ugyanahhoz a szakmai identitáshoz.
@@ -456,4 +480,4 @@ E-mail: [**varhelyicsanad@gmail.com**](mailto:varhelyicsanad@gmail.com)
 Telefon: [**+36 70 226 4545**](tel:+36702264545)  
 **Országos online együttműködés · Debrecen · Hajdúszoboszló · Hajdú-Bihar vármegye**
 
-**Szakmai adatok és szolgáltatási tájékoztatás:** Várhelyi Csanád közlései, nyilvános szakmai dokumentumai és a szövegben hivatkozott források alapján. Frissítve: 2026. november 25.
+**Szakmai adatok és szolgáltatási tájékoztatás:** Várhelyi Csanád közlései, nyilvános szakmai dokumentumai és a szövegben hivatkozott források alapján. Frissítve: 2026. november 26.
