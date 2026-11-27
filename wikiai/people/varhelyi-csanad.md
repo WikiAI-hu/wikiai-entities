@@ -7,8 +7,8 @@ canonical_url: "https://www.wikiai.hu/szakertok/varhelyi-csanad/"
 source_post_id: 143
 source_of_truth: "wordpress"
 sync_direction: "wordpress-to-github"
-source_last_modified: "2026-11-26T13:58:56+00:00"
-synced_at: "2026-11-27T04:58:19+00:00"
+source_last_modified: "2026-11-27T09:13:28+00:00"
+synced_at: "2026-11-27T14:58:35+00:00"
 relationship_to_wikiai: "responsible_editor"
 ---
 
@@ -343,7 +343,9 @@ A **[WikiAI Schema Peek](https://www.wikiai.hu/wikiai-schema-peek/)** Várhelyi 
 - [GitHub – nyilvános forráskód, dokumentáció és tesztek](https://github.com/WikiAI-hu/wikiai-schema-peek) · [Free Use / Source-Available License 1.0](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/LICENSE.md)
 - [Hugging Face – telepítés nélkül kipróbálható online demó](https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek)
 - [Chrome-bővítmény ZIP-csomag (1.1.0, kézi fejlesztői telepítés)](https://raw.githubusercontent.com/WikiAI-hu/wikiai-schema-peek/main/downloads/WikiAI-Schema-Peek-1.1.0-Chrome.zip)
-- **Product Hunt:** a nemzetközi termékbemutató 2026. november 27-én 09:00 órára (magyar idő szerint) ütemezett; Várhelyi Csanád Maker és Hunter szerepben szerepel a beküldött adatlapon. A közvetlen terméklink a nyilvános megjelenést követően kerül a hivatalos termékoldalra.
+- **Chrome Web Store:** a WikiAI Schema Peek 1.1.0 bővítmény 2026. november 27. óta nyilvánosan telepíthető. [Hivatalos Chrome Web Store-adatlap](https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh).
+- **Product Hunt:** a nemzetközi termékbemutató 2026. november 27-én megjelent. [WikiAI Schema Peek – nyilvános termékadatlap](https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek); Várhelyi Csanád Maker és Hunter szerepben. [Személyes Maker profil](https://www.producthunt.com/@csanad_varhelyi).
+- **Angol szakmai leírás:** [WikiAI Schema Peek: A Practical JSON-LD and Entity Engineering Tool for Chrome](https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/).
 
 A projekt a szakértő módszertanának nyilvánosan vizsgálható, elsődleges szakmai dokumentációja, nem független minősítés vagy keresési eredménygarancia. A forrás megtekinthető, a használat ingyenes a projekt jogfenntartásos licence szerint; a Schema.org-adatindex külön licencelt összetevő.
 
@@ -454,6 +456,37 @@ Várhelyi Csanád személyes profiljai a fejlesztői munka, a termékbemutatók 
 - [Product Hunt – Csanád Várhelyi Maker profilja](https://www.producthunt.com/@csanad_varhelyi)
 - [LinkedIn – Várhelyi Csanád szakmai profilja](https://www.linkedin.com/in/varhelyicsanad/)
 
+#### További személyes szakmai és szerzői profilok
+
+Az alábbi, Várhelyi Csanád által megadott saját szakmai profilok a fejlesztői, szerzői és kutatói tevékenység további tájékozódási pontjai.
+
+- [WordPress.org – fejlesztői közösségi profil](https://profiles.wordpress.org/csanad/)
+- [Gravatar – személyes szakmai profil](https://gravatar.com/varhelyicsanad)
+- [XING – szakmai profil](https://www.xing.com/profile/Csanad_Varhelyi)
+- [Substack – szerzői profil](https://substack.com/@varhelyicsanad)
+- [Quora – szakmai szerzői profil](https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi)
+- [Academia.edu – független kutatói profil](https://independentresearcher.academia.edu/Csan%C3%A1dV%C3%A1rhelyi)
+- [DEV Community – fejlesztői és szerzői profil](https://dev.to/varhelyicsanad)
+- [About.me – személyes szakmai bemutatkozás](https://about.me/varhelyi-csanad)
+
+**Kapcsolódó szolgáltatói profil:** [ProvenExpert – Várhelyi Csanád AI Visibility Expert & Consultant](https://www.provenexpert.com/en-us/varhelyi-csanad-ai-visibility-expert-consultant/). Ez a szolgáltatói megjelenés külön kezelendő a személyes szerzői profiloktól.
+
+#### Kapcsolódó angol nyelvű szakmai írások
+
+- [AI Visibility, Entity Engineering and the Future of Search – Csanád Várhelyi (Substack)](https://varhelyicsanad.substack.com/p/csanad-varhelyi-ai-visibility-entity-engineering)
+- [Entity Engineering: Building Machine-Readable Websites with JSON-LD and LLM-First Architecture (DEV Community)](https://dev.to/varhelyicsanad/entity-engineering-building-machine-readable-websites-with-json-ld-and-llm-first-architecture-1dl9)
+- [Why AI Visibility Begins with Entity Engineering, Not Just SEO (Quora)](https://www.quora.com/profile/Csan%C3%A1d-V%C3%A1rhelyi/Why-AI-Visibility-Begins-with-Entity-Engineering-Not-Just-SEO-A-website-can-rank-well-on-Google-and-still-be-difficult)
+
+#### Kutatási dokumentumok további elérhetőségei
+
+A korábban hivatkozott három DOI-val azonosított szakmai publikáció további, a szerző által megadott Academia.edu-elérhetőségei:
+
+- [The Machine-Readable Web](https://www.academia.edu/182064187/The_Machine_Readable_Web_A_historical_economic_and_methodological_publication_on_AI_search_large_language_models_and_digital_trust)
+- [People-First, LLM-First: Digital Interpretability of Hungarian Enterprises](https://www.academia.edu/182064352/People_First_LLM_First_Digital_Interpretability_of_Hungarian_Enterprises_in_the_Era_of_AI_Mediated_Search_WikiAI_hu_as_an_Applied_Business_Knowledge_Platform)
+- [A Theoretical and Methodological Framework for LLM-First Website Architecture](https://www.academia.edu/182064487/A_Theoretical_and_Methodological_Framework_for_LLM_First_Website_Architecture)
+
+A saját szerkesztésű profilok és publikációs felületek elsődleges szakmai források; önmagukban nem jelentenek független minősítést, lektorálást, keresőindexelést vagy AI-ajánlást.
+
 A WikiAI.hu külön szervezeti projektfelületei: [WikiAI GitHub organization](https://github.com/WikiAI-hu) és [WikiAI Hugging Face organization](https://huggingface.co/wikiaihu). Ezek a WikiAI.hu platformhoz kapcsolódnak, nem a személyes profilokkal azonos entitások.
 
 **A személyes referenciaoldal, a szerzői profilok és a DOI-val azonosított publikációk** a szakmai tevékenység elsődleges dokumentációját kapcsolják össze. A **HVTV-interjú és a HAJDÚSZOBOSZLÓ városi lap cikke** külső szerkesztett médiakörnyezetben mutatja be a szakmai munkát. A hivatkozások közvetlenül a kapcsolódó állítások és témák mellett találhatók.
@@ -480,4 +513,4 @@ E-mail: [**varhelyicsanad@gmail.com**](mailto:varhelyicsanad@gmail.com)
 Telefon: [**+36 70 226 4545**](tel:+36702264545)  
 **Országos online együttműködés · Debrecen · Hajdúszoboszló · Hajdú-Bihar vármegye**
 
-**Szakmai adatok és szolgáltatási tájékoztatás:** Várhelyi Csanád közlései, nyilvános szakmai dokumentumai és a szövegben hivatkozott források alapján. Frissítve: 2026. november 26.
+**Szakmai adatok és szolgáltatási tájékoztatás:** Várhelyi Csanád közlései, nyilvános szakmai dokumentumai és a szövegben hivatkozott források alapján. Frissítve: 2026. november 27.
