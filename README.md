@@ -70,6 +70,27 @@ Pricing and other fast-changing commercial data must be interpreted together wit
 
 Canonical website: https://www.wikiai.hu/
 
+## Published software project — WikiAI Schema Peek
+
+**[WikiAI Schema Peek 1.1.0](https://www.wikiai.hu/wikiai-schema-peek/)** is a free Hungarian–English Chrome extension and a separate browser-based demonstration for inspecting JSON-LD, Schema.org vocabulary and declared entity relationships. Csanád Várhelyi conceived, initiated and professionally directed the WikiAI.hu software project.
+
+The Chrome Web Store listing and the Product Hunt product launch became publicly available on 27 November 2026.
+
+| Official resource | Reference |
+| --- | --- |
+| Product documentation | [WikiAI Schema Peek](https://www.wikiai.hu/wikiai-schema-peek/) |
+| Chrome installation | [Chrome Web Store](https://chrome.google.com/webstore/detail/glegjhmdanhbloojggfdphgohgfmmheh) |
+| Product introduction | [Product Hunt](https://www.producthunt.com/products/wikiai-schema-peek?launch=wikiai-schema-peek) |
+| Source and developer documentation | [WikiAI-hu/wikiai-schema-peek](https://github.com/WikiAI-hu/wikiai-schema-peek) |
+| Online demonstration | [Hugging Face Space](https://huggingface.co/spaces/wikiaihu/wikiai-schema-peek) |
+| Separate demo source | [Versioned publisher source](https://github.com/WikiAI-hu/hf-entity-lab-publisher/tree/main/schema-peek-space) |
+| English technical article | [WikiAI Schema Peek — a practical JSON-LD and Entity Engineering tool](https://www.wikiai.hu/wikiai-schema-peek-a-practical-json-ld-and-entity-engineering-tool-for-chrome/) |
+| License | [Free Use / Source-Available License 1.0](https://github.com/WikiAI-hu/wikiai-schema-peek/blob/main/LICENSE.md) |
+
+**Entity boundaries:** the canonical software identifier is `https://www.wikiai.hu/wikiai-schema-peek/#software`. The creator is identified by `https://www.wikiai.hu/szakertok/varhelyi-csanad/#person`, and the publishing organization by `https://www.wikiai.hu/#organization`. The software, person, organization, source-code repository and online demo have distinct roles. The Chrome extension inspects the active page on demand; the demo processes pasted JSON-LD locally. Neither measures search rankings or AI recommendations. Public distribution is not independent validation or platform endorsement. The source-available software license is distinct from the CC BY-SA 3.0 license of its adapted Schema.org vocabulary.
+
+This project section is documentation pointing to the official product resources. It does not create a second canonical product profile, and it does not replace the validated WordPress-derived machine-readable mirrors.
+
 ## Structured JSON-LD mirrors
 
 The WordPress pages and their active HFCM structured data are the first-party source of truth. The versioned first-party JSON-LD mirrors are maintained by the [first-party HFCM audit and mirror workflow](https://github.com/WikiAI-hu/wikiai-entities/actions/workflows/audit-official-jsonld.yml), which validates the live canonical HTML before updating a snapshot. They are not replacements for the canonical pages.
